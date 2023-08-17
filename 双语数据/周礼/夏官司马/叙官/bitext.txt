@@ -1,0 +1,268 @@
+古文：惟王建国，辨方正位，体国经野，设官分职，以为民极。
+现代文：王建立国都，辨别方向并确定位置，划分都城与郊野的界限，分设官职，用作民众的榜样。
+English: The king established the national capital, discerned the direction and determined the location, divided the boundaries between the capital and the countryside, set up official positions, and served as a role model for the people.
+
+古文：乃立夏官司马，使师其属而掌邦政，以佐王平邦国。
+现代文：于是设立夏官司马，让他率领下属而掌管天下的政典，以辅佐王使天下各国政治公平。
+English: As a result, Xia Guan Sima was set up, and he led his subordinates to take charge of the world's politics, to assist the king in making the world's politics fair.
+
+古文：政官之属：大司马，卿一人。小司马，中大夫二人。军司马，下大夫四人。舆司马，上士八人。大司马，中士十有六人。旅，下士三十有二人、府六人、史十有六人、胥三十有二人、徒三晨有二十人。
+现代文：政官的属官有：大司马，由卿一人担任；小司马，由中大夫二人担任；军司马，由下大夫四人担任；舆司马，由上士八人担任；行司马，由中士十六人担任；另外还配有众下士三十二人，府六人，史十六人，胥三十二人，徒三百二十人。
+English: The subordinate officers of the political officers include: the chief secretary, who is served by one secretary; the junior secretary, who is served by two junior doctors; the army secretary, who is served by four junior doctors; the public secretary, who is served by eight staff officers; the marching secretary, who is served by sixteen sergeants; in addition, there are thirty-two corporals, six government officials, sixteen historians, thirty-two cadres, and three hundred and twenty apprentices.
+
+古文：凡制军，万有二千五百人为军，王六军，大国三军，次国二军，小国一军，军将皆命卿。二千有五百人为师，师帅皆中大夫；五百人为旅，旅帅皆下大夫；百人为卒，卒长皆上士；二十五人为两，两司马皆中士；五人为伍，伍皆有长。
+现代文：凡军队编制，一万二千五百人为一军，王拥有六军，大国拥有三军，次国拥有二军，小国拥有一军，军的将领都是命卿；二千五百人为一师，师帅都是中大夫；五百人为一旅，旅帅都是下大夫；一百人为一卒，卒长都是上士；二十五人为一两，两的司马都是中士；五人为一伍，每伍都有伍长。
+English: In all armies, 12,500 men make up an army. The king has six armies, the big country has three armies, the second country has two armies, and the small country has one army. The generals of the army are the generals; 2,500 men make up a division, the division commanders are the middle doctors; 500 people make up a brigade, the brigade commanders are the junior doctors; 100 people make up a pawn, and the pawnmasters are the sergeants; 25 people make up a pair, and the two pawns are the sergeants; 5 people make up a troop, and each troop has a troop leader.
+
+古文：一军则二府、六史、胥十人、徒百人。
+现代文：每一军配有府二人，六人，胥十人，徒一百人。
+English: Each army is equipped with two officers, six men, thirty men, and a hundred men.
+
+古文：司勋，上士二人、下士四人、府二人、史四人、胥二人、徒二十人。
+现代文：司勋，由上士二人担任，下土四人为副手，另外还配有府二人，史四人，胥二人，徒二十人。
+English: Two staff sergeants served as officers, four subordinates served as deputies, and there were also two officers, four historians, two cadets, and twenty apprentices.
+
+古文：马质，中士二人、府一人、史二人、贾四人、徒八人。
+现代文：马质，由中士二人担任，另外还配有府一人，史二人，贾四人，徒八人。
+English: Horse quality, by two sergeants, also equipped with a prefect, two historians, four clerks, eight apprentices.
+
+古文：量人，下士二人、府一人、史四人、徒八人。
+现代文：量人，由下士二人担任，另外还配有府一人，史四人，徒八人。
+English: Two corporals serve as measurers, and there is also a prefect, four historians, and eight apprentices.
+
+古文：小子，下士二人、史一人、徒八人。
+现代文：小子，由下士二人担任，另外还配有史一人，徒八人。
+English: Koji, held by two corporals, is also equipped with one historian and eight apprentices.
+
+古文：羊人，下士二人、史一人、贾二人、徒八人。
+现代文：羊人，由下士二人担任，另外还配有史一人，贾二人，徒八人。
+English: Goatman, held by two corporals, also equipped with one historian, two clerks and eight apprentices.
+
+古文：司爟，下士二人、徒六人。
+现代文：司爟，由下士二人担任，另外还配有徒六人。
+English: The chaplains are two corporals and six apprentices.
+
+古文：掌固，上士二人、下士八人、府二人、史四人、胥四人、徒四十人。
+现代文：掌固，由上士二人担任，下士八人为副手，另外还配有府二人，史四人，胥四人，徒四十人。
+English: Two staff sergeants were in charge of the shakuhachi, eight corporals were second lieutenants, and there were also two officers, four clerks, four waiters, and forty apprentices.
+
+古文：司险，中士二人、下士四人、史二人、徒四十人。
+现代文：司险，由中士二人担任，下士四人为副手，另外还配有史二人，徒四十人。
+English: The insurance department is headed by two sergeants, with four corporals as deputies, two historians, and forty apprentices.
+
+古文：掌疆，中士八人、史四人、胥十有六人、徒百有六十人。
+现代文：掌疆，由中士八人担任，另外还配有史四人，胥十六人，徒一百六十人。
+English: eight sergeants, four clerks, thirty-six soldiers, and one hundred and sixty apprentices.
+
+古文：候人，上士六人、下士十有二人、史六人、徒百有二十人。
+现代文：候人，由上士六人担任，下士十二人为副手，另外还配有史六人，徒一百二十人。
+English: Candidates are appointed by six staff sergeants, twelve corporals are deputies, and there are also six historians and one hundred and twenty apprentices.
+
+古文：环人，下士六人、史二人、徒十有二人。
+现代文：环人，由下士六人担任，另外还配有史二人，徒十二人。
+English: The ringmen were six corporals, and there were also two historians and twelve apprentices.
+
+古文：挈壶氏，下士六人、史二人、徒十有二人。
+现代文：挈壶氏，由下士六人担任，另外还配有史二人，徒十二人。
+English: of the Jiu Jiu Clan, with six corporals in charge, two historians and twelve apprentices.
+
+古文：射人，下大夫二人、上士四人、下十士八人、府二人、史四人、胥二人、徒二十人。
+现代文：射人，由下大夫二人担任，上士四人为副手，另外还配有下士八人，府二人，史四人，胥二人，徒二十人。
+English: The shooters are two junior doctors, four staff sergeants are deputies, and there are also eight corporals, two officers, four historians, two cadets, and 20 apprentices.
+
+古文：服不氏，下士一人、徒四人。
+现代文：服不氏，由下士～人担任，另外还配有徒四人。
+English: It is manned by a corporal or above, and there are also four apprentices.
+
+古文：射鸟氏，下士一人、退人。
+现代文：射鸟氏，由下士一人担任，另外还配有徒四人。
+English: As for the shooting birds, one corporal will be in charge, and there will also be four apprentices.
+
+古文：罗氏，下士一人、徒八人。
+现代文：罗氏，由下士一人担任，另外还配有徒八人。
+English: Mr. Luo's company consisted of one corporal and eight apprentices.
+
+古文：掌畜，下士二人、史二人、胥二人、徒二十人。
+现代文：掌畜，由下士一人担任，另外还配有史二人，胥二人，徒二十人。
+English: A corporal was in charge of the herd, and there were also two historians, two shepherds, and twenty apprentices.
+
+古文：司士，下大夫二人、中士六人、下士十有二人、府二人、史四人、胥四人、徒四十人。
+现代文：司士，由下大夫二人担任，中士六人为副手，另外还配有下士十二人，府二人，史四人，胥四人，徒四十人。
+English: Two junior doctors serve as scribes, six sergeants are deputies, and there are also twelve corporals, two officers, four historians, four clerks, and forty apprentices.
+
+古文：诸子，下大夫二人、中士四人，府二人、史二人、胥二人、徒二十人。
+现代文：诸子，由下大夫二人担任，中士四人为副手，还配有府二人，史二人，胥二人，徒二十人。
+English: Of the sons, two served as junior doctors, four sergeants were deputies, and there were also two prefects, two historians, two clerks, and twenty apprentices.
+
+古文：司右，上士二人、下士二人、府四人、史四人、胥八人、徒八十人。
+现代文：司右，由上士二人担任，下士四人为副手，另外还配有府四人，史四人，胥八人，徒八十人。
+English: On the right side of the division, there are two staff sergeants, four corporals as deputies, and four officers, four historians, thirty-eight soldiers, and eighty apprentices.
+
+古文：虎贲氏，下大夫二十人、中士十有二人、府二人、史八人、胥八十人、虎士八百人。
+现代文：虎贲氏，由下大夫二人担任，中士十二人为助手，另外还配有府二人，史八人，胥八十人，虎士八百人。
+English: Two junior doctors served as doctors, twelve sergeants were assistants, and there were also two prefects, eight historians, eighty clerks, and eight hundred tigers.
+
+古文：旅贲氏，中士二人、下士十有六人、史二人，徒八人
+现代文：旅贲氏，由中士二人担任，下士十六人为副手，另外还配有史二人，徒八人。
+English: Of the innkeepers, two sergeants were in charge, sixteen corporals were second lieutenants, and there were also two historians and eight apprentices.
+
+古文：节服氏，下士八人、徒四人。
+现代文：节服氏，由下士八人担任，另外还配有徒四人。
+English: Mr. Setsufuku, eight corporals are in charge, and there are also four apprentices.
+
+古文：方相氏，狂夫四人。
+现代文：方相氏，由狂夫四人担任。
+English: Fang Xiang, led by four madmen.
+
+古文：大仆，下大夫二人。小臣，上士四人。祭仆，中士六人。
+现代文：大仆，由下大夫二人担任；小臣，由上士四人担任；祭仆，由中士六人担任；御仆，由下士十二人担任。
+English: The chief servant is served by two junior doctors; the junior minister is served by four staff sergeants; the sacrificial servant is served by six sergeants; and the imperial servant is served by twelve corporals.
+
+古文：御仆，下士十有二人、府二人、史四人、胥二人、徒二十人。隶仆，下士二人、府一人、史二人、胥四人、徒四十人。
+现代文：另外还配有府二人，史四人，胥二人，徒二十人。隶仆，由下士二人担任，另外还配有府一人，史二人，胥四人，徒四十人。
+English: In addition, there are two staff officers, four historians, two clerks, and twenty apprentices. The servants are two corporals, and there is also one staff officer, two historians, four clerks, and forty apprentices.
+
+古文：弁师，下士二人、工四人、史二人、徒四人。
+现代文：弁师，由下士二人担任，另外还配有工四人，史二人，徒四人。
+English: Benshi, by two corporals, in addition, there are four workers, two historians and four apprentices.
+
+古文：司甲，下大夫二人、中士八人、府四人、史八人、胥八人、徒八十人。
+现代文：司甲，由下大夫二人担任，中士八人为副手，另外还配有府四人，史八人，胥八人，徒八十人。
+English: Division A is held by two junior doctors, eight sergeants are deputies, and there are also four prefects, eight historians, thirty-eight clerks, and eighty apprentices.
+
+古文：司兵，中士四人、府二人、史四人、胥二人、徒二十人。
+现代文：司兵，由中士四人担任，另外还配有府二人，史四人，胥二人，徒二十人。
+English: Four sergeants served as officers, and there were also two officers, four clerks, two sergeants, and twenty apprentices.
+
+古文：司戈盾，下士二人、府一人、史二人、徒四人。
+现代文：司戈盾，由下士二人担任，另外还配有府一人，只二人，徒四人。
+English: Scourge shield, held by two corporals, in addition also equipped with a prefect, only two men, four apprentices.
+
+古文：司弓矢，下大夫二人、中士八人、府四人、史八人、胥八人，徒八十人。
+现代文：司弓矢，由下大夫二人担任，中士八人为副手，另外还配有府四人，史八人，胥八人，徒八十人。
+English: The bow and arrow division was headed by two junior doctors, eight sergeants served as deputies, and there were also four officers, eight historians, eight gunners, and eighty apprentices.
+
+古文：缮人，上士二人、下士四人、府一人、史二人、胥二人、徒二十人。
+现代文：缮人，由上士二人担任，下士四人为副手，另外还配有府一人，史二人，胥二人，徒二十人。
+English: Two staff sergeants served as carpenters, four corporals served as assistants, and there was also one foreman, two historians, two carpenters, and twenty apprentices.
+
+古文：槀人，中士四人、府二人、史四人、胥二人、徒二十人。
+现代文：槁人，由中士四人担任，另外还配有府二人，史四人，胥二人，徒二十人。
+English: In addition, there are two officers from the prefecture, four from the prefecture, two from the prefecture, and 20 from the prefecture.
+
+古文：戎右，中大夫二人、上士二人。
+现代文：戎右，由中大夫二人担任，上士二人为副手。
+English: On the right side of the troop, two junior doctors are in charge, and two staff sergeants are deputies.
+
+古文：齐右，下大夫二人。
+现代文：齐右，由下大夫二人担任。
+English: On the right, two junior doctors are in charge.
+
+古文：道右，上士二人。
+现代文：道右，由上士二人担任。
+English: On the right, two staff sergeants.
+
+古文：大驭，中大夫二人。
+现代文：大驭，由中大夫二人担任。
+English: The head coach is a position held by two junior doctors.
+
+古文：戎仆，中大夫二人。
+现代文：戎仆，由中大夫二人担任。
+English: A military servant, held by two junior doctors.
+
+古文：齐仆，下大夫二人。
+现代文：齐仆，由下大夫二人担任。
+English: The two subordinate doctors will be in charge of the two servants.
+
+古文：道仆，上士十有二人。
+现代文：道仆，由上士十二人担任。
+English: Dozens of staff sergeants served as courtiers.
+
+古文：田仆，上士十有二人。
+现代文：田仆，由下士十二人担任。
+English: The field servants were manned by twelve corporals.
+
+古文：驭夫，中士二十人、下士四十人。
+现代文：驭夫，由中士二十人担任，下士四十人为副手。
+English: Twenty sergeants served as oarsmen, and forty corporals were second lieutenants.
+
+古文：校人，中大夫二人、上士四人、下士十有六人、府四人、史八人、胥八人、徒八十人。
+现代文：校人，由中大夫二人担任，上士四人为副手，另外还配有下士十六人，府四人，史八人，胥八人，徒八十人。
+English: The school staff consisted of two junior doctors, four staff sergeants as deputies, sixteen corporals, four administrators, eight historians, thirty-eight students, and eighty apprentices.
+
+古文：趣马，下士皂一人、徒四人。
+现代文：趣马，每皂由下士一人担任，另外还配有徒四人。
+English: Fun horses, each saddle is manned by a corporal, and there are also four apprentices.
+
+古文：巫马，下士二人、医四人、府一人、史二人、贾二人、徒二十人。
+现代文：巫马，由下士二人担任，另外还配有马医四人，府一人，史二人，贾二人，徒二十人。
+English: Wuma, by two corporals, also equipped with four horse doctors, one prefect, two historians, two clerks, and twenty apprentices.
+
+古文：牧师，下士四人、胥四人、徒四十人。
+现代文：牧师，由下士四人担任，另外还配有胥四人，徒四十人。
+English: The chaplains are four corporals, four sergeants, and forty apprentices.
+
+古文：廋人，下士闲二人、史二人、徒二十人。
+现代文：廋人，每闲下士二人，史二人，徒二十人。
+English: There were two non-commissioned officers, two historians, and twenty apprentices.
+
+古文：圉师，乘一人，徒二人。
+现代文：圉师，每四匹马一人，另外还配有徒二人。
+English: Each of the four horses has a rider, and there are also two apprentices.
+
+古文：圉人，良马，匹一人；驽马丽一人。
+现代文：圉人，好马每匹一人，低能的马每二匹一人。
+English: A good horse is worth one; a bad horse is worth two.
+
+古文：职方氏，中大夫四人、下大夫八人、中士十有六人、府四人、史十有六人、徒百有六十人。
+现代文：职方氏，由中大夫四人担任，下大夫八人为副手，另外还配有中士十六人，府四人，史十六人，胥十六人，徒一百六十人。
+English: In addition, there were 16 sergeants, 4 prefects, 16 historians, 16 doctors, and 160 apprentices.
+
+古文：土方氏，上士五人，下士十人、府二人、史五人、胥五人、徒五十人。
+现代文：土方氏，由上士五人担任，下士十人为副手，另外还配有府二人，史五人，胥五人，徒五十人。
+English: The Hijikata clan consisted of five staff sergeants, ten non-commissioned officers as deputies, two officers, five clerks, fifty apprentices.
+
+古文：怀方氏，中士八人、府四人、史四人、胥四人、徒四十人。
+现代文：怀方氏，由中士八人担任，另外还配有府四人，史四人，胥四人，徒四十人。
+English: Eight sergeants were assigned to the Waifang Clan, and there were also four officers in charge of the prefecture, four officers in charge of history, four officers in charge of discipline, and forty apprentices.
+
+古文：合方氏，中士八人、府四人、史四人、胥四人、徒四十人。
+现代文：合方氏，由中士八人担任，另外还配有府四人，史四人，胥四人，徒四十人。
+English: He Fang clan, by the sergeant eight people served, also equipped with the prefecture four people, four people, four people, and forty people.
+
+古文：训方氏，中士四人、府四人、史四人、胥四人、徒四十人。
+现代文：训方氏，由中士四人担任，另外还配有府四人，史四人，胥四人，徒四十人。
+English: The position of training party was held by four sergeants, and there were also four officers in charge of administration, four officers in charge of history, four officers in charge of discipline, and forty officers in charge of training.
+
+古文：形方氏，中士四人、府四人、史四人、胥四人、徒四十人。
+现代文：形方氏，由中士四人担任，另外还配有府四人，史四人，胥四人，徒四十人。
+English: Formagata clan, by the sergeant four people served, in addition also equipped with the prefecture four people, four people, four people, and forty people.
+
+古文：山师，中山二人、下士四人、府二人、史四人、胥四人、徒四十人。
+现代文：山师，由中士二人担任，下士四人为副手，另外还配有府二人，史四人，胥四人，徒四十人。
+English: The mountain division is led by two sergeants, with four corporals as deputies. In addition, there are two prefectural officers, four historians, four guides, and forty apprentices.
+
+古文：川师，中士二人、下士四人、府二人、史四人、胥四人、徒四十人。
+现代文：川师，由中士二人担任，下士四人为副手，另外还配有府二人，史四人，胥四人，徒四十人。
+English: The river division was manned by two sergeants, with four corporals as deputies. In addition, there were two prefects, four historians, four mules, and forty apprentices.
+
+古文：原师，中士四人、下士八人、府四人、史八人、胥八人、徒信十人。
+现代文：原师，由中士四担任，下士八人为副手，另外还配有府四人，史八人，胥八人，徒八十人。
+English: The original division consisted of four sergeants and eight corporals as deputies. In addition, there were four officers, eight clerks, eight librarians, and eighty apprentices.
+
+古文：匡人，中士四人、史四人、徒八人。
+现代文：匡人，由中士四人担任，另外还配有史四人，徒八人。
+English: Four sergeants served as deputies, and there were also four clerks and eight apprentices.
+
+古文：撢人，中士四人、史四人、徒八人。
+现代文：撢人，由中士四人担任，另外还配有史四人，徒八人。
+English: Four sergeants were in charge of the eunuchs, and there were four historians and eight apprentices.
+
+古文：都司马，每都，上士二人、中士四人、下士八人、府二人、史八人、胥八人、徒八十人。
+现代文：都司马，每都由上士二人担任，中士四人为副手，另外还配有下士八人，府二人，史八人，胥八人，徒八十人。
+English: In addition, there are eight corporals, two officers, eight clerks, thirty-eight people, and eighty apprentices.
+
+古文：家司马，各使其臣以正于公司马。
+现代文：家司马，各使自己的家臣担任，而听命于公司马。
+English: Each of them appointed his own vassal to serve as the steward of the family, and he was at the beck and call of the company horse.
+

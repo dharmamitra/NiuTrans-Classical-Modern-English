@@ -1,0 +1,1760 @@
+古文：◎天文一
+现代文：天文一
+English: Tianwen 1
+
+古文：自司马迁述《天官》，而历代作史者皆志天文。
+现代文：自从司马迁著述了《天官书》以后，历朝写作正史的人都要写天文志。
+English: Ever since Sima Qian wrote "The Book of Heavenly Officials," people who wrote official histories in all dynasties had to write astronomical histories.
+
+古文：惟《辽史》独否，谓天象昭垂，千古如一，日食、天变既著本纪，则天文志近于衍。
+现代文：祇有《辽史》独独不这样做，它认为天象向下界明白显示，千万年都是一样，日食、天变既已记载于本纪，那么天文志就近于多余。
+English: Only "Liao Shi" is unique in not doing so. It believes that the celestial phenomenon clearly shows to the lower world that it has been the same for tens of thousands of years. Since solar eclipses and celestial changes have been recorded in this chronicle, the astronomical record is almost superfluous.
+
+古文：其说颇当。
+现代文：这种说法颇为恰当。
+English: That's a pretty good description.
+
+古文：夫《周髀》、《宣夜》之书，安天、穷天、昕天之论，以及星官占验之说，晋史已详，又见《隋志》，谓非衍可乎。
+现代文：《周髀》《宣夜》这类著作，安天、穷天、昕天这类理论，以及星官占验的学说，在《晋书》中已有详细记载，又见于《隋书，天文志》，说这不是多余的，行吗？
+English: Works such as "Zhou Xuan" and "Xuan Ye" and theories such as "An Tian" (安天), "穷天" (穷天) and "天" (天), as well as the doctrine of astrological divination, have been recorded in detail in the "Jin Shu" (晋書) and can also be found in the "Sui Shu" (Sui Shu) and "Astronomical History." Isn't this superfluous?
+
+古文：论者谓天文志首推晋、隋，尚有此病，其他可知矣。
+现代文：评论的人认为，天文志写得好的要首推《晋书》和《隋书》，但二书尚且还有这样的缺陷，其它的就可想而知了。
+English: Reviewers believe that the best astronomy books are the Jin and Sui books, but the two books still have such defects, and the rest can be imagined.
+
+古文：然因此遂废天文不志，亦非也。
+现代文：然而因此就把天文志废弃不写，也不恰当。
+English: However, it is not appropriate to write off astronomy for this reason.
+
+古文：天象虽无古今之异，而谈天之家，测天之器，往往后胜于前。
+现代文：天象虽然没有古今的差异，但研究天文的学者，观测天文的仪器，往往后代超过前代。
+English: Although there is no difference between ancient and modern celestial phenomena, scholars who study astronomy and instruments for observing astronomy often have more descendants than predecessors.
+
+古文：无以志之，使一代制作之义泯焉无传，是亦史法之缺漏也。
+现代文：如果不加以记载，使得一个朝代典章制度的内容遭到泯没而不能流传，这也是记载历史的法则方面的缺陷和遗漏。
+English: If it is not recorded, the contents of a dynastic code system will be lost and cannot be passed on. This is also a shortcoming and omission in terms of the rules for recording history.
+
+古文：至于彗孛飞流，晕适背抱，天之所以示儆戒者，本纪中不可尽载，安得不别志之。
+现代文：至于彗星、孛气、飞星、流晖，还有晕光、适气、背气、抱气，这些都是上天用来向下界显示其警戒的，在本纪中不能详尽地记载，又怎么能不另外加以记载呢？
+English: As for comets, meteors, shooting stars, meteors, as well as halos, meteors, trailing meteors, and hovering meteors, these are all used by the heavens to show their vigilance to the lower realm. They cannot be recorded in detail in this book, so how can they not be recorded elsewhere?
+
+古文：明神宗时，西洋人利玛窦等入中国，精于天文、历算之学，发微阐奥，运算制器，前此未尝有也。
+现代文：明神宗的时候，西洋人利玛窦等进入中国，他们精通天文、历算方面的学问，阐发其中的精微奥妙之处，进行计算，制作器具，都是在此之前不曾有遇的。
+English: At the time of the Ming Dynasty, Westerners such as Matteo Ricci entered China. They were well versed in astronomy and mathematics, explaining the subtleties and mysteries, performing calculations, and making utensils, all of which had never been encountered before.
+
+古文：兹掇其要，论著于篇。
+现代文：现在采择其要点，在本篇中加以论述。
+English: Now select its main points and discuss them in this article.
+
+古文：而《实录》所载天象星变殆不胜书，择其尤异者存之。
+现代文：而《实录》中所记载的天象、星变多得几乎不能尽记，故只能选择其特别怪异的，保存在本篇中。
+English: However, the number of celestial phenomena and star transformations recorded in the "Real Record" is almost too many to remember, so it is only possible to select those that are particularly strange and preserve them in this article.
+
+古文：日食备载本纪，故不复书。
+现代文：日食已详备地记载于本纪，所以不再记述。
+English: The solar eclipse has already been recorded in detail in this chronicle, so it will not be described again.
+
+古文：两仪
+现代文：两仪
+English: The two instruments
+
+古文：《楚词》言 圜则九重，孰营度之 ，浑天家言 天包地如卵里黄 ，则天有九重，地为浑圆，古人已言之矣。
+现代文：《楚辞》说： 圜天分为九重，是谁去测量的呢？ 主张浑天学说的人说： 天包裹着大地，犹如蛋包裹着蛋黄一样。 那么，天有九重，地呈浑圆形，古人已经说遇了。
+English: The "Analects of Confucius" says: The sky is divided into nine layers, but who is there to measure it? Those who advocate the theory of the firmament say: The sky covers the earth like an egg covers the yolk. So, the sky has nine layers, and the earth is round and cloudy, as the ancients said.
+
+古文：西洋之说，既不背于古，而有验于天，故表出之。
+现代文：西洋的学说既不违背中国古代的认识，而对于天象又有所骏证，所以把它表述出来。
+English: The Western doctrine does not contradict the ancient Chinese understanding, but it does contradict the celestial phenomenon, so it is best to express it.
+
+古文：其言九重天也，曰最上为宗动天，无星辰，每日带各重天，自东而西左旋一周，次曰列宿天，次曰填星天，次曰岁星天，次曰荧惑天，次曰太阳天，次曰金星天，次曰水星天，最下曰太阴天。
+现代文：西洋所说的九重天，最上一重称宗动天，那里没有星辰，每日带着其它各重天，自柬而西向左旋转一周，其次称列宿天，其次称镇星天，其次称岁星天，其次称荧惑天，其次称太阳天，其次称金星天，其次称水星天，最下面的一重称太阴天。
+English: The nine heavens mentioned in the West, the topmost heaven is called Zong Dang Tian, there are no stars there, every day it takes the other heavens and rotates westwardly to the left for a week. The next heaven is called Lian Su Tian, the next heaven is called Zhen Xing Tian, the next heaven is called Xiao Xing Tian, the next heaven is called Fu Rong Tian, the next heaven is called Sun Heaven, the next heaven is called Venus Heaven, the next heaven is called Mercury Heaven, and the bottom heaven is called Taigao Heaven.
+
+古文：自恒星天以下八重天，皆随宗动天左旋。
+现代文：从恒星天以下的八重天，都随着宗动天，向左旋转。
+English: The eight heavens below the sidereal sky all rotate to the left in accordance with the movement of the sun.
+
+古文：然各天皆有右旋之度，自西而东，与蚁行磨上之喻相符。
+现代文：但是各重天都有向右旋转的度数，从西向东，与蚂蚁在磨盘上朝着与石磨转动的相反方向爬行的比喻相符合。
+English: But each heaven has a degree of rotation to the right, from west to east, corresponding to the analogy of an ant crawling on a grinding wheel in the opposite direction to the rotation of the stone mill.
+
+古文：其右旋之度，虽与古有增减，然无大异。
+现代文：其向右旋转的度数，虽然同古代的认识有增减，但是没有大的差异。
+English: The degree of its rotation to the right, although there is an increase or decrease with the ancient knowledge, but there is no big difference.
+
+古文：惟恒星之行，即古岁差之度。
+现代文：只是恒星的运行度数，便是古代岁差的度数。
+English: Only the degree of movement of the stars is the degree of the ancient precession.
+
+古文：古谓恒星千古不移，而黄道之节气每岁西退。
+现代文：古代认为恒星永远不移动，而黄道的节气每年都要向西后退。
+English: In ancient times, it was believed that the stars never moved, and the solar terms of the zodiac retreated westward every year.
+
+古文：彼则谓黄道终古不动，而恒星每岁东行。
+现代文：他们却认为黄道永远不移动，而恒星每年向东运行。
+English: They believed that the ecliptic never moved, and that the stars moved eastward each year.
+
+古文：由今考之，恒星实有动移，其说不谬。
+现代文：从现在来考察天象，恒星实际上有所移动，这一说法是不错的。
+English: Looking at the sky now, it's fair to say that the stars have actually moved.
+
+古文：至于分周天为三百六十度，命日为九十六刻，使每时得八刻无奇零，以之布算制器，甚便也。
+现代文：至于划分周天为三百六十度，把一日分为九十六刻，使每一个时辰各得八刻，没有余数，用这种方法来运算和制作器具都十分方便。
+English: As for the division of the day into three hundred and sixty degrees, the day is divided into ninety-six hours, so that each hour has eight hours, there is no surplus, and it is very convenient to use this method to operate and make utensils.
+
+古文：其言地圆也，曰地居天中，其体浑圆，与天度相应。
+现代文：他们论述地圆，称地居虞于天的中央，其形体呈浑圆形，其度数与天的度数相应。
+English: They discussed the circle of the earth, saying that the earth is in the center of the sky, its shape is round, and its degree corresponds to the degree of the sky.
+
+古文：中国当赤道之北，故北极常现，南极常隐。
+现代文：中国处于赤道的北方，所以北极经常显现，南极则经常隐没。
+English: China is located north of the equator, so the North Pole often appears, and the South Pole often disappears.
+
+古文：南行二百五十里则北极低一度，北行二百五十里则北极高一度。东西亦然。
+现代文：向南行二百五十里，北极就低一度，向北行二百五十里，北极就高一度；向东方、向西方行走也一样。
+English: Two hundred and fifty miles to the south, the North Pole is one degree lower, and two hundred and fifty miles to the north, the North Pole is one degree higher; the same is true for traveling to the east and west.
+
+古文：以周天度计之，知地之全周为九万里也。
+现代文：也是二百五十里相差一度。用周天的度数来计算，得知地的全周是九万里。
+English: It is also a difference of two hundred and fifty miles. Calculated by the degree of Sunday, it is learned that the circumference of the earth is ninety thousand miles.
+
+古文：以周径密率求之，得地之全径为二万八千六百四十七里又九分里之八也。
+现代文：用周径的密率来计算，得知地的全径是二万八千六百四十七里又九分之八里。
+English: Using the density of the circumference to calculate, it is learned that the total diameter of the earth is 28,647 miles and eight-ninths of a mile.
+
+古文：又以南北纬度定天下之纵。
+现代文：又用南北纬度来确定天下的纵向地域。
+English: The north-south latitude is also used to determine the longitudinal region of the world.
+
+古文：凡北极出地之度同，则四时寒暑靡不同。
+现代文：凡是北极出地的度数相同，那么四季的寒暑变化便没有不同的。
+English: If the number of landings in the Arctic is the same, then there is no difference in the changes of cold and heat in the four seasons.
+
+古文：若南极出地之度与北极出地之度同，则其昼夜永短靡不同。
+现代文：如果南极出地的度数与北极出地的度数相同，那磨其昼夜的长短便没有什么不同。
+English: If the number of landings at the South Pole is the same as the number of landings at the North Pole, then there is no difference in the length of day and night.
+
+古文：惟时令相反，此之春，彼为秋，此之夏，彼为冬耳。
+现代文：只是其时令相反，这里的春天，是那裹的秋天，这里的夏天，是那里的冬天罢了。
+English: It's just that, contrary to the seasons, spring here is autumn there, summer here is winter there.
+
+古文：以东西经度定天下之衡，两地经度相去三十度，则时刻差一辰。
+现代文：用东西的经度来确定天下的横向地域，两地的经度相差三十度，那磨其时刻就相差一个时辰。
+English: The longitude of an object is used to determine the horizontal area of the world. The difference in longitude between two places is thirty degrees, and the difference in time is one hour.
+
+古文：若相距一百八十度，则昼夜相反焉。
+现代文：如果雨地的经度相差一百八十度，那磨昼夜就相反。
+English: If the longitude of the rainy land differs by 180 degrees, then day and night are opposite.
+
+古文：其说与《元史》札马鲁丁地圆之旨略同。
+现代文：他们的说法与《元史》札马鲁丁地圆说的主旨大致相同。
+English: Their argument is roughly the same as the main thrust of Zama Luding's theory of the earth's circumference in the "Original History."
+
+古文：七政
+现代文：七政
+English: The Seven Politics
+
+古文：日月五星各有一重天，其天皆不与地同心，故其距地有高卑之不同。
+现代文：日月和五星各有一重天，它们的天都不与地同心，所以它们距离地有高低的不同。
+English: The sun, the moon and the five stars all have their own heavens. Their heavens are not concentric with the earth, so their distance from the earth varies from high to low.
+
+古文：其最高最卑之数，皆以地半径准之。
+现代文：其最高和最低的里数，都以地的半径作为标准。
+English: Its highest and lowest mileage are based on the radius of the earth.
+
+古文：太阳最高距地为地半径者一千一百八十二，最卑一千一百零二。
+现代文：太阳最高处距离地作为地的半径是一千一百八十二里，最低处是一千一百零二里。
+English: The sun's highest point is 1,182 miles from the earth, and its lowest point is 1,102 miles.
+
+古文：太阴最高五十八，最卑五十二。
+现代文：太阴的最高处是五十八里，最低处是五十二里。
+English: The highest point of the lunar eclipse is 58 li, and the lowest point is 52 li.
+
+古文：填星最高一万二千九百三十二，最卑九千一百七十五。
+现代文：镇星的最高处是一万二千九百三十二里，最低处是九千一百七十五里。
+English: The highest point of Zhenxing is 12,932 li, and the lowest point is 9,175 li.
+
+古文：岁星最高六千一百九十，最卑五千九百一十九。
+现代文：岁星的最高处是六千一百九十里，最低处是五千九百一十九里。
+English: The highest point of the star is 6,190 li, and the lowest point is 5,919 li.
+
+古文：荧惑最高二千九百九十八，最卑二百二十二。
+现代文：荧惑星的最高处是二千九百九十八里，最低处是二百二十二里。
+English: The highest point of the fluorescent planet is 2998 li, and the lowest point is 222 li.
+
+古文：太白最高一千九百八十五，最卑三百。
+现代文：太白星的最高处是一千九百八十五里，最低处是三百里。
+English: The highest point of the Taibai Star is 1,985 li, and the lowest point is 300 li.
+
+古文：辰星最高一千六百五十九，最卑六百二十五。
+现代文：辰星的最高处是一千六百五十九里，最低卢是六百二十五里。
+English: The highest point of the star is one thousand six hundred and fifty-nine li, the lowest is six hundred and twenty-five li.
+
+古文：若欲得七政去地之里数，则以地半径一万二千三百二十四里通之。
+现代文：如果要想得到七政距离地的里敷，就用地的半径一万二千三百二十四里来统计。
+English: If you want to get the distance of the seven states from the center of the earth, use the radius of the earth of 12,324 miles to calculate.
+
+古文：又谓填星形如瓜，两侧有两小星如耳。
+现代文：又说，镇星的形状像瓜，两侧有两颗小星星，像耳朵。
+English: He also said that the town star is shaped like a melon, with two small stars on either side, like ears.
+
+古文：岁星四周有四小星，绕行甚疾。
+现代文：岁星的四周有四颗小星星，绕着岁星很快地运行。
+English: There are four small stars around the four sides of the year star, and they orbit the year star very quickly.
+
+古文：太白光有盈缺，如月之弦望。
+现代文：太白星的光亮有盈满和亏缺，像月亮有弦月和望月。
+English: The light of a very white star has its fullness and its lack, like the moon has its waxing and waning.
+
+古文：用窥远镜视之，皆可悉睹也。
+现代文：使用望逮镜来观察它，都能够全部看到。
+English: If you look at it with binoculars, you can see it all.
+
+古文：余详《历志》。
+现代文：其余的内容可以详细参看《历志》。
+English: The rest of the content can be found in detail in the Chronicle.
+
+古文：恒星
+现代文：恒星
+English: The Stars
+
+古文：崇祯初，礼部尚书徐光启督修历法，上《见界总星图》。
+现代文：崇祯初年，礼部尚书徐光启监督编纂历法，呈上《见界总星图》。
+English: In the first year of the reign of Emperor Chongzhen, Xu Guangqi, an official of the Ministry of Rites and Ceremonies, supervised the compilation of the calendar and presented the "General Star Chart of the Realm."
+
+古文：以为回回《立成》所载，有黄道经纬度者止二百七十八星，其绘图者止十七座九十四星，并无赤道经纬。
+现代文：认为回回的图籍《立成》所载，有黄道经纬度的只有二百七十八颗星，绘制了图形的祇有十七个星座九十四颗星，没有赤道经纬。
+English: It is believed that only 278 stars have the longitude and latitude of the ecliptic, and only 17 constellations and 94 stars have been drawn, and there is no equatorial longitude and latitude.
+
+古文：今皆崇祯元年所测，黄赤二道经纬度毕具。
+现代文：现在都是崇祯元年所测绘的，黄道、赤道的经纬度全都具备。
+English: Now they are all surveyed and mapped in the first year of Chongzhen, and the longitude and latitude of the ecliptic and equator are all available.
+
+古文：后又上《赤道两总星图》。
+现代文：后来又进呈《赤道两总星图》。
+English: Later, the "Equator Two General Star Chart" was also presented.
+
+古文：其说谓常现常隐之界，随北极高下而殊，图不能限。
+现代文：他的学说认为常现常隐的界限，随北极的高低而不同，星图不能限定。
+English: According to his theory, the boundaries of the ever-present and ever-hidden vary with the height of the North Pole, and the star map cannot be limited.
+
+古文：且天度近极则渐狭，而《见界图》从赤道以南，其度反宽，所绘星座不合仰观。
+现代文：并且天的度数接近北极便渐渐狭小，而《见界图》从赤道以南，它的度数反而宽阔，绘制的星座不符合观察的结果。
+English: Moreover, the degree of the sky becomes narrower and narrower as it approaches the North Pole, while the degree of the sky from south of the equator is wide, and the constellation drawn does not correspond to the observation results.
+
+古文：因从赤道中剖浑天为二，一以北极为心，一以南极为心。
+现代文：于是从赤道中剖分浑天为两部分，一部分以北极为中心，一部分以南极为中心。
+English: Thus, from the equator, the sky is divided into two parts, one centered on the North Pole and the other centered on the South Pole.
+
+古文：从心至周，皆九十度，合之得一百八十度者，赤道纬度也。
+现代文：从中心到周边，都是九十度，合起来为一百八十度，就是赤道纬度。
+English: From the center to the periphery, it is ninety degrees, and altogether it is one hundred and eighty degrees, which is the equatorial latitude.
+
+古文：周分三百六十度者，赤道经度也。
+现代文：圆周分为三百六十度，就是赤道经度。
+English: The circumference is divided into three hundred and sixty degrees, which is the equatorial longitude.
+
+古文：乃依各星之经纬点之，远近位置形势皆合天象。
+现代文：于是依照各星的经度和纬度确立定点，远近位置格局都符合天象。
+English: As a result, fixed points were established according to the longitude and latitude of each star, and the pattern of positions both near and far corresponded to the celestial bodies.
+
+古文：至于恒星循黄道右旋，惟黄道纬度无古今之异，而赤道经纬则岁岁不同。
+现代文：至于恒星沿着黄道向右旋转，只有黄道的纬度没有古今的差异，而赤道的经度和纬度却每年都不相同。
+English: As for the stars rotating to the right along the ecliptic, only the latitude of the ecliptic does not differ from the past to the present, while the longitude and latitude of the equator vary from year to year.
+
+古文：然亦有黄赤俱差，甚至前后易次者。
+现代文：然而也有黄道和赤道都有差异，甚至前后改换位次的。
+English: However, there are also differences between the zodiac and the equator, and there are even cases where the order is reversed.
+
+古文：如觜宿距星，唐测在参前三度，元测在参前五分，今测已侵入参宿。
+现代文：比如觜宿作为距度星，在唐代时观测出它在参宿的前三度，在元代观测出它在参宿的前五分，现在观测出已经侵入参宿。
+English: For example, Pleiades, as a distance star, was observed in the Tang Dynasty to be three degrees ahead of Betelgeuse, in the Yuan Dynasty it was observed to be five minutes ahead of Betelgeuse, and now it has been observed to have invaded Betelgeuse.
+
+古文：故旧法先觜后参，今不得不先参后觜，不可强也。
+现代文：所以旧的历法是先觜宿，后参宿；而现在却不得不先参宿，后觜宿，不能勉强牵合旧历。
+English: Therefore, the old calendar was the first to stay, and the second to stay; but now it has to stay first, and the second to stay, and it can't be forced to follow the old calendar.
+
+古文：又有古多今少，古有今无者。
+现代文：又有古多今少，古有今无的情况。
+English: In addition, there is a situation where there was more in the past but less in the present, and there is nothing in the past but something in the present.
+
+古文：如紫微垣中六甲六星今止有一，华盖十六星今止有四，传舍九星今五，天厨六星今五，天牢六星今二。
+现代文：比如紫微垣中的六甲六星，现在只有一颗；华盖十六星，现在只有四颗；传舍九星，现在祇有五颗；天厨六星，现在只有五颗；天牢六星，现在只有二颗。
+English: For example, the six stars in the purple wall, now only one; the sixteen stars in the flower, now only four; the nine stars in the house, now only five; the six stars in the kitchen, now only five; the six stars in the sky, now only two.
+
+古文：又如天理、四势、五帝内座、天柱、天床、大赞府、大理、女御、内厨，皆全无也。
+现代文：叉如天理、四势、五帝内座、天柱、天床、大赞府、大理、女御、内厨等星宿，现在全部没有了。
+English: Such constellations as Tenri, Shisho, Wudai Naijo, Tenshu, Tiantaku, Daizanpu, Dali, Nyogo, Naikuchi and other constellations are now all gone.
+
+古文：天市垣之市楼六星今二。
+现代文：天市垣的市楼六星，现在只有二颗。
+English: There were six stars on the skyscraper in Ichigaki, but now there are only two.
+
+古文：太微垣之常陈七星今三，郎位十五星今十。
+现代文：太微垣的常陈七星，现在只有三颗，郎位十五星，现在还有十颗。
+English: There used to be seven stars on the wall, but now there are only three. There used to be fifteen stars on the wall, but now there are ten.
+
+古文：长垣四星今二。
+现代文：长垣四星，现在只有二颗。
+English: Nagagaki four stars, now only two.
+
+古文：五诸侯五星全无也。
+现代文：五诸侯五星，现在全部没有了。
+English: Five princes, five stars, now all gone.
+
+古文：角宿中之库楼十星今八。
+现代文：角宿中的库楼十星，现在只有八颗。
+English: The warehouse in Kakunodate used to have ten stars, now it only has eight.
+
+古文：亢宿中之折威七星今无。
+现代文：亢宿中的折威七星，现在没有了。
+English: The seven stars of Orihime in Oyado are no longer there.
+
+古文：氐宿中之亢池六星今四，帝席三星今无。
+现代文：氐宿中的亢池六星，现在祇有四颗，帝席三星，现在没有了。
+English: There used to be six stars at Tsugaike, now there are only four, and three stars at Teisai, now there are none.
+
+古文：尾宿中天龟五星今四。
+现代文：尾宿中的天龟五星，现在祇有四颗。
+English: Of the five-star turtles in Oyado, there are now only four.
+
+古文：斗宿中之鳖十四星今十三，天籥、农丈人俱无。
+现代文：斗宿中的鳖十四星，现在有十三颗；天钥星、农丈人星，现在都没有了。
+English: Of the fourteen stars in the zodiac, there are now thirteen; the heavenly key star and the farmer's son star are now gone.
+
+古文：牛宿中之罗堰三星今二，天田九星俱无。
+现代文：牛宿中的罗堰三星，现在有二颗，天田九星都没有了。
+English: There were three stars for Luoyan in the Cattle Inn, but now there are only two, and there are no stars for Tiantan.
+
+古文：女宿中之赵、周、秦、代各二星今各一，扶匡七星今四，离珠五星今无。
+现代文：女宿中的赵、周、秦、代各二星，现在各自只有一星，扶匡七星，现在有四颗，离珠五星，现在已没有了。
+English: Zhao, Zhou, Qin and Dai, who had two stars each, now have only one star each. Fu Kuang, who had seven stars, now has four, and Li Zhu, who had five stars, now has none.
+
+古文：虚宿中之司危、司禄各二星今各一，败臼四星今二，离瑜三星今二，天垒城十三星今五。
+现代文：虚宿中的司危、司禄各二星，现在各有一颗，败臼四星，现在有二颗，离瑜三星，现在有二颗，天垒城十三星，现在只有五颗。
+English: The two stars of Siga and Siroku in the imaginary home, now have one each, the four stars of defeat, now have two, the three stars of Yiyu, now have two, the thirteen stars of Fortress City, now only five.
+
+古文：危宿中之人五星今三，杵三星今一，臼四星今三，车府七星今五，天钩九星今六，天钞十星今四，盖屋二星今一。
+现代文：危宿中的人五星，现在有三颗，杵三星，现在只有一颗，臼四星，现在有三颗，车府七星，现在有五颗，天钧九星，现在有六颗，天钞十星，现在有四颗，盖屋二星，现在有一颗。
+English: The five-star people in the dangerous accommodation now have three, the three-star cormorant now only has one, the four-star mortar now has three, the seven-star Chefu now has five, the nine-star heaven now has six, the ten-star banknote now has four, and the two-star roof now has one.
+
+古文：室宿中之羽林军四十五星今二十六，螣蛇二十二星今十五，八魁九星今无。
+现代文：室宿中的羽林军四十五星，现在只有二十六颗，塍蛇二十二星，现在有十五颗，八魁九星，现在没有了。
+English: Of the forty-five stars of the Ulin Army in Muroshuku, there are now only twenty-six, of the twenty-two stars of the Anaconda, there are now fifteen, and of the Eight Immortals, there are now none.
+
+古文：壁宿中之天厩十星今三。
+现代文：壁宿中的天厩十星，现在有三颗。
+English: Ten stars in the wall inn, now there are three.
+
+古文：奎宿中之天溷七星今四。
+现代文：奎宿中的天溷七星，现在有四颗。
+English: There are now four stars in the constellation of Aquila.
+
+古文：毕宿中之天节八星今七，咸池三星今无。
+现代文：毕宿中的天节八星，现在有七颗，咸池三星，现在没有了。
+English: There were eight stars at the end of the festival, but now there are seven, and three stars at Hamchi, but now there are none.
+
+古文：觜宿中之座旗九星今五。
+现代文：觜宿中的座旗九星，现在有五颗。
+English: There used to be nine stars on Oshuku's flag, but now there are five.
+
+古文：井宿中之军井十三星今五。
+现代文：井宿中的军井十三星，现在有五颗。
+English: Of the thirteen stars in the guesthouse, there are now five.
+
+古文：鬼宿中之外厨六星今五。
+现代文：鬼宿中的外厨六星，现在有五颗。
+English: The kitchen in the haunted house used to have six stars, now it has five.
+
+古文：张宿中之天庙十四星今无。
+现代文：张宿中的天庙十四星，现在都没有了。
+English: The fourteen stars of the heavenly temple in Zhangjuku are now all gone.
+
+古文：翼宿中之东瓯五星今无。
+现代文：翼宿中的束瓯五星，现在没有了。
+English: The five stars of the bunch of dragonflies in the winged house are now gone.
+
+古文：轸宿中之青丘七星今三，其军门、土司空、器府俱无也。
+现代文：干宿中的青丘七星，现在有三颗，其中军门、土司空、器府星都没有了。
+English: Of the seven stars in the Aokucho Dry Inn, there are now three, of which the Military Gate, Toji Sky, and Kifu Star are all gone.
+
+古文：又有古无今有者。
+现代文：又有古代无而现在有的星宿。
+English: There are also star constellations that did not exist in ancient times but now do.
+
+古文：策星旁有客星，万历元年新出，先大今小。
+现代文：天策星旁边有客星，万历元年新出现，先前大，现在变小了。
+English: Next to Tianzhe Star, there is a guest star, newly appeared in the first year of Wanli, previously large, now smaller.
+
+古文：南极诸星，古所未有，近年浮海之人至赤道以南，往往见之，因测其经纬度。
+现代文：南极的众多星宿是古代所没有的，近年来在海上航行的人到达赤道以南地区，到处都能见到这些星宿，于是测量出它的经、纬度。
+English: The many constellations at the South Pole were not there in ancient times. In recent years, people sailing on the sea have reached areas south of the equator, where they can see these constellations everywhere, so they have measured its longitude and latitude.
+
+古文：其余增入之星甚多，并详《恒星表》。
+现代文：其它增入的星宿很多，一并详见《恒星表》。
+English: There are many other stars that have been added, all of which are detailed in the "Star Catalogue."
+
+古文：其论云汉，起尾宿，分两派。
+现代文：他论述云漠星系，起于尾宿，分为两派。
+English: He discusses the cloud-and-desert galaxy, which originated in Oshuku, and is divided into two groups.
+
+古文：一经天江、南海、市楼，过宗人、宗星，涉天津至螣蛇。
+现代文：一派系经由天江、南海、市楼，经过宗人、宗星，渡过天津，到达塍蛇星座。
+English: One faction passed through the Tianjiang River, the South China Sea, and the City Tower, passed through So Ren and So Xing, crossed Tianjin, and reached the constellation of the boa constrictor.
+
+古文：一由箕、斗、天弁、河鼓、左右旗，涉天津至车府而会于螣蛇，过造父，直趋附路、阁道、大陵、天船，渐下而南行，历五车、天关、司怪、水府，傍东井，入四渎，过阙丘、弧矢、天狗之墟，抵天社、海石之南，逾南船，带海山，置十字架、蜜蜂，傍马腹，经南门，络三角、龟、杵，而属于尾宿，是为带天一周。
+现代文：一派系经由箕宿、斗宿、天弁、河鼓、左右旗，渡过天津，到达车府星，在塍蛇相会，经过造父星直奔附路、阁道、大陵、天船星，渐渐向下，然后南行，经过五车、天关、司怪、水府星，挨着束井，进入四演，经过阙丘、弧矢、天狗的墟宿，抵达天社、海石的南部，越过南船，环绕海山，穿遇十字架、蜜蜂星，挨着马腹星，经过南门，联络三角、龟、杵等星，而归属于尾宿，这就是绕天一周。
+English: One faction will go through Jiuquan, Douquan, Tianben, River Drum, and the Left and Right Banners, cross Tianjin, reach Chefu Star, meet at the Boa Constrictor, go straight to the Bypass Road, the Loft Road, the Daling, and the Starship, gradually go down, and then go south, go through the Five Chariots, the Heaven Gate, the Scourge, and the Water Palace, next to the Bamboo Well, enter the Four Performances, go through the Mound, the Arc Arrow, and the Tengu's Market Inn, arrive at the south of the Heavenly Shrine and the Sea Stone, cross the
+
+古文：以理推之，隐界自应有云汉，其所见当不诬。
+现代文：按照天象之理推论，隐界本来应该有云汉天河，他所见到的情形应该不虚假。
+English: According to the reasoning of celestial phenomena, there should have been clouds, mountains and rivers in the hidden world, and the situation he saw should not be false.
+
+古文：又谓云汉为无数小星，大陵鬼宿中积尸亦然。
+现代文：又说云漠天河是无数的小星星，大陵、鬼宿中的积尸星也是这样。
+English: It is also said that the clouds, the sky and the river are full of countless small stars, and so are the dead stars in the Great Mausoleum and the Haunted House.
+
+古文：考《天官书》言星汉皆金之散气，则星汉本同类，得此可以相证。
+现代文：考察《天官书》，说到星汉时，都认为是金放散出来的气体，那么星汉原本是同一类属，得到这一证据，可以互相证明。
+English: According to the "Book of Heavenly Government," when it comes to star anise, both are considered to be gases emitted by gold, so star anise is originally the same genus. With this evidence, they can prove each other.
+
+古文：又言昴宿有三十六星，皆得之于窥远镜者。
+现代文：又说，昴宿有三十六颗星，都是从望速镜中发现的。
+English: He also said that there are thirty-six stars in Pescadore, all of which were discovered through the telescope.
+
+古文：凡测而入表之星共一千三百四十七，微细无名者不与。
+现代文：凡是测定列入表中的星星一共有一千三百四十七颗，微小而没有名称的星星不列入。
+English: There are a total of 1,347 stars that have been determined and included in the table. Tiny and nameless stars are not included.
+
+古文：其大小分为六等：内一等十六星，二等六十七星，三等二百零七星，四等五百零三星，五等三百三十八星，六等二百一十六星。
+现代文：星宿的大小，分成六个等次：其中一等十六颗星，二等六十七颗星，三等二百零七颗星，四等五百零三颗星，五等三百三十八颗星，六等二百一十六颗星。
+English: The sizes of the constellations are divided into six classes: 16 stars of the first class, 67 stars of the second class, 207 stars of the third class, 503 stars of the fourth class, 338 stars of the fifth class, and 216 stars of the sixth class.
+
+古文：悉具黄赤二道经纬度。列表二卷，入光启所修《崇祯历书》中。
+现代文：全部记载黄道和赤道的经度和纬度，列表成二卷，载入徐光启所编纂的《崇祯历书》中。
+English: The longitude and latitude of the ecliptic and equator were recorded in full, and the list was compiled into two volumes, which were included in the "Book of the Zodiac" compiled by Xu Guangqi.
+
+古文：兹取二十八宿距星及一二等大星存之，其小而有名者，间取一二，备列左方。
+现代文：现在选取二十八宿距度星以及一二等大星存录下来，这些星宿中，小而有名称的星星也间或选取其小部分，全部排列在下面。
+English: Of these, small, named stars are also occasionally selected in small portions, all of which are arranged below.
+
+古文：黄赤宿度
+现代文：黄赤宿度
+English: Yellow and red hibernation
+
+古文：崇祯元年所测二十八宿黄赤度分，皆不合于古。
+现代文：崇祯元年所测定的二十八宿黄道、赤道的度数及分数，都与古代不符合。
+English: The degrees and fractions of the 28 zodiacs and the equator measured in the first year of the Chongzhen era do not match those of ancient times.
+
+古文：夫星既依黄道行，而赤道与黄道斜交，其度不能无增减者，势也。
+现代文：星宿既然沿着黄道运行，而赤道舆黄道斜着相交，它的度数不能没有增加、减少，其原因是形势所致。
+English: Since the constellations run along the ecliptic, and the equator and the ecliptic intersect obliquely, its degree cannot but increase or decrease, and the reason is due to the situation.
+
+古文：而黄道度亦有增减者，或推测有得失，抑恒星之行亦或各有迟速欤。
+现代文：而黄道的度数也有增加、减少，或者由于推测有误差，或者恒星的运行也有快慢吧。
+English: But the ecliptic also has an increase or decrease in the number of degrees, either due to an error in the conjecture, or the speed of the star's movement.
+
+古文：谨列其数，以备参考。
+现代文：谨列出它们的度数，以此用作参考。
+English: We list their frequencies for your reference.
+
+古文：赤道宿度黄道宿度
+现代文：赤道宿度黄道宿度
+English: Equatorial longitude versus ecliptic longitude
+
+古文：角，一十一度四十四分。
+现代文：角，一十一度四十四分。
+English: horns, eleven times forty-four.
+
+古文：一十度三十五分。
+现代文：一十度三十五分。
+English: Ten degrees thirty-five minutes.
+
+古文：亢，九度一十九分。
+现代文：亢，九度一十九分。
+English: Nine degrees and nineteen minutes.
+
+古文：一十度四十分。
+现代文：一十度四十分。
+English: Ten degrees and forty minutes.
+
+古文：氐，一十六度四十一分。
+现代文：氐，一十六度四十一分。
+English: Sixteen degrees and forty-one minutes.
+
+古文：一十七度五十四分。
+现代文：一十七度五十四分。
+English: Seventeen degrees fifty-four minutes.
+
+古文：房，五度二十八分。
+现代文：房，五度二十八分。
+English: Room, five degrees twenty-eight minutes.
+
+古文：四度四十六分。
+现代文：四度四十六分。
+English: Four times forty-six.
+
+古文：心，六度零九分。
+现代文：心，六度零九分。
+English: Heart, six degrees and nine minutes.
+
+古文：七度三十三分。
+现代文：七度三十三分。
+English: Seven degrees and thirty-three minutes.
+
+古文：尾，二十一度零六分。
+现代文：尾，二十一度零六分。
+English: Last, at twenty-one minutes and six seconds.
+
+古文：一十五度三十六分。
+现代文：一十五度三十六分。
+English: Fifteen degrees thirty-six minutes.
+
+古文：箕，八度四十六分。
+现代文：箕，八度四十六分。
+English: Koto, octave forty-six minutes.
+
+古文：九度二十分。
+现代文：九度二十分。
+English: Nine degrees and twenty minutes.
+
+古文：斗，二十四度二十四分。
+现代文：斗，二十四度二十四分。
+English: Do, twenty-four degrees twenty-four minutes.
+
+古文：二十三度五十一分。
+现代文：二十三度五十一分。
+English: Twenty-three degrees fifty-one minutes.
+
+古文：牛，六度五十分。
+现代文：牛，六度五十分。
+English: Beef, six degrees and fifty minutes.
+
+古文：七度四十一分。
+现代文：七度四十一分。
+English: Seven degrees forty-one minutes.
+
+古文：女，一十一度零七分。
+现代文：女，一十一度零七分。
+English: Female, 11.07 points.
+
+古文：一十一度三十九分。
+现代文：一十一度三十九分。
+English: Eleven times thirty-nine.
+
+古文：虚，八度四十一分。
+现代文：虚，八度四十一分。
+English: False, octave forty-one minutes.
+
+古文：九度五十九分。
+现代文：九度五十九分。
+English: Nine degrees and fifty-nine minutes.
+
+古文：危，一十四度五十三分。
+现代文：危，一十四度五十三分。
+English: Danger, fourteen degrees fifty-three minutes.
+
+古文：二十度零七分。
+现代文：二十度零七分。
+English: Twenty degrees and seven minutes.
+
+古文：室，一十七度。
+现代文：室，一十七度。
+English: Room, seventeen degrees.
+
+古文：一十五度四十一分。
+现代文：一十五度四十一分。
+English: Fifteen degrees forty-one minutes.
+
+古文：壁，一十度二十八分。
+现代文：壁，一十度二十八分。
+English: Wall, ten degrees twenty-eight minutes.
+
+古文：一十三度一十六分。
+现代文：一十三度一十六分。
+English: Thirteen degrees and sixteen minutes.
+
+古文：奎，一十四度三十分。
+现代文：奎，一十四度三十分。
+English: Kui, fourteen degrees and thirty minutes.
+
+古文：一十一度二十九分。
+现代文：一十一度二十九分。
+English: Eleven and twenty-nine.
+
+古文：娄，一十二度零四分。
+现代文：娄，一十二度零四分。
+English: Twelve degrees and four minutes.
+
+古文：一十三度。
+现代文：一十三度。
+English: Thirteen degrees.
+
+古文：胃，一十五度四十五分。
+现代文：胃，一十五度四十五分。
+English: Stomach, 15 degrees 45 minutes.
+
+古文：一十三度零一分。
+现代文：一十三度零一分。
+English: Thirteen degrees and one minute.
+
+古文：昴，一十度二十四分。
+现代文：昴，一十度二十四分。
+English: Ten degrees and twenty-four minutes.
+
+古文：八度二十九分。
+现代文：八度二十九分。
+English: Eight degrees and twenty-nine minutes.
+
+古文：毕，一十六度三十四分。
+现代文：毕，一十六度三十四分。
+English: Be, sixteen degrees and thirty-four minutes.
+
+古文：一十三度五十八分。
+现代文：一十三度五十八分。
+English: Thirteen degrees fifty-eight minutes.
+
+古文：参，二十四分。
+现代文：参，二十四分。
+English: San, twenty-four points.
+
+古文：一度二十一分。
+现代文：一度二十一分。
+English: Once for 21 points.
+
+古文：觜，一十一度二十四分。
+现代文：觜，一十一度二十四分。
+English: So, eleven times twenty-four.
+
+古文：一十一度三十三分。
+现代文：一十一度三十三分。
+English: Eleven times thirty-three.
+
+古文：井，三十二度四十九分。
+现代文：井，三十二度四十九分。
+English: Well, thirty-two degrees forty-nine minutes.
+
+古文：三十度二十五分。
+现代文：三十度二十五分。
+English: Thirty degrees and twenty-five minutes.
+
+古文：鬼，二度二十一分。
+现代文：鬼，二度二十一分。
+English: Damn, two times twenty-one.
+
+古文：五度三十分。
+现代文：五度三十分。
+English: Five thirty.
+
+古文：柳，一十二度零四分。
+现代文：柳，一十二度零四分。
+English: Willow, twelve degrees and four minutes.
+
+古文：一十六度零六分。
+现代文：一十六度零六分。
+English: 16 degrees and 6 minutes.
+
+古文：星，五度四十八分。
+现代文：星，五度四十八分。
+English: Star, five degrees forty-eight minutes.
+
+古文：八度二十三分。
+现代文：八度二十三分。
+English: Eight degrees and twenty-three minutes.
+
+古文：张，一十七度一十九分。
+现代文：张，一十七度一十九分。
+English: Zhang, seventeen degrees nineteen minutes.
+
+古文：一十八度零四分。
+现代文：一十八度零四分。
+English: Eighteen degrees and four minutes.
+
+古文：翼，二十度二十八分。
+现代文：翼，二十度二十八分。
+English: Wing, twenty degrees twenty-eight minutes.
+
+古文：一十七度。
+现代文：一十七度。
+English: Seventeen degrees.
+
+古文：轸，一十五度三十分。
+现代文：轸，一十五度三十分。
+English: It's 15 degrees and 30 minutes.
+
+古文：一十三度零三分。
+现代文：一十三度零三分。
+English: Thirteen degrees and three minutes.
+
+古文：黄赤宫界
+现代文：黄赤宫界
+English: The Yellow and Red Palace Realm
+
+古文：十二宫之名见于《尔雅》，大抵皆依星宿而定。
+现代文：十二宫的名称见于《尔雅》，大概都依照星宿而确定。
+English: The names of the twelve signs of the zodiac are found in "Erya" and are probably determined according to the constellations.
+
+古文：故宫有一定之宿，宿有常居之宫，由来尚矣。
+现代文：比如娄、奎称降娄，心称大火，朱乌七宿称鹑首、鹑尾之类。所以宫具有确定的宿，宿具有常居的宫，由来很久远了。
+English: For example,  and 奎 are called 降, 心 is called 大大火, and 朱烏七宿 is called 首 and 尾. Therefore, the palace has a certain lodging, and the lodging has a permanent palace, which has a long history.
+
+古文：唐以后始用岁差，然亦天自为天，岁自为岁，宫与星仍旧不易。
+现代文：唐代以后纔开始使用岁差，但仍然是天象自为天象，岁时自为岁时，宫与星宿仍旧不改变。
+English: After the Tang Dynasty, people began to use the precession of the equinoxes, but the celestial bodies were still celestial bodies, the years were still years, and the palaces and constellations remained unchanged.
+
+古文：西洋之法，以中气过宫，而恒星既有岁进之差，于是宫无定宿，而宿可以递居各宫，此变古法之大端也。
+现代文：西洋的历法，用中气过宫，比如日躔冬至，就是星纪宫之类。而恒星既已有岁进的差误，因此宫没有确定的宿，而宿可以递相居处于各宫，这是变通古法的主要方面。
+English: Western calendars use the middle air to pass through the palace, such as the solar eclipse winter solstice, is the astrology palace and the like. And the star has already had the error of the year advance, so the palace does not have a definite residence, and the residence can be in each palace successively, which is the main aspect of the flexible ancient method.
+
+古文：兹以崇祯元年各宿交宫之黄赤度，分列于左方，以志权舆云。
+现代文：现在用崇祯元年各宿交相宫处的黄道、赤道度数，分别立在下面，以记载下这个开端。
+English: Now, the ecliptic and equatorial degrees of the zodiacal and equatorial degrees of the zodiacal and equatorial degrees of the zodiacal and equatorial degrees of the zodiacal and equatorial degrees of the zodiacal and equatorial degrees of the zodiacal and equatorial degrees of the zodiacal and equatorial degrees of the zodiacal and equatorial degrees of the zodiacal and equatorial degrees of the zodiacal and equatorial degrees of the zodiacal and equatorial degrees of the zodiacal and equatorial degrees of the zodiacal and equatorial degrees of the zodiacal and equatorial degrees of the zodiacal and equatorial degrees of the
+
+古文：赤道交宫宿度黄道交宫宿度
+现代文：赤道交宫宿度黄道交宫宿度
+English: The Equatorial Conjugation Conjugation Conjugation Conjugation Conjugation Conjugation
+
+古文：箕，三度零七分，入星纪。
+现代文：箕，三度零七分，入星纪。
+English: , three degrees and seven minutes, into the sidereal period.
+
+古文：箕，四度一十七分，入星纪。
+现代文：箕，四度一十七分，入星纪。
+English: , four times seventeen points, into the stellar period.
+
+古文：斗，二十四度二十一分，入玄枵。
+现代文：斗，二十四度二十一分，入玄枵。
+English: Do, twenty-four degrees twenty-one minutes, into the Xuan Zang.
+
+古文：牛，一度零六分，入玄枵。
+现代文：牛，一度零六分，入玄枵。
+English: Beef, once 0.6 points, into the yakitori.
+
+古文：危，三度一十九分，入娵訾。
+现代文：危，三度一十九分，入娵訾。
+English: Danger, three times nineteen points, into the cocoon.
+
+古文：危，一度四十七分，入娵訾。
+现代文：危，一度四十七分，入娵訾。
+English: Dangerous, once forty-seven points, into the urn.
+
+古文：壁，一度二十六分，入降娄。
+现代文：壁，一度二十六分，入降娄。
+English: The wall, once twenty-six points, into a falling cocoon.
+
+古文：室，一十一度四十分，入降娄。
+现代文：室，一十一度四十分，入降娄。
+English: room, at eleven minutes past forty, into the descending urn.
+
+古文：娄，六度二十八分，入大梁。
+现代文：娄，六度二十八分，入大梁。
+English: Bang, six degrees twenty-eight minutes, into the girders.
+
+古文：娄，一度一十四分，入大梁。
+现代文：娄，一度一十四分，入大梁。
+English: , once every 14 minutes, into the girders.
+
+古文：昴，八度三十九分，入实沈。
+现代文：昴，八度三十九分，入实沈。
+English: Thirty-nine points in octaves, into the real world.
+
+古文：昴，五度一十三分，入实沈。
+现代文：昴，五度一十三分，入实沈。
+English: , five times thirteen points, into the real Sheng.
+
+古文：觜，一十一度一十七分，入鹑首。
+现代文：觜，一十一度一十七分，入鹑首。
+English: Ten, eleven, one-seventeenth, into the dagger.
+
+古文：觜，一十一度二十五分，入鹑首。
+现代文：觜，一十一度二十五分，入鹑首。
+English: Knot, eleven and a quarter, into the dagger.
+
+古文：井，二十九度五十三分，入鹑火。
+现代文：井，二十九度五十三分，入鹑火。
+English: Well, twenty-nine degrees fifty-three minutes, into the bonfire.
+
+古文：井，二十九度五十二分，入鹑火。
+现代文：井，二十九度五十二分，入鹑火。
+English: Well, twenty-nine degrees fifty-two minutes, into the bonfire.
+
+古文：张，六度五十一分，入鹑尾。
+现代文：张，六度五十一分，入鹑尾。
+English: Zhang, six degrees and fifty-one minutes, into Shanwei.
+
+古文：星，七度五十一分，入鹑尾。
+现代文：星，七度五十一分，入鹑尾。
+English: Star, seven degrees and fifty-one minutes, into the appendix.
+
+古文：翼，一十九度三十二分，入寿星。
+现代文：翼，一十九度三十二分，入寿星。
+English: Wing, nineteen degrees and thirty-two minutes, into the birthday star.
+
+古文：翼，一十一度二十四分，入寿星。
+现代文：翼，一十一度二十四分，入寿星。
+English: Wing, eleven times twenty-four points, into the birthday star.
+
+古文：亢，一度五十分，入大火。
+现代文：亢，一度五十分，入大火。
+English: , once fifty minutes, into the fire.
+
+古文：亢，初度四十六分，入大火。
+现代文：亢，初度四十六分，入大火。
+English: , first degree forty-six points, into the fire.
+
+古文：心，初度二十二分，入析木。
+现代文：心，初度二十二分，入析木。
+English: Heart, first degree twenty-two points, into the wood.
+
+古文：房，二度一十二分，入析木。
+现代文：房，二度一十二分，入析木。
+English: room, twice twelve points, into the wood.
+
+古文：仪象
+现代文：仪象
+English: Ceremonies
+
+古文：璇玑玉衡为仪象之权舆，然不见用于三代。
+现代文：璇玑、玉衡是用仪器观测天象的开始，然而不被三代所使用。
+English: Yao and Yu Heng used instruments to observe the beginning of the celestial phenomenon, but they were not used by the third generation.
+
+古文：《周礼》有圭表、壶漏，而无玑衡，其制遂不可考。
+现代文：《周礼》记载了圭表、壶漏，但是没有记载璇玑、玉衡，它的形制便不能够考察了。
+English: "Zhou Li" recorded the Gui table and jug spout, but did not record the bowl and balance, so its shape could not be examined.
+
+古文：汉人创造浑天仪，谓即玑衡遗制，其或然欤。
+现代文：汉代人创造了浑天仪，认为就是璇玑、玉衡遗留下来的制度，大概是这样吧。
+English: The Han Dynasty people created the Hun Tian Yi, and believed that it was the system left over from the Zou and Yuheng, which is probably the case.
+
+古文：厥后代有制作。
+现代文：从那以后，每个朝代都有制作。
+English: Since then, every dynasty has produced wax.
+
+古文：大抵以六合、三辰、四游、重环凑合者，谓之浑天仪；以实体圆球，绘黄赤经纬度，或缀以星宿者，谓之浑天象。
+现代文：大概用六合、三辰、四游、重环凑合而成的，把它叫做浑天仪；用实体的圆殊，绘制黄道、赤道经纬度，或者把星宿连缀在上面的，便把它叫做浑天象。
+English: It is called the armillary sphere, which is probably made up of six, three, four, and heavy rings. The armillary sphere is called the armillary sphere when the ecliptic, the equator, the longitude and latitude are drawn with a solid circle, or the stars are attached to it.
+
+古文：其制虽有详略，要亦青蓝之别也。
+现代文：它的形制虽然有详有略，但主要的也只是青色与蓝色的区别。
+English: Although there are some details about its shape, the main difference is between cyan and blue.
+
+古文：外此则圭表、壶漏而已。
+现代文：除此之外，便只是圭表、壶漏罢了。
+English: Other than that, it's just a hiccup, a hiccup.
+
+古文：迨元作简仪、仰仪、窥几、景符之属，制器始精详矣。
+现代文：到了元代，造作简仪、仰仪、窥几、景符之类，制造的仪器纔变得精确、详备。
+English: By the Yuan Dynasty, instruments such as the jian instrument, the yang instrument, the spy watch, and the scenic symbols had been made, and the manufactured instruments had become precise and detailed.
+
+古文：明太祖平元，司天监进水晶刻漏，中设二木偶人，能按时自击钲鼓。
+现代文：明太祖平定元朝，司天监进献水晶刻漏，其内设计了二个木偶人，能够按照确定的时刻自动敲击钮鼓。
+English: When Emperor Taizu of the Ming Dynasty conquered the Yuan Dynasty, Emperor Jianwen presented a crystal engraving, in which two puppeteers were designed to automatically strike the button drums according to the determined time.
+
+古文：太祖以其无益而碎之。
+现代文：太祖认为它没有益处而把它打碎。
+English: The great-grandfather thought it was useless and smashed it.
+
+古文：洪武十七年，造观星盘。
+现代文：洪武十七年，制造观星盘。
+English: In the seventeenth year of Hongwu, he made a stargazing disk.
+
+古文：十八年，设观象台于鸡鸣山。二十四年，铸浑天仪。
+现代文：十八年，在鸡呜山设置观象台。二十四年，铸造浑天仪。
+English: In 18 years, the observatory was set up in Jiu Mountain, and in 24 years, the armillary sphere was cast.
+
+古文：正统二年，行在钦天监正皇甫仲和奏言： 南京观象台设浑天仪、简仪、圭表以窥测七政行度，而北京乃止于齐化门城上观测，未有仪象。
+现代文：正统二年，行在钦天监正皇甫仲和进言说： 南京观象台设置了浑天仪、简仪、圭表，用来探测七政的运行和度数，而北京只是在齐化门的城墙上观测，没有观测天象的仪器。
+English: In the second year of orthodoxy, Emperor Fuzhong and Jin said: Nanjing Observatory has set up a Hunten instrument, Jane instrument and Gui instrument to detect the operation and frequency of the Seven Kingdoms, while Beijing only observes on the city wall of Qihua Gate, and there is no instrument for observing celestial objects.
+
+古文：乞令本监官往南京，用木做造，挈赴北京，以较验北极出地高下，然后用铜别铸，庶几占测有凭。 
+现代文：请求让本监官到南京去，用木头制造仪器，带到北京，用来比较验证北极出地的高低，然后用铜另外铸造，希望能使占卜、预测有所依凭。 
+English: The request was that the inspector should go to Nanjing, make an instrument out of wood, bring it to Beijing, use it to compare and verify the height of the North Pole, and then cast it separately out of copper, hoping that the divination and prediction would be supported.
+
+古文：从之。
+现代文：朝廷接受了他的奏请。
+English: I followed his advice.
+
+古文：明年冬，乃铸铜浑天仪、简仪于北京。御制《观天器铭》。
+现代文：第二年冬天，便在北京铸造了铜制的潭天仪和简仪。皇帝亲自写了《观天器铭》。
+English: In the winter of the following year, the bronze Tang Tian Yi and Jian Yi were cast in Beijing. The emperor personally wrote the "Observation of the Heavens."
+
+古文：其词曰： 粤古大圣，体天施治，敬天以心，观天以器。
+现代文：铭文说： 古代的大圣人，体察上天，施行政治，用诚心敬重天帝，用仪器观测天象。
+English: The inscription says: The great sage of ancient times, contemplated the heavens, carried out politics, respected the heavenly emperor with sincerity, and observed the celestial bodies with instruments.
+
+古文：厥器伊何？
+现代文：其仪器是什么？
+English: What is its instrument?
+
+古文：璇玑玉衡。
+现代文：是璇玑和玉衡。
+English: It is made of tungsten and tungsten carbide.
+
+古文：玑象天体，衡审天行。
+现代文：璇玑摹仿上天的形体，玉衡察知上天的运行。
+English: Imitating the shape of the heavens, Tamahira observes the movement of the heavens.
+
+古文：历世代更，垂四千祀，沿制有作，其制寝备。
+现代文：历朝更替，流传了四千年，沿袭旧而又有所创新，它的体制渐渐完备。
+English: It has been passed down for four thousand years through the succession of dynasties, inheriting the old system but innovating, and its system is gradually complete.
+
+古文：即器而观，六合外仪，阳经阴纬，方位可稽。
+现代文：就仪器而论，六合仪为外仪，阳为经，阴为纬，方位可以稽考。
+English: As far as the instrument is concerned, the six-in-one instrument is the external instrument, the yang is the sutra, the yin is the latitude, and the orientation can be audited.
+
+古文：中仪三辰，黄赤二道，日月暨星，运行可考。
+现代文：三辰仪为中仪，黄道与赤道，日月星辰的运行可以考察。
+English: The three-hour clock is the central clock, the ecliptic and the equator, and the movement of the sun, moon and stars can be examined.
+
+古文：内仪四游，横箫中贯，南北东西，低昂旋转。
+现代文：四游仪焉内仪，似横箫从中贯穿，能够南北东西，高低旋转。
+English: The circumferential gears and inner gears, like a cross-beam, run through the middle, and can rotate north-south, east-west, high and low.
+
+古文：简仪之作，爰代玑衡，制约用密，疏朗而精。
+现代文：简仪的制作，于是代替了璇玑玉衡，制造简约，使用细密，形制稀疏爽朗而又精致。
+English: The production of simple instruments was thus replaced by the enameled yu heng, which is simple to manufacture, delicate to use, and has a sparse, refreshing, and delicate shape.
+
+古文：外有浑象，反而观诸，上规下矩，度数方隅。
+现代文：此外有浑天仪象，反过来观看，上方呈圆形，下方呈矩形，以测定度数方位。
+English: In addition, there is a cloudy sky instrument image, viewed in reverse, with a circular shape above and a rectangular shape below, to measure the degree and direction.
+
+古文：别有直表，其崇八尺，分至气序，考景咸得。
+现代文：另外设计有直表，它的高度为八尺，春分、秋分、夏至、冬至等节气，经过考察都能够得出结论。
+English: In addition, there is a straight table designed, its height is eight feet, the vernal equinox, autumnal equinox, summer solstice, winter solstice and other solar terms, all of which can be concluded after examination.
+
+古文：县象在天，制器在人，测验推步，靡忒毫分。
+现代文：天象在于上苍，制造仪器在于人为，测量验证计算，不差分毫。
+English: The celestial phenomenon lies in the heaven, the manufacturing instrument lies in the man-made, the measurement, verification and calculation are all the same.
+
+古文：昔作今述，为制弥工，既明且悉，用将无穷。
+现代文：古代制作，现在继承，制造的仪器更加精工，既明确又详备，提供使用将没有穷尽。
+English: Instruments made in ancient times, and now inherited, are more elaborate, both clear and detailed, and there will be no end to their use.
+
+古文：惟天勤民，事天首务，民不失宁，天其予顾。
+现代文：上天尽力帮助人民，侍奉上天是首先应作的事，人民不失于安宁，上天将会顾念人民。
+English: Heaven will do its best to help the people. Serving Heaven is the first thing to do. The people will not lose their peace. Heaven will take care of the people.
+
+古文：政纯于仁，天道以正，勒铭斯器，以励予敬。 
+现代文：政治敦厚在于仁政，上天的直道在于端正，在这个器物上镑刻铭文，用以勉励我们恭敬谨慎。 
+English: The strength of politics lies in benevolence, and the straight path of heaven lies in rectitude. An inscription is engraved on this object to encourage us to be respectful and prudent.
+
+古文：十一年，监臣言： 简仪未刻度数，且地基卑下，窥测日星，为四面台宇所蔽。
+现代文：正统十一年，钦天监臣说： 简仪没有刻出度数，并且地基低矮，观测日月星辰时，被四面的亭台房屋所遮蔽。
+English: In the eleventh year of orthodoxy, Qin Tian said: Jian Yi did not carve the degree, and the foundation was low. When observing the sun, moon and stars, it was obscured by the pavilion houses on all sides.
+
+古文：圭表置露台，光皆四散，影无定则。
+现代文：圭表安装在露天台上，光影都向四周散布，没有一定的标准。
+English: Gui's table is installed on an open-air stage, and the light and shadow are spread all around, without a certain standard.
+
+古文：壶漏屋低，夜天池促，难以注水调品时刻。
+现代文：壶漏屋低矮，夜天池狭窄，难以注水调整时刻。
+English: The spillway house is low, and the night sky pool is narrow, making it difficult to adjust the time of water injection.
+
+古文：请更如法修造。 
+现代文：请求重新按照一定的法则修造。 
+English: The request is to rebuild according to certain rules.
+
+古文：报可。
+现代文：上报朝廷后，获得同意。
+English: Reimbursement agreed.
+
+古文：明年冬，监正彭德清又言： 北京北极出地度、太阳出入时刻与南京不同，冬夏昼长夜短亦异。
+现代文：第二年冬天，钦天监正彭德清又说： 北京，北极出地的度数、太阳出入的时刻与南京不一样，冬夏白天长夜晚短的情况也不相同。
+English: In the winter of the following year, Peng Deqing, the chief overseer of the Qing Dynasty, said: Beijing, the frequency of the Arctic expedition and the time of the sun's rising and setting are different from Nanjing, and the situation of long days and short nights in winter and summer is also different.
+
+古文：今宫禁及官府漏箭皆南京旧式，不可用。 
+现代文：现在皇宫和官府的漏箭都是南京旧有的体式，不能使用。 
+English: Now the imperial palace and the government offices are all the old style of Nanjing, which cannot be used.
+
+古文：有旨，令内官监改造。
+现代文：皇帝有旨，命令内官监督改造。
+English: The emperor had a will and ordered the inner official to supervise the transformation.
+
+古文：景泰六年又造内观象台简仪及铜壶。
+现代文：景泰六年，又制造内观象台简仪和铜壶。
+English: In the sixth year of Jing Tai, he also made the indoor observation platform Jane instrument and the copper pot.
+
+古文：成化中，尚书周洪谟复请造璇玑玉衡，宪宗令自制以进。
+现代文：成化年间，尚书周洪谟又请求制造璇玑玉衡，宪宗皇帝命令他亲自制造，然后进献给朝廷。
+English: During the reign of Chenghua, Shangshu Zhou Hongmu also requested the manufacture of jade scales, and Emperor Xianzong ordered him to manufacture them himself and then present them to the imperial court.
+
+古文：十四年，监臣请修晷影堂，从之。
+现代文：成化十四年，钦天监臣请求修建晷影堂，朝廷听从了这个请求。
+English: In the 14th year of Chenghua, Qingtian Jurchen requested the construction of the Yingying Hall, and the imperial court complied with this request.
+
+古文：弘治二年，监正吴昊言： 考验四正日度，黄赤二道应交于壁轸。
+现代文：弘治二年，钦天监正昊昊说： 考察验证四正，太阳在赤道上的运行度数，黄道与赤道应在壁干相交。
+English: In the second year of Hongzhi, Qin Tianjun Zheng Hao said: Inspection and verification are four positive, the sun runs on the equator, the ecliptic and the equator should intersect at the wall stem.
+
+古文：观象台旧制浑仪，黄赤二道交于奎轸，不合天象，其南北两轴不合两极出入之度，窥管又不与太阳出没相当，故虽设而不用。
+现代文：观象台原先制造的潭天仪，黄道与赤道在奎斡相交，与天象不相符合，它的南、北两轴与两极出入的度数不相合，窥管器与太阳的出没也不相当，所以，虽然已设置却不能使用。
+English: The zodiac and the equator intersect at the equator, which is not consistent with the celestial phenomenon. Its south and north axes do not match the degrees of the poles, and the speculum does not match the sun. Therefore, although it has been set up, it cannot be used.
+
+古文：所用简仪则郭守敬遗制，而北极云柱差短，以测经星去极，亦不能无爽。
+现代文：所使用的简仪乃是郭守敬遣留下来的东西，但是北极的云柱略短，用它来测定经星与北极的距离，也不能没有差误。
+English: The simple instrument used is something left behind by Guo Shoujun, but the cloud pillar at the North Pole is slightly shorter, and it cannot be used to measure the distance between the star and the North Pole without error.
+
+古文：请修改或别造，以成一代之制。 
+现代文：请求修改或者另外重造，以此来成为一个期代的定制。 
+English: Request modifications or additional remodeling to make it a one-time customization.
+
+古文：事下礼部，覆议令监副张绅造木样，以待试验，黄道度许修改焉。
+现代文：事情下发到礼部，又讨论让钦天监副张绅造出木样，以供试验，黄道的度数允许修改。
+English: The matter was sent to the Ministry of Rites and Ceremonies, and it was also discussed to have the deputy celestial inspector Zhang Sheng make a wooden sample for testing, and the degree of the zodiac was allowed to be modified.
+
+古文：正德十六年，漏刻博士朱裕复言： 晷表尺寸不一，难以准测，而推算历数用南京日出分秒，似相矛盾。
+现代文：正德十六年，执掌漏刻的博士朱裕又上疏说： 日晷、日表的尺寸不一样，难以准确测量，而推算历法用南京日出的分秒，似乎有矛盾。
+English: In the 16th year of Zhengde, Dr. Zhu Yu, who was in charge of the missing engraving, said: The sundial and the sundial are different in size and are difficult to measure accurately, and there seems to be a contradiction in using the calendar to calculate the minutes and seconds of the Nanjing sunrise.
+
+古文：请敕大臣一员总理其事，铸立铜表，考四时日中之影。
+现代文：请求命令大臣一名，总管这件事，铸造设立铜表，考察四时中午的日影。
+English: I request that you order a minister, who is in charge of this matter, to cast and set up a bronze watch to observe the sun's shadow at four o'clock noon.
+
+古文：仍于河南阳城察旧立土圭，以合今日之晷，及分立圭表于山东、湖广、陕西、大名等处，以测四方之影。
+现代文：仍旧在河南阳城察勘过去所立的土圭，以与今天的日晷相合，并且分别在山东、湖广、陕西、大名等地设立圭表，以此来测定各地的日影。
+English: In order to measure the shadow of the sun in various regions, Gui tables were set up in Shandong, Hukang, Shaanxi, and Daimyo in order to coincide with today's sundial.
+
+古文：然后将内外晷影新旧历书错综参验，撰成定法，庶几天行合而交食不谬。 
+现代文：然后把京内和各地的晷影，新旧历书的记载进行综合比较，互相验证，撰写成确定的法则，希望能够与天体的运行相符合，日月的亏食不悖谬。 
+English: Then, the records of the old and new almanacs in Beijing and around the country will be comprehensively compared, mutually verified, and compiled into a definite rule. It is hoped that it will be consistent with the movement of celestial bodies, and the eclipse of the sun and moon is not absurd.
+
+古文：疏入不报。
+现代文：奏疏呈入，没有得到答复。
+English: However, he did not inform the emperor about it after he submitted his resignation.
+
+古文：嘉靖二年修相风杆及简、浑二仪。
+现代文：嘉靖二年兴建相风杆和简、浑二仪器。
+English: In the second year of Jiajing, the phase wind rod and the Jane and Hun instruments were built.
+
+古文：七年始立四丈木表以测晷影，定气朔。
+现代文：七年，开始设立四丈高的木表来测量日影，确定节气、岁时。
+English: In the seventh year, a four-story-high wooden clock was set up to measure the sun's shadow and determine the solar terms and the time of year.
+
+古文：由是钦天监之立运仪、正方案、悬晷、偏晷、盘晷诸式具备于观象台，一以元法为断。
+现代文：因此钦天监建立运仪，矫正方案、悬晷、偏晷、盘晷各种样式的仪器在观象台都已具备，全部按照元朝的制度来决断。
+English: Therefore, the Qin Heavenly Supervisor set up the operation instrument, the correction scheme, the hanging anchor, the partial anchor, and the fixed anchor of various types of instruments have been available at the observatory, all of which are decided according to the system of the Yuan Dynasty.
+
+古文：万历中，西洋人利玛窦制浑仪、天球、地球等器。
+现代文：万历年问，西洋人利玛窦制造浑天仪、天球仪、地球仪等仪器。
+English: For thousands of years, the Western man Ricci made instruments such as armillary sphere, celestial globe, and globe.
+
+古文：仁和李之藻撰《浑天仪说》，发明制造施用之法，文多不载。
+现代文：仁和人李之藻撰写《浑天仪说》，阐发制造、使用仪器的方法，因文字太长，这里不记载。
+English: Because the text is too long, it is not recorded here. It was written by Jin and the human Li Zhizang in "Huntian Yi Said" to explain the methods of manufacturing and using instruments.
+
+古文：其制不外于六合、三辰、四游之法。
+现代文：他的制作没有超出六合仪、三辰仪、四游仪的旧法。
+English: His production did not go beyond the old methods of the six-in-one, three-in-one, and four-in-one.
+
+古文：但古法北极出地，铸为定度，此则子午提规，可以随地度高下，于用为便耳。
+现代文：只是古代的方法是北极出地，铸刻成了确定不变的度数，这些仪器却子午提规，可以随着地的度数升高或降低，使用方便罢了。
+English: However, the ancient method was to excavate the earth from the North Pole, and the casting was used to determine the constant degree. These instruments, however, were calibrated by the meridian and could be used as the degree of the earth increased or decreased, so they were convenient to use.
+
+古文：崇祯二年，礼部侍郎徐光启兼理历法，请造象限大仪六，纪限大仪三，平悬浑仪三，交食仪一，列宿经纬天球一，万国经纬地球一，平面日晷三，转盘星晷三，候时钟三，望远镜三。
+现代文：崇祯二年，礼部侍郎徐光启兼管历法，请求制造六台象限大仪，三台纪限大仪，三台平悬浑仪，一台交食仪，一台列宿经纬天球仪，一台万国经纬地球仪，三台平面日晷，三台转盘星晷，三台候时钟，三台望远镜。
+English: In the second year of Chongxun, Xu Guangqi, the attendant of the Ceremonial Department, who was also in charge of the calendar, requested the manufacture of six quadrant instruments, three chronology instruments, three flat suspension instruments, one intersection instrument, one geodetic celestial globe, one universal geodetic globe, three flat sundials, three turntable dials, three clocks, and three telescopes.
+
+古文：报允。
+现代文：皇上批覆同意。
+English: The Emperor gave his approval.
+
+古文：已，又言：定时之法，当议者五事：一曰壶漏，二曰指南针，三曰表臬，四曰仪，五曰晷。
+现代文：后来又进言：确定时刻的方法，应当斟酌的有五件事：一是壶漏，二是指南针，三是表臬，四是仪器，五是日晷。
+English: Later, he added: There are five things that should be considered in determining the time: one is the jug, the second is the compass, the third is the watch, the fourth is the instrument, and the fifth is the sundial.
+
+古文：漏壶，水有新旧滑濇则迟疾异，漏管有时塞时磷则缓急异。
+现代文：漏壶，因为水有新水、陈水、滑水、涩水之分，所以水流的快慢便不相同；如果漏管有时而堵塞，时而通畅的现象，那磨水流的快慢也不同。
+English: Leaking pot, because the water is divided into fresh water, old water, slippery water and astringent water, so the speed of the water flow is different; if the leakage pipe is sometimes blocked and sometimes smooth, the speed of the grinding water flow is also different.
+
+古文：正漏之初，必于正午初刻。
+现代文：校正壶漏的初始，必定在正午初刻。
+English: The start of the leak correction must be in the early afternoon.
+
+古文：此刻一误，靡所不误。
+现代文：如果这个时刻一旦出现误差，以后便没有不错误的。
+English: If there is a mistake at this time, there will be no mistake in the future.
+
+古文：故壶漏特以济晨昏阴晦仪晷表臬所不及，而非定时之本。
+现代文：所以壶漏祇是用来弥补晨昏阴晦仪晷表臬的不足之处，而不是确定时辰的根本。
+English: Therefore, the omission of the kettle is only used to make up for the shortcomings of the morning and evening, rather than to determine the fundamental time.
+
+古文：指南针，术人用以定南北，辨方正位咸取则焉。
+现代文：指南针，占卜、星相之人用来确定南北，辨别方向，端正位置，都取它作为准则。
+English: The compass, diviners, and astrologers use it as a guide to determine north and south, discern direction, and correct position.
+
+古文：然针非指正子午，曩云多偏丙午之间。
+现代文：但是针并不是指向正南正北，遇去称多偏在丙午之间。
+English: However, the needle does not point due south due north, and it is said to be mostly between noon and dusk.
+
+古文：以法考之，各地不同。
+现代文：用天文法则考察，各地并木一样。
+English: When examined using the laws of astronomy, it is the same everywhere.
+
+古文：在京师则偏东五度四十分。
+现代文：在京城便偏束五度四十分度。
+English: In Kyoto, the deviation was 5 degrees and 40 minutes.
+
+古文：若凭以造晷，冬至午正先天一刻四十四分有奇，夏至午正先天五十一分有奇。
+现代文：如果凭此制造日晷，冬至正午十二时先于天时一刻四十四分有余，夏至正午十二时先于天时五十一分有余。
+English: If a sundial were made with this method, the winter solstice noon would be more than a quarter of an hour and forty-four minutes before noon, and the summer solstice noon would be more than fifty-one minutes before noon.
+
+古文：若表臬者，即《考工》匠人置之法，识日出入之影，参诸日中之影，以正方位。
+现代文：如说表臬，就是《考工记》设置测日影的表柱之法，标记太阳出入的影子，参考太阳在中午的影子，用来端正方位。
+English: For example, the dial is the method of setting the dial to measure the rising and setting of the sun's shadow, marking the shadow of the sun's entry and exit, referring to the shadow of the sun at noon, and used to correct the direction.
+
+古文：今法置小表于地平，午正前后累测日影，以求相等之两长影为东西，因得中间最短之影为正子午，其术简甚。
+现代文：现在的办法是在地平面放置小表，中午前后多次测定日影，而探求相等的两个畏日影为束面和西画，于是得到中间最短的日影为正南正北，它的办法十分简单。
+English: The current method is to place a small table at the ground level, and measure the shadow of the sun several times before and after noon, and explore the two equal shadows of the sun as the bundle surface and the western painting, so that the shortest shadow in the middle is due south due north. Its method is very simple.
+
+古文：仪者，本台故有立运仪，测验七政高度。
+现代文：仪，本台原有立运仪，测定验证日月五星的高度。
+English: The station originally had an altimeter to measure and verify the altitude of the five stars of the sun and moon.
+
+古文：臣用以较定子午，于午前屡测太阳高度，因最高之度，即得最短之影，是为南北正线。
+现代文：我用它来考察断定南北，在午前多次测量太阳的高度，从最高的度数，便得到最短的日影，造就是南北正线。
+English: I used it to investigate and determine the north and south, measuring the height of the sun several times in the morning. From the highest degree, I got the shortest shadow, which is the north-south straight line.
+
+古文：既定子午卯酉之正线，因以法分布时刻，加入节气诸线，即成平面日晷。
+现代文：已经确定了子午卯酉的正线，于是用历法标准分散时刻，加入节气等线，便构成平面日晷。
+English: The direct line of the meridian meridian has been determined, so the calendar standard dispersion time is used, and the solar terms are added to form a plane sundial.
+
+古文：又今所用员石欹晷是为赤道晷，亦用所得正子午线较定。
+现代文：另外，现在所使用的员石欹晷，这就是赤道晷，也用所获得的正子午线来考察确定。
+English: In addition, the compass currently in use, the equatorial compass, is also determined by examining the obtained meridian.
+
+古文：此二晷皆可得天之正时刻，所为昼测日也。
+现代文：这二个晷都能够得到天象的正时刻，造就是白昼测日的方法。
+English: Both of these clocks are able to obtain the exact time of the celestial event, creating a method of measuring the sun during the day.
+
+古文：若测星之晷，实《周礼》夜考极星之法。
+现代文：如果是测定星星的晷，实为《周礼》中夜考极星的办法。
+English: If it is to measure the brightness of the stars, it is actually the method of the midnight examination of the pole star in the "Weekly Ritual."
+
+古文：然古时北极星正当不动之处，今时久渐移，已去不动处三度有奇，旧法不可复用。
+现代文：但是，古代北极星正处在不移动的地方，现在由于时代久远，渐渐移动，已经离开原先不移动的地方三度有余，旧有的方法不能再使用。
+English: However, the ancient North Star was in a place where it did not move. Now, due to the passage of time, it has gradually moved and has left the place where it did not move more than three times. The old method can no longer be used.
+
+古文：故用重盘星晷，上书时刻，下书节气，仰测近极二星即得时刻，所谓夜测星也。
+现代文：所以使用重盘星晷，上面写出时刻，下面写出节气，仰面测量靠近北极二星，便得到了时刻，这就是所说的夜测星。
+English: Therefore, the time was obtained by using a heavy disc star, writing the time on the top, writing the solar terms below, and measuring the two stars near the North Pole on the back. This is called night star measurement.
+
+古文：七年，督修历法右参政李天经言：
+现代文：崇祯七年，督修历法右参政李天经奏言：
+English: In the seventh year of the reign of Emperor Chongzhen, Li Tianjing, the supervisor of the study of the calendar and the law and a right-wing political party member, made a speech:
+
+古文：辅臣光启言定时之法，古有壶漏，近有轮钟，二者皆由人力迁就，不如求端于日星，以天合天，乃为本法，特请制日晷、星晷、望远镜三器。
+现代文：辅臣徐光启论说确定时刻的办法，古代有壶漏，近代有轮钟，这二样都是靠人力去迁就天时，不如从日星中去寻求正理，以天合天，纔是根本的方法，特意请求制造日晷、星晷、望远镜三样仪器。
+English: Vice-Minister Xu Guangqi said that the method of determining the time, in ancient times there was a kettle leak, in modern times there is a wheel clock, both of these are by manpower to adapt to the time of day, it is better to seek the truth from the sun and stars, with the sky and the sky, the beak is the fundamental method, specially requested the manufacture of sundial, star beak, telescope three instruments.
+
+古文：臣奉命接管，敢先言其略。
+现代文：我奉命接收管理，冒昧地先谈谈它的梗概。
+English: I've been asked to take over the administration, and I'd like to take the liberty of giving you a brief overview.
+
+古文：日晷者，砻石为平面，界节气十三线，内冬夏二至各一线，其余日行相等之节气，皆两节气同一线也。
+现代文：日晷是打磨石头形成平面，用十三条线来划定节气，其中冬至、夏至各一条线，其余日行柏等的节气，都是两个节气占同一条线。
+English: The sundial is made of polished stone to form a plane. Thirteen lines are used to delineate the solar terms, of which the winter solstice and summer solstice each have one line, and the remaining solar terms, such as the solar solstice, are two solar terms that occupy the same line.
+
+古文：平面之周列时刻线，以各节气太阳出入为限。
+现代文：平面的周围列出时刻线，以各节气太阳出入为时限。
+English: A time line is drawn around the plane, with each solar eclipse as the time limit.
+
+古文：又依京师北极出地度，范为三角铜表置其中。
+现代文：又依照京城北极出地的度数，铸范成三角形的铜表放置于其中。
+English: According to the number of times the capital's North Pole has been excavated, a triangular-shaped copper watch is placed in it.
+
+古文：表体之全影指时刻，表中之锐影指节气。
+现代文：表体的全影指明时刻，表中的锐影指明节气。
+English: The full shadow of the face indicates the hour, the sharp shadow in the table indicates the solar terms.
+
+古文：此日晷之大略也。
+现代文：这就是日晷的大概情况。
+English: This is the general situation in Japan.
+
+古文：星晷者，治铜为柱，上安重盘。
+现代文：星晷是冶炼铜铸成柱子，柱上安置重盘。
+English: The star is a column cast from smelted copper, on which a heavy disc is placed.
+
+古文：内盘镌周天度数，列十二宫以分节气，外盘镌列时刻，中横刻一缝，用以窥星。
+现代文：内盘镑刻一周天的度数，排列十二宫来剀分节气；外盘镑刻排列时刻；中间横着刻一条缝，用来窥测星辰。
+English: The inner disk engraves the degree of the day of the week, arranging the twelve houses to mark the solar terms; the outer disk engraves the time of the arrangement; a slit is engraved across the middle, used to spy on the stars.
+
+古文：法将外盘子正初刻移对内盘节气，乃转移铜盘北望帝星与句陈大星，使两星同见缝中，即视盘面锐表所指，为正时刻。
+现代文：办法是把外盘的子正初刻移动对着内盘的节气，于是转动铜盘，向北窥望帝星与句陈大星，使这两颗星同时出现在缝中，便看盘面锐表所指的地方，就是正时刻。
+English: The method is to move the hour hand of the outer dial to face the solar terms of the inner dial, and then turn the copper dial to look northward at the Emperor's Star and the Great Star of Confucius, so that the two stars appear at the same time in the gap, and then look at the place indicated by the dial's sharp dial, which is the exact time.
+
+古文：此星晷之大略也。
+现代文：这就是星晷的大概情况。
+English: This is the general situation of the asteroids.
+
+古文：若夫望远镜，亦名窥筒，其制虚管层叠相套，使可伸缩，两端俱用玻璃，随所视物之远近以为长短。
+现代文：至于望速镜，又名窥筒。它的形制是空管层层重叠相套，让它能够伸长和收缩，两端都使用玻璃，随着观察物体的远近，或拉长，或缩短。
+English: As for the telescope, also known as a speculum, it is made up of layers of overlapping hollow tubes, allowing it to expand and contract. Both ends are made of glass, which can be stretched or shortened as the object is observed from far and near.
+
+古文：不但可以窥天象，且能摄数里外物如在目前，可以望敌施炮，有大用焉。
+现代文：不但可以窥探天象，而且能够摄取数里之外的物体，犹如就在眼前一般，可以用它来瞭望敌人，施放炮火，有很大的用处。
+English: Not only can it spy on celestial objects, but it can also capture objects several miles away as if they were right in front of it. It can be used to see the enemy and fire artillery, which is very useful.
+
+古文：至于日晷、星晷皆用措置得宜，必须筑台，以便安放。
+现代文：至于日晷、星晷都要安置恰当，必须修筑台阁，便于安放。
+English: As for the sundial and the star beacon, they must be placed properly, and a platform must be built to facilitate their placement.
+
+古文：帝命太监卢维宁、魏国徵至局验试用法。
+现代文：皇帝命令太监卢维宁、魏国征到官署试验具体用法。
+English: The emperor ordered the eunuchs Lu Wening and Wei Guo to come to the government office to test the specific usage.
+
+古文：明年，天经又请造沙漏。
+现代文：第二年，李天经又请求制造沙漏。
+English: The following year, Li Tianjing again requested the production of an hourglass.
+
+古文：明初，詹希元以水漏至严寒水冻辄不能行，故以沙代水。
+现代文：明代初年，詹希元因水漏到严寒水冻的时候就不能使用，所以用沙来代替水。
+English: In the first year of the Ming Dynasty, Jian Xiyuan could not be used when the water leaked and froze, so sand was used instead of water.
+
+古文：然沙行太疾，未协天运，乃以斗轮之外复加四轮，轮皆三十六齿。
+现代文：但是，沙流动太快，与天体的运行不协调，于是除用斗轮之外，又增加四轮，每一轮都有三十六个齿。
+English: However, the sand flowed too fast and did not coordinate with the movement of the celestial bodies, so in addition to the bucket wheel, four more wheels were added, each with thirty-six teeth.
+
+古文：厥后周述学病其窍太小，而沙易堙，乃更制为六轮，其五轮悉三十齿，而微裕其窍，运行始与晷协。
+现代文：此后，周述学不满于它的窍孔太小，而沙容易堙塞，于是从新制成六轮，其中五个轮全部是三十个齿，而略微扩宽其窍孔，运行起来纔与晷协合。
+English: After that, Zhou Shushu was dissatisfied with the fact that its spigot was too small, and the sand was easily blocked. Therefore, six wheels were newly made, of which five wheels were all thirty teeth, and the spigot was slightly widened, and the roller and roller were combined to run.
+
+古文：天经所请，殆其遗意欤。
+现代文：李天经的请求，大概就是周述学的遣意吧！
+English: Li Tianjing's request is probably Zhou Shuxue's intention!
+
+古文：夫制器尚象，乃天文家之首务。
+现代文：制造仪器尊崇天象，乃是天文家首要追求的。
+English: The manufacture of instruments honoring the celestial bodies is the primary pursuit of astronomers.
+
+古文：然精其术者可以因心而作。
+现代文：但是精通这门学问的人，可以凭借自己的想法而创新。
+English: But those who are well versed in this field can innovate with their own ideas.
+
+古文：故西洋人测天之器，其名未易悉数，内浑盖、简平二仪其最精者也。
+现代文：所以西详人测定天象的仪器，它的名字不容易全部敷出来，其中浑盖、简平二仪器是最精良的。
+English: Therefore, it is not easy for Western observers to find out all the names of the instruments used to measure celestial objects. Of these, the Hunkai and Jianping instruments are the most sophisticated.
+
+古文：其说具见全书，兹不载。
+现代文：其解说全部见于全书，这里不再记载。
+English: All of the explanations can be found throughout the book, but they are not recorded here.
+
+古文：极度晷影
+现代文：极度晷影
+English: Extremely gloomy
+
+古文：宣城梅文鼎曰：
+现代文：宣城人梅文鼎说：
+English: Mei Wenting, a resident of Xuancheng, said:
+
+古文：极度晷影常相因。
+现代文：极度与晷影常常相关。
+English: The extreme is often associated with the mirage.
+
+古文：知北极出地之高，即可知各节气午正之影。测得各节气午正之影，亦可知北极之高。
+现代文：知道了北极出地的高度，便能够知道各节气午正的晷影；测量出各节气午正的晷影，也能够知道北极的高度。
+English: If you know the height of the North Pole from the ground, you can know the shadow of each solar noon; if you measure the shadow of each solar noon, you can also know the height of the North Pole.
+
+古文：然其术非易易也。
+现代文：但是，有关它们的测量方法却不容易改变。
+English: But the way they are measured is not easily changed.
+
+古文：圭表之法，表短则分秒难明，表长则影虚而淡。
+现代文：圭表的方法，如果表短，分秒刻度便难以显明；如果表长，日影便虚浮而暗淡。
+English: If the watch is short, the minute and second scales will be difficult to reveal; if the watch is long, the sun shadow will be vain and dim.
+
+古文：郭守敬所以立四丈之表，用影符以取之也。
+现代文：造就是郭守敬要设立四丈高的圭表，用影符来取时刻的原因。
+English: This is the reason why Guo Shoujing wanted to set up a four-story-high Gui table and use shadow symbols to mark the time.
+
+古文：日体甚大，竖表所测者日体上边之影，横表所测者日体下边之影，皆非中心之数，郭守敬所以于表端架横梁以测之也，其术可谓善矣。
+现代文：日体很大，用竖表测量到的是日体上边的日影，用横表测量到的是日体下边的日影，都不是中心的度数，造就是郭守敬要在圭表顶端架设横梁来进行测量的原因，他的方法可以称得上完善。
+English: The sun is very large. The sun shadow on the upper side of the sun is measured by the vertical table, and the sun shadow on the lower side of the sun is measured by the horizontal table. Both are not the central degree. This is the reason why Guo Shoujing set up a beam at the top of the Gui table to carry out the measurement. His method can be called perfect.
+
+古文：但其影符之制，用铜片钻针芥之孔，虽前低后仰以向太阳，但太阳之高低每日不同，铜片之欹侧安能俱合。
+现代文：但是，他的影符的制作是用铜片钻成针、芥那样的小孔，虽然前低后仰，以便朝着太阳，但是，太阳的高低每天都不相同，铜片的倾斜怎么能够完全与它相合呢？
+English: However, the production of his shadow sign is to drill a small hole like a needle or a mustard with a piece of copper. Although it leans back and forth to face the sun, the sun's height varies from day to day. How can the tilt of the piece of copper completely match it?
+
+古文：不合则光不透，临时迁就，而日已西移矣。
+现代文：而不相合，则光亮透不进去，临时迁就使之透光，但太阳已经向西移动了。
+English: But if they do not coincide, then the light does not penetrate, and the sun has moved to the west.
+
+古文：须易铜片以圆木，左右用两板架之，如车轴然，则转动甚易。
+现代文：所以必须用圆木替换铜片，左右用两块板子架上，如同车轴一样，那么转动起来就很容易了。
+English: Therefore, it is necessary to replace the copper sheet with a log, and use two boards on the left and right, just like the axle, so it is easy to turn.
+
+古文：更易圆孔以直缝，而用始便也。
+现代文：再用直缝替换圆孔，使用起来纔方便。
+English: Then replace the round hole with a straight seam, making it easier to use.
+
+古文：然影符止可去虚淡之弊，而非其本。
+现代文：但是影符只能避免虚浮暗淡的弊端，而不是它的根本。
+English: But the shadow symbol can only avoid the drawbacks of vanity and dimness, but not its essence.
+
+古文：必须正其表焉，平其圭焉，均其度焉，三者缺一，不可以得影。
+现代文：必须端正其表，置平其圭，均衡其度数，三方面缺少任何一点都不能获得准确的日影。
+English: It is necessary to correct its table, level its key, and balance its degree. If any one of the three aspects is missing, it is impossible to obtain an accurate sun shadow.
+
+古文：三者得矣，而人心有粗细，目力有利钝，任事有诚伪，不可不择也。
+现代文：即使三方面都达到了要求，但人心有粗有细，目力有利有钝，作事有踏实有虚浮，所以不能不选择。
+English: Even if all three aspects meet the requirements, but the human heart has coarse and fine, the eyes are advantageous and dull, and the work is solid and vain, so we must choose.
+
+古文：知乎此，庶几晷影可得矣。
+现代文：知道了这个道理，晷影差不多便可以获得了。
+English: If you know this, you can almost get a gong.
+
+古文：西洋之法又有进焉。
+现代文：西洋的方法又有所改进。
+English: Western methods have also improved.
+
+古文：谓地半径居日天半径千余分之一，则地面所测太阳之高，必少于地心之实高，于是有地半径差之加。
+现代文：认为地半径占日天半径的干余分之一，那么在地面上测定的太阳高度，必定少于地心的实际高度，于是便要加上地半径的差额。
+English: If the radius of the earth is considered to be one-third of the radius of the sun, then the height of the sun measured on the ground must be less than the actual height of the earth's center, so the difference in the radius of the earth must be added.
+
+古文：近地有清蒙气，能升卑为高，则晷影所推太阳之高，或多于天上之实高，于是又有清蒙差之减。
+现代文：接近地面有清蒙之气，能够把低升高，那么，晷影所推算的太阳高度，有时便要多于太阳的实际高度，于是要减去清蒙差额。
+English: Close to the ground, there is a clear and cloudy atmosphere, which can raise the low, so the height of the sun calculated by the shadow is sometimes more than the actual height of the sun, so it is necessary to subtract the clear and cloudy difference.
+
+古文：是二差者，皆近地多而渐高渐减，以至于无，地半径差至天顶而无，清蒙差至四十五度而无也。
+现代文：这二种差额都是接近地面便多，渐渐升高，差额便渐渐减少，以至于没有差额。地半径的差额到天顶便没有了，清蒙差额到四十五度便没有了。
+English: These two kinds of differences are close to the ground and more, and gradually higher, the difference is gradually reduced, so that there is no difference. The difference in ground radius to the zenith is gone, and the difference in cloudiness to forty-five degrees is gone.
+
+古文：崇祯初，西洋人测得京省北极出地度分：北京四十度，南京三十二度半，山东三十七度，山西三十八度，陕西三十六度，河南三十五度，浙江三十度，江西二十九度，湖广三十一度，四川二十九度，广东二十三度，福建二十六度，广西二十五度，云南二十二度，贵州二十四度。
+现代文：崇祯初年，西洋人测量出京省北极出地的度分：北京四十度，一周天三百六十度，每度六十分计算，下同。直京三十二度半，山东三十七度，山西三十八度，陕西三十六度，河南三十五度，浙江三十度，江西二十九度，湖广三十一度，四川二十九度，广东二十三度，福建二十六度，广西二十五度，云南二十二度，贵州二十四度。
+English: In the first year of Chongzhen, Westerners measured the degree of Beijing's Arctic outpost: Beijing 40 degrees, 360 degrees a day for a week, each degree calculated at 60 minutes, the same below. Zhijing 32 and a half degrees, Shandong 37 degrees, Shanxi 38 degrees, Shaanxi 36 degrees, Henan 35 degrees, Zhejiang 30 degrees, Jiangxi 29 degrees, Hukang 31 degrees, Sichuan 29 degrees, Guangdong 23 degrees, Fujian 26 degrees, Guangxi 25 degrees, Yunnan 22 degrees, Guizhou 24 degrees.
+
+古文：又以十二度度六十分之表测京师各节气午正日影：夏至三度三十三分，芒种、小暑三度四十二分，小满、大暑四度十五分，立夏、立秋五度六分，谷雨、处暑六度二十三分，清明、白露八度六分，春、秋分十度四分，惊蛰、寒露十二度二十六分，雨水、霜降十五度五分，立春、立冬十七度四十七分，大寒、小雪二十度四十七分，小寒、大雪二十三度三十分，冬至二十四度四分。
+现代文：以上极度，惟雨京、婆西、广东四处都是实际测量，其余便是根据地图约略计算出来的。又用十二度，每度六十分的圭表测量京城各节气午正的日影：夏至，三度三十三分度；芒种、小暑，三度四十二分度；小满、大暑，四度十五分度；立夏、立秋，五度六分度；谷雨、处暑，六度二十三分度；清明、白露，八度六分度；春分、秋分，十度四分度；惊垫、寒露，十二度二十六分度；雨水、霜降，十五度五分度；立春、立冬，十七度四十七分度；大寒、小雪二十度四十七分度；小寒、大雪，二十三度三十分度；冬至，二十四度四分度。
+English: The above extremes, however, are actual measurements in Ukyo, Bosai, and Guangdong, and the rest are roughly calculated according to the map. In addition, the sunshade at noon of each solar terms in the capital city is measured using a twelve-degree, sixty-minute gauge: summer solstice, three degrees and thirty-three minutes; monsoon, small heat, three degrees and forty-two minutes; small full moon, big heat, four degrees and fifteen minutes; beginning of summer, beginning of autumn, five degrees and six minutes; valley rain, beginning of heat, six degrees and twenty-three minutes; clear sky, white dew, eight degrees and six minutes; spring equinox,
+
+古文：东西偏度
+现代文：东西偏度
+English: East-west deviation
+
+古文：以京师子午线为中，而较各地所偏之度。
+现代文：以京城子午线为标准，比较各地所偏的度数。
+English: Using the Beijing meridian as a standard, the deflected degrees from various regions are compared.
+
+古文：凡节气之早晚，月食之先后，胥视此。
+现代文：凡是节气的早晚，月食的先后，全都与此相比照。
+English: All solar terms, morning and evening, and lunar eclipses are all compared to this.
+
+古文：盖人各以见日出入为东西为卯酉，以日中为南为午。
+现代文：人们各自把见到的太阳出来、太阳落下作为东方、西方，作为卯时、酉时，把正午作为南方，作为午时。
+English: People respectively regard the rising and setting of the sun as the east and west, the noon as the south, and the noon as the noon.
+
+古文：而东方见日早，西方见日迟。
+现代文：但是，东方的人见到太阳早，西方的人见到太阳晚。
+English: However, people in the East see the sun early, and people in the West see the sun late.
+
+古文：东西相距三十度则差一时。
+现代文：束与西相距三十度便差一个时辰。
+English: Thirty degrees to the west is an hour's journey.
+
+古文：相距九十度则差三时。
+现代文：束方的午时是西方的巳时，西方的午时，是东方的未时。相距九十度便差三个时辰。
+English: So the western noon is the western twilight, and the western noon is the eastern twilight. If they are ninety degrees apart, there is a difference of three hours.
+
+古文：相距一百八十度则昼夜时刻俱反对矣。
+现代文：东方的午时，是西方的卯时；西方的午时，是东方的酉时。相距一百八十度便白天和晚上的时刻都相反、相对了。
+English: The noon in the east is the noon in the west; the noon in the west is the twilight in the east. At a distance of one hundred and eighty degrees, the time of day and night are opposite and opposite.
+
+古文：西洋人汤若望曰： 天启三年九月十五夜，戌初初刻望，月食，京师初亏在酉初一刻十二分，而西洋意大里雅诸国望在昼，不见。
+现代文：东方的午时，是西方的子时。西洋人汤若望说： 天启三年九月十五日夜晚，戌初初刻时分的望日，发生月食，京城所见月亮初亏在酉初的一刻十二分，但是，西洋意大里雅等国家的望日在白天，不见月食。
+English: The noon of the East is the children's hour of the West. Westerner Tang Ruowang said: On the evening of September 15, the third year of the Apocalypse, the sighting of the sun at the first minute of the first hour of the first day of the first month, a lunar eclipse occurred. The moon seen in Beijing was first lost at the first minute and a half of the first day of the first month. However, the sighting of the sun in Western Italy and other countries was during the day, and there was no lunar eclipse.
+
+古文：推其初亏在巳正三刻四分，相差三时二刻八分，以里差计之，殆距京师之西九十九度半也。
+现代文：推算月食初亏在巳正的三刻四分，相差三时二刻八分，用里差来计算，大概距离京城的西面九十九度半。
+English: It is estimated that the first eclipse of the lunar eclipse occurred at three minutes and four minutes before midnight, a difference of three hours and two minutes and eight minutes. Calculated by the difference in miles, it is approximately ninety-nine and a half degrees west of the capital.
+
+古文：故欲定东西偏度，必须两地同测一月食，较其时刻。
+现代文：所以想要确定东与西的偏度，必须在两地同时测量同一月食，比较它的时刻。
+English: Therefore, in order to determine the east-west deviation, it is necessary to measure the same lunar eclipse in both places at the same time and compare its time.
+
+古文：若早六十分时之二则为偏西一度，迟六十分时之二则为偏东一度。
+现代文：如果月食早六十分之二时，就是偏西一度，迟六十分之二时，就是偏束一度。
+English: If the lunar eclipse is two-sixtyths of an hour earlier, it is one degree westward, and if it is two-sixtyths of an hour later, it is one degree back.
+
+古文：今各省差数未得测验，据广舆图计里之方约略条列，或不致甚舛也。
+现代文：节气的迟早也与此相同。现在各省的差敷没有测量验证，根据广舆图计算里程的方法，粗略分条列举，或许不至于出现太大的差错。
+English: Sooner or later, the solar terms will be the same. At present, there is no measurement and verification of the difference between the provinces. According to the method of calculating the mileage according to the general public map, a rough itemized enumeration may not cause too much error.
+
+古文：南京应天府、福建福州府并偏东一度，山东济南府偏东一度十五分，山西太原府偏西六度，湖广武昌府、河南开封府偏西三度四十五分，陕西西安府、广西桂林府偏西八度半，浙江杭州府偏东三度，江西南昌府偏西二度半，广东广州府偏西五度，四川成都府偏四十三度，贵州贵阳府偏西九度半，云南云南府偏西十七度。 
+现代文：南京应天府、福建福州府都偏东一度，山东济南府偏束一度十五分度，山西太原府偏西六度，湖广武昌府、河南开封府偏西三度四十五分度，陕西西安府、广西桂林府偏西八度半，浙江杭州府偏束三度，江西南昌府偏西二度半，广东广州府偏西五度，四川成都府偏西十三度，贵州贵阳府偏西九度半，云南云南府偏西十七度。 
+English: Nanjing Yingtian and Fujian Fuzhou are 1 degree east, Shandong Jinan is 1 degree 15 minutes west, Shanxi Taiyuan is 6 degrees west, Guangxi Wuchang and Henan Kaifeng are 3 degrees 45 minutes west, Shaanxi Xi'an and Guangxi Guilin are 8.5 degrees west, Zhejiang Hangzhou is 3 degrees west, Jiangxi Nanchang is 2.5 degrees west, Guangdong Guangzhou is 5 degrees west, Sichuan Chengdu is 13 degrees west, Guizhou Guiyang is 9.5 degrees west, and Yunnan Yunnan is 17 degrees west.
+
+古文：右偏度，载《崇祯历书》交食历指。
+现代文：上所述偏度，载《崇祯历书》日月亏食历法旨要。
+English: The above-mentioned deviation is contained in the essentials of the lunisolar eclipse calendar of "The Book of Reverence."
+
+古文：其时开局修历，未暇分测，度数实多未确，存之以备考订云。
+现代文：当时正开设官署修撰历法，没有时间分别到各地测量，度数实际上有很多不确切的地方，存留在此，以留作参考订正。
+English: At that time, the government office was in the process of revising the calendar, and there was no time to go to various places for measurement. In fact, there were many inaccuracies in the degree, so it was kept here for reference and revision.
+
+古文：中星
+现代文：中星
+English: Middle Star
+
+古文：古今中星不同，由于岁差。
+现代文：古今中星的不同，原因在于岁差。
+English: The reason for the difference between ancient and modern stars is the precession of the equinoxes.
+
+古文：而岁差之说，中西复异。
+现代文：对岁差的解释，中国与西洋相比又有差异。
+English: Compared with the West, China's interpretation of precession is different.
+
+古文：中法谓节气差而西，西法谓恒星差而东，然其归一也。
+现代文：中国的历法认为，因节气差，中星向西移动；西洋的历法则认为，因恒星差，中星向东移动。但是，它的本旨是一样的。
+English: The Chinese calendar believes that due to the difference in solar terms, the middle star moves to the west; the Western calendar law believes that due to the difference in stars, the middle star moves to the east. However, its essence is the same.
+
+古文：今将李天经、汤若望等所推崇祯元年京师昏旦时刻中星列于后。
+现代文：现在把李天经、汤若望等人推算的崇祯元年京城黄昏和清晨时刻的中星排列在后。
+English: Now, the central stars at dusk and early morning in the capital in the first year of Chongzhen, as calculated by Li Tianjing, Tang Ruowang and others, are arranged in the back.
+
+古文：春分，戌初二刻五分昏，北河三中；寅正一刻一十分旦，尾中。
+现代文：春分，戌初二刻五分，黄昏，北河三星为中星；寅正一刻十分，清晨，尾宿为中星。
+English: At the vernal equinox, at 2:05 a.m. and dusk, the three stars of the Beihe River are the middle stars; at 1:10 a.m. and in the morning, the three stars of the Tama River are the middle stars.
+
+古文：清明，戌初三刻十三分昏，七星偏东四度；寅正初刻二分旦，帝座中。
+现代文：清明，戌初三刻十三分，黄昏，七星偏东四度；黄昏和清晨，有时没有正中的星宿，便取中星前面或后面的大垦宿来表示。
+English: Ching Ming, at 3:13 in the morning, at dusk, the seven stars are four degrees to the east; at dusk and in the morning, sometimes there is no star in the middle, so take the big star in front of or behind the middle star to represent.
+
+古文：谷雨，戌正一刻七分昏，翼偏东七度；寅初二刻八分旦，箕偏东四度。
+现代文：距离中星三度以内的，作为时刻不到一刻，可以不讨论；如果四度以上，离开中星渐速，所以记下它的偏度。寅正初刻二分，清晨，帝座星为中星。谷雨，戌正一刻七分，黄昏，翼宿偏束七度；寅初二刻八分，清晨，箕宿偏东四度。
+English: If the distance from the middle star is less than three degrees, as a time of less than a moment, you can not discuss it; if it is more than four degrees, leave the middle star gradually, so write down its deviation. Taurus is two minutes early, early in the morning, the star of the Empire is the middle star. Grain rain, equinox one minute seven minutes, dusk, Pleiades seven degrees; Taurus two minutes eight minutes, early in the morning, Pleiades four degrees east.
+
+古文：立夏，戌正三刻二分昏，轸偏东五度；寅初初刻十三分旦，箕偏西四度。
+现代文：立夏，戌正三刻二分，黄昏，斡宿偏束五度；寅初初刻十三分，清晨，箕宿偏西四度。
+English: At the beginning of summer, it is 3:02 a.m. in the morning, and at dusk, it is 5 o'clock in the morning in Yuzhuangyuan, and 13 o'clock in the morning in the early morning in Yinchuan, and it is 4 o'clock in the morning in Yuzhuangyuan.
+
+古文：小满，亥初初刻十二分昏，角中；丑正三刻三分旦，箕中。
+现代文：小满，亥初初刻十二分，黄昏，角宿为中星；丑正三刻三分，清晨，箕宿为中星。
+English: Koman, the twelfth minute of the first hour of the first day of the year, dusk, Kokonjuku is the middle star; Ugisho, the third minute of the third hour of the first day of the year, morning, Shibuya is the middle star.
+
+古文：芒种，亥初一刻十二分昏，大角偏西六度；丑正二刻三分旦，河鼓二中。
+现代文：芒种，亥初一刻十二分，黄昏，大角星偏西六度；丑正二刻三分，清晨，河鼓二星为中星。
+English: Mangseong, Haihuanzhong 1 hour and 12 minutes, dusk, Arcturus 6 degrees west; Uganzhong 2 hours and 3 minutes, early morning, Hegu 2 stars for the middle star.
+
+古文：夏至，亥初二刻五分昏，房中；丑正一刻一十分旦，须女中。
+现代文：夏至，亥初二刻五分，黄昏，房宿为中星；丑正一刻十分，清晨，须女宿为中星。
+English: On the summer solstice, at two minutes to five in the morning, at dusk, the inn is the middle star; at one minute to ten in the morning, in the morning, the inn is the middle star.
+
+古文：小暑，亥初一刻十二分昏，尾中；丑正二刻三分旦，危中。
+现代文：小暑，亥初一刻十二分，黄昏，尾宿为中星；丑正二刻三分，清晨，危宿为中星。
+English: Xiaoshu, the first hour and a half of the first day of the year, dusk, the end of the night is the middle star; Ugly is two minutes and three minutes, early in the morning, the critical night is the middle star.
+
+古文：大暑，亥初初刻十二分昏，箕偏东七度；丑正三刻三分旦，营室中。
+现代文：大暑，亥初初刻十二分，黄昏，箕宿偏柬七度；丑正三刻三分，清晨，营室宿为中星。
+English: In the heat of the day, at the stroke of midnight, at dusk, it is seven degrees below zero at Shibuya; at the stroke of three o'clock, in the morning, it is the middle of the night at the camp.
+
+古文：立秋，戌正三刻二分昏，箕中；寅初三刻十三分旦，娄偏东六度。
+现代文：立秋，戌正三刻二分，黄昏，箕宿为中星；寅初三刻十三分，清晨，娄宿偏束六度。
+English: At the beginning of autumn, at 3:02 a.m. and dusk, Poyang is the middle star; at 3:13 a.m. and dawn, Poyang is 6 degrees off beam.
+
+古文：处暑，戌正一刻七分昏，织女一中；寅初二刻八分旦，娄中。
+现代文：处暑，戌正一刻七分，黄昏，织女一星为中星；寅初二刻八分，清晨，娄宿为中星。
+English: At the time of the summer solstice, at 1:7 a.m. in the morning, at dusk, one star of Vega is the middle star; at 2:8 a.m. in the morning, the middle star is the Pleiades.
+
+古文：白露，戌初三刻十三分昏，河鼓二偏东四度；寅正初刻二分旦，昴偏东四度。
+现代文：白露，戌初三刻十三分，黄昏，河鼓二星偏束四度；寅正初刻二分，清晨，昴宿偏东四度。
+English: White dew, sunrise at 3:13 a.m., dusk, river drum, two stars, four degrees off beam; morning at 2:00 a.m., morning, four degrees east of Shibuya.
+
+古文：秋分，戌初二刻五分昏，河鼓二中；寅正一刻十一分旦，毕偏西五度。
+现代文：秋分，戌初二刻五分，黄昏，河鼓二星为中星；寅正一刻十一分，清晨，毕宿偏西五度。
+English: Autumn Equinox, at 2:05 a.m. in the morning, at dusk, two stars in the river drum are the middle stars; at 1:11 a.m. in the morning, at 5 degrees west of the equinox.
+
+古文：寒露，戌初初刻十四分昏，牵牛中；寅正三刻一分旦，参四中。
+现代文：寒露，戌初初刻十四分，黄昏，牵牛宿为中星；寅正三刻一分，清晨，参四星为中星。
+English: In the winter dew, in the early hours of the morning, in the early hours of the morning, in the evening, the cowherd is the middle star; in the morning, in the early hours of the morning, in the middle star is the four-pointed star.
+
+古文：霜降，酉正三刻十一分昏，须女偏西五度；卯初初刻四分旦，南河三偏东六度。
+现代文：霜降，酉正三刻十一分，黄昏，须女宿偏西五度；卯初初刻四分，清晨，南河三星偏东六度。
+English: The frost fell at 3:11 a.m. in the morning, and at dusk, Shujiazhuang was 5 degrees west; at 4:00 a.m. in the morning, it was 6 degrees east of Nanhe 3 stars.
+
+古文：立冬，酉正二刻一十分昏，危偏东四度；卯初一刻五分旦，舆鬼中。
+现代文：立冬，酉正二刻十分，黄昏，危宿偏束四度；卯初一刻五分，清晨，舆鬼宿焉中星。
+English: At the beginning of winter, it is 2:10 a.m. in the morning, 4:00 a.m. in the evening, 4:00 a.m. in the evening, and 1:00 a.m. in the morning.
+
+古文：小雪，酉正一刻十二分昏，营室偏东七度；卯初二刻二分旦，张中。
+现代文：小雪，酉正一刻十二分，黄昏，营室宿偏束七度；卯初二刻二分，清晨，张宿为中星。
+English: Light snow, at 1:12 a.m. in the morning, at dusk, the camp is at 7 degrees; at 2:02 a.m. in the morning, Zhangye is the middle star.
+
+古文：大雪，酉正一刻五分昏，营室偏西八度；卯初二刻一十分旦，翼中。
+现代文：大雪，酉正一刻五分，黄昏，营室宿偏西八度；卯初二刻十分，清晨，翼宿为中星。
+English: Heavy snow, at 1:05 a.m. at dusk, the camp is an octave west; at 2:10 a.m. in the morning, the wing is the middle star.
+
+古文：冬至，酉正一刻二分昏，土司空中；卯初二刻十三分旦，五帝座中。
+现代文：冬至，酉正一刻二分，黄昏，土司空星为申星；卯初二刻十三分，清晨，五帝座焉中星。
+English: At the winter solstice, at one minute and two minutes after the equinox, at dusk, the Tusi sky star is the rising star; at two minutes and thirteen minutes after the equinox, in the morning, the star in the constellation of the Five Emperors.
+
+古文：小寒，酉正一刻五分昏，娄中；卯初二刻一十分旦，角偏东五度。
+现代文：小寒，酉正一刻五分，黄昏，娄宿为中星；卯初二刻十分，清晨，角宿偏束五度。
+English: In the early morning, it is 5 degrees above the meridian. In the late afternoon, it is 5 degrees above the meridian.
+
+古文：大寒，酉正一刻十三分昏，天囷一中；卯初二刻二分旦，亢中。
+现代文：大寒，酉正一刻十三分，黄昏，天困一星焉中星；卯初二刻二分，清晨，亢宿为中星。
+English: In cold weather, at 1:13 a.m. in the morning, at dusk, one star in the sky is the middle star; at 2:02 a.m. in the morning, the middle star is Oyado.
+
+古文：立春，酉正二刻一十分昏，昴偏西六度；卯初一刻五分旦，氐中。
+现代文：立春，酉正二刻十分，黄昏，昴宿偏西六度；卯初一刻五分，清晨，氐宿为中星。
+English: At the beginning of spring, it is 2:10 a.m. in the afternoon, and at dusk, it is 6 degrees west of Oshuku; at 1:05 a.m. in the morning, it is the middle star.
+
+古文：雨水，酉正三刻十一分昏，参七中；卯初初刻四分旦，贯索一中。
+现代文：雨水，酉正三刻十一分，黄昏，参七星为中星；卯初初刻四分，清晨，贯索一星为中星。
+English: For rain, at 3:11 a.m. on the stroke of midnight, at dusk, the middle star is the seven-pointed star; at 4:00 a.m. on the stroke of midnight, in the morning, the middle star is the one-pointed star.
+
+古文：惊蛰，戌初初刻十四分昏，天狼中；寅正三刻一分旦，心中。
+现代文：惊垫，戌初初刻十四分，黄昏，天狼星为中星；寅正三刻一分，清晨，心宿焉中星。
+English: Surprisingly, it is the 14th minute of the first hour of the first hour of the first hour of the first hour of the first hour of the first hour of the first hour of the first hour of the first hour of the first hour of the first hour of the first hour of the first hour of the first hour of the first hour of the first hour of the first hour of the first hour of the first hour of the first hour of the first hour of the first hour of the first hour of the first hour of the first hour of the first hour of the first hour of the first hour of the first hour of the first hour of the first hour of the first hour of the first hour of the first hour of the first
+
+古文：分野
+现代文：分野
+English: Fields
+
+古文：《周礼·保章氏》以星土辨九州之地，所封之域皆有分星，以观妖祥。
+现代文：《周礼，保章氏》用星辰所主之土分辨九州岛的土地，所封的地域都有与它相对应的星次，用来观察凶兆和吉兆。
+English: In "Zhou Li, Hozhang Shi," the land of Kyushu Island is distinguished by the land of the lord of the stars, and the areas sealed have a corresponding star, which is used to observe bad omens and good omens.
+
+古文：唐贞观中，李淳风撰《法象志》，因《汉书》十二次度数以唐州县配，而一行则以为天下山河之象，存乎南北两界，其说详矣。
+现代文：唐朝贞观年问，李淳风撰写《法象志》，沿袭《汉书》十二星次的度数，用来与唐朝的州县相配，而二行则认为天下山河的形象，存在于南北两界，他们的论说已经详备了。
+English: Zhenguan Nianqian of the Tang Dynasty said that Li Junfeng wrote "Faxiang Zhi," which followed the twelve-star degree of "Hanshu" and was used to match the states and counties of the Tang Dynasty, while the two lines believed that the image of the world's mountains and rivers existed in the north and south, and their arguments were already detailed.
+
+古文：洪武十七年，《大明清类天文分野书》成，颁赐秦、晋二王。
+现代文：洪武十七年，《大明清类天文分野书》撰成，分赏给秦王和晋王。
+English: In the seventeenth year of Hongwu, "The Great Ming and Qing Dynasty Astronomy Field Book" was compiled and awarded to King Qin and King Jin.
+
+古文：其书大略谓 《晋天文志》分野始角、亢者，以东方苍龙为首也。
+现代文：这部书大致认为 《晋天文志》的分野以角、亢开始的原因是以东方的苍龙为首。
+English: This book generally believes that the reason why the field of "Jin Astronomical History" begins with the angle and the angle is that the eastern celestial dragon is the first.
+
+古文：唐始女、虚、危者，以十二支子为首也。
+现代文：唐朝的分野以女、虚、危开始的原因是以十二地支的子为首。
+English: The reason why the field of the Tang Dynasty began with female, virtual, and dangerous was the son of the twelve local branches.
+
+古文：今始斗、牛者，以星纪为首也。
+现代文：现在的分野以斗、牛开始的原因是以星纪为首。
+English: The reason why the current field begins with a bullfight and a cow is because of astrology.
+
+古文：古言天者皆由斗、牛以纪星，故曰星纪，是之取耳。 
+现代文：古代说天象的人都以斗、牛来记录星辰，故称星纪，取法于此而已。 
+English: In ancient times, it was said that celestial beings recorded the stars by means of tomes and oxen, so it was called the star record, and the method was derived from this.
+
+古文：兹取其所配直隶十三布政司府州县卫及辽东都司分星录之。
+现代文：这里择取该书相配的直隶十三布政司府、州、县、卫，以及辽东都司的分星，把它记录下来。
+English: Here, we have selected and recorded the stars of the thirteen prefectures, prefectures, counties, and prefectures directly under the Central Government, as well as the prefectures of Liaodong Province.
+
+古文：斗三度至女一度，星纪之次也。
+现代文：斗宿三度至女宿一度，是星纪的星次。
+English: Three times of fighting and one time of sleeping with a woman is the order of the stars in astrology.
+
+古文：直隶所属之应天、太平、宁国、镇江、池州、徽州、常州、苏州、松江九府暨广德州，属斗分。
+现代文：直接隶属所属的应天、太平、宁国、镇江、池州、徽州、常州、苏州、松江九府，以及广德州，属于斗宿的分野。
+English: The nine prefectures of Yingtian, Taiping, Ningguo, Zhenjiang, Chizhou, Huizhou, Changzhou, Suzhou, and Songjiang, as well as Guangdong, which are directly subordinate to it, belong to the field of doosan.
+
+古文：凤阳府寿、滁、六安三州，泗州之盱眙、天长二县，扬州府高邮、通、泰三州，庐州府无为州，安庆府和州，皆斗分。
+现代文：凤阳府的寿、滁、六安三州，泗州的盱眙、天长二县，扬州府的高邮、通、泰三州，庐州府的无为州，安庆府的和州，都是斗宿的分野。
+English: The three prefectures of Shou, Tong and Lu'an in Fengyang Prefecture, the two prefectures of Tong and Tianchang in Zhangzhou, the three prefectures of Gaoyou, Tong and Tai in Yangzhou Prefecture, the county of Wuwei in Zhangzhou Prefecture, and the county of Wo in Anqing Prefecture, are all areas of dueling accommodation.
+
+古文：淮安府，斗、牛分。
+现代文：淮安府是斗宿、牛宿的分野。
+English: Huai'an is the field of fighting lodgings and cattle lodgings.
+
+古文：浙江布政司所属之杭州、湖州、嘉兴、严州、绍兴、金华、衢州、处州、宁波九府皆牛、女分。
+现代文：浙江布政司所属的杭州、湖州、嘉兴、严州、绍兴、金华、衢州、处州、宁波九府，都是牛宿、女宿的分野。
+English: The nine prefectures of Hangzhou, Huzhou, Jiaxing, Yanzhou, Shaoxing, Jinhua, Zhangzhou, Wenzhou and Ningbo, which belong to the Zhejiang Provincial Government, are all in the field of cattle hostels and women's hostels.
+
+古文：台州、温州二府，斗、牛、须、女分。
+现代文：台州、温州二府，是斗宿、牛宿、须女宿的分野。
+English: Taizhou and Wenzhou two prefectures are the best areas for fighting lodgings, cattle lodgings, and Su women's lodgings.
+
+古文：江西布政司所属皆斗分。
+现代文：江西布政司所属州县，都是斗信的分野。
+English: The counties and prefectures of Jiangxi Province, which belong to the Department of Political Affairs, are all in the field of trust.
+
+古文：福建布政司所属皆牛、女分。
+现代文：福建布政司所属州县，都是牛宿、女宿的分野。
+English: The prefectures and counties belonging to Fujian Bu Zhengji are all in the field of cattle inns and female inns.
+
+古文：广东布政司所属之广州府亦牛、女分。
+现代文：广东布政司所属的广州府，也是牛宿、女宿的分野。
+English: Guangzhou Prefecture, which belongs to the Guangdong Provincial Government, is also a field of cattle inns and women's hostels.
+
+古文：惠州，女分。
+现代文：惠州是女宿的分野。
+English: Huizhou is in the field of women's hostels.
+
+古文：肇庆、南雄二府，德庆州，皆牛、女分。
+现代文：肇庆、南雄二府，德庆州，都是牛宿、女宿的分野。
+English: Zhaoqing, Nanxiong two prefectures, Deqing Prefecture, are all in the field of cattle inns and female inns.
+
+古文：潮州府，牛分。
+现代文：潮州府是牛宿的分野。
+English: Chaozhou is a region of cattle stations.
+
+古文：雷州、琼州二府，崖、儋、万三州，高州府化州，广西布政司所属梧州府之苍梧、藤、岑溪、容四县，皆牛、女分。
+现代文：雷州、琼州二府，崖、儋、万三州，高州府的化州，广西布政司所属的梧州府的苍梧、藤、岑溪、容四县，都是牛宿、女宿的分野。
+English: The two prefectures of Leizhou and Qiongzhou, the prefectures of Yangtze, Yunnan and Manzhouli, the prefecture of Gaozhou, and the four counties of Cangwu, Wuji, Qixi and Rong in Wuzhou Prefecture, which belongs to Guangxi Province, are all in the field of cattle hostels and women's hostels.
+
+古文：女二度至危十二度，玄枵之次也。
+现代文：女宿二度至危宿十二度，是玄枵的星次。
+English: The number of stars in Xuanwu ranges from two for the women's quarters to twelve for the dangerous quarters.
+
+古文：山东布政司所属之济南府乐安、德、滨三州，皆危分。
+现代文：山东布政司所属的济南府的乐安、德、滨三州，都是危宿的分野。
+English: The three prefectures of Le'an, De and Bin in Jinan Prefecture, which belongs to Shandong Province, are all areas of dangerous accommodation.
+
+古文：泰安州、青州府，皆虚、危分。
+现代文：泰安州、青州府，都是虚宿、危宿的分野。
+English: Tai'an Prefecture and Qingzhou Prefecture are both in the category of fake and dangerous hotels.
+
+古文：莱州府胶州、登州府宁海州、东昌府高塘州，皆危分。
+现代文：莱州府的胶州、登州府的宁海州、束昌府的高塘州，都是危宿的分野。
+English: Jiaozhou in Laizhou, Ninghai in Dengzhou, and Gaotang in Sokchang are all in the category of "dangerous accommodation."
+
+古文：东平州之阳谷、东阿、平阴三县，北平布政司所属之沧州，皆须、女、虚、危分。
+现代文：东平州的阳谷、束阿、平阴三县，北平布政司所属的沧州，都是须女宿、虚宿、危宿的分野。
+English: The three counties of Yanggu, Sokha and Pingyin in Dongping Prefecture, and Cangzhou in Beiping Prefecture, which belongs to the Secretary of State, are all in the field of sub-standard, false and dangerous accommodation.
+
+古文：危十三度至奎一度，娵訾之次也。
+现代文：危宿十三度至奎宿一度，是撅訾的星次。
+English: Keijuku 13 degrees to Kuijuku 1 degree is the order of the stars.
+
+古文：河南布政司所属之卫辉、彰德、怀庆三府，北平之大名府开州，山东东昌之濮州，馆陶、冠、临清三县，东平州之汶上、寿张二县，皆室、壁分。
+现代文：河南布政司所属的卫辉、彰德、怀庆三府，北平大名府的开州，山东束昌的濮州，馆陶、冠、临清三县，束平州的汶上、寿张二县，都是室宿、壁宿的分野。
+English: The three prefectures of Weihui, Changde and Huaiqing in Henan Province, the three prefectures of Weihui, Changde and Huaiqing in Henan Province, the three prefectures of Kaizhou in Beiping Province, the three prefectures of Bozhou, Guanzhou, Guanzhong and Linqing in Shandong Province, and the three prefectures of Guanzhong, Guanzhong, Guanzhong and Linqing in Shandong Province, and the two prefectures of Wenzhong and Shuzhang in Sokping Province, are all in the field of room accommodation and wall accommodation.
+
+古文：奎二度至胃三度，降娄之次也。
+现代文：奎宿二度至胃宿三度，是降娄的星次。
+English: Kui-juku 2 degrees to stomach-juku 3 degrees is the order of descending signs.
+
+古文：山东济宁府之兖州滕、峄二县，青州府之莒州、安丘、诸城、蒙阴三县，济南府之沂州，直隶凤阳府之泗、邳二州，五河、虹、怀远三县，淮安府之海州，桃源、清河、沭阳三县，皆奎、娄分。
+现代文：山东济宁府充州的滕、蝉二县，青州府的莒州和安丘、诸城、蒙阴三县，济南府的沂州，直隶凤阳府的泗、邳二州，五河、虹、怀远三县，淮安府的海州和桃源、清河、沭阳三县，都是奎宿、娄宿的分野。
+English: Teng and Semen 2 counties in Chenzhou of Jining Prefecture of Shandong Province, Bozhou and Anqiu, Zhucheng and Mengyin 3 counties in Qingzhou Prefecture, Bozhou in Jinan Province, Zhaoyang 2 counties in Fengyang Province, Wuhe, Hong and Huaiyuan 3 counties, Haizhou, Taoyuan, Qinghe and Shenyang 3 counties in Huai'an Province, are all areas of Guizhou and Shenyang.
+
+古文：胃四度至毕六度，大梁之次也。
+现代文：胃宿四度至毕宿六度，是大梁的星次。
+English: From the fourth degree of the stomach to the sixth degree of the abdomen, it is the star of the girdle.
+
+古文：北平之真定府，昴、毕分。
+现代文：北平的真定府，是昴宿、毕宿的分野。
+English: Beiping's Jindingfu is in the category of the best place to stay.
+
+古文：定、冀二州，皆昴分。
+现代文：定、冀二州，都是昴宿的分野。
+English: Dingding, Hebei and Erzhou are all areas of Shanzhuang.
+
+古文：晋、深、赵三州，皆毕分。
+现代文：晋、深、赵三州，都是毕宿的分野。
+English: Jin, Shen, Zhao three states, are all the fields of lodging.
+
+古文：广平、顺德二府，皆昴分。
+现代文：广平、顺德二府，都是昴宿的分野。
+English: The two prefectures of Guangping and Shunde are both in the area of Shibuya.
+
+古文：祁州，昴、毕分。
+现代文：祁州，是昴宿、毕宿的分野。
+English: Bozhou is the area of Bozhou and Bozhou.
+
+古文：河南彰德府之磁州，山东高唐州之恩县，山西布政司所属之大同府应、朔、浑源、蔚四州，皆昴、毕分。
+现代文：河南彰德府的磁州，山东高唐州的恩县，山西布政司所属的大同府的应、朔、浑源、蔚四州，都是昴宿、毕宿的分野。
+English: The magnetic prefecture of Henan Province's Zhangde Prefecture, En County of Shandong Province's Gaotang Prefecture, and Ying, Shuo, Hunyuan, and Yishi Prefecture of Datong Prefecture, which belongs to Shanxi Province's Bu Zheng Si Prefecture, are all the areas of lodging.
+
+古文：毕七度至井八度，实沈之次也。
+现代文：毕宿七度至井宿八度，是实沈的星次。
+English: The seventh degree of Bi-juku to the eighth degree of I-juku is the order of the stars in the real world.
+
+古文：山西之太原府石、忻、代、平定、保德、岢岚六州，平阳府，皆参分。
+现代文：山西的太原府所辖石、忻、代、平定、保德、岢岚六州，平阳府，都是参宿的分野。
+English: The six prefectures of Shi, Handan, Dai, Pingding, Baode and Handan under the jurisdiction of Taiyuan Prefecture in Shanxi, as well as Pingyang Prefecture, are all areas of residence.
+
+古文：绛、蒲、吉、隰、解、霍六州皆觜、参分。
+现代文：绛、蒲、吉、隰、解、霍六州，都是觜宿、参宿的分野。
+English: Six prefectures, namely, Gyeongju, Gyeonggi, Gyeonggi-do, Gyeonggi-do, Gyeonggi-do, Gyeonggi-do, and Gyeonggi-do, are the areas of gyeongju and gyeongju.
+
+古文：泽、汾二州，皆参分。
+现代文：泽、汾二州，都是参宿的分野。
+English: Ze and Ye two states are the areas of lodging.
+
+古文：潞、沁、辽三州，皆参、井分。
+现代文：潞、沁、辽三州，都是参宿、井宿的分野。
+English: The three prefectures of Gansu, Sichuan and Liaoning are all in the business of lodging and lodging.
+
+古文：井九度至柳三度，鹑首之次也。
+现代文：井宿九度至柳宿三度，是鹑首的星次。
+English: Ninth degree of Ijuku to third degree of Yagyujuku is the order of the dagger.
+
+古文：陕西布政司所属之西安府同、华、乾、耀、邠五州，凤翔府陇州，延安府鄜、绥德、葭三州，汉中府金州，临洮、平凉二府，静宁州，皆井、鬼分。
+现代文：陕西市政司所属的西安府的同、华、干、耀、合五州，凤翔府的陇州，延安府的墉、绥德、葭三州，汉中府的金州，临洮、平凉二府，静宁州，都是井宿、鬼宿的分野。
+English: The five prefectures of Tong, Hua, Gan, Yao and He of Xi'an Prefecture, which belongs to the Shaanxi Municipal Government, Bozhou of Fengxiang Prefecture, the three prefectures of Yao, Shunde and Handan of Yan'an Prefecture, Jinzhou of Hanzhong Prefecture, Linyi, Pingliang two prefectures and Jingning Prefecture are all in the field of wells and ghosts.
+
+古文：泾州，鬼分。
+现代文：泾州，是鬼宿的分野。
+English: Luzhou is a ghost town.
+
+古文：庆阳府宁州，巩昌府阶、徽、秦三州，皆井、鬼分。
+现代文：庆阳府的宁州，巩昌府的阶、徽、秦三州，都是井宿、鬼宿的分野。
+English: Ningzhou in Qingyang Prefecture, and the three prefectures of Ta, Hui, and Qin in Gongchang Prefecture, are all well and ghost hotels.
+
+古文：四川布政司所属惟绵州觜分，合州参、井分，余皆井、鬼分。
+现代文：四川布政司所属之地，只有绵州是觜宿的分野，合州是参宿、井宿的分野，其余都是井宿、鬼宿的分野。
+English: Among the provinces of Sichuan Province, only Mianzhou belongs to the category of good lodgings, Heshou to the category of good lodgings, and the rest to the category of good lodgings and evil lodgings.
+
+古文：云南布政司所属皆井、鬼分。
+现代文：云南布政司所属之地，都是井宿、鬼宿的分野。
+English: The places that belong to Yunnan Bu Zhengji are all in the fields of wells and ghosts.
+
+古文：柳四度至张十五度，鹑火之次也。
+现代文：柳宿四度至张宿十五度，是鹑火的星次。
+English: Yagyu-juku 4 degrees to Zhang-juku 15 degrees is the order of the bonfires.
+
+古文：河南之河南府陕州，皆柳分。
+现代文：河南的河南府陕州，都是柳宿的分野。
+English: Henan Province, Shaanxi Province in Henan Province are all areas of willow lodgings.
+
+古文：南阳府邓、汝、裕三州，汝宁府之信阳、罗山二县，开封府之均、许二州，陕西西安府之商县，华州之洛南县，湖广布政司所属德安府之随州，襄阳府之均州、光化县，皆张分。
+现代文：南阳府的邓、汝、裕三州，汝宁府的信阳、罗山二县，开封府的均、许二州，陕西西安府的商县，华州的洛南县，湖广布政司所属德安府的随州，襄阳府的均州和光化县，都是张宿的分野。
+English: The three prefectures of Deng, Ru and Yu in Nanyang Prefecture, the two prefectures of Xinyang and Lushan in Runing Prefecture, the two prefectures of Jun and Xu in Kaifeng Prefecture, the prefectures of Shang in Shaanxi and Xi'an in Shaanxi, the prefecture of Luonan in Huazhou, the prefecture of Suizhou in De'an Prefecture, which belongs to Hukangb, and the prefectures of Jun and Gwanghwa in Xiangyang Prefecture, are all areas of Zhangyuan.
+
+古文：张十六度至轸九度，鹑尾之次也。
+现代文：张宿十六度至干宿九度，是鹑尾的星次。
+English: Zhangjuku 16 degrees to Ganjuku 9 degrees is the order of the stars in Shanwei.
+
+古文：湖广之武昌府兴国州，荆州府归、夷陵、荆门三州，黄州府蕲州，襄阳、德安二府，安陆、沔阳二州，皆翼、轸分。
+现代文：湖广的武昌府兴国州，剂州府的归、夷陵、剂门三州，黄州府的薪州，襄阳、德安二府，安陆、沔阳二州，都是翼宿、干宿的分野。
+English: Wuchang of Wuchang Prefecture, Xingguozhou, Guizhou, Yiling and Jiamen of Jiaozhou Prefecture, Zhouzhou of Huangzhou Prefecture, Yangyang, De'an of the two prefectures, and Anlu and Fenyang of the two prefectures are all areas of wing accommodation and dry accommodation.
+
+古文：长沙府轸旁小星曰长沙，应其地。
+现代文：长沙府，斡宿旁的小星叫做长沙，与长沙之地相应。
+English: Changsha Prefecture, the small star next to the inn is called Changsha, corresponding to the place of Changsha.
+
+古文：衡州府桂阳州，永州府全、道二州，岳州、常德二府，澧州，辰州府沅州，汉阳府靖、郴二州，宝庆府武冈、镇远二州，皆翼、轸分。
+现代文：衡州府的桂阳州，永州府的全、道二州，岳州、常德二府，澧州，辰州府的沅州，汉阳府的靖、郴二州，宝庆府的武冈、镇速二州，都是翼宿、斡宿的分野。
+English: Guiyang Prefecture of Hengzhou Prefecture, Quanzhou of Yongzhou Prefecture, two prefectures of Dao, two prefectures of Yuezhou and Changde, Bozhou, Bozhou of Chenzhou, Jing of Hanyang, two prefectures of Handan, Wukan of Baoqing, and two prefectures of Zhenhai are all areas of winged accommodation and good accommodation.
+
+古文：广西所属除梧州府之苍梧、藤、容、岑溪四县属牛、女分，余皆翼、轸分。
+现代文：广西所属之地除了梧州府的苍梧、藤、容、岑溪四县属于牛宿、女宿的分野之外，其余都是翼宿、干宿的分野。
+English: In addition to the four counties of Cangwu, Wuji, Rongtuo and Qixi in Wuzhou Prefecture, which belong to Guangxi, the rest are all areas of wing lodging and dry lodging, except for the areas of cattle and female lodging.
+
+古文：广东之连州、廉州府钦州、韶州府，皆翼、轸分。
+现代文：广东的连州，廉州府的钦州、韶州府，都是翼宿、干宿的分野。
+English: Guangdong's Lianzhou, Lianzhou Prefecture's Qinzhou, and Zhangzhou Prefecture are all in the field of wing lodging and dry lodging.
+
+古文：轸十度至氐一度，寿星之次也。
+现代文：轸宿十度至氐宿一度，是寿星的星次。
+English: From Oshuku ten degrees to Oshuku one degree is the order of the birthday star.
+
+古文：河南之开封府，角、亢分。
+现代文：河南的开封府，是角宿、亢宿的分野。
+English: Kaifeng Prefecture, Henan Province, is home to the corner inns and inns.
+
+古文：郑州，氐分。
+现代文：郑州是氐宿的分野。
+English: Zhengzhou is the domain of Shibuya.
+
+古文：陈州，亢分。
+现代文：陈州是亢宿的分野。
+English: Chenzhou is the home of Shibuya.
+
+古文：汝宁府光州，怀庆府之孟、济源、温三县，直隶寿州之霍丘县，皆角、亢、氐分。
+现代文：汝奎卢的光坦，堡庆府的孟、济源、温三县，直隶寿州的霍丘县，都是角宿、亢宿、氐宿的分野。
+English: Guangtan in Ryukyu, Meng, Jiyuan, and Wensan counties in Baoqingfu, and Hoxha County directly under Shoushou are all areas of Jiaoju, Jiaoju, and Jiaoju.
+

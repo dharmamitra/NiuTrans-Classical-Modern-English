@@ -1,0 +1,56 @@
+古文：二十有九年春，新延厩。
+现代文：二十九年春季，新造延厩。
+English: In the spring of 1929, the newly built stables were completed.
+
+古文：夏，郑人侵许。
+现代文：夏季，郑国入侵许国。
+English: In the summer, the Zheng people invaded Xu Province.
+
+古文：秋，有蜚。
+现代文：秋季，发现蜚盘虫。
+English: In the autumn, the discovery of the tapeworm was a disaster.
+
+古文：冬十有二月，纪叔姬卒。
+现代文：冬季十二月，纪叔姬去世。
+English: In the winter of December, Ji Shujie passed away.
+
+古文：城诸及防。
+现代文：在诸地和防地筑城。
+English: They built cities in various places and fortified areas.
+
+古文：二十九年春，新作延厩，书不时也。
+现代文：二十九年春季，新造延厩。《春秋》所以记载这件事，是由于不合时令。
+English: In the spring of the 29th year, a new stable was built. "Spring and Autumn" recorded this event because it was out of season.
+
+古文：凡马日中而出，日中而入。
+现代文：凡是马，春分时节放牧，秋分时节入马圈。
+English: All horses graze during the vernal equinox and enter the stables during the autumnal equinox.
+
+古文：夏，郑人侵许。
+现代文：夏季，郑国人入侵许国。
+English: In the summer, the Zheng people invaded Xu Province.
+
+古文：凡师有钟鼓曰伐，无曰侵，轻曰袭。
+现代文：凡是出兵，有钟鼓之声叫做 伐 ，没有叫做 侵 ，轻装部队快速突击叫做 袭 。
+English: Whenever troops are dispatched, the sound of bells and drums is called "war," nothing is called "invasion," and the rapid assault of light-armed troops is called "attack."
+
+古文：秋，有蜚。
+现代文：秋季，发现蜚盘虫，成了灾。
+English: In the autumn, the discovery of the tapeworm was a disaster.
+
+古文：为灾也。凡物不为灾不书。
+现代文：凡是事物不成灾，《春秋》就不加记载。
+English: Whenever things do not succeed, "Spring and Autumn" will not be recorded.
+
+古文：冬十二月，城诸及防，书时也。
+现代文：冬季十二月，在诸地和防地筑城。
+English: In winter, in December, they built the city in various places and fortified areas.
+
+古文：凡土功，龙见而毕务，戒事也。火见而致用，水昏正而栽，日至而毕。
+现代文：凡是土木工程，苍龙星出现，此时农事完毕，就要做准备了；大火星出现，就要把用具放到工场上，黄昏，营室星在南方出现，就要筑墙立板，冬至以后不再施工。
+English: In all civil engineering projects, when the celestial dragon appears, it is time to prepare after the agricultural work is completed; when the great Mars appears, it is time to put the tools on the workshop; when the camp star appears in the south at dusk, it is time to build the wall plate, and there will be no construction after the winter solstice.
+
+古文：樊皮叛王。
+现代文：周大夫樊皮背叛周惠王。
+English: Dr. Zhou Bingpi betrayed King Zhou Hui.
+

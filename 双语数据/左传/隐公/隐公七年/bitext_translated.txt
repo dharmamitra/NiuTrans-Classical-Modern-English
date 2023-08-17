@@ -1,0 +1,96 @@
+古文：七年春，王三月，叔姬归于纪。
+现代文：七年春季。三月，鲁国的叔姬嫁到了纪国。
+English: In the spring of the seventh year, in March, Lu's aunt married Ji Guo.
+
+古文：滕侯卒。
+现代文：滕侯逝世。
+English: Teng Hou passed away.
+
+古文：夏，城中丘。
+现代文：夏季，在中丘筑城。
+English: In the summer, the castle is built in the middle of the hill.
+
+古文：齐侯使其弟年来聘。
+现代文：齐僖公派他的弟弟夷仲年来聘问。
+English: Qizhong sent his younger brother Yizhong to come and ask questions.
+
+古文：秋，公伐邾。
+现代文：秋季，隐公进攻邾国。
+English: In the autumn, Aiko sent troops to attack Shikoku.
+
+古文：冬，天王使凡伯来聘。
+现代文：冬季，周天子派凡伯来鲁国聘问。
+English: In the winter, Zhou Tianzi sent Fang Bo to Lu to ask questions.
+
+古文：戎伐凡伯于楚丘以归。
+现代文：在回去的路上，戎人在楚丘对他加以截击，俘虏他回去。
+English: On the way back, the soldiers intercepted him in Chuqiu and took him back.
+
+古文：七年春，滕侯卒。不书名，未同盟也。
+现代文：七年春季，滕侯逝世，《春秋》没有记载滕侯的名字，是由于没有和鲁国同盟的缘故。
+English: In the spring of the seventh year, Teng Hou died, and "Spring and Autumn" did not record Teng Hou's name, because there was no alliance with Lu.
+
+古文：凡诸侯同盟，于是称名，故薨则赴以名，告终称嗣也，以继好息民，谓之礼经。
+现代文：凡是诸侯各国缔结过同盟，就彼此把国名向神明报告，所以当国君死后则在讣告上也写上名字，这是为了向同盟国报告国君逝世和继承的人，以便继续过去的友好关系，并以此安定人民，这是礼的大法。
+English: All the feudal states that had concluded an alliance reported the names of their countries to the gods, so when a sovereign died, the names were also written in the obituary. This was done in order to report the sovereign's death and successor to the allied countries, in order to continue the friendly relations of the past, and to stabilize the people in this way. This was a great ritual.
+
+古文：夏，城中丘，书，不时也。
+现代文：夏季，在中丘筑城。《春秋》加以记载，由于妨碍了农时。
+English: In the summer, they built a city in the middle of the hill, which was recorded in "Spring and Autumn" because it interfered with farming time.
+
+古文：齐侯使夷仲年来聘，结艾之盟也。
+现代文：齐僖公派夷仲年前来聘问，这是为了巩固艾地的盟会。
+English: Qishan sent Yizhong to ask questions in order to strengthen the alliance in Ai.
+
+古文：秋，宋及郑平。
+现代文：秋季，宋国和郑国讲和。
+English: In autumn, Song and Zheng states made peace.
+
+古文：七月庚申，盟于宿。
+现代文：七月十七日，在宿地结盟。
+English: On July 17th, they formed an alliance in their new home.
+
+古文：公伐邾，为宋讨也。
+现代文：隐公进攻邾国，这是为宋国而去进攻的。
+English: It was for the sake of the Song Dynasty that Ying Gong attacked the State of Min.
+
+古文：初，戎朝于周，发币于公卿，凡伯弗宾。
+现代文：当初，戎人朝觐周王，向公卿送了财币，唯有凡伯不以宾礼款待。
+English: At first, emperors made a pilgrimage to the court of King Zhou and sent money to the nobles. However, the common people did not treat the nobles as guests.
+
+古文：冬，王使凡伯来聘。
+现代文：冬季，周天子派凡伯来鲁国聘问。
+English: In the winter, Zhou Tianzi sent Fang Bo to Lu to ask questions.
+
+古文：还，戎伐之于楚丘以归。
+现代文：在回去的路上，戎人在楚丘对他加以截击，俘虏他回去。
+English: On the way back, the soldiers intercepted him in Chuqiu and took him back.
+
+古文：陈及郑平。
+现代文：陈国与郑国讲和。
+English: Chen and Zheng declare peace.
+
+古文：十二月，陈五父如郑涖盟。
+现代文：十二月，陈国的五父到郑国参与结盟。
+English: In December, the five fathers of Chen Guo came to Zheng Guo to participate in the alliance.
+
+古文：壬申，及郑伯盟，歃如忘。
+现代文：初二，和郑庄公盟誓，歃血的时候心不在焉。
+English: On the second day of junior high school, he swore an oath with Zheng Zhuang that he was absent-minded when he drew blood.
+
+古文：洩伯曰： 五父必不免，不赖盟矣。 
+现代文：泄伯说： 五父一定不免于祸，因为他不认为结盟是国家的利益。 
+English: "My father will not be spared from the disaster, because he does not believe that the alliance is in the interest of the country," Mr. Tie Bo said.
+
+古文：郑良佐如陈涖盟。辛巳，及陈侯盟，亦知陈之将乱也。
+现代文：郑国的良佐到陈国参加结盟，十一日，和陈侯结盟，看出了陈国将要发生骚乱。
+English: Zheng Liang Zu went to Chen Guo to join the alliance. On the 11th day, he allied with Chen Hou and saw that Chen Guo was about to have a riot.
+
+古文：郑公子忽在王所，故陈侯请妻之。
+现代文：郑国的公子忽在周桓王那里，所以陈桓公请求把女儿嫁给他。
+English: Zheng's son-in-law was staying with King Zhou Huan, so King Chen Huan asked his daughter to marry him.
+
+古文：郑伯许之，乃成昏。
+现代文：郑庄公同意，于是就订了婚。
+English: Zheng Zhuanggong agreed, so they got engaged.
+

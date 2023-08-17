@@ -1,0 +1,24 @@
+古文：城内堑外周道，广八步。
+现代文：译文城内壕堑外设周道，宽八步。
+English: Translation: The inner moat of the city is surrounded by a perimeter road, eight paces wide.
+
+古文：备水谨度四旁高下。
+现代文：防备敌人以水灌城，必须要仔细地审视四周的地势情况。
+English: To prevent the enemy from flooding the city with water, it is necessary to carefully examine the surrounding terrain.
+
+古文：城地中徧下，令耳其内，及下地，地深穿之，令漏泉。置则瓦井中，视外水深丈以上，凿城内水耳。
+现代文：城中地势低的地方，要下令开挖渠道，至于地势更低的地方，则命令深挖成井，使其能互相贯通，以便引水泄漏。在井中置放 则瓦 ，测量水位高低。如发现城外水深已有一丈以上，就开凿城内的水渠。
+English: In low-lying areas of the city, it is necessary to order the excavation of channels, and for lower-lying areas, it is necessary to order the deep excavation of wells, so that they can pass through each other in order to divert water leakage. Place tiles in the well and measure the water level. If it is found that the water depth outside the city is more than a meter, excavate the water channel inside the city.
+
+古文：并船以为十临，临三十人，人擅弩，计四有方，必善以船为轒辒。
+现代文：每两只船连在一起为 一临 ，将船共组成 十临 ，每一临备三十人，人人都擅长射箭，每十人中四个还须带有锄头。必须善于用这种船作冲毁敌方堤防的 轒辒 。
+English: Every two boats are connected together as one Rin, making the boat a total of ten Rin, each Rin is prepared for thirty people, everyone is good at archery, and four out of every ten people must also carry a hoe. You must be good at using this boat as a raft to break down the enemy's dike.
+
+古文：二十船为一队，选材士有力者三十人共船，其二十人擅有方，剑甲鞮瞀，十人人擅苗。
+现代文：每二十只船为一队，挑选勇武力大的兵士三十人共一条联合船，其中二十人每人备有一把锄头，穿戴盔甲皮靴，其余十人手拿长矛，人人擅使。
+English: Each of the twenty ships formed a squadron, and thirty soldiers of great valor and strength were selected to form a combined ship. Of these, twenty were each equipped with a hoe and wore armor and leather boots, while the remaining ten were armed with spears, and everyone was proficient with them.
+
+古文：先养材士，为异舍食其父母妻子以为质，视水可决，以临轒辒，决外堤，城上为射■，疾佐之。
+现代文：当然预先供养勇武之人，另供给房子，安排供养他们的父母、妻子儿女，作为人质。发现可以决开水堤时，用两只船并联组成的 轒辒 冲决外堤，同时城上赶紧用射击机向敌人放箭，以掩护决堤的船队。
+English: When it was discovered that the embankment could be breached, the outer embankment was breached with a raft made up of two boats in parallel, and at the same time, a shooting machine was quickly used on the castle to fire arrows at the enemy to cover the fleet that had breached the embankment.
+

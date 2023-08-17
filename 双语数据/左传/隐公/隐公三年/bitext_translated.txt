@@ -1,0 +1,200 @@
+古文：三年春，王二月己巳，日有食之。
+现代文：三年春天，周历二月初一，出现日食现象。
+English: In the spring of the third year, on the first day of the second lunar month, a solar eclipse occurred.
+
+古文：三月庚戌，天王崩。
+现代文：三月十二日，周平王驾崩。
+English: On March 12, Zhou Ping Wang passed away.
+
+古文：夏四月辛卯，君氏卒。
+现代文：夏季四月，君氏死。
+English: In the summer of April, Mr. Kim passed away.
+
+古文：秋，武氏子来求赙。
+现代文：秋天的时候，武氏子来鲁国索求助丧的钱财。
+English: In the autumn, Take's son came to Russia to ask for help and money for the funeral.
+
+古文：八月庚辰，宋公和卒。
+现代文：八月初五，宋穆公死。
+English: On August 5th, Song Mu Gong passed away.
+
+古文：冬十有二月，齐侯、郑伯盟于石门。
+现代文：冬季十二月，齐侯、郑伯在石门会盟。
+English: In the winter of December, Qi Hou and Zheng Bo met at the Stone Gate.
+
+古文：癸未，葬宋穆公。
+现代文：十二月癸未，葬宋穆公。
+English: Song Mu Gong's funeral was held in late December.
+
+古文：三年春，王三月壬戌，平王崩。
+现代文：三年春季，周王朝历法的三月二十四日，周平王逝世。
+English: In the spring of the third year, on March 24 of the Zhou Dynasty calendar, King Zhou Ping died.
+
+古文：赴以庚戌，故书之。
+现代文：讣告上写的是庚戌日，所以《春秋》也记载死日为庚戌，即十二日。
+English: The obituary was written on the day of Geng Xu, so "Spring and Autumn" also recorded the day of death as Geng Xu, that is, the 12th.
+
+古文：夏，君氏卒。
+现代文：夏季，君氏死。
+English: In the summer, Mr. Kim died.
+
+古文：声子也。不赴于诸侯，不反哭于寝，不祔于姑，故不曰薨。
+现代文：君氏就是声子，没有发讣告给诸侯，安葬后没有回到祖庙哭祭，没有把神主放在婆婆神主的旁边，所以《春秋》不称 薨 。
+English: Mr. Kim was a vocalist. He did not send an obituary notice to the lords, did not return to the ancestral temple after the funeral to cry, and did not place the god next to the mother-in-law god. Therefore, "Spring and Autumn" is not called.
+
+古文：不称夫人，故不言葬。不书姓，为公故，曰君氏。
+现代文：又由于没有称她为 夫人 ，所以不记载下葬的情况，也没有记载她的姓氏。只是因为她是隐公的生母的缘故，所以才称她为 君氏 。
+English: Also, since she was not called "Mrs.," there is no record of her burial, nor is her last name recorded. It was only because she was the natural mother of the hidden prince that she was called "Mrs."
+
+古文：郑武公、庄公为平王卿士，王贰于虢。郑伯怨王，王曰 无之 。
+现代文：郑武公、郑庄公先后担任周平王的卿士，平王暗中又将朝政分托给虢公，郑庄公埋怨周平王，平王说： 没有这回事。 
+English: Zheng Wukong and Zheng Zhuangong successively served as the noblemen of King Zhou Ping. King Ping secretly entrusted the imperial government to Zou Gong. Zheng Zhuangong complained to King Zhou Ping. King Ping said: There is no such thing.
+
+古文：故周、郑交质，王子狐为质于郑，郑公子忽为质于周。
+现代文：所以周、郑交换人质。周王子狐在郑国作人质，郑国的公子忽在周朝作人质。
+English: Therefore, Zhou and Zheng exchanged hostages. Zhou Prince Fox was a hostage in Zheng, and Zheng's prince Huo was a hostage in the Zhou Dynasty.
+
+古文：王崩，周人将畀虢公政。
+现代文：平王死后，周王室的人想把政权交给虢公。
+English: After the death of King Ping, the people of the Zhou royal family wanted to hand over the power to Zeng Gong.
+
+古文：四月，郑祭足帅师取温之麦。
+现代文：四月，郑国的祭足带兵割取了温地的麦子。
+English: In April, Zheng soldiers with ceremonial shackles cut off the wheat from the warm land.
+
+古文：秋，又取成周之禾。
+现代文：秋天，又割取了成周的谷子。
+English: In the autumn, the corn was cut again.
+
+古文：周、郑交恶。
+现代文：周朝和郑国关系恶化。
+English: Relations between Zhou Dynasty and Zheng Guo deteriorated.
+
+古文：君子曰： 信不由中，质无益也。
+现代文：君子说： 诚意不发自内心，即使交换人质也没有益处。
+English: The gentleman said, "Without sincerity from the heart, even the exchange of hostages is of no benefit."
+
+古文：明恕而行，要之以礼，虽无有质，谁能间之？
+现代文：设身处地将心比心来办事，又用礼仪加以约束，即使没有人质，又有谁能离间他们？
+English: Put yourself in their shoes, and try to work with them in a spirit of cordiality, and restrain them with etiquette. Even if there are no hostages, who can separate them?
+
+古文：苟有明信，涧溪沼沚之毛，蘋蘩蕰藻之菜，筐筥锜釜之器，潢汙行潦之水，可荐于鬼神，可羞于王公，而况君子结二国之信，行之以礼，又焉用质？《风》有《采蘩》、《采蘋》，《雅》有《行苇》、《泂酌》，昭忠信也。 
+现代文：假如确有诚意，即使是山沟、池塘里生长的野草，蘋、蘩、蕴、藻这一类的野菜，一般的竹器和金属器皿，大小道上的积水，都可以献给鬼神，进给王公，何况君子建立了两国的信约，按照礼仪办事，又哪里还用得着人质？《国风》有《采繁》、《采蘋》，《大雅》有《行苇》、《泂酌》这些诗篇，就是为了表明忠信的。 
+English: If there is sincerity, even wild grasses growing in ravines and ponds, vegetables such as apple, lettuce, yam, and algae, ordinary bamboo and metal utensils, and stagnant water on large and small roads can be dedicated to ghosts and gods and given to the prince. What's more, a gentleman has established a mutual trust between the two countries and acts according to etiquette, so why do they still need hostages? "National Style" has "Harvesting" and "Harvesting Apple," and "Grand Elegance" has "Walking" and "Drinking" these poems, in order to show their loyalty.
+
+古文：武氏子来求赙，王未葬也。
+现代文：武氏的儿子来鲁国求取办丧事的财物，这是由于周平王还没有举行葬礼。
+English: The son of the Wu clan came to the State of Lu to ask for the property needed for the funeral, because the funeral of King Zhou Ping had not yet been held.
+
+古文：宋穆公疾，召大司马孔父而属殇公焉，曰： 先君舍与夷而立寡人，寡人弗敢忘。
+现代文：宋穆公生病了，召见大司马孔父而把殇公嘱托给他，说： 先君抛弃了他的儿子与夷而立我为国君，我不敢忘记。
+English: When Song Muguang fell ill, he summoned his father Ma Kongru and entrusted him with the imperial edict, saying, "I dare not forget that my forefather abandoned his son and made me the sovereign.
+
+古文：若以大夫之灵，得保首领以没，先君若问与夷，其将何辞以对？
+现代文：如果托大夫的福，我能得以保全脑袋，先君如果问起与夷，将用什么话回答呢？
+English: If I can save my head, thanks to the doctor's blessing, what will my forefather answer when he asks about Yoichi?
+
+古文：先君以寡人为贤，使主社稷，若弃德不让，是废先君之举也，岂曰能贤？
+现代文：请您事奉与夷来主持国家事务，我虽然死去，也不后悔什么了。 孔父回答说： 群臣愿意事奉您的儿子冯啊！ 穆公说： 不行，先君认为我有德行，才让我主持国家事务。如果丢掉道德而不让位，这就是废弃了先君的提拔，哪里还能说有什么德行？
+English: Father Kong replied, "The ministers are willing to serve your son, Feng." Mu Gong said, "No, the Ancestor thought that I had virtue, so he asked me to preside over the affairs of state. If you throw away morality and don't give up your position, then you have thrown away the Ancestor's promotion. How can you say that you have virtue?"
+
+古文：光昭先君之令德，可不务乎？
+现代文：发扬光大先君的美德，难道能不急于办理吗？
+English: To carry forward the virtues of the great forerunner, can we not be in a hurry to do things?
+
+古文：吾子其无废先君之功。 
+现代文：您不要废弃先君的功业！ 
+English: Don't throw away your predecessor's work!
+
+古文：使公子冯出居于郑。
+现代文：于是命令公子冯到郑国去住。
+English: So he ordered his son-in-law Feng to go and live in Zheng.
+
+古文：八月庚辰，宋穆公卒。殇公即位。
+现代文：八月初五，宋穆公死，殇公即位。
+English: On the 5th day of the 8th month of the lunar calendar, Song Mu Gong died, and Nie Gong ascended to the throne.
+
+古文：君子曰： 宋宣公可谓知人矣。
+现代文：君子说： 宋宣公可以说是能了解人了。
+English: The gentleman said: Song Xuan Gong can be said to be able to understand people.
+
+古文：立穆公，其子飨之，命以义夫。
+现代文：立了兄弟穆公，他的儿子却仍然享受了君位，这是他的遗命出于道义。
+English: He set up his brother Mu Gong, but his son still enjoyed the throne. This was his last will and testament out of morality.
+
+古文：《商颂》曰： 殷受命咸宜，百禄是荷。 
+现代文：《诗经·商颂》说： 殷王传授天命都合于道义，所以承受了各种福禄 ，就是这种情况。 
+English: "Shijing·Shangxuang" said: Yin Wang's teaching of the Mandate of Heaven is convenient for morality, so he has received various blessings, which is the case.
+
+古文：其是之谓乎？ 冬，齐、郑盟于石门，寻卢之盟也。
+现代文：冬季，齐国和郑国在石门会盟，这是为了重温在庐地结盟的友好关系。
+English: In the winter, the countries of Qi and Zheng made an alliance at Shimen, in order to relive the friendly relations of the alliance in Handan.
+
+古文：庚戌，郑伯之车偾于济。
+现代文：冬季某一天，郑伯在济水翻了车。
+English: One day in winter, Zheng Bo overturned his car in Jishui.
+
+古文：卫庄公娶于齐东宫得臣之妹，曰庄姜，美而无子，卫人所为赋《硕人》也。
+现代文：卫庄公娶了齐国太子得臣的妹妹，称为庄姜。庄姜漂亮却没有生孩子，卫国人因此为她创作了《硕人》这篇诗。
+English: Prince Weizhuang married the younger sister of the Crown Prince of Qi, known as Zhuang Jiang. Zhuang Jiang was beautiful but had no children, so the prince of Weizhuang composed the poem "Shuo Ren" for her.
+
+古文：又娶于陈，曰厉妫，生孝伯，早死。
+现代文：卫庄公又在陈国娶了一个妻子，名叫厉妫，生了孝伯，很早就死了。
+English: Prince Weizhuang also married a wife in Chen Province, named Lijun, had a son named Xiaobing, and died very early.
+
+古文：其娣戴妫生桓公，庄姜以为己子。
+现代文：跟厉妫陪嫁来的妹妹戴妫，生了卫桓公，庄姜就把他作为自己的儿子。
+English: When Wei Huan Gong was born, Zhuo Jiang took him as his own son.
+
+古文：公子州吁，嬖人之子也，有宠而好兵。公弗禁，庄姜恶之。
+现代文：公子州吁，是卫庄公宠妾的儿子，得到庄公的宠爱，州吁喜欢军器，庄公不加禁止。庄姜很讨厌他。
+English: Prince Zhou Xu, the son of Weizhuang's favorite concubine, was favored by Zhuangguo. Zhou Xu liked military equipment, which Zhuangguo did not forbid. Zhuangjiang hated him.
+
+古文：石碏谏曰： 臣闻爱子，教之以义方，弗纳于邪。
+现代文：石碏规劝庄公说： 我听说喜欢自己的儿子，应当以道义去教育他，不要使他走上邪路。
+English: Shi Yujie advised Zhuang Gong, "I heard that you like your son. You should educate him in morality, and not let him go down the wrong path."
+
+古文：骄、奢、淫、泆，所自邪也。
+现代文：骄傲、奢侈、放荡、逸乐，这是走上邪路的开始。
+English: Pride, luxury, debauchery, pleasure, these are the beginnings of a bad road.
+
+古文：四者之来，宠禄过也。
+现代文：这四种恶习之所以发生，是由于宠爱和赐予太过份。
+English: These four vices occur because of too much favoritism and bestowal.
+
+古文：将立州吁，乃定之矣，若犹未也，阶之为祸。
+现代文：如果准备立州吁做太子，那就应该定下来；如果还不定下来，会逐渐酿成祸乱。
+English: If he is preparing to become the crown prince, it should be settled; if it is still not settled, it will gradually lead to disaster.
+
+古文：夫宠而不骄，骄而能降，降而不憾，憾而能眕者鲜矣。
+现代文：那种受宠而不骄傲，骄傲而能安于地位下降，地位下降而不怨恨，怨恨而能克制的人，是很少见的。
+English: It is rare to find a person who is favored without being proud, who is proud but can accept a fall in status, who can accept a fall in status without resentment, and who can restrain resentment.
+
+古文：且夫贱妨贵，少陵长，远间亲，新间旧，小加大，淫破义，所谓六逆也。
+现代文：而且低贱的妨害尊贵的，年少的驾凌年长的，疏远的离间亲近的，新的离间旧的，弱小的欺侮强大的，淫欲的破坏道义的，这就是六种反常现象。
+English: Moreover, the base interfering with the noble, the young overpowering the old, the estranged alienating the close, the new alienating the old, the weak bullying the strong, the lustful destroying the moral, these are the six anomalies.
+
+古文：君义臣行，父慈子孝，兄爱弟敬，所谓六顺也。
+现代文：国君行事得宜，臣子服从命令，父亲慈爱，儿子孝顺，兄爱弟、弟敬兄，这就是六种正常现象。
+English: The sovereign acts appropriately, the vassal obeys orders, the father is kind, the son is dutiful, the elder brother loves the younger brother, and the younger brother respects the elder brother. These are the six normal phenomena.
+
+古文：去顺效逆，所以速祸也。
+现代文：去掉正常而效法反常，这就会很快地招致祸害。
+English: To get rid of the normal and follow the abnormal will quickly lead to disaster.
+
+古文：君人者将祸是务去，而速之，无乃不可乎？ 
+现代文：作为君主，应该尽力于去掉祸害，现在却加速它的到来，恐怕不可以吧！ 
+English: As a monarch, you should do your best to get rid of the scourge, but now you are speeding up its arrival, I'm afraid not!
+
+古文：弗听。
+现代文：庄公不听。
+English: He did not listen to the words of the crown prince.
+
+古文：其子厚与州吁游，禁之，不可。
+现代文：石碏的儿子石厚和州吁交游，石碏禁止他，石厚不听。
+English: Shi Tao's son, Shi Hou, and Zhou Xu had sexual intercourse. Shi Hou forbade him, but Shi Hou did not listen.
+
+古文：桓公立，乃老。
+现代文：卫桓公即位，石碏就告老回家了。
+English: When Emperor Weihan ascended to the throne, Shih Chien retired and returned home.
+

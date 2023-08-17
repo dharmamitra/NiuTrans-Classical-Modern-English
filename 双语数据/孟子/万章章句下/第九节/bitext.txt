@@ -1,0 +1,40 @@
+古文：齐宣王问卿。
+现代文：齐宣王向孟子请教关于大臣公卿的问题。
+English: King Qi Xuan asked Mencius for advice on the issue of ministers and nobles.
+
+古文：孟子曰： 王何卿之问也？ 
+现代文：孟子说： 大王问的是什么样的卿呢？ 
+English: Mencius said: What kind of nobles did the great king ask?
+
+古文：王曰： 卿不同乎？ 
+现代文：齐宣王说： 难道卿还有不同的吗？ 
+English: King Qi Xuan said, "Is there any difference, my lord?"
+
+古文：曰： 不同。有贵戚之卿，有异姓之卿。 
+现代文：孟子说： 是不同的，有王室宗族的公卿，有非王族的异姓公卿。 
+English: Mencius said: They are different. There are court nobles of the royal family, and there are court nobles with different surnames who are not royal.
+
+古文：王曰： 请问贵戚之卿。 
+现代文：齐宣王说： 请问王室宗族的卿。 
+English: King Qi Xuan said, "Please be a member of the royal family."
+
+古文：曰： 君有大过则谏，反覆之而不听，则易位。 
+现代文：孟子说： 国君有大的过错他们就劝谏，反复劝谏不听从，就另立国君。 
+English: Mencius said: If the sovereign has a great fault, they will persuade him, and if he does not listen to repeated persuasion, they will set up another sovereign.
+
+古文：王勃然变乎色。
+现代文：齐宣王脸色一下子变得很难看。
+English: Qi Xuanwang's face suddenly became ugly.
+
+古文：曰： 王勿异也。王问臣，臣不敢不以正对。 
+现代文：孟子说： 大王不要见怪，大王问臣，臣不敢不以实话答复。 
+English: Mencius said, "Don't be surprised, great king. The great king asked the vassal, and the vassal dared not not answer with the truth.
+
+古文：王色定，然后请问异姓之卿。
+现代文：齐宣王脸色平静下来，然后问非王族的公卿。
+English: Qi Xuanwang's face calmed down, and then asked the non-royal nobles.
+
+古文：曰： 君有过则谏，反覆之而不听，则去。 
+现代文：孟子说： 国君有过错他们则劝谏，反复劝谏不听，他们就会辞官离开。 
+English: Mencius said: If the sovereign is at fault, they will persuade him, and if he does not listen to repeated persuasion, they will resign and leave.
+

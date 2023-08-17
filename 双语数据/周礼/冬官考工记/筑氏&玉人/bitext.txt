@@ -1,0 +1,284 @@
+古文：攻金之工，筑氏执下齐，治氏执上齐，凫氏为声，氏为量，段氏为鏄器，桃氏为刃。
+现代文：治理金属的工匠，筑氏掌洽下齐，冶氏掌治上齐，凫氏制作乐器，栗氏制作量器，段氏制作农具，桃氏制作长刃的兵器。
+English: For craftsmen who work with metals, the Chiku clan is at the bottom, the Ye clan is at the top, the Min clan makes musical instruments, the Kuri clan makes measuring instruments, the Dan clan makes agricultural tools, and the Mom clan makes long-bladed weapons.
+
+古文：金有六齐：六分其金而锡居一，谓之种鼎之齐；五分其金而锡居一，谓之斧斤之齐；四分其金而锡居一，谓之戈戟之齐参分其金而锡居一，谓之大刃之齐；五分其金而锡居二，谓之削杀矢之齐金锡半，谓之鉴燧之齐。
+现代文：铜锡合金有六种比例：把合金分为六等分而锡占六分之一，叫做钟鼎之齐；把合金分为五等分而锡占五分之一，叫做斧斤之齐；把合金分为四等分而锡占四分之一，叫做戈戟之齐；把合金分为三等分而锡占三分之一，叫做大刃之齐；把合金分为五等分而锡占五分之二，叫做削杀矢之齐；铜锡各占一半，叫做鉴燧之齐。
+English: Copper-tin alloys have six ratios: the alloy is divided into six equal parts, and tin accounts for one-sixth, which is called the balance of the bell; the alloy is divided into five equal parts, and tin accounts for one-fifth, which is called the balance of the axe; the alloy is divided into four equal parts, and tin accounts for one-quarter, which is called the balance of the spade; the alloy is divided into three equal parts, and tin accounts for one-third, which is called the balance of the large blade; the alloy is divided into five equal parts, and tin accounts for two-fifths, which is called the balance of the sharpening arrow;
+
+古文：筑氏为削，长尺博寸，合六而成规。
+现代文：筑氏制作削，长一尺，宽一寸，六把削可以合成一个圆。
+English: Tsukushi's whorls are one foot long and one inch wide, and six whorls can form a circle.
+
+古文：欲新而无穷，敝尽而无恶。
+现代文：削要造得永远像新的一样锋利，即使刀刃磨损殆尽也没有缺损变形。
+English: The sharpening should always be as sharp as new, even if the blade is worn out, there is no defect deformation.
+
+古文：冶氏为杀矢，刃长寸围寸，铤十之，重三垸。
+现代文：冶氏制作杀矢，矢刃长二寸，矢最阔处围长一寸，铤长十寸，重三垸。
+English: Ya-shi makes arrowheads, the blade is two inches long, the widest part of the arrow is one inch long, the beak is ten inches long, and the weight is three ounces.
+
+古文：戈广二寸，内倍之，胡三之，援四之，已倨则不入，已句则不决。
+现代文：戈宽二寸，内的长度比宽加一倍，胡的长度是宽的三倍，援的长度是宽的四倍。
+English: The width of the go is two inches, the inner length is twice the width, the length of the wu is three times the width, and the length of the aid is four times the width.
+
+古文：长内则折前，短内则不疾，是故倨句外博，重三锊。
+现代文：援太向上仰就不便于啄击，援太向下勾就不能割断创处，内太长就容易折断援，内太短啄击就不迅捷，因此使援与胡之间的角度稍向外张。戈重三锊。
+English: It is not easy to strike a blow if the aid is too high, and it is not possible to cut the wound if the aid is too low, and it is easy to break the aid if it is too long, and it is not quick to strike a blow if it is too short, so the angle between the aid and the wu is slightly outward.
+
+古文：戟广寸有半寸，内三之，胡四之，援五之，倨句中矩，与刺重三锊。
+现代文：戟宽一寸半，内的长度是宽的三倍，胡的长度是宽的四倍，援的长度是宽的五倍，刺、胡与援、内纵横相交呈直角，援、胡、内与刺共重三锊。
+English: The beak is one and a half inches wide, the inner length is three times the width, the length of the beak is four times the width, the length of the support is five times the width, the thorn, the beak and the support, and the inner vertical and horizontal intersect at right angles, and the support, the beak, the inner and the thorn are three times the weight.
+
+古文：桃氏为剑，腊广二寸有半寸，两従半之。
+现代文：桃氏制作剑。剑的腊宽二寸半，两从的宽度各占一半。
+English: The blade of the sword is two and a half inches wide, and the width of the two scabbards is half each.
+
+古文：以其腊广为之茎围，长倍之，中其茎，设其后。
+现代文：以腊的宽度作为茎的围长，茎的长度则比围长加一倍。在茎的中间部分，设置用绳缠的后。
+English: Take the width of the wax as the circumference of the stem, the length of the stem is double the length of the circumference. In the middle part of the stem, set the back wrapped with rope.
+
+古文：参分其腊广，去一以为首广，而围之。
+现代文：把腊的宽度分成三等分，去掉一等分作为剑首的直径，而据此制作剑首的围长。
+English: Divide the width of the wax into three equal parts, remove one equal part as the diameter of the sword head, and according to this make the circumference of the sword head.
+
+古文：身长五其茎长，重九锊，谓之上制，上士服之。身长四其茎长，重七锊，谓之中制，中士服之。身长三其茎长，重五锊，谓之下制，下士服之。
+现代文：剑的身长是茎长的五倍，重九锊，称为上制，上等身材的勇士佩用它；剑的身长是茎长的四倍，重七锊，称为中制，中等身材的勇士佩用它；剑的身长是茎长的三倍，重五锊，称为下制，下等身材的勇士佩用它。
+English: The length of the sword is five times the length of the stem and weighs nine ounces. It is called the upper system and is worn by warriors of superior stature. The length of the sword is four times the length of the stem and weighs seven ounces. It is called the middle system and is worn by warriors of average stature. The length of the sword is three times the length of the stem and weighs five ounces. It is called the lower system and is worn by warriors of inferior stature.
+
+古文：凫氏为钟，两栾谓之铣，铣间谓之于，于上谓之鼓，鼓上谓之钲，钲上谓之舞，舞上谓之甬，甬上谓之衡，钟县谓之旋，旋虫谓之干，钟带谓之篆，篆间谓之枚，枚谓之景，于上之攠谓之隧。
+现代文：凫氏制作钟。钟两旁的两栾叫做铣，两铣的末端之间叫做于，于上敲击的部分叫做鼓，鼓上面的部分叫做钲，钲上钟顶的部分叫做舞，舞上面的柄叫做甬，甬上端的平面叫做衡。设在甬下部的圆环形的钟悬叫做旋，贯旋的如纽状的旋虫叫做干。钟带叫做篆，篆间突起的钟乳叫做枚，枚又叫做景。于上面稍凹而生光以备敲击的地方叫做隧。
+English: The two cymbals on either side of the bell are called the cymbals, the part between the ends of the two cymbals is called the yoke, the part struck on the top is called the drum, the part above the drum is called the yoke, the part of the bell top on the yoke is called the dance, the handle above the dance is called the yoke, and the plane at the upper end of the yoke is called the balance. The ring-shaped pendulum suspended in the lower part of the yoke is called the swivel, and the knotted whorl is called the stem. The bell band is called the yoke, and the pro
+
+古文：十分其铣，去二以为钲。
+现代文：把铣的长度分为十等分，去掉二等分就是钲的长度。
+English: Divide the length of the hoop into ten equal parts. Remove the second equal part and you have the length of the hoop.
+
+古文：以其钲为之铣间，去二分以为之鼓间。
+现代文：用钲的长度作为两铣之间的距离，再去掉二分就是两鼓之间的距离。
+English: Use the length of the cymbal as the distance between the two cymbals, and then remove the two points to get the distance between the two drums.
+
+古文：以其鼓间为之舞修，去二分以为舞广。
+现代文：用两鼓之间的距离作为舞的长度，再去掉二分就是舞的宽度。
+English: Use the distance between the two drums as the length of the dance, and then remove the two points is the width of the dance.
+
+古文：以其钲之长为之甬长，以其甬长为之围。
+现代文：用钲的长度作为甬的长度，用甬的长度作为甬的大端的围长。
+English: Use the length of the hoop as the length of the hoop, and use the length of the hoop as the circumference of the large end of the hoop.
+
+古文：参分其围，去一以为衡围。
+现代文：把甬的大端的围长分为三等分，去掉一等分就是衡的围长。
+English: Divide the circumference of the large end of the hoop into three equal parts, and remove one equal part is the measured circumference.
+
+古文：参分其甬长，二在上，一在下，以设其旋。
+现代文：把甬长分为三等分，二等分在上，一等分在下，就在上下两段之际设置旋。
+English: Divide the hoop length into three equal parts, two equal parts on top, one equal part on the bottom, and set the hoop at the junction of the upper and lower sections.
+
+古文：薄厚之所震动，清浊之所由出，侈弇之所由兴，有说。
+现代文：钟体或厚或薄所产生的震动，钟声或清或浊所由产生的原因，钟口或宽或窄所由制定的根据，其中都有道理可说。
+English: The vibration caused by the thickness or thinness of the bell body, the reason for the bell's ringing or ringing, and the reason for the width or narrowness of the bell are all reasonable.
+
+古文：钟已厚则石，已薄则播，侈则柞，弇则郁，长甬则震。
+现代文：钟体太厚就会像石头一样发不出声音，钟体太薄发出的声音就会播散，钟口太宽发出的声音就过于迫促，钟口太窄发出的声音就抑郁回旋难出，甬过长发出的声音就不正。
+English: If the bell is too thick, it will sound like a stone, if the bell is too thin, the sound will be diffused, if the bell is too wide, the sound will be too urgent, if the bell is too narrow, the sound will be depressed and difficult to rotate, and if the gong is too long, the sound will be incorrect.
+
+古文：是故大钟十分其鼓间，以其一为之厚；小钟十分其钲间，以其一为之厚。
+现代文：因此大钟把两鼓之间的距离分成十等分，用它的一等分作为钟体的厚度。小钟把两钲之间的距离分成十等分，用它的一等分作为钟体的厚度。
+English: Therefore, the large bell divides the distance between the two cymbals into ten equal parts and uses its first equal part as the thickness of the bell body. The small bell divides the distance between the two cymbals into ten equal parts and uses its first equal part as the thickness of the bell body.
+
+古文：钟大而短，则其声疾而短闻；钟小而长，则其声舒而远闻。
+现代文：钟体大而短，发出的声音就急促而短暂。钟体小而长，发出的声音就舒缓而持久。
+English: If the bell is large and short, the sound emitted is quick and short. If the bell is small and long, the sound emitted is soft and long.
+
+古文：为遂，六分其厚，以其一为之深，而圜之。
+现代文：制作备敲击的隧，把钟体的厚度分成六等分，用一等分作为隧凹下的深度而做成圆形。
+English: Make a tunnel ready for striking, divide the thickness of the bell body into six equal parts, and use one equal part as the depth under the tunnel concave to make a round shape.
+
+古文：氏为量，改煎金、锡则不秅，不秅然后权之，权之然后准之，准之然后量之。
+现代文：栗氏制作量器，先反复冶炼铜锡使之精纯而不再有杂质可损耗，不再有杂质可损耗然后称量，称量后浸入水中测知体积大小，体积确定后再铸造量器。
+English: Mr. Kuri made a measuring instrument. First, he repeatedly smelted copper and tin to make it pure and no longer have impurities that can be lost. Then, he weighed it. After weighing, it was immersed in water to measure the volume. After the volume was determined, the measuring instrument was cast.
+
+古文：量之以为鬴，深尺，内方尺而圜其外，其实一鬴，其臂一寸，其实一豆；其耳三寸。
+现代文：所铸造的量器为鬴，深一尺，可容纳一立方尺而口缘为圆形，它的容积即为一鬴。鬴的臀部深一寸，臀部的容积为一豆。稿两侧的耳子深三寸，耳子的容积为一升。
+English: And he made the ephah, a foot deep, to hold a cubit; and the brim thereof was round, and the measure thereof a cubit: and the bottom of the ephah was a foot deep, and the breadth of the breadth of the ephah was a cubit; and the depth of the brim of the ephah was a foot; and the breadth of the breadth of the breadth of the ephah was a cubit; and the depth of the brim of the breadth of the ephah was a foot; and the breadth of the brim of the breadth of the ephah was a foot; and the depth of
+
+古文：其实一升，重一钧，其声中黄钟之宫，概而不悦。
+现代文：永远开导你的子孙后代，把这量器作为准则。 
+English: Always educate your children and grandchildren using this scale as a guide.
+
+古文：其铭曰： 时文思索，允臻其极，嘉量既成，以观四国，永启厥后，兹器维则。 凡铸金之状；金与锡，黑浊之气竭，黄白次之，黄白之气竭，青白次之。青白之气竭，青气次之，然后可铸也。
+现代文：凡观察冶铸金属的状态，被冶炼的铜和锡黑浊的气体销尽了，接着会出现黄白的气体；黄白的气体销尽了，接着会出现青白的气体；青白的气体销尽了，接着会出现青色的气体，然后就可用以铸造器物了。
+English: When observing the state of metallurgical cast metal, the gas of smelted copper and tin black tungsten is exhausted, followed by yellow-white gas; yellow-white gas is exhausted, followed by blue-white gas; blue-white gas is exhausted, followed by blue gas, and then it can be used to cast objects.
+
+古文：函人为甲，犀甲七属，兕甲六属，合甲五属。
+现代文：函人制作甲衣。犀甲的上下旅都是用七片连缀而成，兕甲的上下旅都是用六片连缀而成，合甲的上下旅都是用五片连缀而成。
+English: The rhinoceros armor is made up of seven interlocking rings for the up and down travel, six interlocking rings for the up and down travel of the armor, and five interlocking rings for the up and down travel of the armor.
+
+古文：犀甲寿百年，兕甲寿二百年，合甲寿三百年。
+现代文：犀甲可用一百年，兕甲可用二百年，合甲可用三百年。
+English: Rhino armor can be used for a hundred years, armor can be used for two hundred years, and armor can be used for three hundred years.
+
+古文：凡为甲，必先为容，然后制革。
+现代文：凡制作甲衣，必须先量度人的体形，然后裁制甲片。
+English: Anyone making a suit of armor must first measure a person's body shape, and then cut armor plates.
+
+古文：权其上旅与其下旅，而重若一，以其长为之围。
+现代文：称量甲衣的上旅和下旅，而重量要一样。用甲衣的长度作为腰围。
+English: Weigh the upper and lower leg of the shirt, and the weight should be the same. Use the length of the shirt as the waist circumference.
+
+古文：凡甲，锻不挚则不坚，已敝则桡。
+现代文：凡甲衣，皮芋锻治不实就不坚固，锻治过分致使革理损伤就会使甲衣易于曲折而不强韧。
+English: If the armor is not properly forged, it will not be strong. If the forging causes excessive damage to the leather, the armor will be easy to bend and not strong.
+
+古文：凡察革之道，眡其钻空，欲其丰也；眡其里，欲其易也；眡其朕，欲其直也，櫜之欲其约也；举而眡之，欲其丰也；衣之，欲其无齘也。
+现代文：凡观察甲衣的方法：看甲片上为穿丝绳连缀甲片钻的孔眼，孔眼要小；看甲片的里面，要刮治得平而光；看甲衣的缝，要上下对得很直；装进袋子里，要体积小；举起而展开来看，要显得宽大；穿到身上，要甲片相互间不磨切。
+English: All the methods of observing the armor: look at the holes drilled on the armor plate for threading the silk cord to connect the armor plate, the holes should be small; look at the inside of the armor plate, it should be scraped flat and light; look at the seams of the armor, it should be straight up and down; loaded into the bag, it should be small; lifted and unfolded, it should appear wide; worn on the body, the armor plates should not be worn between each other.
+
+古文：眡其钻空而惌，则革坚也；眡其里而易，则材更也；眡其朕而直，则制善也。
+现代文：看到甲片上的钻孔很小，就知道甲衣很坚固；看到甲片的里面平而光，就知道甲衣的材料好；看到甲衣上的缝很直，就知道做工好；装进袋子体积小：就知道缝制精致；举起展开显得宽大，就一定很有光耀；穿到身上甲片相互不磨切，活动起来就很便利。
+English: If you see that the drill holes on the armor plate are small, you know that the armor is very strong; if you see that the inside of the armor plate is flat and light, you know that the material of the armor is good; if you see that the seams on the armor plate are straight, you know that the workmanship is good; if it is packed into a small bag, you know that the sewing is exquisite; if it is lifted and unfolded, it appears wide, it must be very bright; if the armor plates are worn on the body, they do not rub against each other, and it is very convenient to move.
+
+古文：櫜之而约，则周也；举之而丰；则明也；衣之无齘，则变也。鲍人之事，望而眡之，欲其荼白也；进而握之，欲其柔而滑也；卷而抟之，欲其无迆也；眡其著，欲其浅也；察其线，欲其藏也。
+现代文：鲍人揉治皮革的事，远看那皮革，要像茅、芦的花那样白；进前用手握一握，要感到很柔滑；把它紧紧地卷起来，要整齐而不斜；看皮革上两皮缝合处，要又薄又窄；看那缝合处的线，要隐藏不显。
+English: When rubbing leather, look at the leather from a distance, it should be as white as the flowers of thatch and reed; go forward and hold it with your hand, it should feel very smooth; roll it tightly, it should be neat and not slanted; look at the seam between the two skins on the leather, it should be thin and narrow; look at the line at the seam, it should be hidden.
+
+古文：革欲其荼白而疾，汗之则坚，欲其柔滑而腛，脂之则需，引而信之。
+现代文：皮革要像茅、芦的花一样白而清洗时很快捷，不使入水时间过久，就会坚韧；要使皮革柔滑而涂上厚厚的油脂，就会很柔软；拉而伸展皮革，要它很平直。
+English: The leather should be as white as the flowers of the lily of the valley and the reed, and it should be quickly cleaned. If the watering time is not too long, it will be tough; if the leather is smooth and coated with thick grease, it will be very soft; if the leather is stretched, it should be very straight.
+
+古文：欲其直也，信之而直，则取材正也。信之而枉，则是一方缓一方急也。
+现代文：拉伸开来很平直，就说明所取革材纹理很正；伸展开来歪斜不直，就因为拉伸时用力一边紧，一边松。
+English: If the stretching is very straight, it means that the texture of the leather material is very straight; if the stretching is not straight, it is because the force is tight on one side and loose on the other.
+
+古文：若苟一方缓一方急，则及其用之也，必自其急者先裂。
+现代文：如果拉伸时用力一边紧，一边松，到用皮革的时候，一定会从紧的一边先断裂。
+English: If one side is tight and the other side is loose when stretching, when using leather, it will break from the tight side first.
+
+古文：若苟自急者先裂，则是以博为帴也。
+现代文：如果从紧的一边先断裂，那就是使宽的皮革反而变窄了。
+English: If it breaks on the tight side first, it makes the wide leather narrower.
+
+古文：卷而抟之而不迆，则厚薄序也。眡其著而浅，则革信也。察其线而藏，则虽敝不甐。
+现代文：将皮革卷紧而不歪斜，就说明厚薄均匀；看到皮革缝合处又薄又窄，皮革就不会伸缩变形；看到皮革上的缝线隐藏不显，即使皮革用坏了缝线也不会受损伤。
+English: If the leather is rolled tightly and not skewed, it means that the thickness is uniform; if the leather seam is thin and narrow, the leather will not be stretched and deformed; if the seams on the leather are not hidden, even if the leather is used, the seams will not be damaged.
+
+古文：韗人为皋陶，长六尺有六寸，左右端广六寸，中尺，厚三寸，穹者三之一，上三正。
+现代文：韗人制作皋陶，长六尺六寸，构成鼓身的每片木板左右两端宽六寸，中段宽一尺，厚三寸，中段穹隆部分比两端鼓面直径高出三分之一，鼓框上的木板都折成平直的三段。
+English: It is six feet and six inches long, and each wooden board that makes up the drum body is six inches wide on the left and right ends, one foot wide in the middle and three inches thick. The dome part of the middle section is one-third higher than the diameter of the drum surface at both ends. The wooden boards on the drum frame are folded into three straight sections.
+
+古文：鼓长八尺，鼓四尺，中围加三之一，谓之。
+现代文：鼓长八尺，鼓面直径四尺，鼓身中段围长比鼓面围长增加三分之一，叫做轰鼓。
+English: The drum is eight feet long, the drumhead is four feet in diameter, and the circumference of the middle section of the drum body is one-third longer than the circumference of the drumhead, which is called the rim.
+
+古文：为皋鼓，长寻有四尺，鼓四尺，倨句磬折。
+现代文：制作皋鼓，鼓长一寻零四尺，鼓面直径四尺，鼓腰弯曲如磬。
+English: Make a gong and drum. The length of the drum is 0.4 feet, the diameter of the drum face is 4 feet, and the waist of the drum is curved like a gong.
+
+古文：凡冒鼓；必以启蛰之日，良鼓瑕如积环。
+现代文：凡蒙鼓皮，必须在启蛰那天。好鼓鼓皮上的漆痕一圈圈地如同积环。
+English: Whoever gets a drum skin must do it on the first day of the new year. The lacquer marks on the skin of a good drum circle the ground like a hoop.
+
+古文：鼓大而短，则其声疾而短闻；鼓小而长，则其声舒而远闻。
+现代文：鼓面大而鼓身短，发出的声音就急促而短暂；鼓面小而鼓身长，发出的声音就舒缓而持久。
+English: If the face of the drum is large and the body is short, the sound emitted is rapid and short-lived; if the face of the drum is small and the body is long, the sound emitted is soothing and long-lasting.
+
+古文：画缋之事，杂五色。
+现代文：绘画的事，调配五色。
+English: When it comes to painting, it's all about the five colors.
+
+古文：东方谓之青，南方谓之赤，西方谓之白，北方谓之黑，天谓之玄，地谓之黄。
+现代文：象征东方叫做青色，象征南方叫做赤色，象征西方叫做白色，象征北方叫做黑色，象征天叫做玄色，象征地叫做黄色。
+English: The symbol of the east is called blue, the symbol of the south is called red, the symbol of the west is called white, the symbol of the north is called black, the symbol of the sky is called black, and the symbol is called yellow.
+
+古文：青与白相次也，赤与黑相次也，玄与黄相次也。
+现代文：青与白是顺次排列的两种颜色，赤与黑是顺次排列的两种颜色，玄与黄是顺次排列的两种颜色。
+English: Blue and white are the two colors in sequence, red and black are the two colors in sequence, and black and yellow are the two colors in sequence.
+
+古文：青与赤谓之文，赤与白谓之章，白与黑谓之黼，黑与青谓之黼，五采，备谓之绣。
+现代文：青色与赤色相配叫做文，赤色与白色相配叫做章，白色与黑色相配叫做黼，黑色与青色相配叫做黻，五彩具备叫做绣。
+English: The combination of blue and red is called "Wen," the combination of red and white is called "Zhang," the combination of white and black is called "," the combination of black and blue is called "," and the combination of five colors is called "绣."
+
+古文：土以黄，其象方天时变。
+现代文：画土地用黄色，它的形象画作四方形。
+English: Paint the ground with yellow, its image painted square.
+
+古文：火以圜，山以章，水以龙，鸟兽蛇。
+现代文：画天依照四季的变化用色。画火用圆环作为象征，画山用獐作为象征，画水用龙作为象征，还画有鸟、兽、蛇等。
+English: Paint the sky with colors according to the changes of the four seasons. Paint fire with a circle as a symbol, paint mountains with a dragon as a symbol, paint water with a dragon as a symbol, and also paint birds, beasts, snakes, etc.
+
+古文：杂四时五色之位以章之，谓之巧。
+现代文：调配好象征四季的五色的着色部位以使色彩鲜明，叫做技巧。
+English: It is called skill to arrange the five-colored coloring parts that symbolize the four seasons to make the colors bright.
+
+古文：凡画缋之事后素功。
+现代文：凡绘画，最后才着白色。
+English: When you paint, you end up with white.
+
+古文：钟氏染羽，以朱湛、丹秫，三月而炽之，淳而渍之。
+现代文：钟氏染羽毛，把丹砂和丹秫一起在水中浸渍三个月，而后用火蒸，再用蒸丹秫的水浇丹秫并再蒸，而后就可以用蒸丹秫的水染羽了。
+English: Zhong dyes feathers, impregnates the Dansha and Danzhou together in water for three months, and then steams with fire, then douses the Danzhou with the water of the steamed Danzhou and steams again, and then the feathers can be dyed with the water of the steamed Danzhou.
+
+古文：三入为纁，五入为緅，七入为缁。
+现代文：羽毛三次放进染汁中浸染就成缥色，五次放进染汁中浸染就成鲰色，七次放进染汁中浸染就成缁色。
+English: Three times the feathers are dipped into the dyeing juice to become indigo, five times into the dyeing juice to become indigo, and seven times into the dyeing juice to become indigo.
+
+古文：荒氏湅丝，以涚水沤其丝七日，去地尺暴之。昼暴诸日，夜宿诸井。七日七夜，是谓水湅。
+现代文：荒氏湅丝，先把丝放在温水中浸泡七天，再离地一尺曝晒，白天在太阳下暴晒，晚上悬浸在井水中过夜，经过七天七夜，这就叫做水湅。
+English: In the case of Ara's silk, the silk is first soaked in warm water for seven days, then exposed to the sun a foot above the ground, exposed to the sun during the day, and soaked in well water overnight at night. After seven days and seven nights, it is called water reed.
+
+古文：湅帛，以栏为灰，渥淳其帛，实诸泽器，淫之以蜃，清其灰而盝之，而挥之，而沃之，而盝之，而涂之，而宿之。
+现代文：湅帛，用栏木烧灰再和以水，厚厚地浇在帛上，放进光滑的容器里，再将蛤灰涂在帛上。早晨清洗帛上的蛤灰而拧干，振去细灰，再厚浇栏灰水，再清洗拧干，涂上蛤灰，这样过夜；第二天再清洗拧干。
+English: In the morning, clean the ash on the ash pan and wring it out, shake off the fine ash, then pour thick ash water on the ash pan, clean and wring it out again, and apply the ash to the ash pan. Leave it overnight; clean and wring it out again the next day.
+
+古文：明日，沃而盝之，昼暴诸日，夜宿诸井。七日七夜，是谓水湅。
+现代文：这样经过七天七夜，叫做灰涑。白天在阳光下曝晒，晚上悬浸在井水中过夜，这样经过七天七夜，叫做水湅。
+English: After seven days and seven nights of this, it is called ash. After seven days and seven nights of this, it is called leech. After seven days and seven nights, it is called leech.
+
+古文：玉人之事，镇圭尺有二寸，天子守之；命圭九寸，谓之桓圭，公守之；命圭七寸，谓之信圭，侯守之；命圭七寸，谓之躬圭，伯守之。
+现代文：玉人制作玉器的事：镇圭长一尺二寸，由天子执守；命圭长九寸，叫做桓圭，由公执守；命圭长七寸，叫做信圭，由侯执守；命圭长七寸，叫做躬圭，由伯执守。
+English: Concerning the making of jade objects by jade craftsmen: Zhen Gui is one foot and two inches long and is held by the Son of Heaven; Mu Gui is nine inches long and is called Kwan Gui and is held by the Lord; Mu Gui is seven inches long and is called Shun Gui and is held by the Lord; Mu Gui is seven inches long and is called Mu Gui and is held by the Lord.
+
+古文：天子执冒四寸，以朝诸侯。
+现代文：天子所拿的瑁，四寸见方，用以接见来朝诸侯。
+English: The scepter held by the Son of Heaven is four centimeters square, and is used to receive the princes.
+
+古文：天子用全，上公用龙，侯用瓚，伯用将，继子男执皮帛。天子圭中必，四圭尺有二寸，以祀天；大圭长三尺，杼上终葵首，天子服之；土圭尺有五寸，以致日、以土地；祼圭尺有二寸，有瓚，以祀庙；琬圭九寸而缫，以象德；琰圭九寸，判规，以除慝，以易行；璧羡度尺，好三寸，以为度；圭璧五寸，以祀日月星辰；璧琮九寸，诸侯以享天子；谷圭七寸，天子以聘女；大璋中璋九寸，边璋七寸，射四寸，厚寸，黄金勺，青金外，朱中，鼻寸，衡四寸，有缫，天子以巡守。宗祝以前马，大璋亦如之，诸侯以聘女。
+现代文：大璋、中璋长九寸，边璋长七寸，削尖的部分长四寸，厚一寸，璋的前端有黄铜勺，勺外涂有铅，勺内朱红色，勺旁的流长一寸，勺的直径四寸，有缫垫，天子用以巡守天下时祭祀所经过的山川，由大祝在杀马祭祀山川之前先用璋瓒行裸祭礼。诸侯的长七寸的大璋也如同天子的谷圭一样，用以向将要迎娶的女方行聘礼。
+English: The large gong and the middle gong are nine inches long, the side gong is seven inches long, the sharpened part is four inches long and one inch thick, the front end of the gong has a brass spoon, the outside of the spoon is coated with lead, the inside of the spoon is vermilion red, the flow next to the spoon is one inch long, the diameter of the spoon is four inches, and there is a gong cushion. The heavenly son is used to patrol the mountains and rivers that the sacrifice passes through when the world is, and the high priest performs the naked ritual with the gong before the horse is sacrificed. The seven-inch-long
+
+古文：瑑圭璋八寸。璧琮八寸，以覜聘。
+现代文：有纹饰的圭和璋长八寸，有纹饰的璧的直径和琮的边长八寸，是诸侯用来向王行舰礼或聘礼用的。
+English: The decorated gauze and brocade are eight inches long, and the diameter of the decorated brocade and the edge of the brocade are eight inches long. They were used by the lords to pay homage to the king.
+
+古文：牙璋中璋七寸，射二寸，厚寸，以起军旅，以治兵守。
+现代文：牙璋、中璋长七寸，削尖的部分长二寸，厚一寸，用以发兵，用以调动驻守的部队。
+English: The gums and middle beak are seven inches long, and the sharpened part is two inches long and one inch thick, which is used to send troops and to mobilize the stationed troops.
+
+古文：驵琮五寸，宗后以为权。
+现代文：驵琮边长五寸，王后用作称锤。
+English: The ruff is five inches long, and the queen uses it as a weighing hammer.
+
+古文：大琮十有二寸，射四寸，厚寸，是谓内镇，宗后守之。
+现代文：大琮边长十二寸，四角各长四寸，厚一寸，这叫做内镇，由王后执守。
+English: The large frill is twelve inches long, and the four corners are four inches long and one inch thick. This is called the naizhen, and is guarded by the queen.
+
+古文：驵琮七寸，鼻寸有半寸，天子以为权。
+现代文：驵琮边长七寸，系丝带的鼻一寸半，天子用作称锤。
+English: The frill is seven inches long, the nose of the ribbon is one and a half inches, and the crown is used as a weighing hammer.
+
+古文：两圭五寸有邸，以祀地，以旅四望。
+现代文：用长五寸而以琮为本的两圭祭祀地，并用以祭祀四方的名山大川。
+English: It is a five-inch-long, gourd-based deity of the Two Guis, and is used to worship the four sides of the famous mountain river.
+
+古文：瑑琮八寸，诸侯以享夫人。
+现代文：有纹饰的琮的边长八寸，是诸侯相互朝聘时用以进献给夫人的。
+English: The border of the ornamented urn is eight inches long. It was used by lords to present gifts to their wives when they were engaged by each other.
+
+古文：案十有二寸，枣栗十有二列，诸侯纯九，大夫纯五，夫人以劳诸侯。
+现代文：玉案高十二寸，案上陈放枣栗，对于来朝的夏、商二王的后裔用十二张玉案排成列，对于来朝的诸侯都用九张玉案排成列，对于来朝的大夫都用五张玉案排成列，这是天子夫人用以慰劳来朝诸侯的。
+English: The jade case is twelve centimeters high, and dates and chestnuts are placed on the case. For the descendants of the summer and merchant kings who came to the Joseon Dynasty, twelve jade cases are lined up, for the princes who came to the Joseon Dynasty, nine jade cases are lined up, and for the doctors who came to the Joseon Dynasty, five jade cases are lined up.
+
+古文：璋邸射素功，以祀山川，以致稍饩。
+现代文：以琮为本而锐出一璋的玉器，没有纹饰，用以祭祀山川，并在向宾客赠送粮草时拿着它致辞。
+English: It is a bowl-shaped jade ware based on the bowl, without decoration, which is used to worship mountains and rivers, and it is used to give a speech when presenting grain and grass to guests.
+

@@ -1,0 +1,320 @@
+古文：禹别九州，随山浚川，任土作贡。禹敷土，随山刊木，奠高山大川。
+现代文：禹分别土地的疆界，行走高山砍削树木作为路标，以高山大河奠定界域。
+English: Yu separated the land boundaries, walking up the mountain cutting down trees as signposts, and using the mountain river as a boundary.
+
+古文：冀州：既载壶口，治梁及岐。
+现代文：冀州：从壶口开始施工后，就治理梁山和它的支脉。
+English: Jizhou: Hukou has been controlled, followed by Liangshan and its tributaries.
+
+古文：既修太原，至于岳阳；覃怀厎绩，至于衡漳。
+现代文：太原治理好了以后，又治理到太岳山的南面。覃怀一带的治理取得了成效，又到了横流入河的漳水。
+English: After the management of Taiyuan was completed, the management of the southern side of Mount Taiyue was carried out. The management of the area around Gonghuai was effective, and the water of Lushui, which flows into the Cucumber River, was also managed.
+
+古文：厥土惟白壤，厥赋惟上上错，厥田惟中中。
+现代文：这州的土是白壤，赋税是第一等，也夹杂着第二等，这里的田地是第五等。
+English: The soil of this state is white soil, the taxes are first class, mixed with second class, and the fields here are fifth class.
+
+古文：恒、卫既从，大陆既作。
+现代文：恒水、卫水已经顺着河道而流，大陆泽也已治理了。
+English: After Hengshui and Weishui followed the old river channel, the Mainland Lake has begun to be managed.
+
+古文：鸟夷皮服，夹右碣石入于河。
+现代文：岛夷的人用皮服来进贡，先接近右边的碣石山，再进入黄河。
+English: The people of Shimaishi pay tribute with their leather clothes, first approaching Shizhishan on the right, and then entering the Yellow River.
+
+古文：济河惟兖州。九河既道，雷夏既泽，灉、沮会同。
+现代文：济水与黄河之间是兖州：黄河下游的九条支流疏通了，雷夏也已经成了湖泽，澭水和沮水会合流进了雷夏泽。
+English: Between Jishui and the Yellow River is Luzhou: nine tributaries of the lower reaches of the Yellow River have been dredged, and Leshia has also become a lake. The combined flow of brackish water and stagnant water flows into Leshia Lake.
+
+古文：桑土既蚕，是降丘宅土。
+现代文：栽种桑树的地方都已经养蚕，于是人们从山丘上搬下来住在平地上。
+English: Where mulberry trees have been planted, silkworms have been raised, so people moved down from the hills to live on the plain.
+
+古文：厥土黑坟，厥草惟繇，厥木惟条。
+现代文：这里的土质又黑又肥，这里的草是茂盛的，这里的树是修长的。
+English: The soil here is dark and rich, the grass here is lush, and the trees here are slender.
+
+古文：厥田惟中下，厥赋贞，作十有三载乃同。
+现代文：这里的田地是第六等，赋税是第九等，耕作了十三年才与其它八个州相同。
+English: The fields here are 6th grade, the taxes are 9th grade, and it took 13 years of farming to be the same as the other eight states.
+
+古文：厥贡漆丝，厥篚织文。
+现代文：这里的贡物是漆和丝，还有用竹筐装着的彩绸。
+English: The tributes here are lacquer and silk, as well as colored silk in bamboo baskets.
+
+古文：浮于济、漯，达于河。
+现代文：进贡的物品从济水、漯水乘船到黄河。
+English: The tribute goods were transported by boat from Jishui and Surabaya to the Yellow River.
+
+古文：海岱惟青州。嵎夷既略，潍、淄其道。
+现代文：渤海和泰山之间是青州：嵎夷治理好以后，潍水和淄水也已经疏通了。
+English: Between the Bohai Sea and Mount Tai is Qingzhou: after the Qianyi governance, the Bohai Water and the Bohai Water have been dredged.
+
+古文：厥土白坟，海滨广斥。
+现代文：这里的土又白又肥，海边有一片广大的盐碱地。
+English: The soil here is white and rich, and there is a vast saline area by the sea.
+
+古文：厥田惟上下，厥赋中上。
+现代文：这里的田是第三等，赋税是第四等。
+English: The fields here are third-rate and the taxes are fourth-rate.
+
+古文：厥贡盐絺，海物惟错。
+现代文：这里进贡的物品是盐和细葛布，海产品多种多样。
+English: The tribute items here are salt and fine combed cloth, and the seafood is diverse.
+
+古文：岱畎丝、枲、铅、松、怪石。
+现代文：还有泰山谷的丝、大麻、锡、松和奇特的石头。
+English: And the silk, hemp, tin, pine and strange stones of the Tai Valley.
+
+古文：莱夷作牧。
+现代文：莱夷一带可以放牧。
+English: The area around Laiyi can be used for grazing.
+
+古文：厥篚厴丝。
+现代文：这里进贡的物品是用筐装的柞蚕丝。
+English: The tribute here is a basket of cocooned silk.
+
+古文：浮于汶，达于济。
+现代文：进贡的船只从汶水通到济水。
+English: The ships carrying the tribute sailed from Wenshui to Jishui.
+
+古文：海、岱及淮惟徐州。淮、沂其乂，蒙、羽其艺，大野既猪，东原厎平。
+现代文：黄海、泰山及淮河之间是徐州：淮河、沂水治理好以后，蒙山、羽山一带已经可以种植了，大野泽已经停聚着深水，东原地方也获得治理。
+English: Xuzhou is located between the Yellow Sea, Mount Tai and the Huaihe River. After the Huaihe River and the Lushui River have been well managed, the areas around Mengshan and Mount Hasan can already be planted, the Ohnozawa River has accumulated deep water, and the Dongyuan area has also been managed.
+
+古文：厥土赤埴坟，草木渐包。
+现代文：这里的土是红色的，又粘又肥，草木不断滋长而丛生。
+English: The soil here is red, sticky and fertile, thick with vegetation.
+
+古文：厥田惟上中，厥赋中中。
+现代文：这里的田是第二等，赋税是第五等。
+English: The fields here are second-class and the taxes are fifth-class.
+
+古文：厥贡惟土五色，羽畎夏翟，峄阳孤桐，泗滨浮磬，淮夷蠙珠暨鱼。
+现代文：进贡的物品是五色土，羽山山谷的大山鸡，峄山南面的特产桐木，泗水边上的可以做磬的石头，淮夷之地的蚌珠和鱼。
+English: The items of tribute are the five-colored soil, the big mountain chicken in the valley of Mount Hasan, the special product of the southern part of Mount Lushan, the stone that can be made into a bowl on the edge of Surabaya, the pearl and fish in the land of Huaiyi.
+
+古文：厥篚玄纤、缟。
+现代文：还有用筐子装着的黑色的细绸和白色的绢。
+English: There were also baskets of black silk and white satin.
+
+古文：浮于淮、泗，达于河。
+现代文：进贡的船只从淮河、泗水，到达与济水相通的荷泽。
+English: From Huai Shui and Surabaya, take a boat to Huangpu.
+
+古文：淮海惟扬州。彭蠡既猪，阳鸟攸居。
+现代文：淮河与黄海之间是扬州：彭蠡泽已经汇集了深水，南方各岛可以安居。
+English: Between the Huaihe River and the Yellow Sea is Yangzhou: Penghu Lake has gathered deep water, and the southern islands can live in peace.
+
+古文：三江既入，震泽厎定。
+现代文：三条江水已经流入大海，震泽也获得了安定。
+English: The Sanjiang River has been inundated, and the tremors have subsided.
+
+古文：筱簜既敷，厥草惟夭，厥木惟乔。
+现代文：小竹和大竹已经遍布各地，这里的草很茂盛，这里的树很高大。
+English: Small bamboo and large bamboo have spread all over the country. The grass here is very lush, and the trees here are very tall.
+
+古文：厥土惟涂泥。
+现代文：这里的土是潮湿的泥。
+English: The soil here is wet mud.
+
+古文：厥田唯下下，厥赋下上，上错。
+现代文：田是第九等，赋是第七等，杂出第六等。
+English: Tian is the ninth grade, Fu is the seventh grade, and Zhe is the sixth grade.
+
+古文：厥贡惟金三品，瑶、琨、筱、簜、齿、革、羽、毛惟木。
+现代文：进贡的物品是金、银、铜、美玉、美石、小竹、大竹、象牙、犀皮、鸟的羽毛、旄牛尾和木材。
+English: The items of tribute are gold, silver, copper, jade, precious stones, small bamboo, large bamboo, ivory, rhinoceros hide, bird feathers, yakitori and wood.
+
+古文：島夷卉服。
+现代文：东南沿海各岛的人穿着草编的衣服。
+English: The people of the islands off the southeast coast wear straw clothes.
+
+古文：厥篚织贝，厥包桔柚，锡贡。
+现代文：这一带把贝锦放在筐子里，把橘柚包起来作为贡品。
+English: In this area, they put the broccoli in a basket and wrapped up the tangerine and grapefruit as a tribute.
+
+古文：沿于江、海，达于淮、泗。
+现代文：这些贡品沿着长江、黄海到达淮河、泗水。
+English: These tributes reached the Huai River and Surabaya along the Yangtze River and the Yellow Sea.
+
+古文：荆及衡阳惟荆州。江、汉朝宗于海，九江孔殷，沱、潜既道，云土、梦作乂。
+现代文：荆山与衡山的南面是荆州：长江、汉水象诸侯朝见天子一样奔向海洋，洞庭湖的水系大定了，沱水、潜水疏通以后，云梦泽一带可以耕作了。
+English: To the south of Mount Jing and Mount Heng is Jing Province: the Yangtze River and the Han River are rushing to the sea like princes to the sun, the water system of Dongting Lake is complete, and after dredging and diving, the area around Yunmenze can be cultivated.
+
+古文：厥土惟涂泥，厥田惟下中，厥赋上下。
+现代文：这里的土是潮湿的泥，这里的田是第八等，赋是第三等。
+English: The soil here is wet mud, the fields here are 8th grade, and the soil is 3rd grade.
+
+古文：厥贡羽、毛、齿、革惟金三品，杶、干、栝、柏，砺、砥、砮、丹惟箘簵、楛，三邦厎贡厥名。
+现代文：这里的贡物是羽毛、旄牛尾、象牙、犀皮和金、银、铜，椿树、柘树、桧树、柏树，粗磨石、细磨石、造箭镞的石头、丹砂和细长的竹子、楛木。
+English: The tributes here are feathers, yakitori, ivory, rhinoceros horn and gold, silver, copper, camellia, eucalyptus, birch, cypress, grindstone, whetstone, arrowhead stone, siltstone and slender bamboo, eucalyptus.
+
+古文：包匦菁茅，厥篚玄纁玑组，九江纳锡大龟。
+现代文：三个诸侯国进贡他们的名产，包裹好了的杨梅、菁茅，装在筐子里的彩色丝绸和一串串的珍珠。九江进贡大龟。
+English: Three princely states paid tribute to their famous products, the wrapped cucumbers of Yangmei, Jingmao, colored silk in a basket and a string of pearls. Jiujiang paid tribute to the big turtle.
+
+古文：浮于江、沱、潜、汉，逾于洛，至于南河。
+现代文：这些贡品从长江、沱水、潜水、汉水到达汉水上游，改走陆路到洛水，再到南河。
+English: These tributes reached the upper reaches of the Han River from the Yangtze River, Surabaya, Suba, and Han River, and then took the overland route to Luoshui and then to Nanhe.
+
+古文：荆河惟豫州。伊、洛、瀍、涧既入于河，荥波既猪。
+现代文：荆山、黄河之间是豫州：伊水、瀍水和涧水都已流入洛水，又流入黄河，荥波泽已经停聚了大量的积水。
+English: Between Mount Jing and the Yellow River is Yuzhou: the Yishui, the Lushui and the Lushui have all flowed into the Luoshui, and then into the Yellow River, and a large amount of accumulated water has been stopped in Dangboze.
+
+古文：导菏泽，被孟猪。
+现代文：疏通了菏泽，并在孟猪泽筑起了堤防。
+English: He dredged up Heze and built a dike in Menghuizawa.
+
+古文：厥土惟壤，下土坟垆。
+现代文：这里的土是柔软的壤土，低地的土是肥沃的黑色硬土。
+English: The soil here is soft loam, the soil of the lowlands is fertile black hard soil.
+
+古文：厥田惟中上，厥赋错上中。
+现代文：这里的田是第四等，赋税是第二等，杂出第一等。
+English: The fields here are fourth-rate, the taxes are second-rate, and the produce is first-rate.
+
+古文：厥贡漆、枲，絺、紵，厥篚纤、纩，锡贡磬错。
+现代文：这里的贡物是漆、麻、细葛、纻麻，用篚装的绸和细绵，又进贡治玉磬的石头。
+English: The tributes here are lacquer, hemp, fine cedar, and nettle, silk and fine cotton embroidered with brocade, and stones set in jade.
+
+古文：浮于洛，达于河。
+现代文：进贡的船只从洛水到达黄河。
+English: The tribute ships sailed from Luoshui to the Yellow River.
+
+古文：华阳、黑水惟梁州。岷、嶓既艺，沱、潜既道。
+现代文：华山南部到怒江之间是梁州：岷山、嶓冢山治理以后，沱水、潜水也已经疏通了。
+English: Between the southern part of Huashan and the Nu River is Liangzhou: after the management of Lushan and Lushan, the water and diving have been dredged.
+
+古文：蔡、蒙旅平，和夷厎绩。
+现代文：峨嵋山、蒙山治理后，和夷一带也取得了治理的功效。
+English: After the governance of Mount Emei and Mount Mengshan, the Heyi area has also achieved the effect of governance.
+
+古文：厥土青黎，厥田惟下上，厥赋下中，三错。
+现代文：这里的土是疏松的黑土，这里的田是第七等，赋税是第八等，还杂出第七等和第九等。
+English: The soil here is loose black soil, the fields here are 7th grade, the taxes are 8th grade, and 7th grade and 9th grade are also mixed.
+
+古文：厥贡璆、铁、银、镂、砮磬、熊、罴、狐、狸、织皮，西倾因桓是来，浮于潜，逾于沔，入于渭，乱于河。
+现代文：这里的贡物是美玉、铁、银、刚铁、作箭镞的石头、磬、熊、马熊、狐狸、野猫。织皮和西倾山的贡物沿着桓水而来。进贡的船只行于潜水，然后离船上岸陆行，再进入沔水，进到渭水，最后横渡渭水到达黄河。
+English: The tributes here are jade, iron, silver, iron, arrowhead stone, dragonfly, bear, horse bear, fox, wild cat. The tribute of weaving leather and Xiling Mountain comes along the Yellow River. The tribute ships go diving, and then go ashore, and then enter Surabaya, enter Surabaya, and finally cross Surabaya to reach the Yellow River.
+
+古文：黑水、西河惟雍州。弱水既西，泾属渭汭，漆沮既从，沣水攸同。
+现代文：黑水到西河之间是雍州：弱水疏通已向西流，泾河流入渭河之湾，漆沮水已经会合洛水流入黄河，沣水也向北流同渭河会合。
+English: Between the Black Water and the West River is Yongzhou: the weak water dredging has flowed to the west, the Fen River has entered the Bay of the Fen River, the lacquered water has joined the Luo Water to flow into the Yellow River, and the Fen Water has also flowed north to join the Fen River.
+
+古文：荆、岐既旅，终南、惇物，至于鸟鼠。
+现代文：荆山、岐山治理以后，终南山、惇物山一直到鸟鼠山都得到了治理。
+English: After the governance of Jing Mountain and Qishan, Nanshan Mountain, Fubo Mountain and even the Bird and Mouse Mountain have all been governed.
+
+古文：原隰厎绩，至于猪野。
+现代文：原隰的治理取得了成绩，至于猪野泽也得到了治理。
+English: Achievements have been made in the management of Hara-koji, and in the management of Inosawa.
+
+古文：三危既宅，三苗丕叙。
+现代文：三危山已经可以居住，三苗就安定了。
+English: The plains and depressions have been managed, all the way to the pig wall. The three dangerous mountains have become habitable, and the three seedlings have also become stable.
+
+古文：厥土惟黄壤，厥田惟上上，厥赋中下。
+现代文：这里的土是黄色的，这里的田是第一等，赋税是第六等。
+English: The soil here is yellow, the fields here are first-class, and the taxes are sixth-class.
+
+古文：厥贡惟球、琳、琅玕。
+现代文：这里的贡物是美玉、美石和珠宝。
+English: The tributes here are gems, stones and jewellery.
+
+古文：导岍及岐，至于荆山，逾于河；壶口、雷首至于太岳；厎柱、析城至于王屋；太行、恒山至于碣石，入于海。
+现代文：开通了岍山和岐山的道路，到达荆山，越过黄河。又开通壶口山、雷首山，到达太岳山。又开通厎柱山、析城山，到达王屋山。又开通太行山、恒山，到达碣石山，从这里进入渤海。
+English: The roads of Shaoshan and Qishan were opened to reach Jing Mountain and cross the Yellow River. The roads of Hukou Mountain and Lai Shou Mountain were opened to reach Taiyue Mountain. The roads of Shujushan Mountain and Qicheng Mountain were opened to reach Wangya Mountain. The roads of Taihang Mountain and Hengshan Mountain were opened to reach Shishi Mountain and enter the Bohai Sea from here.
+
+古文：西倾、朱圉、鸟鼠至于太华；熊耳、外方、桐柏至于陪尾。
+现代文：开通西倾山、朱圉山、鸟鼠山，到达太华山。又开通熊耳山、外方山、桐柏山，到达陪尾山。
+English: It opened the Xitangshan, Zhuye Mountain, Bird and Mouse Mountain, and reached the Taihua Mountain. It also opened the Xiong Er Mountain, Waifang Mountain, Tongbai Mountain, and reached the Baio Mountain.
+
+古文：导嶓冢，至于荆山；内方，至于大别。
+现代文：开通嶓冢山到达荆山。开通内方山到达大别山。
+English: Opening of Lushan to reach Jingshan. Opening of Neifangshan to reach Dabie Mountain.
+
+古文：岷山之阳，至于衡山，过九江，至于敷浅原。
+现代文：开通岷山的南面到达衡山，过洞庭湖到达庐山。
+English: It opens to the south of Lushan to reach Hengshan, and passes through Dongting Lake to reach Lushan.
+
+古文：导弱水，至于合黎，馀波入于流沙。
+现代文：疏通弱水到合黎山，下游流到沙漠。
+English: Dredge weak water to Mount Haili, downstream flow to the desert.
+
+古文：导黑水，至于三危，入于南海。
+现代文：疏通黑水到三危山，流入南海。
+English: Dredge the black water to the Three Dangers Mountain and flow into the South China Sea.
+
+古文：导河、积石，至于龙门；南至于华阴，东至于厎柱，又东至于孟津，东过洛汭，至于大伾；北过降水，至于大陆；又北，播为九河，同为逆河，入于海。
+现代文：疏导黄河，从积石山开始，到达龙门山；再向南到达华山的北面；再向东到达厎柱山；又向东到达孟津；又向东经过洛水与黄河会合的地方，到达大分伾山；然后向北经过降水，到达大陆泽；又向北，分成九条支流，再会合成一条逆河，流进大海。
+English: The diversion of the Yellow River, starting from Jishishan Mountain, reaches Longmen Mountain; then southward to the north of Huashan Mountain; then eastward to Shizhu Mountain; then eastward to Mengjin; then eastward through the place where Luoshui and the Yellow River meet, to Oita Shaoshan; then northward through precipitation, to the mainland lake; then northward, divided into nine tributaries, and then a reverse river will be formed, flowing into the sea.
+
+古文：嶓冢导漾，东流为汉，又东，为沧浪之水，过三澨，至于大别，南入于江。
+现代文：从嶓冢山开始疏导漾水，向东流成为汉水；又向东流，成为沧浪水；经过三澨水，到达大别山，向南流进长江。
+English: From Lushan, the diversion of Lushan Water began, flowing eastward to become Han Water; flowing eastward again, it became Canglang Water; passing through Sanlu Water, it reached Dabie Mountain and flowed southward into the Yangtze River.
+
+古文：东，汇泽为彭蠡，东，为北江，入于海。
+现代文：向东，来汇的水叫彭蠡泽；向东，称为北江，流进大海。
+English: To the east, the water coming from the sinks is called the Penghu Lake; to the east, known as the North River, it flows into the sea.
+
+古文：岷山导江，东别为沱，又东至于澧；过九江，至于东陵，东迆北，会于汇；东为中江，入于海。
+现代文：从岷山开始疏导长江，向东另外分出一条支流称为沱江；又向东到达澧水；经过洞庭湖，到达东陵；再向东斜行向北，与淮河会合；向东称为中江，流进大海。
+English: From Lushan, the Yangtze River begins to be diverted, and a tributary called the Minjiang River is separated to the east; it also reaches the Lushui River to the east; it passes through Dongting Lake and reaches Dongling; it then travels eastward and northward to meet the Huaihe River; it is called the Middle River to the east and flows into the sea.
+
+古文：导沇水，东流为济，入于河，溢为荥；东出于陶丘北，又东至于菏，又东北，会于汶，又北，东入于海。
+现代文：疏导沇水，向东流就称为济水，流入黄河，河水溢出成为荥泽；又从定陶的北面向东流，再向东到达菏泽县；又向东北，与汶水会合；再向北，转向东，流进大海。
+English: The diversion of the Surabaya water, the eastward flow is called Jishui, flows into the Yellow River, and the overflow of the river water becomes Surabaya; it also flows eastward from the north of Dingtao, and then eastward to Surabaya County; it also flows northeastward to meet the Wen Shui; and then northward, turns eastward, and flows into the sea.
+
+古文：导淮自桐柏，东会于泗、沂，东入于海。
+现代文：从桐柏山开始疏导淮河，向东与泗水、沂水会合，向东流进大海。
+English: The Huai River starts from Tongbai Mountain and flows eastward to meet the Bohai River and the Bohai River, and flows eastward into the sea.
+
+古文：导渭自鸟鼠同穴，东会于沣，又东会于泾，又东过漆沮，入于河。
+现代文：从鸟鼠同穴山开始疏导渭水，向东与沣水会合，又向东与泾水会合；又向东经过漆沮水，流入黄河。
+English: The diversion of salty water began from the mountain of birds and mice, and it joined the salty water to the east, and the salty water to the east, and the salty water to the east, and the salty water to the east, and the salty water to the east.
+
+古文：导洛自熊耳，东北，会于涧、瀍；又东，会于伊，又东北，入于河。
+现代文：从熊耳山开始疏导洛水，向东北，与涧水、沣水会合；又向东，与伊水会合；又向东北，流入黄河。
+English: From Mount Xiong Er, it begins to channel Luoshui, and flows to the northeast, where it meets with Xinshui and Xinshui; it also flows to the east, where it meets with Yishui; it also flows to the northeast, where it flows into the Yellow River.
+
+古文：九州攸同，四隩既宅，九山刊旅，九川涤源，九泽既陂，四海会同。
+现代文：九州由此统一了：四方的土地都已经可以居住了，九条山脉都伐木修路可以通行了，九条河流都疏通了水源，九个湖泽都修筑了堤防，四海之内进贡的道路都畅通无阻了。
+English: As a result, Kyushu was unified: all four sides of the land have become habitable, nine mountains have been logged to make roads passable, nine rivers have been dredged, nine lakes have been built, and all roads within the four seas have been unimpeded.
+
+古文：六府孔修，庶土交正，厎慎财赋，咸则三壤成赋。
+现代文：水火金木土谷六府都治理得很好，各处的土地都要征收赋税，并且规定慎重征取财物赋税，都要根据土地的上中下三等来确定它。
+English: The six prefectures of water, fire, metal, wood and soil are well governed, and taxes must be levied on land everywhere, and it is stipulated that taxes on property must be carefully collected, and it must be determined according to the upper, middle and lower tiers of land.
+
+古文：中邦锡土、姓，祗台德先，不距朕行。
+现代文：中央之国赏赐土地和姓氏给诸侯，敬重以德行为先，又不违抗我的措施的贤人。
+English: The Middle Kingdom bestows lands and surnames on princes, honoring those sages who act with virtue first and do not defy My measures.
+
+古文：五百里甸服：百里赋纳总，二百里纳銍，三百里纳秸服，四百里粟，五百里米。
+现代文：国都以外五百里叫做甸服。离国都最近的一百里缴纳连秆的禾；二百里的，缴纳禾穗；三百里的，缴纳带稃的谷；四百里的，缴纳粗米；五百里的缴纳精米。
+English: Five hundred li outside the capital is called dianfu. The hundred li closest to the capital pay for the straw; two hundred li, pay for the ears of grain; three hundred li, pay for the valley with straw; four hundred li, pay for the coarse rice; five hundred li, pay for the polished rice.
+
+古文：五百里侯服：百里采，二百里男邦，三百里诸侯。
+现代文：甸服以外五百里是侯服。离甸服最近的一百里替天子服差役；二百里的，担任国家的差役；三百里的，担任侦察工作。
+English: Five hundred li away from Tianfu is Houfu. The nearest one hundred li away from Tianfu is doing errands for Tianzi; two hundred li away from Tianfu is doing errands for the state; three hundred li away from Tianfu is doing reconnaissance.
+
+古文：五百里绥服：三百里揆文教，二百里奋武卫。
+现代文：侯服以外五百里是绥服。三百里的，考虑推行天子的政教；二百里的，奋扬武威保卫天子。
+English: Five hundred li, in addition to the court dress, is the ceremonial dress. Three hundred li, consider promoting the politics and religion of the Son of Heaven; two hundred li, defend the Son of Heaven with martial prowess.
+
+古文：五百里要服：三百里夷，二百里蔡。
+现代文：绥服以外五百里是要服。三百里的，要和平相处；二百里的，要遵守王法。
+English: Five hundred li have to obey: three hundred li have to implement simple laws, and two hundred li have to abide by criminal laws.
+
+古文：五百里荒服：三百里蛮，二百里流。
+现代文：要服以外五百里是荒服。三百里的，维持隶属关系；二百里的，进贡与否流动不定。
+English: Five hundred miles of barbarism: three hundred miles of barbarism must be changed with enlightenment, and two hundred miles of barbarism must be allowed to flow.
+
+古文：东渐于海，西被于流沙，朔南暨声教讫于四海。
+现代文：东方进至大海，西方到达沙漠，北方、南方连同声教都到达外族居住的地方。
+English: The east reaches the sea, the west reaches the desert, and the north and south, together with the vocal religion, reach the place where the foreign people live.
+
+古文：禹锡玄圭，告厥成功。
+现代文：于是禹被赐给玄色的美玉，表示大功告成了。
+English: The gong was given to Dayu Hongsei in recognition of his great achievements in water control.
+

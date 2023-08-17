@@ -1,0 +1,984 @@
+古文：兴宗三十六年春正月己卯，如混同江。
+现代文：重熙十六年春正月初四，皇上到混同江。
+English: On the fourth day of the first month of the sixteenth year of the reign of Emperor Chongxi, the emperor went to the Mudong River.
+
+古文：二月庚申，如鱼儿泺。
+现代文：二月十五日，到鱼儿泊。
+English: On February 15th, we stayed at the Fish Inn.
+
+古文：辛酉，禁群臣遇宴乐奏请私事。
+现代文：十六日，禁止群臣在宴饮玩乐时向皇帝奏请私事。
+English: On the 16th, it was forbidden for courtiers to report private matters to the emperor during banquets and entertainment.
+
+古文：诏世选之官，从各部耆旧择材能者用之。
+现代文：诏令凡是世选之官，均从各部元老勋臣中择其有才能者擢用之。
+English: The imperial edict decreed that all of the world's elected officials were to be promoted from the best talents selected from the veterans of each ministry.
+
+古文：三月丁亥，如黑水泺。
+现代文：三月十三日，皇上到黑水泊。
+English: On March 13th, the Emperor went to Heishui.
+
+古文：癸巳，遣使审决双州囚。
+现代文：十九日，派使者前往双州审理案件。
+English: On the 19th, an envoy was sent to Shuangzhou to hear the case.
+
+古文：壬寅，大雪。
+现代文：二十八日，大雪。
+English: On the 28th, it snowed heavily.
+
+古文：夏四月乙巳朔，皇太后不豫，上驰往视疾。
+现代文：夏四月初一，皇太后病重，皇上急忙前往探视。
+English: On the first day of April in summer, the Empress Dowager fell seriously ill, and the Emperor hurried to visit her.
+
+古文：丙午，皇太后愈，复如黑水泺。
+现代文：初二，皇太后病愈，皇上再次到黑水泊。
+English: On the second day of the first month, the empress dowager recovered from her illness, and the emperor went to Heishui again.
+
+古文：丁卯，肆赦。
+现代文：二十三日，赦免在押囚犯。
+English: On the 23rd, prisoners in custody were pardoned.
+
+古文：六月戊申，清暑永安山。
+现代文：六月初五，在永安山避暑。
+English: On the fifth day of the first month of June, I went to Yong'an Mountain to spend the summer.
+
+古文：丁巳，阻卜大王屯秃古斯来朝，献方物。
+现代文：十四日，阻卜大王屯秃古斯前来朝见，献上土产。
+English: On the fourteenth day, the great king of Dabo, Tun Zhengus, came to see the emperor and presented him with local produce.
+
+古文：戊午，诏士庶言事。
+现代文：十五日，诏令士庶上书言事。
+English: On the fifteenth day of the month, the imperial commanding officer issued a proclamation.
+
+古文：秋七月辛卯，幸庆州。
+现代文：秋七月十八日，临幸庆州。
+English: On the 18th day of the 7th month of autumn, Linxiang Gyeongju left.
+
+古文：自是月至于九月，日射猎于楚不沟霞列、系轮、石塔诸山。
+现代文：从七月到九月，一直在楚不沟霞列、系轮、石塔诸山狩猎。
+English: From July to September, he has been hunting in the mountain ranges of Chuwugouxia, Zeilun, and Shitou.
+
+古文：冬十月辛亥，幸中京，谒祖庙。
+现代文：冬十月十日，临幸中京拜谒祖庙。
+English: On the 10th day of the 10th month of winter, Linxing Zhongjing paid homage to the Ancestral Temple.
+
+古文：丙辰，定公主行妇礼于舅姑仪。
+现代文：十五日，制定公主须向舅姑行妇礼的礼仪。
+English: On the fifteenth day, the etiquette for the princess to perform the woman's rite to her aunt was established.
+
+古文：庚午，铁骊仙门来朝，以始入贡，加右监门卫大将军。
+现代文：二十九日，铁骊仙门前来朝见，因其是初次朝贡，封他为右监门卫大将军。
+English: On the 29th, Tiexuan Xianmen came to see the emperor, and because it was the first time to pay tribute to the emperor, he was appointed as the right guard gatekeeper general.
+
+古文：十一月戊寅，祠木叶山。
+现代文：十一月初八，祭祀木叶山。
+English: On the eighth day of the first month of November, the ritual of Mt. Koba begins.
+
+古文：己丑，幸中京，朝皇太后。
+现代文：十九日，临幸中京，朝见皇太后。
+English: On the 19th, the imperial court met the empress dowager at the Imperial Palace in Kyoto.
+
+古文：壬辰，禁漏泄宫中事。
+现代文：二十二日，禁止泄漏宫中事务。
+English: On the 22nd, it was forbidden to divulge the affairs of the palace.
+
+古文：十二月辛丑朔，女直遣使来贡。
+现代文：十二月初一，女真派使者前来进贡。
+English: On the first day of December, Jurchen sent an envoy to pay tribute.
+
+古文：辛亥，谒太祖庙，观《太宗收晋图》。
+现代文：十一日，皇上拜谒太祖庙，观看《太宗收晋图》。
+English: On the 11th day, the emperor paid a visit to the Grand Ancestor's Temple to watch the performance of the "Taizong Collection."
+
+古文：癸丑，问安皇太后。
+现代文：十三日，向皇太后请安。
+English: On the 13th, he sent his greetings to the Empress Dowager.
+
+古文：乙卯，以太后愈，杂犯死罪减一等论，徒以下免。
+现代文：十五日，因太后病愈，判死刑的杂罪犯人减罪一等论处，犯徒罪以下犯人赦免。
+English: On the 15th, because the empress dowager had recovered from her illness, the miscellaneous criminals who had been sentenced to death had their sentences reduced to the first-class punishment, and the prisoners who had committed crimes of imprisonment or less were pardoned.
+
+古文：庚申，南府宰相杜防、韩绍荣奏事有误，各以大杖决之。
+现代文：二十日，南府宰相杜防、韩绍荣奏事有误，均以大杖笞击之。
+English: On the 20th, the Southern Prefecture Prime Minister Du Fang and Han Shao Rong made a mistake in the report, and both hit it with a big stick.
+
+古文：出防为武定军节度使。
+现代文：出贬杜防为武定军节度使。
+English: Du Bo was appointed as the military envoy of the Wuding Army.
+
+古文：壬戌，高丽遣使来贡。
+现代文：二十二日，高丽派使者前来进贡。
+English: On the 22nd, Goryeo sent an envoy to pay tribute.
+
+古文：十七年春正月丁亥，如春水。
+现代文：十七年春正月十八日，皇上到春水。
+English: On the eighteenth day of the first month of the seventeenth year of the Spring, the emperor went to Chunshui.
+
+古文：闰月癸丑，射虎于候里吉。
+现代文：闰正月十四日，在候里吉射虎。
+English: On the 14th day of the leap month, a tiger was shot in Houliji.
+
+古文：二月辛巳，振瑶稳、嘲稳部。
+现代文：二月十三日，赈济瑶稳、嘲稳部。
+English: On February 13th, the Ministry of Economy, Trade and Industry, and the Ministry of Stability were established.
+
+古文：是月，诏士庶言国家利便，不得及己事，奴婢所见，许白其主，不得自陈。
+现代文：同月，诏令士庶上书言国家大事时，不得言及己事；奴婢有所识见，准其禀告主人，不得自己上书陈事。
+English: In the same month, when a member of the Imperial Household Agency reads a book on a national event, he or she is not allowed to talk about his or her own affairs; if a slave has any insight, he or she is allowed to inform his or her master, but they are not allowed to write about their own affairs.
+
+古文：夏国王李元昊薨，其子谅祚遣使来告，即遣永兴宫使耶律褭里、右护卫太保耶律兴老、将作少监王全慰奠。
+现代文：夏国王李元昊逝世，其子李谅祚派使者前来告哀，皇上立即派永兴宫使耶律袅里、右护卫太保耶律兴老、将作少监王全前往祭奠慰问。
+English: Xia King Li Yuanhao passed away, and his son Li Yuanzhang sent an envoy to pay his respects. The emperor immediately sent Yongxing Palace envoy Yerut Baili, right guard eunuch Yerut Xinglao, and future junior overseer Wang Quan to pay their respects and condolences.
+
+古文：三月癸卯，以同知南京留守事萧塔烈葛为左夷离毕，知右夷离毕事唐古为右夷离毕。
+现代文：三月初五，任命同知南京留守事萧塔烈葛为左夷离毕，知右夷离毕事唐古为右夷离毕。
+English: On the fifth day of March, Xiao Tarek Ge, who was appointed to stay in Nanjing by the same scholar, left as the Left Emir, and Tanggu, who left as the Right Emir, left as the Right Emir.
+
+古文：丙午，夏国李谅祚遣使上其父元昊遗物。
+现代文：初八，夏国李谅祚派使者前来献上其父李元昊遗物。
+English: On the eighth day of the first month of the year, Xia Guo Li Yuanzhang sent an envoy to present the relic of his father Li Yuanhao.
+
+古文：丁卯，铁不得国使来，乞以本部军助攻夏国，不许。
+现代文：二十九日，铁不得国派使者前来请求以本部军马助辽攻夏，没有得到允许。
+English: On the 29th, China sent an envoy to request that the headquarters troops and horses help Liao to attack Xia, but they were not allowed.
+
+古文：夏四月辛未，武定军节度使杜防复为南府宰相。
+现代文：夏四月初三，武定军节度使杜防重新担任南府宰相。
+English: On the 3rd day of the 4th month of the summer, the Wuding Army Festival brought Du Fang back to the post of Nangfu Prime Minister.
+
+古文：丙子，高丽遣使来贡。
+现代文：初八，高丽派使者前来进贡。
+English: On the eighth day of the first month, Goryeo sent an envoy to pay tribute.
+
+古文：甲申，蒲卢毛朵部大王蒲辇以造舟人来献。
+现代文：十六日，蒲卢毛朵部大王蒲辇献上造船工匠。
+English: On the 16th day of the month, the king of the feather division, Pooh, presented a shipbuilding craftsman.
+
+古文：六月庚辰，阻卜献马、驼二万。
+现代文：六月十三日，阻卜进献马、骆驼共二万匹。
+English: On June 13, a total of 20,000 horses and camels were donated.
+
+古文：辛卯，长白山太师柴葛、回跋部太师撒剌都来贡方物。
+现代文：二十四日，长白山太师柴葛、回跋部太师撒剌都前来进献土产。
+English: On the 24th, the Changbai Mountain Daishi Chai Ge and the Huibabu Daishi Sarang both came to offer their local products.
+
+古文：秋七月丁未，于越摩梅欲之子不葛一及婆离八部夷离堇虎〈番去〉等内附。
+现代文：秋七月十一日，于越摩梅欲之子不葛一及婆离八部夷离堇虎番去等前来归附。
+English: On the 11th day of the 7th month of autumn, the son of Yue Momei's desire, Bu Ge I, and his mother-in-law left Hachibei and went to Xinghu Ban to wait for him to return.
+
+古文：甲寅，录囚，减杂犯死罪。
+现代文：十八日，皇上察看犯人口供，减免犯杂罪犯人的死罪。
+English: On the 18th, the emperor inspected the criminal population and commuted the death penalty of minor criminals.
+
+古文：八月丙戌，复南京贫户租税。
+现代文：八月二十日，免除南京贫民的租税。
+English: On August 20, the poor in Nanjing were exempted from paying taxes.
+
+古文：戊子，以殿前都点检耶律义先为行军都部署，忠顺军节度使夏行美副部署，东北面详稳耶律术者为监军，伐蒲奴里酋陶得里。
+现代文：二十二日，以殿前都点检耶律义先为行军都部署，忠顺军节度使夏行美为副部署，东北面详稳耶律术者为监军，命他们讨伐蒲奴里酋长陶得里。
+English: On the 22nd, in front of the palace, all the dots were checked, and the righteous were the first to be deployed as the marching army, and the loyal and obedient army made Xia Xingmei a sub-deployment, and the north-eastern detailed and stable people were the supervisors, and ordered them to fight against the Punuri chieftain Tao Deri.
+
+古文：冬十月甲申，南院大王耶律韩八薨。
+现代文：冬十月十九日，南院大王耶律韩八逝世。
+English: In the winter of October 19th, the king of the Southern Yuan Dynasty, Ye Lu Han Bao, passed away.
+
+古文：甲午，驻跸独卢金。
+现代文：二十九日，皇上歇驾于独卢金。
+English: On the 29th, the emperor retired to Lukin.
+
+古文：十一月乙未朔，遣使括马。
+现代文：十一月初一，派使者检括马匹。
+English: On the first day of November, an envoy was sent to inspect the horses.
+
+古文：丁巳，赐皇太弟重元金券。
+现代文：二十三日，赐给皇弟重元金券。
+English: On the 23rd, he gave his younger brother a large sum of money.
+
+古文：封皇子和鲁斡为越王，阿琏许王，忠顺军节度使谢家奴陈王，西京留守贴不汉王，惕隐旅坟辽西郡王，行宫都部署别古得柳城郡王，奉陵军节度使侯古饶乐郡王，安定郡王涅鲁古进封楚王。
+现代文：封皇子和鲁斡为越王，阿琏为许王，忠顺军节度使谢家奴为陈王，西京留守贴不为汉王，惕隐旅坟为辽西郡王，行宫都部署别古得为柳城郡王，奉陵军节度使侯古为饶乐郡王，安定郡王涅鲁古进封楚王。
+English: Emperor Fong and Emperor Lu were crowned as the King of Yue, Emperor Afen was crowned as the King of Xu, Emperor Zhongshun made Emperor Xie the King of Chen, Emperor Xizang was crowned as the King of Han, Emperor Diyin was crowned as the King of West Liaoning, Emperor Xinggu was crowned as the King of Liucheng, Emperor Bongling made Emperor Hou Gu the King of Raole, and Emperor Nieru was crowned as the King of Chu.
+
+古文：十八年春正月甲午朔，日有食之。
+现代文：十八年春正月初一，日食。
+English: On the first day of the first month of the 18th year of Spring, a solar eclipse.
+
+古文：戊戌，留夏国贺正使不遣。
+现代文：初五，扣留夏国前来祝贺正旦的使者。
+English: On the fifth day of the first month, the envoys who came to congratulate Zhengtan were detained.
+
+古文：己亥，遣北院枢密副使萧惟信以伐夏告宋。
+现代文：初六，派北院枢密使萧惟信将伐夏之事告知宋国。
+English: On the 6th day of the first month of the year, Xiao Weixin, the envoy of the Privy Council of the Northern Yuan Dynasty, was sent to inform Song of the incident.
+
+古文：辛丑，录囚。
+现代文：初八，皇上察看犯人口供。
+English: On the eighth day of the first month, the emperor inspected the prison population.
+
+古文：丙午，如鸳鸯泺。
+现代文：十三日，到鸳鸯泊。
+English: On the 13th, to Oshidomari.
+
+古文：丙辰，猎霸特山。
+现代文：二十三日，出猎于霸特山。
+English: On the 23rd, they went hunting in the Hutterite Mountains.
+
+古文：耶律义先奏蒲奴里捷。
+现代文：耶律义先奏报讨伐蒲奴里获胜。
+English: Yeryogi Senso Newspaper won the battle of Puno.
+
+古文：二月庚辰，幸燕赵国王洪基帐视疾。
+现代文：二月十七日，皇上临幸燕赵国王洪基帐下探视其疾病。
+English: On February 17th, the emperor went to see King Hongji of the Zhao Dynasty to visit his illness.
+
+古文：乙酉，耶律义先等执陶得里以献。
+现代文：二十二日，耶律义先等押送陶得里前来献上。
+English: On the twenty-second day, Yerui and others escorted Tawdri to come and present it.
+
+古文：三月乙巳，高昌国遣使来贡。
+现代文：三月十三日，高昌国派使者前来进贡。
+English: On March 13, Gaochang sent an envoy to pay tribute.
+
+古文：壬子，以洪基疾愈，赦杂犯死罪以下。
+现代文：二十日，皇上因洪基病愈，赦免杂犯死罪以下犯人。
+English: On the 20th, the emperor pardoned the minor criminals and those who committed capital crimes after Hongji recovered from his illness.
+
+古文：丁巳，乌古遣使送款。
+现代文：二十五日，乌古派使者前来表示归附。
+English: On the 25th, an envoy from Ugou arrived to express his allegiance.
+
+古文：夏四月癸酉，以南府宰相耶律高十为南京统军使。
+现代文：夏四月十一日，任命南府宰相耶律高十为南京统军使。
+English: On the 11th day of the 4th month of the summer, the chancellor of Nanfu, Ye Lu Gao Jiu, was appointed as the envoy of the Nanjing unified army.
+
+古文：五月甲辰，五国酋长各率其部来附。
+现代文：五月十三日，五国酋长各率部众前来归附。
+English: On May 13th, the chiefs of the five countries led by their subordinates came to annex it.
+
+古文：庚戌，回跋部长兀迭台紥等来朝。
+现代文：十九日，回跋部酋长兀迭台扎等前来朝见。
+English: On the 19th, the chiefs of Huibao District, such as Zhu Diyaiza, came to see the emperor.
+
+古文：戊午，五国节度使耶律仙童以降乌古叛人，授左监门卫上将军。
+现代文：二十七日，五国节度使耶律仙童因有招降乌古叛人之功，被授为左监门卫上将军。
+English: On the 27th day of the Five-Nation Festival, Ye Luo Xiantong was awarded the title of General of the Left Guardian Gate Guard for his role in recruiting and defeating the traitors of ancient Wu.
+
+古文：六月壬戌朔，以韩国王萧惠为河南道行军都统，赵王萧孝友、汉王贴不副之。
+现代文：六月初一，任命韩国王萧惠为河南道行军都统，赵王萧孝友、汉王贴不为副都统。
+English: On the first day of June, South Korea's Wang Xiao Hui was appointed as the Henan Province Marching Team Leader, and Zhao Wang Xiao Xiaoyu and Han Wang Tiejun were appointed as deputy leaders.
+
+古文：乙丑，录囚。
+现代文：初四，皇上察看犯人口供。
+English: On the fourth day of the first month, the emperor inspected the criminal population.
+
+古文：丙寅，行十二神纛礼。
+现代文：初五，行十二神纛礼。
+English: On the fifth day of the first month, the twelve gods are worshipped.
+
+古文：己巳，宋以辽师伐夏，遣钱逸致赆礼。
+现代文：初八，宋因辽师讨伐夏，派钱逸送来送行的礼金。
+English: On the eighth day of the first month of the year, Song sent money to Liao to send him off.
+
+古文：庚辰，阻卜来贡马、驼、珍玩。
+现代文：十九日，阻卜前来进贡马、骆驼、珍宝器玩。
+English: On the 19th, the dragons came to play with the horses, camels and precious objects.
+
+古文：辛巳，夏国使来贡，留之不遣。
+现代文：二十日，夏国派使者前来进贡，将使者扣留不放还。
+English: On the 20th, Xia Guo sent an envoy to pay tribute, but the envoy was detained and not allowed to return.
+
+古文：丁亥，行再生礼。
+现代文：二十六日，皇上举行再生礼。
+English: On the 26th, the emperor held a rebirth ceremony.
+
+古文：秋七月戊戌，亲征。
+现代文：秋七月初七，皇上亲征。
+English: On the 7th day of the 7th month of the 7th month of the 7th month of the 7th month of the 7th month of the 7th month of the 7th month of the 7th month of the 7th month of the 7th month of the 7th month of the 7th month of the 7th month of the 7th month of the 7th month of the 7th month of the 7th month of the 7th month of the 7th month of the 7th month of the 7th month of the 7th month of the 7th month of the autumn.
+
+古文：八月辛酉朔，渡河。
+现代文：八月初一，渡河。
+English: Crossing the river on the first day of August.
+
+古文：夏人遁，乃还。
+现代文：夏人逃跑，于是回师。
+English: Xia Ren ran away, so he returned to the division.
+
+古文：九月丁未，萧惠等为夏人所败。
+现代文：九月十七日，萧惠等为夏人击败。
+English: On September 17th, Xiao Hui and others were defeated by Xia Ren.
+
+古文：冬十月，北道行军都统耶律敌鲁古率阻卜诸军至贺兰山，获李元昊妻及其官僚家属，遇夏人三千来战，殪之；乌古敌烈部都详稳萧慈氏奴、南克耶律斡里死焉。
+现代文：冬十月，北道行军都统耶律敌鲁古率阻卜诸军到达贺兰山，俘获李元昊之妻及其官僚家属，夏人三千前来拒战，将其全部歼灭；乌古敌烈部都详稳萧慈氏奴、南克耶律斡里战死。
+English: In the winter of October, the troops marching in the north reached the Helan Mountain, led by the enemy Lu Gu, who blocked the troops from marching to the capital of Tongtong and captured Li Yuanhao's wife and his bureaucrat family members. Three thousand Xia people came to resist the war and annihilated them all. The fierce enemies of Wu Gu were all killed in the battle.
+
+古文：十二月戊寅，庆陵林木火。
+现代文：十二月十九日，庆陵林木发生火灾。
+English: On December 19, a fire broke out in a forest in Qingling.
+
+古文：己卯，录囚。
+现代文：二十日，皇上查看犯人口供。
+English: On the 20th, the emperor inspected the confessions of the prisoners.
+
+古文：有弟从兄为强盗者，兄弟俱无子，特原其弟。
+现代文：有弟随从其兄为强盗，兄弟均无子，皇上特地赦免其弟。
+English: There was a younger brother who followed his older brother as a robber. Both brothers had no children, so the emperor specifically pardoned his younger brother.
+
+古文：十九年春正月庚寅，僧惠鉴加检校太尉。
+现代文：十九年春正月初二，任命僧人惠鉴为检校太尉。
+English: On the second day of the first month of the 19th year of the Spring, the monk Hui Jian was appointed as the inspector.
+
+古文：庚子，耶律敌鲁古复封漆水郡王，诸将校及阻卜等部酋长各进爵有差。
+现代文：十二日，耶律敌鲁古重新被封为漆水郡王，诸将校及阻卜等部酋长均被加官进爵。
+English: On the 12th, Yeluchiluo was re-christened as the king of Suishui County, and all the officers and chiefs of departments such as Dangbo were ennobled.
+
+古文：赠萧慈氏奴同中书门下平章事。
+现代文：赠封萧慈氏奴为同中书门下平章事。
+English: Xiao Ci's slave was awarded the title of Xiao Jishi.
+
+古文：辛丑，遣使问罪于夏国。
+现代文：十三日，派使者到夏国问罪。
+English: On the 13th, an envoy was sent to Xia Guo to ask for punishment.
+
+古文：壬寅，如鱼儿泺。
+现代文：十四日，皇上到鱼儿泊。
+English: On the 14th, the emperor went to stay with the fishes.
+
+古文：二月丁亥，夏将洼普、猥货、乙灵纪等来攻金肃城，南面林牙耶律高家奴等破之。
+现代文：二月三十日，夏国将领洼普、猥货、乙灵纪等前来进攻金肃城，南面林牙耶律高家奴等击破夏军。
+English: On February 30th, Xia's generals, including Wa Pu, Obscene Goods, and Biling Ji, came to attack Jinsu City. To the south, Lin Ya'erut Gao Jia'nu and others defeated Xia's army.
+
+古文：洼普被创遁去，杀猥货、乙灵纪。
+现代文：洼普负伤逃走，猥货、乙灵纪被杀。
+English: Wa Pu was injured and fled, while Obscene Goods and Biling Ji were killed.
+
+古文：三月戊戌，殿前都点检萧迭里得与夏战于三角川，败之。
+现代文：三月十一日，殿前都点检萧迭里得与夏兵交战于三角川，击败之。
+English: On March 11, in front of the Great Hall of the People, he had to fight against Xia Bing in the Triangle River and defeated him.
+
+古文：癸卯，命西南招讨使萧蒲奴、北院大王宜新、林牙萧撒抹等帅师伐夏，以行宫都部署别古得监战。
+现代文：十六日，命令西南招讨使萧蒲奴、北院大王宜新、林牙萧撒抹等率领部队征伐夏国，以行宫都部署别古得督战。
+English: On the 16th, he ordered the southwest to recruit and send Xiao Punu, Beiyin Daowang Yixin, and Lin Ya Xiao Samu to lead the troops to conquer Laxia, and deploy them to the palace to fight the battle of Begu.
+
+古文：甲辰，遣同知北院枢密使萧革按军边城，以为声援。
+现代文：十七日，派同知北院枢密使萧革屯兵边城，作为声援。
+English: On the 17th, he sent Xiao Ge, the Privy Councilor of the Northern Yuan Dynasty, to the border city as a show of solidarity.
+
+古文：己酉，驻跸息鸡淀。
+现代文：二十二日，皇上歇驾于息鸡淀。
+English: On the 22nd, the emperor retired to Shichidori.
+
+古文：丙辰，幸殿前都点检萧迭里得、驸马都尉萧胡睹帐视疾。
+现代文：二十九日，临幸殿前都点检萧迭里得、驸马都尉萧胡睹帐下探视其疾病。
+English: On the 29th, in front of the Imperial Palace, Xiao Dieride was inspected, and Lieutenant Xiao Huzhi visited his illness.
+
+古文：夏四月丙寅，如鱼儿泺。
+现代文：夏四月初十，皇上到鱼儿泊。
+English: On the tenth day of the fourth month of the summer, the emperor went to stay with the fishes.
+
+古文：壬申，蒲卢毛朵部惕隐信笃来贡。
+现代文：十六日，蒲卢毛朵部惕隐信笃前来进贡。
+English: On the sixteenth day of the month, members of the Pu'lu Hairy Department came to pay tribute.
+
+古文：甲申，高丽遣使来贡。
+现代文：二十八日，高丽派使者前来进贡。
+English: On the 28th, Goryeo sent an envoy to pay tribute.
+
+古文：五月己丑，如凉陉。
+现代文：五月初三，皇上到凉陉。
+English: On the third day of the fifth lunar month, the emperor went to Liangyao.
+
+古文：癸巳，萧蒲奴等入夏境，不与敌遇，纵军俘掠而还。
+现代文：初七，萧蒲奴等率军进入夏国境内，未与敌军相遇，纵兵大肆俘掠而还。
+English: On the seventh day of the first month of the year, Xiao Punu and others led the army into the territory of Xia, did not encounter the enemy army, and the soldiers were captured and plundered and returned.
+
+古文：丁酉，夏国洼普来降。
+现代文：十一日，夏国洼普前来归降。
+English: On the 11th day, Xia Guowapu came to surrender.
+
+古文：己亥，远夷拔思母部遣使来贡。
+现代文：十三日，远夷拔思母部派使者前来进贡。
+English: On the thirteenth day, the mother department sent an envoy to pay tribute.
+
+古文：六月丙辰朔，置倒塌岭都监。
+现代文：六月初一，设置倒塌岭都监之职。
+English: On the first day of June, the post of the supervisor of the collapsed ridge was established.
+
+古文：丙寅，谒庆陵。
+现代文：十一日，皇上拜谒庆陵。
+English: On the 11th day, the emperor paid a visit to the Yongqing Mausoleum.
+
+古文：庚午，幸庆州，谒大安殿。
+现代文：十五日，幸庆州，拜谒大安殿。
+English: On the fifteenth day of the month, he went to visit the Daan Hall in Xingqing.
+
+古文：壬申，诏医卜屠贩、奴隶及倍父母或犯事逃亡者，不得举进士。
+现代文：十七日，诏令医卜、屠贩、奴隶及事奉父母不孝或犯罪逃亡者，不得被录取为进士。
+English: On the 17th, it was decreed that doctors, butchers, slaves, and those who are not filial to their parents or who have escaped from a crime shall not be admitted to the priesthood.
+
+古文：回跋、曷苏馆、蒲卢毛朵部各遣使贡马。
+现代文：回跋、曷苏馆、蒲卢毛朵部均派使者前来进贡马匹。
+English: Huibao, Gansu Pavilion, and Bulu Maoodu all sent envoys to bring in tribute horses.
+
+古文：甲戌，宋遣使来贺伐夏捷，高丽使俱至。
+现代文：十九日，宋派使者前来祝贺辽伐夏获胜，高丽使者也同时到达。
+English: On the 19th, the Song Dynasty sent an envoy to congratulate Liaowaxia on its victory, and the Koryo envoy also arrived at the same time.
+
+古文：辛巳，御金銮殿试进士。
+现代文：二十六日，皇上御临金銮殿对进士进行殿试。
+English: On the twenty-sixth day, the Emperor's wife, the Empress Dowager Kintsugi, went to the hall to conduct a hall test for the new recruits.
+
+古文：秋七月壬辰，驻跸括里蒲碗。
+现代文：秋七月初七，皇上歇驾于括里蒲碗。
+English: On the 7th day of the 7th month of the 7th month of the 7th month of the 7th month of the 7th month of the 7th month of the 7th month of the 7th month of the 7th month of the 7th month of the 7th month of the 7th month of the 7th month of the 7th month of the 7th month of the 7th month of the 7th month of the 7th month of the autumn.
+
+古文：癸巳，以燕赵国王洪基领北南枢密院。
+现代文：初八，任命燕赵国王洪基总领北南枢密院。
+English: On the eighth day of the first month, King Yan Zhao appointed Hong Ji as the leader of the North-South Privy Council.
+
+古文：乙未，阻卜长豁得剌弟斡得来朝，加太尉遣之。
+现代文：初十，阻卜酋长豁得剌之弟斡得前来朝见，赐给他太尉官号将他送回。
+English: On the tenth day of the first month of the year, the brother of the chief of the chief of the chief of the chief of the chief of the chief of the chief of the chief of the chief of the chief of the chief of the chief of the chief of the chief of the chief of the chief of the chief of the chief of the chief of the chief of the chief of the chief of the chief of the chief of the chief of the chief of the chief of the chief of the chief of the chief of the chief.
+
+古文：戊戌，录囚。
+现代文：十三日，皇上查看犯人口供。
+English: On the fourth day of the new school year, the prisoners' confessions were examined.
+
+古文：戊申，以左夷离毕萧唐古为北院枢密副使。
+现代文：二十三日，任命左夷离毕萧唐古为北院枢密副使。
+English: On the 23rd, Zuo Yili appointed Bi Xiao Tanggu as the Privy Vice-Envoy of the Northern Yuan.
+
+古文：壬子，猎侯里吉。
+现代文：二十七日，出猎于候里吉。
+English: On the 27th, they went hunting in Houligi.
+
+古文：八月丁卯，阻卜酋长喘只葛拔里斯来朝。
+现代文：八月十三日，阻卜酋长喘只葛拔里斯前来朝见。
+English: On the 13th of August, the chief of the block came to see me in the morning.
+
+古文：九月壬寅，夏人侵边，敌鲁古遣六院军将海里击败之。
+现代文：九月十八日，夏人侵扰边境，敌鲁古派六院军将海里击败夏军。
+English: On September 18th, the Xia people invaded the border, and the enemy Lugu sent the Sixth Hospital Army to defeat the Xia Army by sea.
+
+古文：冬十月庚午，还上京。
+现代文：冬十月十六日，皇上回上京。
+English: In the winter, on October 16th, the Emperor returned to Tokyo.
+
+古文：辛未，夏国王李谅祚母遣使乞依旧称藩。
+现代文：十七日，夏国王李谅祚之母派使者前来请求依旧称臣。
+English: On the seventeenth day, the mother of Xia King Li Piao sent an envoy to request that he continue to be a courtier.
+
+古文：使还，诏谕别遣信臣诣阙，当徐思之。
+现代文：皇上遣回使者，下诏晓谕夏国另派使者前来朝见，对于夏国所请则表示要慢慢考虑之后再说。
+English: The emperor sent the envoy back, and issued the following edict, instructing Xia Guo to send another envoy to come and see the emperor. As for Xia Guo's request, he said that he would have to consider it carefully before making a decision.
+
+古文：壬申，释临潢府役徒。
+现代文：十八日，释放临潢府服劳役者。
+English: On the 18th, the laborers from Linyi were released.
+
+古文：甲戌，如中会川。
+现代文：二十日，车驾至中会川。
+English: On the 20th, I drove to Chukai River.
+
+古文：十一月甲午，阻卜酋长豁得剌遣使来贡。
+现代文：十一月十一日，阻卜酋长豁得剌派使者前来进贡。
+English: On the 11th of November, the chieftain sent an envoy to pay tribute.
+
+古文：庚戌，录囚。
+现代文：二十七日，查看犯人口供。
+English: On the 27th, the inmate's confession was examined.
+
+古文：壬子，出南府宰相韩知白为武定军节度使，枢密副使杨绩长宁军节度使，翰林学士王纲泽州刺史，张宥徽州刺史，知制诰周白海北州刺史。
+现代文：二十九日，以南府宰相韩知白出京任为武定军节度使，枢密副使杨绩出任长宁军节度使，翰林学士王纲出任泽州刺史，张宥出任徽州刺史，知制诰周白出任海北州刺史。
+English: On the 29th, Han Zhibai, the chancellor of Nanfu, went to Beijing to be appointed as the festival envoy of the Wuding Army, Yang Jie, the vice-envoy of the Privy Council, was appointed as the festival envoy of the Changning Army, Hanlin Baccalaureate Wang Gang was appointed as the historian of Zezhou, Zhang Yu was appointed as the historian of Huizhou, and Zhisheng Zhou Bai was appointed as the historian of Hebei Province.
+
+古文：闰月乙卯，以汉王贴不为中京留守。
+现代文：闰十一月初二，任命汉王贴不为中京留守。
+English: On the second day of the eleventh month of the leap year, Han Wangpiao was appointed to stay in Beijing.
+
+古文：辛未，以同知北院枢密使事萧革为南院枢密使，南院大王耶律仁先知北院枢密使事，封宋王。
+现代文：十八日，任命同知北院枢密使事萧革为南院枢密使，南院大王耶律仁先为知北院枢密使事，封宋王。
+English: On the 18th, Xiao Ge, a privy councilor of the Northern Yuan, was appointed as a privy councilor of the Southern Yuan, and the great king of the Southern Yuan, Yerujin, was appointed as a privy councilor of the Northern Yuan, with the title of King Song.
+
+古文：十二月丁亥，北府宰相、赵王萧孝友出为东京留守，东京留守萧塔列葛为北府宰相，南院枢密使、潞王查葛为南院大王。
+现代文：十二月初四，北府宰相、赵王萧孝友出任东京留守，东京留守萧塔列葛入任北府宰相，南院枢密使、潞王查葛为南院大王。
+English: On the 4th day of the 12th month of the year, Zhao Wang Xiao Xiaotong, the prime minister of Beifu, was appointed to be absent in Tokyo, Shota Rege, the prime minister of Beifu, was appointed to be absent in Tokyo, and Shao Wang Cha Ge, the envoy of the Southern Yuan, was appointed to be the great king of the Southern Yuan.
+
+古文：庚戌，韩国王萧惠徙封魏王，致仕。
+现代文：二十七日，韩国王萧惠改封魏王，辞去官职。
+English: On the 27th, King Xiao Hui of Korea changed his title to King of Wei and resigned from his official post.
+
+古文：壬子，夏国李谅祚遣使上表，乞依旧臣属。
+现代文：二十九日，夏国王李谅祚派使者上表请求依旧臣属于辽。
+English: On the 29th, Xia King Li Peng sent an envoy to the table to request that Liao still belong to Liao.
+
+古文：二十年春正月戊戌，驻跸混同江。
+现代文：二十年春正月戊戌日，皇上歇驾于混同江。
+English: On the twenty-first day of the first month of spring, the emperor rested on the Mudong River.
+
+古文：二月甲申，遣前北院都监萧友括等使夏国，索党项叛户。
+现代文：二月初三，派前北院都监萧友括等出使夏国，索取党项叛归西夏的民户。
+English: On the third day of the second month of the year, he sent Xia Guo and other emissaries including Xia Youcai, the former procurator of the Northern Court, to solicit the private households that had defected from the Party and returned to Western Xia.
+
+古文：己丑，如苍耳泺。
+现代文：初八，皇上到苍耳泊。
+English: On the eighth day of the first month, the emperor went to Canglian.
+
+古文：甲辰，吐蕃遣使来贡。
+现代文：二十三日，吐蕃派使者前来进贡。
+English: On the 23rd, Tubo sent an envoy to pay tribute.
+
+古文：三月壬子朔，幸黑水。
+现代文：三月初一，皇上临幸黑水。
+English: On the first day of March, Emperor Linxing visited Heishui.
+
+古文：夏五月癸丑，萧友括等使夏还，李谅祚母表乞如党项权进马、驼、牛、羊等物。
+现代文：夏五月初四，友括等出使夏国回国，李谅祚母上表请求像党项一样暂时向辽进贡马、骆驼、牛、羊等物。
+English: On the 4th day of the 5th month of the summer, when the envoys sent to Xia returned to the country, Li Yuxuan's mother made a request to temporarily send tribute horses, camels, cattle, sheep and other items to Liao into the country.
+
+古文：己巳，夏国遣使求唐隆镇及乞罢所建城邑，以诏答之。
+现代文：二十三日，夏国派使者前来求要唐隆镇及请求辽停止在那里修筑城邑，皇上以诏答之。
+English: On the 23rd, Xia Guo sent an envoy to ask for Tanglong Town and request Liao to stop building towns there, and the emperor responded with an edict.
+
+古文：六月丙戌，诏以所获李元昊妻及前后所俘夏人，安置苏州。
+现代文：六月初七，诏令将被俘获的李元昊之妻及先后被俘虏的夏人安置在苏州。
+English: On the 7th day of the 6th month, the wife of the captured Li Yuanhao and the successively captured Xia Ren were placed in Suzhou.
+
+古文：以伐夏所获物遣使遗宋。
+现代文：将征伐夏国所获物品派使者送给宋国。
+English: An emissary was sent to Song to present the items obtained from the conquest of Xia.
+
+古文：秋七月，如秋山。
+现代文：秋七月，皇上到秋山。
+English: In autumn and July, the emperor went to Akiyama.
+
+古文：九月，诏更定条制。
+现代文：九月，诏令更正改定条制。
+English: In September, the imperial edict corrected and changed the regulation system.
+
+古文：驻跸中会川。
+现代文：歇驾于中会川。
+English: We stopped at Nakakai River.
+
+古文：冬十月己卯朔，括诸道军籍。
+现代文：冬十月初一，检括诸道士兵名籍。
+English: On the first day of October in winter, the registration of soldiers from all provinces was reviewed.
+
+古文：十一月庚申，以惕隐都监萧谟鲁为左夷离毕。
+现代文：十一月十三日，任命惕隐都监萧谟鲁为左夷离毕。
+English: On November 13th, Xiao Moru, who had been appointed as the chief inspector of Tihiyin, resigned as the leader of Zuoying.
+
+古文：甲子，命东京留守司总领户部、内省事。
+现代文：十七日，命令东京留守司总领户部、内省事务。
+English: On the 17th, he ordered the head of the Tokyo Residency Division, the head of the Household Division, to conduct an introspection.
+
+古文：丁卯，罢中丞记录职官过犯，令承旨总之。
+现代文：二十日，停止让中丞来记录在职官员过失，命令由承旨总领其事。
+English: On the 20th, it stopped asking junior officers to record the misconduct of officials in office, and ordered the commander-in-chief to do so.
+
+古文：十二月乙酉，以皇太后行再生礼，肆赦。
+现代文：十二月初八，因皇太后举行再生礼，赦免在押囚犯。
+English: On the eighth day of the twelfth month, as the Empress Dowager held a rebirth ceremony, she pardoned prisoners.
+
+古文：二十一年春正月辛亥，如混同江。
+现代文：二十一年春正月初四，皇上到混同江。
+English: On the fourth day of the first month of the twenty-first spring, the emperor arrived at the Mudong River.
+
+古文：二月，如鱼儿泺。
+现代文：二月，到鱼儿泊。
+English: In February, we went to stay with a fish.
+
+古文：夏四月癸未，以国舅详稳萧阿剌为西北路招讨使，封西平郡王。
+现代文：夏四月初八，任命国舅详稳萧阿剌为西北路招讨使，封西平郡王。
+English: On the 8th day of the 4th month of the summer, he appointed the uncle of the country, Zhaoyuan Xiao Aqian, as the envoy of the Northwest Road, and the king of Xiping County.
+
+古文：六月丙子，驻跸永安山。
+现代文：六月初三，歇驾于永安山。
+English: On the third day of the sixth lunar month, he stopped at Yongan Mountain.
+
+古文：秋七月甲辰朔，召北府宰相萧塔烈葛、南府宰相汉王贴不、南院枢密使萧革、知北院枢密使事仁先等，赐坐，论古今治道。
+现代文：秋七月初一，召北府宰相萧塔烈葛、南府宰相汉王贴不、南院枢密使萧革、知北院枢密使事仁先等，赐坐，与他们讨论古今治理国家之道。
+English: On the first day of the seventh month of autumn, the prime ministers of the northern prefectures, Shoutarie Ge, and the southern prefectures, Han Wang Tiefu, the envoy of the southern court, Shao Ge, and the envoy of the northern court, Zhiren Xian, were summoned to sit down and discuss the ancient and modern ways of governing the country.
+
+古文：戊申，祀天地。
+现代文：初五，祭祀天地。
+English: On the 5th day of the first month, there is a ritual for heaven and earth.
+
+古文：己酉，诏北、南枢密院，日再奏事。
+现代文：初六，诏令北、南枢密院，每日两次奏事。
+English: On the 6th day of the first month, the North and South Privy Councils were ordered to report twice a day.
+
+古文：壬子，追尊太祖之祖为简献皇帝，庙号玄祖，祖妣为简献皇后；太祖之考为宣简皇帝，庙号德祖，妣为宣简皇后。
+现代文：初九，追尊太祖之祖父为简献皇帝，庙号玄祖，太祖之祖母为简献皇后；太祖之父为宣简皇帝，庙号德祖，太祖之母为宣简皇后。
+English: In the early 9th century, the grandfather of the revered great-grandfather was Jian Jian Emperor, the temple name was Jian Jian, and the grandmother of the great-grandfather was Jian Jian Empress; the father of the great-grandfather was Xuan Jian Emperor, the temple name was De Zu, and the mother of the great-grandfather was Xuan Jian Empress.
+
+古文：追封太祖伯父夷离堇岩木为蜀国王，于越释鲁为隋国王。
+现代文：追封太祖伯父夷离堇岩木为蜀国王，于越释鲁为隋国王。
+English: Emperor Wu's great-great-uncle Emperor Yixiang of Shiyan was the king of Shu, and Emperor Yue of Shilu was the king of Sui.
+
+古文：以燕赵国王洪基为天下兵马大元帅、知惕隐事，赐诏谕之。
+现代文：以燕赵国王洪基为天下兵马大元帅、知惕隐事，赐诏晓谕之。
+English: With King Yanzhao Hongji as the grand marshal of the world's soldiers and horses, he was aware of the secret and issued an edict to announce it.
+
+古文：癸亥，近侍小底卢宝伪学御书，免死，配役终身。
+现代文：二十日，近侍小底卢宝偷学皇上绘画，免去死罪，发配服劳役终身。
+English: On the 20th, the courtier Xiaodi Lu Bao stole the emperor's painting, was exempted from the death penalty, and was assigned to labor service for life.
+
+古文：甲子，如秋山。
+现代文：二十一日，皇上到秋山。
+English: On the 21st, the Emperor went to Akiyama.
+
+古文：戊辰，谒庆陵。
+现代文：二十五日，拜谒庆陵。
+English: On the seventh day of the first month, pay homage to the Yongqing Mausoleum.
+
+古文：以南院枢密使萧革为北院枢密使，封吴王。
+现代文：任命南院枢密使萧革为北院枢密使，封吴王。
+English: Appointed the Southern Privy Councilor Xiao Ge as the Northern Privy Councilor, and appointed Wu Wang.
+
+古文：辛未，如庆州。
+现代文：二十八日，到庆州。
+English: On the 28th, to Gyeongju.
+
+古文：壬申，追封太祖弟寅底石为许国王。
+现代文：二十九日，追封太祖之弟寅底石为许国王。
+English: On the 29th, Emperor Taizu's younger brother, Toraishi, was enthroned as King Xu.
+
+古文：八月戊子，太尉乌者薨，诏配享圣宗庙。
+现代文：八月十六日，太尉乌者逝世，诏令附祀于圣宗庙。
+English: On August 16th, Taifu Wu passed away, and was enshrined in the Seongjong Temple.
+
+古文：九月乙卯，平州进白兔。
+现代文：九月十三日，平州进献白兔。
+English: On September 13th, the white rabbit was presented in Pingzhou.
+
+古文：己未，谒怀陵。
+现代文：十七日，皇上拜谒怀陵。
+English: On the 17th, the emperor paid his respects at the imperial mausoleum.
+
+古文：庚申，追上嗣圣皇帝、天顺皇帝尊谥，及更谥彰德皇后曰靖安。
+现代文：十八日，给嗣圣皇帝、天顺皇帝追赠谥号，将彰德皇后改谥为靖安。
+English: On the 18th, Emperor Sheng and Emperor Tien Shun posthumously bestowed the imperial title to the heir, and changed the imperial title of Empress Zhangde to Jing'an.
+
+古文：癸亥，谥齐天皇后曰仁德皇后。
+现代文：二十一日，追谥齐天皇后为仁德皇后。
+English: On the twenty-first day of the month, the Empress Dowager of Emperor Suizei became Empress Dowager of Emperor Nindo.
+
+古文：甲子，谒祖陵。
+现代文：二十二日，拜谒祖陵。
+English: On the 22nd, they paid their respects at the ancestral mausoleum.
+
+古文：增太祖谥大圣大明神烈天皇帝，更谥贞烈皇后曰淳钦，恭顺皇帝曰章肃，后萧氏谥曰和敬。
+现代文：增加太祖谥号为大圣大明神烈天皇帝，改谥贞烈皇后为淳钦皇后，恭顺皇帝为章肃皇帝，帝后萧氏谥为和敬皇后。
+English: The title of Taizu was changed to Dai Sheng Da Ming Shen Li Tian Emperor, the title of Empress Zhen Rong was changed to Empress Jun Qin, the title of Emperor Gongshun was changed to Emperor Zhang Su, and the title of Empress Dowager Xiao was changed to Empress He Kei.
+
+古文：冬十月戊寅，驻跸中会川。
+现代文：冬十月初六，皇上歇驾于中会川。
+English: On the 6th day of the 10th month of winter, the Emperor passed away at Nakakai River.
+
+古文：丁亥，夏国李谅祚遣使乞弛边佣，即遣萧友括奉诏谕之。
+现代文：十五日，夏国李谅祚派使者请求解除边防武备紧急状态，皇上立即派萧友括奉诏前去抚谕之。
+English: On the fifteenth day of the month, Xia Guo Lirong sent an envoy to request the lifting of the state of emergency on border defense and military preparedness, and the emperor immediately sent Xiao You, accompanied by an imperial edict, to advise him.
+
+古文：戊子，幸显、懿二州。
+现代文：十六日，临幸黑、懿二州。
+English: On the 16th, Linxinghe and Shijiazhuang were divided into two states.
+
+古文：甲午，辽兴军节度使萧虚烈封郑王，南院大王、潞王查葛为南院枢密使，进封越国王。
+现代文：二十二日，辽兴军节度使萧虚烈封郑王，南院大王、潞王查葛为南院枢密使，进封越国王。
+English: On the 22nd, the Liao Xing Army's festival made Xiao Wuling appoint King Zheng, the Great King of the Southern Court, and King Zha Ge, the Privy Councilor of the Southern Court, as the King of the Southern Court.
+
+古文：戊戌，射虎于南撒葛柏。
+现代文：二十六日，皇上射虎于南撒葛柏。
+English: On the twenty-sixth day, the emperor shot a tiger in the south and sent it to Geber.
+
+古文：辛丑，谒乾陵。
+现代文：二十九日，拜谒乾陵。
+English: On the 29th, the visit to the Qianling Mausoleum began.
+
+古文：十一月壬寅朔，增谥文献皇帝为文献钦义皇帝，及谥二后曰端顺，曰柔贞。
+现代文：十一月初一，增谥文献皇帝为文献钦义皇帝，帝之二后谥为端顺、柔贞。
+English: On the first day of the first month of November, Emperor Zeng Rong was Emperor Qin Yi, and Empress Dowager Duan Shun and Empress Dowager Jiu Zhen were crowned.
+
+古文：复更谥世宗孝烈皇后为怀节。
+现代文：又改谥世宗孝烈皇后为怀节皇后。
+English: She was also changed from the Empress of Emperor Taizong to the Empress of the Huai Festival.
+
+古文：丁未，增孝成皇帝谥曰孝成康靖皇帝，更谥圣神宣献皇后为睿智。
+现代文：初六，增加孝成皇帝谥号为孝成康靖皇帝，改谥圣神宣献皇后为睿智皇后。
+English: On the 6th day of the first month of the year, the posthumous name of Emperor Xiaocheng was changed to Emperor Xiaocheng Kangjing, and that of the Empress of the Holy Spirit was changed to the Empress of Wisdom.
+
+古文：甲子，次中会川。
+现代文：二十三日，皇上驻于中会川。
+English: On the 23rd, the Emperor stayed in Nakakai River.
+
+古文：回鹘阿萨兰遣使贡名马、文豹。
+现代文：回鹘阿萨兰派使者前来进贡名马、文豹。
+English: In return, Asaram sent an emissary to bring the famous horse and leopard as tribute.
+
+古文：丙寅，录囚。
+现代文：二十五日，察看犯人口供。
+English: On the 25th, the inspectors heard the prisoners' confessions.
+
+古文：十二月戊戌，以北府宰相塔烈葛为南京统军使，郑王虚烈北府宰相，契丹行宫都部署耶律义先惕隐。
+现代文：十二月二十七，任命北府宰相塔烈葛为南京统军使，郑王虚烈为北府宰相，契丹行宫都部署耶律义先为惕隐。
+English: On December 27th, the prime minister of Beifu, Tarregat, was appointed as the envoy to Nanjing, the prime minister of Beifu, Zheng Wang Burel was appointed as the prime minister of Beifu, and the palace of Khitan was deployed to Yelu and Yixian.
+
+古文：释役徒限年者。
+现代文：释放有规定年限的服劳役者。
+English: The release of laborers with a specified term of service.
+
+古文：二十二年春正月乙巳，如混同江。
+现代文：二十二年春正月初四，皇上到混同江。
+English: On the fourth day of the first month of the 22nd year of the Spring, the emperor went to the Mudong River.
+
+古文：二月丙子，回鹘阿萨兰为邻国所侵，遣使求援。
+现代文：二月初六，回鹘阿萨兰为邻国所侵略，派使者前来求援。
+English: On the 6th day of the 2nd month of the 2nd month of the 4th year of the Hijri calendar, Asaram was invaded by a neighboring country and sent an envoy to ask for help.
+
+古文：庚辰，如春水。
+现代文：初十，皇上到春水。
+English: On the tenth day of the first month, the emperor went to Chunshui.
+
+古文：三月癸亥，李谅祚以赐诏许降，遣使来谢。
+现代文：三月二十三日，李谅祚因皇上赐诏允许他归降，派使者前来致谢。
+English: On March 23rd, Li Piao sent an envoy to thank the emperor for the imperial edict allowing him to surrender.
+
+古文：丙寅，如黑水泺。
+现代文：二十六日，皇上到黑水泊。
+English: On the 26th, the emperor went to Heishuipo.
+
+古文：夏四月戊子。猎鹤淀。
+现代文：夏四月十九日，出猎于鹤淀。
+English: On the 19th day of the 4th month of the summer, I went hunting in Hedao.
+
+古文：五月壬寅，诏内地州县植果。
+现代文：五月初三，令内地州县种植果树。
+English: On the third day of the fifth lunar month, fruit trees will be planted in inland prefectures.
+
+古文：六月壬申，驻跸胡吕山。
+现代文：六月初四，歇驾于胡吕山。
+English: On the fourth day of the sixth month, he rested on Mount Hulü.
+
+古文：癸未，高丽遣使来贡。
+现代文：十五日，高丽派使者前来进贡。
+English: On the 15th, Goryeo sent an envoy to pay tribute.
+
+古文：秋七月己酉，阻卜大王屯秃古斯率诸部长献马、驼。
+现代文：秋七月十二日，阻卜大王屯秃古斯率领诸部酋长前来进献马、骆驼。
+English: On the 12th day of the 7th month of the autumn, the great king of Zobo, Tunzorgus, led all the chiefs to come and offer horses and camels.
+
+古文：庚申，如黑岭。
+现代文：二十三日，皇上到黑岭。
+English: On the 23rd, the emperor arrived in Heiling.
+
+古文：闰月庚午，乌古来贡。
+现代文：闰七月初三，乌古前来进贡。
+English: On the third day of the seventh lunar month, Ugu came to pay tribute.
+
+古文：癸巳，长春州置钱帛司。
+现代文：二十六日，在长春州设置钱帛司。
+English: On the 26th, the Qian Ye Division was set up in Changchun.
+
+古文：九月壬辰，夏国李谅祚遣使进降表。
+现代文：九月二十六日，夏国李谅祚派使者进上降表。
+English: On September 26th, Xia Guo Lijian sent an envoy to the table.
+
+古文：甲午，遣南面林牙高家奴等奉诏抚谕。
+现代文：二十八日，皇上派南面林牙高家奴等奉诏前往抚慰晓谕。
+English: On the 28th, the emperor sent Lin Fang Gao Jia Nong and others to the south to offer words of consolation.
+
+古文：冬十月丙申朔，日有食之。
+现代文：冬十月初一，日食。
+English: Winter On the first day of October, a solar eclipse.
+
+古文：十一月辛卯，诏诸职事官以礼受代及以罪去者置籍，岁申枢密院。
+现代文：十一月二十六日，诏令为诸在职官员因礼制卸任及因犯罪去官者设立名籍，每年向枢密院申报一次。
+English: On November 26th, the Dahir issued a decree to establish a register of names for all serving officials who leave office for reasons of propriety and those who leave office for crimes, and to report to the Privy Council once a year.
+
+古文：十二月丙申朔，诏回鹘部副使以契丹人充。庚子，应圣节，曲赦徒以下罪。
+现代文：十二月初一，诏令用契丹人担任回鹘部副使。初五，应圣节，特赦徒刑以下犯人。
+English: On the first day of December, the Emir issued a decree appointing a Khitan as the deputy envoy of the Ministry of Islamic Affairs. On the fifth day of the first month of the year, on the occasion of the Holy Day, an amnesty was granted to prisoners.
+
+古文：壬子，诏大臣曰： 朕与宋主约为兄弟，欢好岁久，欲见其绘像，可谕来使。 
+现代文：十七日，下诏给大臣说： 朕与宋主相约为兄弟，两国欢好日久，朕希望能见到宋主画像，可将朕这一愿望晓谕宋国来使。 
+English: On the seventeenth day, he sent a message to the minister saying: I am a brother of Lord Song, and the two countries have been friendly for a long time. I hope to see the portrait of Lord Song, and I can express my wish to Song.
+
+古文：二十三年春正月己巳，如混同江。
+现代文：二十三年春正月初四，皇上到混同江。
+English: On the fourth day of the first month of the 23rd year of the Spring, the emperor went to the Mudong River.
+
+古文：癸酉，猎双子淀。
+现代文：初八，出猎于双子淀。
+English: At the age of eight, he went hunting in Gemini Yodo.
+
+古文：戊子，夏国遣使贡方物。
+现代文：二十三日，夏国派使者前来进贡土产。
+English: On the 23rd, Xia Guo sent an envoy to collect the tribute.
+
+古文：壬辰，如春水。
+现代文：二十七日，到春水。
+English: On the 27th, to Chunshui.
+
+古文：甲午，猎盘直坡。
+现代文：二十九日，狩猎于盘直坡。
+English: On the 29th, the hunt began on the Pan straight slope.
+
+古文：三月丁亥，幸皇太弟重元帐。
+现代文：三月二十三日，临幸皇太弟重元宫帐。
+English: On March 23rd, Rincheng, the younger brother of the empress dowager, left the palace.
+
+古文：夏四月癸卯，高丽遣使来贡。
+现代文：夏四月初十，高丽派使者来进贡。
+English: On the tenth day of the fourth month of the summer, Goryeo sent an envoy to pay tribute.
+
+古文：癸丑，猎合只忽里。
+现代文：二十日，皇上行猎于合只忽里。
+English: On the 20th day, the emperor went hunting in Gotsudakuryo.
+
+古文：五月己巳，李谅祚乞进马、驼，诏岁贡之。
+现代文：五月初六，李谅祚乞请进贡马和骆驼，诏令其一岁一贡。
+English: On the 6th day of the 5th month of the lunar calendar, Li Yuanzhang asked for a tribute horse and a camel, and ordered a tribute for the first year.
+
+古文：庚寅，驻跸永安山。
+现代文：二十七日，歇驾于永安山。
+English: On the 27th, he stopped at Yongan Mountain.
+
+古文：壬辰，夏国遣使来贡。
+现代文：二十九日，夏国派使者前来进贡。
+English: On the 29th, Xia Guo sent an envoy to pay tribute.
+
+古文：六月丙申，如庆州。
+现代文：六月初四，皇上到庆州。
+English: On the fourth day of the sixth month, the emperor arrived in Gyeongju.
+
+古文：乙亥，谒庆陵。
+现代文：初七，拜谒庆陵。
+English: On the seventh day of the first month, pay homage to the Yongqing Mausoleum.
+
+古文：壬寅，高丽王徽请官其子，诏加检校太尉。
+现代文：初十，高丽王王徽请求加封其子官职，皇上下诏封他为检校太尉。
+English: On the tenth day of the first month of the year, the King of Goryeo, Wang Hui, requested that his son be given an official post, and the Emperor issued an imperial edict to make him a school inspector.
+
+古文：辛亥，吐蕃遣使来贡。
+现代文：十九日，吐蕃派使者前来进贡。
+English: On the 19th, Tubo sent an envoy to pay tribute.
+
+古文：秋七月己巳，夏国李谅祚遣使来求婚。
+现代文：秋七月初八，夏国李谅祚派使者前来求婚。
+English: On the 8th day of the 7th month of autumn, Xia Guo Li谅 sent an envoy to propose marriage.
+
+古文：甲戌，如秋山。
+现代文：十三日，皇上到秋山。
+English: On the 13th, the Emperor went to Akiyama.
+
+古文：己卯，诏八房族巾帻。
+现代文：十八日，诏令八房族冠制为巾帻。
+English: On the 18th, it was decreed that the crown system of the Hachifusa clan would be changed to a cloth cap.
+
+古文：九月庚寅，猎，遇三虎，纵犬获之。
+现代文：九月三十日，出猎，遭遇三只老虎，纵猎犬捕获之。
+English: On September 30, on a hunting trip, he encountered three tigers and was caught by a hunting dog.
+
+古文：冬十月丁酉，驻跸中京。
+现代文：冬十月初七，皇上歇驾于中京。
+English: On the 7th day of the 10th month of winter, the emperor died in central Kyoto.
+
+古文：戊戌，幸新建秘书监。
+现代文：初八，临幸新建成的秘书监。
+English: On the eighth day of the first month of the year, the newly-built secretarial supervisor came out.
+
+古文：辛丑，有事于祖庙。
+现代文：十一日，祭祀太祖庙。
+English: On the 11th day of the month, there will be a ritual at Taizu Temple.
+
+古文：癸丑，以开泰寺铸银佛像，曲赦在京囚。
+现代文：二十三日，因开泰寺浇铸银佛像，特赦关押于京城的犯人。
+English: On the 23rd, a prisoner in the capital was pardoned for casting a silver Buddha statue for the Kai Tai Temple.
+
+古文：丙辰，李谅祚遣使进誓表。
+现代文：二十六日，李谅祚派使者奉上盟誓书表。
+English: On the 26th, Li Qiye sent an emissary to deliver the oath form.
+
+古文：十一月乙丑，阻卜部长来贡。
+现代文：十一月初六，阻卜酋长前来进贡。
+English: On the 6th day of the 11th month of the lunar calendar, the chieftain of the Dabo clan came to pay tribute.
+
+古文：壬申，帝率群臣上皇太后尊号曰仁慈圣善钦孝广德安静贞纯懿和宽厚崇觉仪天皇太后，大赦。
+现代文：十三日，皇上率领群臣给皇太后上尊号为仁慈圣善钦孝广德安静贞纯懿和宽厚崇觉仪天皇太后，大赦天下。
+English: On the 13th, the emperor led his ministers to give the empress dowager the title of "benevolence, holiness, virtue, filial piety, broad-mindedness, tranquility, chastity, purity, and magnanimity" and the emperor pardoned her.
+
+古文：内外官进级有差。
+现代文：内外官员均加官进爵。
+English: Officials at home and abroad have been promoted to knighthoods.
+
+古文：癸未，录囚。
+现代文：二十四日，皇上查看犯人口供。
+English: On the twenty-fourth day, the emperor inspected the prisoners' confessions.
+
+古文：甲申，群臣上皇帝尊号曰钦天奉道佑世兴历武定文成圣神仁孝皇帝，册皇后萧氏曰贞懿慈和文惠孝敬广爱崇圣皇后。
+现代文：二十五日，群臣给皇上上尊号为钦天奉道佑世兴历武定文成圣神仁孝皇帝，册封皇后萧氏为贞懿慈和文惠孝敬广爱崇圣皇后。
+English: On the 25th, the courtiers gave the emperor the honorific title of "Qing Tian Bong Dao You Shixing Lichwu Dingwen Cheng Sheng Sheng Renhiao Emperor" and the empress Xiao the honorific titles of "Zhengyi Ci" and "Wen Hui Xiao Ke Guang Ai Chong Sheng Quen."
+
+古文：十二月丙申，如中会川。
+现代文：十二月初七，皇上到中会川。
+English: On the seventh day of the twelfth month, the emperor went to Chukaigawa.
+
+古文：二十四年春正月癸亥，如混同江。
+现代文：二十四年春正月初四，皇上到混同江。
+English: On the fourth day of the first month of the spring of the twenty-fourth year, the emperor went to the Mudong River.
+
+古文：戊辰，朝皇太后。
+现代文：初九，朝见皇太后。
+English: On the 9th day of the 9th month, the Empress Dowager came to see me.
+
+古文：辛巳，宋遣使来贺，馈驯象。
+现代文：二十二日，宋派使者前来朝贺，并馈赠驯象。
+English: On the 22nd, Song sent an envoy to congratulate the new emperor and presented him with a tamed elephant.
+
+古文：二月己丑朔，召宋使钓鱼、赋诗。
+现代文：二月初一，皇上召见宋使与之一起钓鱼、赋诗。
+English: On the first day of February, the emperor summoned Song to go fishing and compose poems with him.
+
+古文：癸巳，如长春河。
+现代文：初五，到长春河。
+English: On the fifth day of the first month, I went to Changchun River.
+
+古文：甲寅，夏国遣使来贺。
+现代文：二十六日，夏国派使者前来朝贺。
+English: On the 26th, Xia Guo sent an envoy to congratulate the emperor.
+
+古文：三月癸亥，皇太弟重元生子，曲赦行在及长春、镇北二州徒以下罪。
+现代文：三月初五，皇太弟重元生子，特赦行宫所在及长春、镇北二州徒罪以下犯人。
+English: On the 5th day of March, the Crown Prince's younger brother, Chogen's son, granted amnesty to the prisoners of Changchun and the two northern prefectures where the Imperial Palace is located.
+
+古文：夏五月，驻跸南崖。
+现代文：夏五月，皇上歇驾于南崖。
+English: In the summer of May, the emperor rested on the south cliff.
+
+古文：秋七月，壬午，如秋山。
+现代文：秋七月二十六日，到秋山。
+English: Autumn On July 26th, I went to Akiyama.
+
+古文：次南崖之北峪，不豫。
+现代文：驻于南崖之北峪，病重。
+English: He is seriously ill at the North Tower of Nanjiazi.
+
+古文：八月丁亥，疾大渐，召燕赵国王洪基，谕以治国之要。
+现代文：八月初二，皇上病危，召见燕赵国王洪基，晓谕他治国之纲要。
+English: On the 2nd day of the 8th month, the emperor was critically ill and summoned King Yanzhao Hongji to tell him the outline of governing the country.
+
+古文：戊子，大赦，纵五坊鹰鹘，焚钓鱼之具。
+现代文：初三，大赦天下，放飞五坊鹰鹘，焚烧钓鱼用具。
+English: On the third day of junior high school, there was a general amnesty, five eagles were released, and fishing equipment was burned.
+
+古文：己丑，帝崩于行宫，年四十。
+现代文：初四，皇上在行宫驾崩。时年四十。
+English: On the fourth day of the first month of the year, the Emperor died at the Imperial Palace at the age of forty.
+
+古文：遗诏燕赵国王洪基嗣位。
+现代文：遗诏由燕赵国王洪基即位。
+English: According to the last will and testament, King Yanzhao Hongji ascended to the throne.
+
+古文：清宁元年十月庚子，上尊谥为神圣孝章皇帝，庙号兴宗。
+现代文：清宁元年十月十六日，奉上尊谥为神圣孝章皇帝，庙号为兴宗。
+English: On October 16th of the first year of the Qing Dynasty, he was honored with the title of Emperor of the Sacred Filial Pledge, and the temple name was Xingzong.
+

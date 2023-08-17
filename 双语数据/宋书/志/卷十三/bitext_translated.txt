@@ -1,0 +1,1628 @@
+古文：历下《元嘉历法》：上元庚辰甲子纪首至太甲元年癸亥，三千五百二十三年，至元嘉二十年癸未，五千七百三年，算外。
+现代文：从上元庚辰岁甲子纪的开始到左更元年癸亥岁有三千五百二十三年，到元嘉二十年癸未岁有五千七百零三年，再向外推一年。
+English: From the beginning of the Koshiki era in the year of Genghis Khan in the last century to the year of Genghis Khan in the first century, there were 3,523 years, to the year of Genghis Khan in the 20th century, there were 5,703 years, and then one year was pushed out.
+
+古文：元法，三千六百四十八。
+现代文：元法：三千六百四十八。
+English: Original method: three thousand six hundred forty-eight.
+
+古文：章岁，十九。
+现代文：章岁：十九。
+English: Chapter years: nineteen.
+
+古文：纪法，六百八。
+现代文：纪法：六百零八。
+English: Discipline: Six hundred and eight.
+
+古文：章月，二百三十五。
+现代文：章月：二百三十五。
+English: Chapter Month: Two hundred thirty-five.
+
+古文：纪月，七千五百二十。
+现代文：纪月：七千五百二十。
+English: Kizuki: Seven thousand five hundred and twenty.
+
+古文：章闰，七。
+现代文：章闰：七。
+English: Chapter: Seven.
+
+古文：纪日，二十二万二千七十。
+现代文：纪曰：二十二万二千零七十。
+English: The chronicle says: two hundred twenty-two thousand and seventy.
+
+古文：度分，七十五。
+现代文：度分：七十五。
+English: Degree: seventy-five.
+
+古文：度法，三百四。
+现代文：度法：三百零四。
+English: Degree method: three hundred and four.
+
+古文：气法，二十四。
+现代文：气法：二十四。
+English: Gas method: twenty-four.
+
+古文：余数，一千五百九十五。
+现代文：余数：一千五百九十五。
+English: Remaining: one thousand five hundred ninety-five.
+
+古文：岁中，十二。
+现代文：岁中：十二。
+English: Middle years: twelfth.
+
+古文：日法，七百五十二。
+现代文：曰法：七百五十二。
+English: Seven hundred and fifty-two.
+
+古文：没余，三十六。
+现代文：没余：一百九十六。
+English: That's right: one hundred and ninety-six.
+
+古文：通数，二万二千二百七。
+现代文：通数：二万二千二百零七。
+English: Total: 22,207.
+
+古文：通法，四十七。
+现代文：通法：四十七。
+English: Passing: forty-seven.
+
+古文：没法，三百一十九。
+现代文：没法：三百一十九。
+English: Impossible: three hundred and nineteen.
+
+古文：月周，四千六十四。
+现代文：月周：四千零六十四。
+English: Moon phase: four thousand and sixty-four.
+
+古文：周天，十一万一千二十五。
+现代文：周天：十一万一千零三十五。
+English: Zhou Tian: 111,035.
+
+古文：通周，二万七百二十一。
+现代文：通周：二万零七百二十一。
+English: Weekly: 20,721.
+
+古文：周日日余，四百一十七。
+现代文：周日曰余：四百一十七。
+English: As of Sunday, the death toll was 417.
+
+古文：周虚，三百三十五。
+现代文：周虚：三百三十五。
+English: Zhou Xiao: Three hundred and thirty-five.
+
+古文：会数，一百六十。
+现代文：会数：一百六十。
+English: Number of meetings: one hundred and sixty.
+
+古文：交限数，八百五十九。
+现代文：交限数：八百五十九。
+English: Number of submissions: eight hundred fifty-nine.
+
+古文：会月，九百二十九。
+现代文：会月：九百三厂九。
+English: Meeting month: nine hundred and three plants nine.
+
+古文：朔望合数，八十。
+现代文：朔望合数：八十。
+English: The sum of the divisors is 80.
+
+古文：甲子纪第一
+现代文：甲于纪是第一纪逐疾差一万七干六百六十三
+English: The first in the Koshiki period
+
+古文：甲戌纪第二
+现代文：甲戌纪是第二纪
+English: Ordovician II
+
+古文：甲申纪第三
+现代文：甲申纪是第三纪
+English: Koshinji 3rd
+
+古文：甲午纪第四
+现代文：甲午纪是第四纪
+English: 4th century BC
+
+古文：甲辰纪第五
+现代文：甲辰纪是第五纪
+English: 5th century of the Jocheng period
+
+古文：甲寅纪第六
+现代文：甲寅纪是第六纪
+English: 6th century of the Kamakura period
+
+古文：推入纪法：置上元庚辰尽所求年，以元法除之，不满元法，以纪法除之，余不满纪法，入纪年也。满法去之，得后纪。推积月术：置入纪年数算外，以章月乘之，如章岁为积月，不尽为闰余。
+现代文：从甲午纪中壬辰年以来到元嘉二十年癸未年有百十一年，向外推算年。推算积月的方法：取需求年份在相应纪中的年数，向外推算一年，将其乘以章月，再除以章岁，其商就是积月，余数为闰余。
+English: From the middle of the Jiawu period in the Jiawu period to the middle of the 20th year of the Yuan Dynasty, there were 111 years. The method of calculating the intercalary month: take the number of years in the corresponding middle of the period, extrapolate one year, multiply it by the intercalary month, and then divide it by the intercalary year. The quotient is the intercalary month, and the remainder is the intercalary surplus.
+
+古文：闰余十二以上，其年闰。
+现代文：闰余大于十二时该年置闰。
+English: If the remainder of the leap day is greater than twelve, the year will be a leap year.
+
+古文：推朔术：以通数乘积分，为朔积分，满日法为积日，不尽为小余。
+现代文：推算朔的方法：将积月乘以通数得到朔积分，再除以曰法，其商就是积曰，余数是小余。
+English: The method of calculating the yang yang: multiply the product month by the total number to get the yang yang integral, and then divide by the yang yang method. The quotient is the product yang yang, and the remainder is the small surplus.
+
+古文：以六旬去积日，不尽为大余，命以纪，算外，所求年正月朔日也。
+现代文：积曰每满六十就减去六十，其余数就是大余，将其与干支名称对应，并向外推一天，就是所求年份的正月朔日。
+English: Add and subtract 60 every 60 days, and the remaining number is the remainder. Correspond it to the name of the zodiac, and extrapolate it by one day, which is the new year's day of the year you are looking for.
+
+古文：求次月，加大余二十九，小余三百九十九，小余满日法从大余，即次月朔也。
+现代文：求下一月：在大余上加二十九，小余上加三百九十九，小余满曰法则减去曰法在大余上加一，就可得到下一月的朔日。
+English: To find the next month: add 29 to the remainder, add 399 to the remainder, subtract the remainder from the remainder and add 1 to the remainder, and you will get the new moon day of the next month.
+
+古文：小余三百五十三以上，其月大也。
+现代文：如果小余大于三百五十三，则该月月大。
+English: If the remainder is more than three hundred and fifty-three, then the month is large.
+
+古文：推弦望法：加朔大余七，小余二百八十七，小分三，小分满四从小余，小余满日法从大余，命如前，上弦日也。
+现代文：推土、下弦和望的方法：在朔大余上加七，小余上加二百八十七和三小分，小分满四则减去四在小余上加一，小余满曰法则减去日法在大余上加一，用前述方法对应可得到上弦曰。
+English: The method of bulldozing, sinking and looking: add seven to the largest remainder, add two hundred eighty-seven and three fractions to the smallest remainder, subtract four from the smallest remainder, add one to the smallest remainder, subtract one from the largest remainder, and add one to the largest remainder. The above method can be used to correspond to the largest remainder.
+
+古文：又加之得望，又加之得下弦。
+现代文：依法再加就得到望，再加又得到下弦曰。
+English: According to the law, if you add more, you will get more hope, and if you add more, you will get more hope.
+
+古文：推二十四气术：置入纪年算外，以余数乘之，满度法三百四为积没，不尽为小余。
+现代文：推算二二十四节气的方法：取需求的年份在相应纪中的年数并向外推一年，将其乘以余数，再除以度法三百零四，其商为积没，其余数为小余。
+English: The method of calculating the 224 solar terms: take the year of demand from the number of years in the corresponding period and extrapolate one year, multiply it by the remaining number, and then divide it by the degree method of 3004. The quotient is accumulated, and the remaining number is small surplus.
+
+古文：以六旬去积没，不尽为大余，命以纪，算外，所求年雨水日也。
+现代文：积没每满六十就减去六十，最后的余数就是大余，将其与干支名称对应并向外推一天就是所求年份的雨水。
+English: Every time the accumulation is less than sixty, subtract sixty, and the final remainder is a large surplus. Corresponding it to the name of the stem branch and extrapolating it by one day is the rainwater of the desired year.
+
+古文：求次气，加大余十五，小余六十六，小分十一，小分满气法从小余，小余满度法从大余，次气日也。
+现代文：求下一节气：在大余上加十五，小余上加六十六和十一小分，小分满气法则减去气法并在小余上加一，小余满度法则减去度法并在大余上加一，就得下一气的日期。
+English: Find the next solar term: add 15 to the large remainder, add 66 and 11 to the small remainder, subtract the gas method from the small remainder and add one to the small remainder, subtract the degree method from the small remainder and add one to the large remainder, and get the date of the next solar term.
+
+古文：推闰月法：以闰余减章岁，余以岁中乘之，满章闰得一，数从正月起，闰所在也。
+现代文：如果雨水在十六以后，则如上法相减，就叮得到立春。推闰月的方法：将章岁减去闰余，其差乘以岁中，再除以章闰，从正月起算，其商就是闰月的月份。
+English: If the rain falls after the 16th, then if the above formula is reduced, it will be the beginning of spring. The method of pushing the leap month: subtract the leap year from the leap year, multiply the difference by the year, and then divide by the leap year. From the first month, the quotient is the month of the leap month.
+
+古文：闰有进退，以无中气御之。
+现代文：闰月的推算有前有后，以没有中气作为标准。
+English: If there is a discrepancy in the setting of the leap month, use the presence or absence of the mid-air as a criterion.
+
+古文：立春正月节
+现代文：立春正月的节气
+English: The solar terms of the first month of spring
+
+古文：雨水正月中
+现代文：雨水正月的中气
+English: Rainy weather in the first month of the year
+
+古文：惊蛰二月节
+现代文：惊蛰的节气
+English: The startling solar terms
+
+古文：春分二月中
+现代文：春分二二月的中气
+English: The Mid-Autumn Equinox in February
+
+古文：清明三月节
+现代文：清明三月的节气
+English: The solar terms of Qingming and March
+
+古文：谷雨三月中
+现代文：谷雨三月的中气
+English: The Mid-Autumn Festival in March
+
+古文：立夏四月节
+现代文：立夏四月的节气
+English: The first day of summer, April's solar terms
+
+古文：小满四月中
+现代文：小满四月的中气
+English: The middle of the month of April
+
+古文：芒种五月节
+现代文：芒种五月的节气
+English: The May solar terms
+
+古文：夏至五月中
+现代文：夏至五月的中气
+English: Summer solstice in the middle of May
+
+古文：小暑六月节
+现代文：小暑六月的节气
+English: Little heat, the June solar terms
+
+古文：大暑六月中
+现代文：大暑六月的中气
+English: The heat of the month of June
+
+古文：立秋七月节
+现代文：立秋七月的节气
+English: The solar terms of the beginning of autumn and July
+
+古文：处暑七月中
+现代文：间数一百六十二
+English: the number of rooms is one hundred and sixty-two
+
+古文：白露八月节
+现代文：限数一百六十匕
+English: The limit is 160 baht.
+
+古文：秋分八月中寒露九月节
+现代文：间数一百七十二寒露九月的节气
+English: There are one hundred and seventy-two days between the winter solstice in September
+
+古文：霜降九月中
+现代文：霜降九月的中气
+English: Frost falls in the middle of September
+
+古文：立冬十月节
+现代文：立冬十月的节气
+English: The winter solstice in October
+
+古文：小雪十月中
+现代文：小咛十月的中气
+English: Xiaojun October's Mid-Autumn Festival
+
+古文：大雪十一月节
+现代文：大雪十一月的节气
+English: Heavy snow brings the November solar term
+
+古文：冬至十一月中
+现代文：冬至十一月的中气
+English: Winter to mid-November
+
+古文：闰法，十二。
+现代文：闰法：十二。
+English: Intercalary: twelve.
+
+古文：月法，十一万六千三百二十一。
+现代文：月法：十一万六千三百二十一。
+English: Lunar calendar: 116,321.
+
+古文：日法，三千九百三十九。
+现代文：曰法：三千九百三十九。
+English: He said, "It is three thousand nine hundred and thirty-nine."
+
+古文：余数，二十万七千四十四。
+现代文：余数：二十万七干零四十四。
+English: Remaining number: 207,044.
+
+古文：岁余，九千五百八十九。
+现代文：岁余：九千五百八十九。
+English: Years old and over: 9,589.
+
+古文：没分，三百六十万五千九百五十一。
+现代文：没分：三百六十万五千九百五十一。
+English: No score: 3,605,951.
+
+古文：没法，五万一千七百六十一。
+现代文：没法：五万一千七百六十一。
+English: Couldn't: 51,761.
+
+古文：周天，一千四百四十二万四千六百六十四。
+现代文：周天：一千四百四十二万四千六百六十四。
+English: Zhou Tian: one thousand four hundred and forty-two thousand four hundred and sixty-six.
+
+古文：虚分，万四百四十九。
+现代文：虚分：一万零四百四十九。
+English: False: 10,449.
+
+古文：行分法，二十三。
+现代文：行分法：二十三。
+English: Line fraction: twenty-three.
+
+古文：小分法，一千七百一十七。
+现代文：小分法：一千七百一十七。
+English: Subdivision: one thousand seven hundred and seventeen.
+
+古文：通周，七十二万六千八百一十。
+现代文：通周：七十二万六千八百一十。
+English: Weekly: 7,226,810.
+
+古文：会周，七十一万七千七百七十七。
+现代文：会周：七十一万七千七百七十七。
+English: Weekly attendance: 7,117,777.
+
+古文：通法，二万六千三百七十七。
+现代文：通法：二万六千三百七十七。
+English: Passed into law: 26,377.
+
+古文：差率，三十九。
+现代文：差率：三十九。
+English: Difference: thirty-nine.
+
+古文：推朔术：置入上元年数，算外，以章月乘之，满章岁为积月，不尽为闰余。
+现代文：推合朔的方法：取从上元以来的年数，向外推一年，将其乘以章月，再除以章岁，其商为积月，余数是闰余。
+English: The method of adding up: Take the number of years since the Yuan Dynasty, add one year, multiply it by the number of months, and then divide it by the number of years. The quotient is the number of months, and the remainder is the remainder.
+
+古文：闰余二百四十七以上，其年有闰。
+现代文：闰余大于二百四十七则该年置闰。
+English: If the remainder is more than 247, the year is considered a leap year.
+
+古文：以月法乘积月，满日法为积日，不尽为小余。
+现代文：将积月乘以月法再除以曰法，其商为积曰，余数为小余。
+English: Multiply the product month by the monthly method and then divide by the daily method. The quotient is the product month, and the remainder is the small remainder.
+
+古文：六旬去积日，不尽为大余。
+现代文：积曰满六十就减去六十，余下的就是大余。
+English: If the product is 60, subtract 60, and the remainder is a large surplus.
+
+古文：大余命以甲子，算外，所求年天正十一月朔也。
+现代文：将大余与干支名称对应并向外推一天就是所求年与周正对应的十一月朔日。
+English: Corresponding the big surplus to the name of the stem branch and extrapolating it by one day is the new moon day of November corresponding to the year and the week.
+
+古文：小余千八百四十九以上，其月大。
+现代文：小余大于一千八百四十九则该月月大。
+English: If the balance is greater than eighteen hundred and forty-nine, the month is considered to be a leap month.
+
+古文：求次月，加大余二十九，小余二千九十，小余满日法从大余，大余满六旬去之，命如前，次月朔也。
+现代文：求下一月，在大余上加二十九，小余上加二干零九十，小余满曰法则减去曰法并在大余上加一，大余满六十则减去六十，用前述方法对应就可得下一月的朔日。
+English: To find the next month, add twenty-nine to the large remainder, add two to the small remainder, subtract the small remainder and add one to the large remainder, subtract sixty from the large remainder, and use the above method to correspond to the new moon day of the next month.
+
+古文：求弦望：加朔大余七，小余千五百七，小分一，小分满四从小余，小余满日法从大余，命如前，上弦日也。又加得望，又加得下弦，又加得后月朔也。
+现代文：求上、下弦和望在朔大余上加七，小余上加一千五百零七和一小分，小分满四则减去四并在小余上进一，小余满法则减去曰法并在大余上进一，用前述方法对应就得到上弦依同样的方法再加就得到望，再加又得下弦日，再加就是下一月的朔日。
+English: To find the upper and lower chords and the expectation, add seven to the major remainder, add one thousand five hundred and seven and one-tenth to the minor remainder, subtract four from the minor remainder and add one to the major remainder, subtract four from the minor remainder and add one to the major remainder, use the above method to correspond and get the upper chord, follow the same method and add to get the expectation, add to get the minor remainder and add to be the new moon day of the next month.
+
+古文：推闰术：以闰余减章岁，余满闰法得一月，命以天正，算外，闰所在也。
+现代文：推算闰月的方法：将章岁减去闰余，其差除以闰法就得到月数，从周正起算并外推一月，就是闰月的月份。
+English: The method of calculating the leap month: subtract the leap year from the leap year, divide the difference by the leap method to get the number of months, calculate from the week and extrapolate January, which is the month of the leap month.
+
+古文：闰有进退，以无中气为正。
+现代文：闰月有前有后，以没有中气作为标准。
+English: Leap months have a before and an after, with no middle as the standard.
+
+古文：推二十四气术：置入上元年数，算外，以余数乘之，满纪法为积日，不尽为小余。
+现代文：推算一二十四节气的方法：取从上元以来的年数，向外推一年，将其乘以余数，再除以纪法，其商就是积，余数就是小余。
+English: The method of calculating the twenty-four solar terms: take the number of years since Shangyuan, push out one year, multiply it by the remaining number, and then divide it by the disciplinary method. The quotient is the product, and the remaining number is the small remainder.
+
+古文：六旬去积日，不尽为大余。大余命以甲子，算外，天正十一月冬至日也。
+现代文：积满六十则减去六十，余下的数就是大余，用于支名称与其对应并向外推一天就是与周正对应的十一月冬至。
+English: Accumulated sixty is subtracted sixty, and the remaining number is large surplus, which is used to correspond to the branch name and to extrapolate one day is the November winter solstice corresponding to Zhou Zheng.
+
+古文：求次气，加大余十五，小余八千六百二十六，小分五，小分满六从小余，小余满纪法从大余，命如前，次气日也。
+现代文：求下一节气：在大余上加十五，小余上加八千六百二十六和五小分，小分满六则减去六并在小余上加一，小余满纪法则减去纪法并在大余上加一，用前述方法对应就得到一节气。
+English: To find the next solar term: add 15 to the large remainder, add 8,626 and 5 to the small remainder, subtract 6 from the small remainder and add 1 to the small remainder, subtract 1 from the small remainder and add 1 to the large remainder, and use the above method to obtain one solar term.
+
+古文：求土用事：加冬至大余二十七，小余万五千五百二十八，季冬土用事日也。
+现代文：求土起作用的日期：在冬至曰的大余上加二十七，小余上加一万五千五百二十八，就得到冬季后期土起作用的日子。
+English: To find the date when the soil takes effect: add 27 to the large remainder and 15,528 to the small remainder on the day of the winter solstice to get the date when the soil takes effect in late winter.
+
+古文：又加大余九十一，小余万二千二百七十，次土用事日也。
+现代文：在大余上加九十一，小余上加一万二千二百七十，就得到下一个土起作用的日子。
+English: Add 91 to the large remainder and 12,270 to the small remainder to get the next earth-working day.
+
+古文：推没术：以九十乘冬至小余，以减没分，满没法为日，不尽为日余，命日以冬至，算外，没日也。
+现代文：推算没日的方法：将冬至曰的小余乘以九十，用没分减去所得乘积，其差除以没法，其商为敷，余数为余，从冬至日起算，向外推算一天就得到没。
+English: How to calculate the number of days until the winter solstice: Multiply the small remainder of the day of the winter solstice by ninety, subtract the product obtained by the remainder, divide the difference by zero, add the quotient, and subtract the remainder. Calculate from the day of the winter solstice, and extrapolate one day to get zero.
+
+古文：求次没，加日六十九，日余三万四千四百四十二，余满没法从日，次没日也。
+现代文：求下一个没日：数上加六十九，曰余上加三万四千四百四十二，日余满没法则减去没法在曰数上加一，就是下一个没。
+English: Find the next missing day: add sixty-nine to the number, add thirty-four thousand four hundred and forty-two to the remaining day, subtract the missing day from the remaining day, and add one to the number of days, that is, the next missing day.
+
+古文：日余尽为灭。
+现代文：日余正好为零时就是灭了。
+English: When the remainder of the day is exactly zero, it is extinguished.
+
+古文：推日所在度术：以纪法乘朔积日为度实，周天去之，余满纪法为积度，不尽为度余，命以虚一，次宿除之，算外，天正十一月朔夜半日所在度也。
+现代文：推算太阳位置的方法：将朔积日乘以纪法就得到度实，度实满周天则减去周天，所得余数再除以纪法，其商就是积度，余数是度余，从虚宿一度起算，每经过一宿则减去该宿的宿度，最后所得再向外推算一度就是周正所对应的十一月朔夜半时太阳所在的度数。
+English: The method of calculating the position of the sun: multiply the new moon day by the calendar method to get the degree of reality, subtract the day of the week when the degree of reality is full, and then divide the remaining number by the calendar method. The quotient is the degree of integration, the remaining number is the degree of surplus, starting from the imaginary place once, and subtracting the destiny of the place after each night. The last result is the degree of the sun at midnight in November, which corresponds to Zhou Zheng.
+
+古文：求次月，大月加度三十，小月加度二十九，入虚去度分。
+现代文：求下一月：大月在度数上加三十，小月二十九，经过虚宿则减去虚宿的度分数。
+English: To find the next month: add thirty degrees to the big month and twenty-nine degrees to the small month, and subtract the degrees of the imaginary place after passing through the imaginary place.
+
+古文：求行分，以小分法除度余，所得为行分，不尽为小分。小分满法从行分，行分满法从度。
+现代文：求行分：将度余除以小分法就得到行分，其余数为小分，小分满小分法则减去小分法并在行分上进一，行分满行分法则减去行分法后在度数上进一、
+English: Find the line fraction: divide the remainder of the degree by the fractional method to get the line fraction, the remaining number is the fractional, the fractional full fractional law minus the fractional method and advance one on the line fraction, the line fraction full line fraction law minus the line fraction method and advance one on the degree,
+
+古文：求次日，加一度。
+现代文：求第二天：在度数上加一。
+English: On the second day, add one to the number.
+
+古文：入虚去行分六，小分百四十七。
+现代文：经过虚宿时在行分上减六，小分上减一百四十七。
+English: When passing through a ghost town, subtract six from the line and 147 from the decimal.
+
+古文：推月所在度术：以朔小余乘百二十四为度余。又以朔小余乘八百六十为微分。微分满月法从度余，度余满纪法为度，以减朔夜半日所在，则月所在度。
+现代文：求月亮位置的方法：将朔小余乘一百：二十四就得到度余又将朔小余乘八百六十得到微分微分满月法则减去月法在度余上进一，度余满纪法则减去纪法并在度数上进，将朔日夜半太阳位置减去所得度、度余、微分就得到月亮的位置。
+English: The method of finding the position of the moon: multiply the small remainder by one hundred and twenty-four to get the remainder, and multiply the small remainder by eight hundred and sixty to get the differential, the full moon law minus the lunar law is one degree higher than the remainder, the small remainder law minus the chronological law and the degree is higher, and the position of the new moon and the midnight sun is subtracted from the degree, the remainder and the differential to get the position of the moon.
+
+古文：损六十七缩二百八十五万七千七百三十二二十八日十四十四损七十四缩百八万二千三百七十九
+现代文：求一月：大月则在度数上加三十五，度余上加：三万一千八百三十四，微分上加七万七干九百六十七，小月则在度数上加二十二，度余上加一万七干：二百六十一，微分上加六万三干七百三十六，经过虚宿时则减去虚宿的度分数。
+English: For January: the large moon adds 35 to the power, 31,834 to the rest of the degree, and 967 to the difference, while the small moon adds 22 to the power, 261 to the rest of the degree, 736 to the difference, and 63 to the rest of the degree, and the rest of the degree is subtracted from the rest of the degree.
+
+古文：推入迟疾历术：以通法乘朔积日为通实，通周去之，余满通法为日，不尽为日余。命日算外，天正十一月朔夜半入历日也。
+现代文：推算在迟疾历中相应日期的方法：将朔积乘以通法所得为通实，如满通周则减去通周，余下来的数除以通法，其商为数，余数为曰余，将曰数与迟疾历中的序对应并向外推一天就是与周正对应的十一月朔夜半在迟疾历中的日期。
+English: The method of calculating the corresponding date in the delayed calendar: multiply the new moon product by the common law income as the common reality, such as the full moon week, subtract the common week, divide the remaining number by the common law, the quotient is the number, and the remaining number is the day remaining. Corresponding the day number to the order in the delayed calendar and extrapolating it to one day is the midnight of November corresponding to the week in the delayed calendar.
+
+古文：求次月，大月加二日，小月加一日，日余皆万一千七百四十六。
+现代文：求下一月：在曰数上大月加二，小月加一，余上都加一万一千七百四十六。
+English: Ask for the next month: on the number of days, add two to the big month, one to the small month, and add 11,746 to the rest.
+
+古文：历满二十七日，日余万四千六百三十一，则去之。
+现代文：数满二十七且曰余满一万四千六百三十一，则在闩数、曰余上分别减去相应的数。
+English: When the number reaches 27 and the remainder reaches 14,631, the corresponding number is subtracted from the remainder and the remainder respectively.
+
+古文：求次日，加一日。
+现代文：求第二：大：在数上加一。
+English: Find the next day: add one to the number of days.
+
+古文：求日所在定度：以夜半入历日余乘损益率，以损益盈缩积分，如差率而一，所得满纪法为度，不尽为度余，以盈加缩减平行度及余为定度。
+现代文：求月亮位置的定度：将损益率乘以夜半在迟疾历中相应日期的余，在盈缩积分上减去或增加所得之积，再除以差率，所得再除以纪法，得到的商为度数，余数为度余。
+English: To determine the position of the moon: multiply the rate of profit and loss by the remainder of the corresponding date in the lunar calendar at midnight, subtract or increase the amount of income on the gain-shrink integral, then divide by the difference rate, then divide the income by the discipline, the resulting quotient is the degree, and the remainder is the degree surplus.
+
+古文：损十六十推入阴阳历术：置通实以会周去之，不满交数三十五万八千八百八十八半为朔入阳历分，满去之，为朔入阴历分。各满通法得一日，不尽为日余，命日算外，天正十一月朔夜半入历日也。
+现代文：按照盈加缩减的原则在月亮的平行度和余上进行增减就得到定度在增时余如满纪法则减去纪法并在度上进一，减时如余不够减则在度上退一后加上纪法再减。推算度和行分和上面谈过的方法相同。求下一天，加上在迟疾历中的相应数据，经过虚宿时需减去相应的分和上述的方法相同。推算在阴阳历中日期的方法：通实满会周就减去会周，余下之数如小于交数三十五万八千八百八十八半就是朔日在阳历中的分，如满交数则减去交数，就得朔日在阴历中的分。将分都除以通法就可得曰数，其余数为曰余，将曰数与阴阳历中的日数对应并推外一天，就是与周正相对应的十一月朔日夜半在阴阳历中的日期
+English: According to the principle of addition and subtraction, adding and subtracting the parallel of the moon and the crescent according to the principle of addition and subtraction, the fixed degree is obtained by adding and subtracting the crescent and subtracting the crescent and subtracting the crescent. If the subtraction is not enough, subtract the crescent and subtract the crescent. The calculation of the degree and the line score is the same as the method discussed above. To find the next day, add the corresponding data in the delayed calendar, and subtract the corresponding score when passing through the imaginary stay is the same as the above method. The method
+
+古文：求次月，大月加二日，小月加一日，日余皆二万七百七十九。历满十三日，日余万五千九百八十七半则去之。
+现代文：求下一月：在日数上大月加二，小月加一曰余均加二万零七百七十九曰数满十三且曰余满一万五千九百八十七半则在曰数和日余上分别减去该值。
+English: Find the next month: in the number of days, add the large month plus two, the small month plus one day, and add the remainder of 20,779 days to make the number 13 and the remainder of 15,987.5, then subtract this value from the number of days and the remainder of the day respectively.
+
+古文：阳竟入阴，阴竟入阳。
+现代文：如果原在的阳历结束则进入阴历，原在的阴历结束则进入阳历。
+English: If the end of the originally existing solar calendar passes into the lunar calendar, the end of the originally existing lunar calendar passes into the solar calendar.
+
+古文：求次日，加一日。
+现代文：求下一天：在日数上加一。
+English: Find the next day: add one to the number of days.
+
+古文：求朔望差，以二千二十九乘朔小余，满三百三为日余，不尽倍之为小分，则朔差数也。
+现代文：求朔差、望差：将朔小余乘以二千零二二十九，再除以三百零三，其商为日余，其余数加倍就是小分，造就是朔差数。
+English: Solve for the difference and look for the difference: multiply the difference by 2029. Then divide by 3003. The quotient is the day's remainder, and doubling the remaining number is the fractional part, and the product is the difference.
+
+古文：加一十四日，日余二万一百八十六，小分百二十五，小分满六百六从日余，日余满通法为日，即望差数也。
+现代文：在曰数上加十四日余上加二万零一百八十六，小分加一百二十五，小分满、亏百零六则减去六百零六且在余上进一，日余满通法则减去通法后在日数上进一，就是望差数。
+English: Add 14 days to the number of days and add 20,186 days to the number of days remaining, add 125 days to the number of days remaining, subtract 606 days from the number of days remaining and add 1 day to the number of days remaining after subtracting the number of days remaining and subtracting the number of days remaining and subtracting the number of days remaining and subtracting the number of days remaining and subtracting the number of days remaining and subtracting the number of days remaining and subtracting the number of days remaining and subtracting the number of days remaining and subtracting the number of days remaining and subtracting the number of days remaining and subtracting the number
+
+古文：又加之，后月朔也。
+现代文：依法再加就得下月的朔差。
+English: According to the law, if you add more, you have to pay the difference in the next month.
+
+古文：求合朔月食：置朔望夜半入阴阳历日及余，有半者去之，置小分三百三，以差数加之，小分满六百六从日余，日余满通法从日，日满一历去之。命日算外，则朔望加时入历也。
+现代文：求合朔、月食：取朔、望夜半在阴阳历中相应日期和曰余，曰余尾数有半的将半去掉，改用小分三百零三，将其加上差数，小分满六百零六则减去六百零六并在曰余上进一，日余满通法的则减去通法且在曰数上进一，曰数满阴阳历长则减去阴阳历长，将其与阴阳历中的日期对应并外推一天就是朔、望时刻在阴阳历中的日期。
+English: For the lunar new year and lunar eclipse, the corresponding date in the lunisolar calendar and the day of the year are taken from the lunisolar calendar and the day of the month, and the day of the month and the day of the month are taken from the lunisolar calendar, and the day of the month and the day of the month are taken from the lunisolar calendar, and the day of the month and the day of the month are taken from the lunisolar calendar, and the day of the month and the day of the month are taken from the lunisolar calendar.
+
+古文：朔望加时入历一日，日余四千一百九十八，小分四百二十八以下，十二日，日余万一千七百八十八，小分四百八十一以上，朔则交会，望则月食。
+现代文：如该期是一日且其日余和小分数小于四千一百九十八、四百二十八的或者日期是十二日且其曰余和小分数大于一万一千七百八十八、四百八十一的则朔时发生交会，望时发生月食。
+English: If the period is one day and the remainder and fractional part of the day is less than 4,198 or 428, or if the date is the 12th day and the remainder and fractional part of the day is greater than 11,788 or 481, then the conjunction occurs at new moon and the lunar eclipse occurs at the time of the full moon.
+
+古文：求合朔月食定大小余：令差数日余加夜半入迟疾历余，日余满通法从日，则朔望加时入历也。
+现代文：求合朔、月食的定大小余：将夜半在迟疾历中相应日期的余加上差数日余，曰余满通法则减去通法在曰上进一，就是朔、望时在迟疾历中对应的日期。
+English: To find the fixed size remainder of the new moon and lunar eclipse: add the remainder of the corresponding date in the lunar calendar plus the difference of more than a few days, that is, the remainder of the full moon law minus the passage of the law in the day, is the new moon and the corresponding date in the lunar calendar.
+
+古文：以入历余乘损益率，以损益盈缩积分，如差法而一，以盈减缩加本朔望小余，为定小余。
+现代文：以损益率乘以在迟疾历中的曰余，在盈缩积分上减或加由此得到的积后再除以差法，其商依盈减缩加的原则在本朔、望小余上减或加，就得到定小余。
+English: Multiply the profit and loss ratio by the daily surplus in the delayed calendar, subtract or add the resultant product from the surplus and deficit, and then divide by the difference method. The quotient is subtracted or added to the current surplus and the expected surplus according to the principle of surplus, reduction, and addition, and a fixed surplus is obtained.
+
+古文：益之或满法，损之或不足，以日法进退日。
+现代文：加时如满曰法则减去曰法并在日上进一，减时如不够减则在曰上退一后加上日法再减。
+English: In case of overtime, if the rule of the day is full, subtract the rule of the day and advance one day. If the rule of the day is insufficient, subtract the rule of the day and advance one day. If the rule of the day is insufficient, subtract the rule of the day and advance one day.
+
+古文：求合朔月食加时：以十二乘定小余，满日法得一辰，命以子，算外，加时所在辰也。
+现代文：求合朔、月食的时刻：将定小余乘以十二，除以曰法，其商就是时辰数，从子时开始对应并向外推一时辰就是相应时刻的时辰。
+English: To find the time of the new moon and lunar eclipse: Multiply the fixed small remainder by twelve and divide by the day method, and the quotient is the number of hours. Corresponding from the child time and extrapolating one hour is the hour of the corresponding time.
+
+古文：有余者四之，满日法得一为少，二为半，三为太。
+现代文：如有余数则将其乘以四，再除以曰法，得到一是少，二是半，三是太。
+English: If there is a remainder, it is multiplied by four and then divided by the number of days to get one is less, two is half, and three is too much.
+
+古文：又有余者三之，满日法得一为强，以强并少为少强，并半为半强，并太为太强。
+现代文：如依然还有余数则将其乘以三，再除以曰法，得一者是强，强与少合并为少强，与半合并为半强，与太合并是太强。
+English: If there is still a remainder, it is multiplied by three, and then divided by five, so that one is strong, the combination of strong and less is less strong, the combination of strong and half is half strong, and the combination of too strong is too strong.
+
+古文：得二者为少弱，以并太为一辰弱，以前辰名之。
+现代文：得二者是少弱，它与少合并是半弱，与半合并为太弱，与太合并为一时辰弱，以下以一时辰来称呼。
+English: The result of the two is less than or equal to, and its combination with less than or equal to is half weak, and its combination with half is too weak, and its combination with too much is one hour weak, hereinafter referred to as one hour.
+
+古文：求月去日道度：置入阴阳历余乘损益率，如通法而一，以损益兼数为定，定数十二而一为度，不尽三而一，为少、半、太。
+现代文：求月亮与黄道的角距离：将损益率乘以在阴阳历中的曰余，再除以通法，在兼数上减少或增加得到的商就得到定数。将定数除以十二，其商为度数，余数除以三，得一者为少，二为半，三为太。
+English: Find the angular distance between the moon and the ecliptic: Multiply the loss and gain rate by the remainder of the day in the lunisolar calendar, and then divide by the common law. The quotient obtained by reducing or increasing the coefficients is the constant. Divide the constant by twelve, the quotient is the degree, and the remainder is divided by three. The result is one is less, two is half, and three is too much.
+
+古文：又不尽者，一为强，二为少弱，则月去日道数也。
+现代文：如仍有余数则一为强，二为少弱，所得就是月亮与黄道的角距离。
+English: If there is still a remainder, one is strong and the other is weak. The result is the angular distance between the moon and the ecliptic.
+
+古文：阳历在表，阴历在里。
+现代文：在阳历时月亮在黄道南，阴历时则在黄道北。
+English: In the solar calendar, the moon is south of the ecliptic, while in the lunar calendar it is north of the ecliptic.
+
+古文：求昏明中星：各以度数加夜半日所在，则中星度也。
+现代文：求昏、明中星：分别将昏、明中星度数加在夜半时太阳位置上就可得到中星的度数。
+English: Look for twilight, bright mid-star: add the twilight and bright mid-star degrees to the position of the sun at midnight to get the mid-star degree.
+
+古文：推五星术：木率：千五百七十五万三千八十二。
+现代文：推丘星的方法木率：一千五百七十五万三千零八十二。
+English: The wood rate of the method of pushing the hill star: one thousand five hundred seventy-five thousand three hundred and eighty-two.
+
+古文：火率：三千八十万四千一百九十六。
+现代文：火率：二千零八十万四千一百九十六。
+English: Rate of fire: 20,084,196.
+
+古文：土率：千四百九十三万三百五十四。
+现代文：土率：丁四百九十三万零三百五十四。
+English: Settlement rate: 4,930,354 ding.
+
+古文：金率：二千三百六万一十四。
+现代文：金率：二二千三百零六万零一十四。
+English: Rate of tax: 22,360,014.
+
+古文：水率：四百五十七万六千二百四。
+现代文：水率：四百五十七万六十：二目零四。
+English: Water rate: four million five hundred seventy thousand and sixty: two point four.
+
+古文：推五星术：置度实各以率去之，余以减率，其余如纪法而一，为入岁日，不尽为日余。
+现代文：推五星的方法：将度实分别逐次减去相应行星的率，再将该率减去最后余下的数，其差除以纪法，商即为在相应年中的曰数，其余数为余。
+English: The method of pushing five stars: subtract the rate of the corresponding planet from the actual rate, and then subtract the last remaining number. The difference is divided by the chronological method. The quotient is the number of days in the corresponding year, and the remaining number is the remainder.
+
+古文：命以天正朔，算外，星合日。
+现代文：从周正的朔日开始对应，推外一天就是行星发生合的日期。
+English: Corresponding to the New Year's Day of Zhou Zheng, the extra day is the date of the conjunction of the planets.
+
+古文：求星合度：以入岁日及余从天正朔日积度及余，满纪法从度，满三百六十余度分则去之，命以虚一，算外，星合所在度也。
+现代文：求星合时的位置：将与周正对应的朔日的积度和余分别加上行星在相应年中的曰数和曰余，余满纪法则减去纪法并在度数上进一，度数满三百六十多度及分则减去该值，从虚宿一度开始对应并向外推算一度就是星合时位置。
+English: To find the position of the star at the time of conjunction: add the number of days and the number of days remaining in the corresponding year to the number of days and the number of days remaining in the corresponding year, subtract the number of days and the number of days remaining in the corresponding year, subtract the number of days and the number of days remaining in the corresponding year, subtract the number of days and the number of days remaining in the corresponding year, subtract the number of days remaining in the corresponding year and the number of days remaining in the corresponding year, subtract the number of days remaining in the corresponding year and the number of days remaining in the corresponding year.
+
+古文：求星见日术：以伏日及余，加星合日及余，余满纪法从日，命如前，见日也。
+现代文：求行星出现日期的方法：将行星发生合的日期和日余加上它合后仍然不出现的天数和余，余如满纪法则减去纪法在曰数上进一，用前述的方法对应就得到行星出现的日期。
+English: The method of finding the date of the appearance of the planet: add the date of the planet's conjunction and the day's remainder to the number of days that still do not appear after its conjunction and the remainder. The remainder is the number of days according to the Manchu law minus the number of days according to the Manchu law plus one. Corresponding with the aforementioned method, the date of the planet's appearance is obtained.
+
+古文：求星见度术：以伏度及余，加星合度及余，余满纪法从度，入虚去度分，命如前，星见度也。
+现代文：求行星出现时位置的方法：将行星合时位置的度数及余加上它在合后不出现的时间内所运行的度数及余，余满纪法则减去纪法并在度上进一，经过虚宿时要减去虚宿的度分数，用前述的方法对应就可得到行星出现时的位置。
+English: The method for finding the position of a planet at the time of its appearance: add the degree and remainder of the position of the planet at the time of its conjunction to the degree and remainder of the time it has been in motion during the time it does not appear after conjunction. Subtract the epoch from the epoch law and add one to the degree. Subtract the degree fraction of the imaginary position when passing through the imaginary position. The position at the time of the planet's appearance can be obtained by corresponding with the aforementioned method.
+
+古文：行五星法：以小分法除度余，所得为行分，不尽为小分，及日加所行分满法从度，留者因前，逆则减之，伏不尽度。
+现代文：五星运行情况推算法：将度余除以小分法，商为行分，余数仍为小分，每天加上行星所行的分数，行分满行分法则减去行分法且在度上进一，停留不动时沿袭此前的数据，逆行时则减去行星所行的分数，不出现时则不列出位置数据。
+English: Five-star operation status estimation algorithm: divide the degree remainder by the decimal method, the quotient is the row score, the remainder is still a decimal point, add the score made by the planet every day, the row score full row score method minus the row score method and advance one on the degree, follow the previous data when staying still, subtract the score made by the planet when retrograde, and do not list the position data when it does not appear.
+
+古文：从行入虚，去行分六，小分百四十七；逆行出虚，则加之。
+现代文：顺行时进入虚宿则在行分上减去六，小分上减一百四十七。逆行时走出虚宿则要加。
+English: When moving forward, entering an imaginary place, subtract six from the line, and subtract 147 from the decimal. When moving backward, leaving an imaginary place, add.
+
+古文：木：初与日合，伏，十六日，余万七千八百三十二，行二度，度余三万七千五百四，晨见东方。
+现代文：木星：开始时与太阳合，后不出现有十六天和日余一万七千八百三十二，运行了两度和度余三万七千五百零四，清晨出现于东方。
+English: Jupiter: Conjunction with the sun at the beginning, then absent for 16 days and a day remainder of 17,832, orbited twice and a degree remainder of 37,504, and appeared in the east in the morning.
+
+古文：从，日行四分，百一十二日，留二十八日。
+现代文：顺行，每天运行四分，运行了一百一十二天，运行了十九度十一分。
+English: Running in a straight line, running four minutes a day, running one hundred and twelve days, running nineteen degrees eleven minutes.
+
+古文：逆，日行三分，八十六日，又留二十八日。
+现代文：停留不动二十八天后逆行，每天运行三分，共八十六天，后退了十一度五分。
+English: After staying motionless for twenty-eight days, it went retrograde, running three minutes a day for a total of eighty-six days, and retreated eleven and a half minutes.
+
+古文：从，日行四分，百一十二日，夕伏西方。日度余如初。
+现代文：又停留二十八天，再顺行，每天运行四分，共一百一十二天，黄昏时在西方不出现，其后经过的天数、度数及余与开始时相同。
+English: It stayed for another twenty-eight days, and then moved along, running four minutes a day, for a total of one hundred and twelve days. It did not appear in the west at dusk, and the number of days, degrees, and remainders that passed thereafter were the same as at the beginning.
+
+古文：一终，三百九十八日，日余三万五千六百六十四，行三十三度，度余二万五千二百一十五。
+现代文：一终有三百九十八天和曰余三万五千六百六十四，运行了三十三度和度余二万五千二百一十五。
+English: In the end, there were three hundred and ninety-eight days and thirty-five thousand six hundred and sixty-four days remaining, with thirty-three degrees and twenty-five thousand two hundred and fifteen degrees remaining.
+
+古文：火：初与日合，伏，七十二日，日余六百八，行五十五度，度余二万八千八百六十五，晨见东方。
+现代文：火星：开始时与太阳合，不出现有七十二天和日余六百零八，运行了五十五度和度余二万八千八百六十五，于清晨在东方出现。
+English: Mars: At the beginning of the conjunction with the sun, it did not appear for seventy-two days and six hundred and eight days. It moved fifty-five degrees and twenty-eight thousand eight hundred and sixty-five degrees, and appeared in the east in the early morning.
+
+古文：从，疾，日行十七分，九十二日，小迟，日行十四分，九十二日，大迟，日行九分，九十二日，留十日。
+现代文：顺行，较快，每天运行十七分，共九十二天，运行了六八度稍慢，每天运行十四分，共九十二天，运行了五卜六度。更慢，每天运行九分，共九十二天，运行了三十六度。
+English: Downstream, faster, running 17 minutes a day for 92 days, upstream, running 68 degrees; slightly slower, running 14 minutes a day for 92 days, running 5.6 degrees; slower, running 9 minutes a day for 92 days, running 36 degrees.
+
+古文：逆，日行六分，六十四日，又留十日。
+现代文：停留十天后逆行，每天运行六分，共六十四天，后退厂卜六度十六分。
+English: After staying for ten days, it reversed, running six minutes a day, for a total of sixty-four days, and retreated six degrees and sixteen minutes.
+
+古文：从，迟，日行九分，九十二日。
+现代文：再停留十天，顺行，较慢，每天运行九分，共九十二天。
+English: Stay another ten days, go along, slower, run nine minutes a day, a total of ninety-two days.
+
+古文：小疾，日行十四分，九十二日。
+现代文：稍快，每天运行十四分。共九十二天。
+English: Slightly faster, running fourteen minutes a day. A total of ninety-two days.
+
+古文：大疾，日行十七分，九十二日，夕伏西方，日度余如初。
+现代文：更快，每天运行十匕分，共几十二天，于黄昏时在西方不出现，其后经过的天数、度数及余都与开始时相同。
+English: Faster, it runs for ten minutes every day, for a total of several dozen days, and does not appear in the west at dusk, and the number of days, degrees and remainders that have passed since then are the same as at the beginning.
+
+古文：一终，七百八十日，日余千二百一十六，行四百一十四度，度余三万二百五十八。
+现代文：一终有七百八十天和日余一千二百一十六，运行了四百一十四度和度余三万零二百五十八。
+English: In the end, there were seven hundred and eighty days and twelve hundred and sixteen days remaining, with four hundred and fourteen degrees and thirty-two hundred and fifty-eight degrees remaining.
+
+古文：除一周，定行四十九度，度余万九千八百九。
+现代文：扣除一周天，位置实际变化了四十九度和度余一万九千八百零九。
+English: After deducting one weekday, the actual change in position was 49 degrees, with a remainder of 19,809.
+
+古文：土：初与日合，伏，十七日，日余千三百七十八，行一度，度余万九千三百三十三，晨见东方。
+现代文：土星：开始时与太阳合，不出现有十七天和余一千三百七十八，运行了一度和度余一万九干三百三十三，于清晨在东方出现。
+English: Saturn: Conjunction with the sun at the beginning, absent for seventeen days and a remainder of one thousand three hundred and seventy-eight, orbited once and a remainder of nineteen thousand three hundred and thirty-three degrees, and appeared in the east in the morning.
+
+古文：行顺，日行二分，八十四日，留三十三日。
+现代文：顺行，每天运行两分，共八十四天，运行了七度七分停留三十三天。
+English: Along the line, it ran for two minutes every day for a total of 84 days, and it ran for seven degrees and seven minutes and stayed for 33 days.
+
+古文：行逆，日行一分，百一十日，又留三十三日。
+现代文：逆行，每天运行一分，共一百一十天，后退了四度卜八分。又停留三十三天。
+English: Backward, running one minute a day, for a total of one hundred and ten days, it retreated four degrees and eight minutes. It stayed for another thirty-three days.
+
+古文：从，日行二分，八十四日，夕伏西方，日度余如初。
+现代文：顺行，每天运行两分，共八十四天，黄昏时在西方不出现，其后运行的天数、度数及余都与开始时相同。
+English: It will run for two minutes every day, for a total of 84 days, and will not appear in the west at dusk. The number of days, frequency and remainder of the operation will be the same as at the beginning.
+
+古文：一终，三百七十八日，日余二千七百五十六，行十二度，度余三万一千七百九十八。
+现代文：一终有三百七十八天和余二千七百五十六，运行了十二度和度余三万一千七百九。
+English: In the end, there were three hundred and seventy-eight days and twenty-seven hundred and fifty-six days remaining, with twelve degrees and thirty-one thousand seven hundred and nine degrees remaining.
+
+古文：金：初与日合，伏，三十九日，余三万八千一百二十六，行四十九度，度余三万八千一百二十六，夕见西方。
+现代文：金星：开始时与太阳合，不出现有三十九天和曰余三万八千一百二十六，运行了四十九度和度余三万八千一百二十六，于黄昏时出现于西方。
+English: Venus: At the beginning of the conjunction with the sun, it did not appear for thirty-nine days and thirty-eight thousand one hundred and twenty-six days. It moved forty-nine degrees and thirty-eight thousand one hundred and twenty-six degrees, and appeared in the west at dusk.
+
+古文：从，疾，日行一度五分，九十二日，小迟，日行一度四分，九十二日，大迟，日行十七分，四十五日，留九日。
+现代文：顺行，较快，每天运行一度五分，共九十二天，运行了一百一一二度。稍慢，每天运行一度四分，共九十二天，运行了一百零八度。更慢，每天运行十匕分，共四十五天，运行了：十三度六分停留九天。
+English: Along the line, faster, running once every five minutes for a total of ninety-two days, running one hundred and twelve degrees. Slightly slower, running once every four minutes for a total of ninety-two days, running one hundred and eight degrees. Slower still, running ten minutes a day for a total of forty-five days, running: thirteen degrees six minutes, staying nine days.
+
+古文：迟，日行十六分，夕伏西方。
+现代文：较慢，每天运行十六分，后退了六度六分。
+English: slower, running at 16 minutes a day, and falling back by six degrees and six minutes.
+
+古文：伏五日，退五度，而与日合。又五日退五度，而晨见东方。
+现代文：黄昏在西方不出现。有五天，后退了五度而与太阳合又经五天后退开度而清晨在东方出现。
+English: Twilight does not appear in the west. For five days, it retreated five degrees and merged with the sun, and after five days it retreated five degrees and morning appeared in the east.
+
+古文：逆，日行十六分，九日。
+现代文：逆行，每天运行十六分，共九天。
+English: It runs in reverse for 16 minutes a day for a total of nine days.
+
+古文：留九日。
+现代文：停留九天。
+English: It's a nine-day stay.
+
+古文：从，迟，日行十七分，四十五日。
+现代文：顺行，较慢，每天运行十七分，共四十五天。
+English: It runs in a clockwise direction, rather slowly, for 17 minutes a day, for a total of 45 days.
+
+古文：小疾，日行一度四分，九十二日。
+现代文：稍快，每天运行一度四分，共九十二天。
+English: Slightly faster, once every four minutes, for a total of ninety-two days.
+
+古文：大疾，日行一度五分，九十二日，晨伏东方，日度余如初。
+现代文：更快，每天运行一度五分，共九十二天而清晨时在东方不出现。
+English: Faster, it runs once every five minutes, for a total of ninety-two days, and does not appear in the east in the early morning.
+
+古文：一终，五百八十三日，日余三万六千七百六十一，行星如之。
+现代文：其后经过的天数、度数及余都与开始时相同。一终有五百八十三天和曰余三万六千七百六十一，运行的度数也相同。
+English: After that, the number of days, the frequency and the remainder are the same as at the beginning. There are five hundred and eighty-three days and thirty-six thousand seven hundred and sixty-one days remaining, and the frequency of operation is the same.
+
+古文：除一周，定行二百十八度，度余二万六千三百一十二。一合，二百九十一日，日余三万八千一百二十六，行星亦如之。
+现代文：扣除一周天，实际位置移动了二百一十八度和度余二万六千三百一二一次与太阳合需二百九十一天和曰余三万八千一百二十六，运行的度数值与此相同。
+English: After subtracting one weekday, the actual position moved 218 degrees to 26,312 degrees, which is equal to 291 days and 38,126 days to the sun. The value of the running degrees is the same.
+
+古文：水：初与日合，伏，十四日，日余三万七千一百十五，行三十度，度余三万七千一百一十五，夕见西方。
+现代文：水星：开始时与太阳合，不出现有十四天和日余三万七千一百一十五，运行了二十度和度余三万七千一百一十五，黄昏时在西方出现。
+English: Mercury: At the beginning of the conjunction with the sun, it did not appear for fourteen days and a day remainder of 37,115. It moved twenty degrees and a degree remainder of 37,115. It appeared in the west at dusk.
+
+古文：从，疾，日行一度六分，二十三日，迟，日行二十分，八日，留二日。
+现代文：顺行，较快，每天运行一度六分，共二十三天，运行了二十九度。较慢，每天运行二十分，共八天，运行了六度二十二分。
+English: In the forward direction, it is faster, running once every six minutes for a total of twenty-three days, running twenty-nine degrees. Slower, running twenty minutes a day for a total of eight days, running six degrees and twenty-two minutes.
+
+古文：迟，日行十一分，二日，夕伏西方。
+现代文：停留两天。逆行，每天运行十一分，共两天，后退丁二十二分。
+English: Stay for two days. Reverse direction, run for eleven minutes every day, total two days, and fall back for twenty-two minutes.
+
+古文：伏八日，退八度，而与日合。
+现代文：黄昏时在西力不出现。经八天后退八度而与太阳合。
+English: It does not appear in the west at dusk. After eight days, it moves back eight degrees and merges with the sun.
+
+古文：又八日，退八度，晨见东方。
+现代文：又经过八天后退八度而清晨在东方出现。
+English: After another eight days of retrograde octaves, morning appears in the east.
+
+古文：逆，日行十一分，二日。
+现代文：逆行，每天运行十一分，共两天。
+English: It runs in reverse for eleven minutes a day, for a total of two days.
+
+古文：留二日。从，迟，日行二十分，八日。
+现代文：停留两天后顺行，较慢，每天运行二十分，共八天。
+English: After a two-day stopover, the train ran more slowly, running for 20 minutes a day, for a total of eight days.
+
+古文：疾，日行一度六分，二十三日，晨伏东方，日度余如初。
+现代文：较快，每天运行一度六分，共二十三天，清晨时在东方不出现，此后经过的天数、度数及余与开始时相同。
+English: It is relatively fast, running once every six minutes for a total of 23 days. It does not appear in the east in the early morning, and the number of days, degrees and remainders that have passed since then are the same as at the beginning.
+
+古文：一终，百一十五日，日余三万四千七百三十九，行星如之。
+现代文：一终有一百一十五天和曰余三万四千七百三十九，运行的度数也相同。
+English: In the end, there were one hundred and fifteen days and thirty-four thousand seven hundred and thirty-nine days remaining, and the frequency of operation was the same.
+
+古文：一合，五十七日，日余三万七千一百一十五，行星亦如之。
+现代文：一次合需五十七天和日余三万七千一百一十五，运行的度数值也相同。
+English: It takes fifty-seven days to complete one cycle and the remaining thirty-seven thousand one hundred and fifteen days, and the operation frequency value is also the same.
+
+古文：上元之岁，岁在甲子，天正甲子朔夜半冬至，日月五星，聚于虚度之初，阴阳迟疾，并自此始。
+现代文：上元对应的年份是甲子年，周正甲子朔日的夜半冬至，太阳、月亮、五大行星都会聚在虚宿的开始处，阴阳变化、运行快慢由此开始。
+English: The year corresponding to Shangyuan is the Year of the Horse, and the midwinter solstice is on the night of Zhou Zheng Jia Zi Xin Rong. The sun, the moon, and the five major planets will all gather at the beginning of the imaginary residence, and the changes in yin and yang and the speed of operation will begin.
+
+古文：世祖下之有司，使内外博议，时人少解历数，竟无异同之辨。
+现代文：宋世祖将《大明历》下发到有关官员，要求广泛讨论，当时人们对历术了解的很少，竟然没有关于反对还是赞同的辩论。
+English: Song Shizu sent the "Great Ming Calendar" to the relevant officials and asked for extensive discussion. At that time, people had little understanding of the calendar, and there was no debate about whether to oppose or approve.
+
+古文：唯太子旅贲中郎将戴法兴议，以为：三精数微，五纬会始，自非深推测，穷识晷变，岂能刊古革今，转正圭宿。
+现代文：衹有太子旅贲中郎将戴法兴对此有议论，他认为：曰、月、星的数据微妙，五星会聚于开始，如果不能深明推算测量的道理、透彻认识太阳位置的变化，怎么能够对古代的认识进行修订、对现行的做法作出改革，从而使圭表测影和星宿的观测都能准确无误呢?
+English: Daifahxing, a member of the Prince's Travel Club, had a discussion about this. He thought: "The data of the moon and stars are delicate, and the five stars converge at the beginning. If you can't clearly estimate the reason for measurement and thoroughly understand the changes in the position of the sun, how can you revise the ancient knowledge and reform the current practice, so that the Gui table can measure shadows and observe the stars accurately?
+
+古文：案冲之所议，每有违舛，窃以愚见，随事辨问。案冲之新推历术， 今冬至所在，岁岁微差 。
+现代文：考究祖冲之的议论常有错失，以我不高明的见识，应按照事理的次序进行讨论辨析问题一考究狙迚之新推算的历法， 现在冬至点位置每年都有微小的变动 。
+English: Examining Zu Chongzhi's discussion often leads to mistakes. With my inexpert knowledge, we should discuss and analyze the problem in accordance with the order of events. Examining the new calculation of the calendar, now the position of the winter solstice point has slight changes every year.
+
+古文：臣法兴议：夫二至发敛，南北之极，日有恆度，而宿无改位。
+现代文：我认为至的发生与否是由太阳运行到最南和最北位置决定的，太阳有确定的位置，星宿也没有改变位置。
+English: In my opinion, whether the solstice occurs or not is determined by the sun's movement to the southernmost and northernmost positions. The sun has a definite position, and the stars have not changed position.
+
+古文：古历冬至，皆在建星。
+现代文：古代历法冬至点都在建星附近。
+English: According to the ancient calendar, the winter solstice point is always near the star.
+
+古文：战国横骛，史官丧纪，爰及汉初，格候莫审，后杂觇知在南斗二十二度，元和所用，即与古历相符也。
+现代文：战国时十分混乱，史官失去了历法标准，重到汉初仍然对观察天象不很了解，后来经藿察才知冬至在斗宿二十一度，元和年间所月的冬至点位置就与古历是相符的。
+English: The Warring States period was very chaotic, historians lost the calendar standard, and at the beginning of the Han Dynasty, they still did not understand the observation of celestial phenomena very well. Later, through observation, it was learned that the winter solstice was at the 21st of Doushu, and the position of the winter solstice point of the month during the Yuan and He years was consistent with the old calendar.
+
+古文：逮至景初，而终无毫忒。
+现代文：直到景韦年间仍然没有丝毫的差别。
+English: Until the Jingwei era, there was still no difference at all.
+
+古文：《书》云： 日短星昴，以正仲冬。 
+现代文：《尚书》中说 白昼短，黄昏时昴星在正南方天空中，饲定冬季中间的一个月。 
+English: "Shangshu" says that the day is short, and at dusk, the Pleiades star is in the southern sky, marking the middle of the winter month.
+
+古文：直以月维四仲，则中宿常在卫阳，羲、和所以正时，取其万世不易也。
+现代文：就以月份舆四仲桐联系，这样位置在中间的星宿是不变地位彦卫阳处，羲、和用它来定季节是根据其永荔不变的特点。
+English: It is related to the four seasons of the moon, so that the star in the middle is the invariable position of the zodiac, and the use of it to set the season is based on its unchanging characteristics.
+
+古文：冲之以为唐代冬至日在今宿之左五十许度，遂虚加度分，空撤天路。
+现代文：祖冲之认为唐尧时冬至太阳现在位置的左边五十多度，并因此凭空增，度分数而取消了太阳运行的一段路程。
+English: Zu Chongzhi believed that at the time of the winter solstice in Tang Dynasty, the sun was more than fifty degrees to the left of its current position. Therefore, the sun's movement was cancelled for a period of time based on an empty increase in degree.
+
+古文：其置法所在，近违半次，则四十五年九月，率移一度。
+现代文：其勇取的方法所得位置几乎相差达半个星次，名经过四十五年九个月就要移动一度。
+English: The position obtained by its courageous method is almost half a star away, and the name will be moved once in forty-five years and nine months.
+
+古文：在《诗》 七月流火 ，此夏正建申之时也。 定之方中 ，又小雪之节也。若冬至审差，则豳公火流，晷长一尺五寸，楚宫之作，昼漏五十三刻，此诡之甚也。
+现代文：在《乔经》中 七月流火 ，是相应于夏正建申白时节； 定之方中 ，是对应于小雪的时节如果冬至果然有差错的话，那么豳公时黄宅大火星偏西时中午圭表的影长一尺五寸；窄造楚宫的子，白天的刻漏数为五十三刻这都是十分荒谬的。
+English: In the "Qiao Jing," the fire in July corresponds to the white season in summer; in the fixed square, it corresponds to the season of light snow; if the winter solstice is indeed wrong, then the shadow length of the Gui watch at noon when the Yellow House is west of the Great Mars is one foot and five inches; the son of the narrow Chugu Palace, the number of missing hours during the day is fifty-three hours, which are all very absurd.
+
+古文：仲尼曰： 丘闻之，火伏而后蛰者毕。
+现代文：孑子说： 我听说大少星观察不到以后冬眠的动物都不见了。
+English: Zou Zi said, "I heard that the hibernating animals have all disappeared after the observation of the major and minor constellations.
+
+古文：今火犹西流，司历过也。 
+现代文：现书大火星不过是在黄昏时偏西，这是掌管历挖的人的过错。 
+English: Now, the Great Mars is still westward at dusk, which is the fault of those who have mastered the calendar.
+
+古文：就如冲之所误，则星无定次，封有差方。
+现代文：如果像祖冲之的错误那样就会出现星所在的星次要发生变化，卦象乜存在不同的方位。
+English: If it is like Zu Chongzhi's mistake, there will be a change in the order of the stars, and the constellations will have different positions.
+
+古文：名号之正，古今必殊，典诰之音，代不通轨，尧之开、闭，今成建、除。今之寿星，乃周之鹑尾，即时东壁，已非玄武，轸星顿属苍龙，诬天痛经，乃至于此。
+现代文：名称的确定古代与现在袁必然不同，典籍文告中的话随着时代的不斥也就难以通用，尧时的开、闭，现在变月建、除，现在的寿星星次就是周代的鹑尾员次，现时的壁宿已经不属于玄武，轸星突尧归属于苍龙，与天象不合又背离了经典，荐然到了这样的地步!
+English: The determination of the name of the ancient and modern Yuan is necessarily different. The words in the classic message are difficult to use with the times. The opening and closing of the hour of the dragon is now changed to the month, and the current birthday star is the Zhou Dynasty's Shanwei member. The current wall lodge no longer belongs to the Xuanwu, and the sudden appearance of the dragon belongs to the Canglong. It is inconsistent with the celestial phenomenon and deviates from the classic. The recommendation has reached such a stage!
+
+古文：冲之又改章法三百九十一年有一百四十四闰。
+现代文：祖冲之又将章的规定改为三百九十一匀中有一百四十四个闰月。
+English: Zu Chongzhi also changed the provisions of the chapter to three hundred and ninety-one units, of which there were one hundred and forty-four leap months.
+
+古文：臣法兴议：夫日有缓急，故斗有阔狭，古人制章，立为中格，年积十九，常有七闰，晷或虚盈，此不可革。
+现代文：我认为，太阳运勇一固有快慢，所以才有斗宿范围的变化，之代人规定章的大小时取的是中间值，十九匀中安排七个闰月，圭表影长或许有变化，杜这原则是不可改变的。
+English: I think that the sun's inherent speed is the reason for the change in the scope of the fight and accommodation. The size of the generals' regulations is the middle value. Seven leap months are arranged in the 19th month. The length of the shadow of the Gui table may change. This principle is unchangeable.
+
+古文：冲之削闰坏章，倍减余数，则一百三十九年二月，于四分之科，顿少一日；七千四百二十九年，辄失一闰。
+现代文：祖冲之减少了闰月臼比例，改变了章的规定，减去了余数的丙倍，这样在一百三十九年零两个月中与《巴分历》的规定相比就少了一天，七千四百二十九年中就少了一个闰月。
+English: Zu Chongzhi reduced the proportion of leap months, changed the provisions of the chapter, and subtracted twice the remaining number, so that in one hundred and thirty-nine years and two months, compared with the provisions of the quarter calendar, one day was missing, and in seven hundred and forty-nine years and twenty-nine years, one leap month was missing.
+
+古文：夫日少则先时，闰失则事悖。
+现代文：天数少就使历法的推算比实际节令要早，少置闰月则农事就完全安排错了。
+English: If the number of days is small, the calculation of the calendar will be earlier than the actual festival, and if there are fewer leap months, the agricultural affairs will be completely arranged wrong.
+
+古文：窃闻时以作事，事以厚生，以此乃生人之大本，历数之所先，愚恐非冲之浅虑妄可穿凿。
+现代文：我听说到了节令就安排农事，从事农业是为了充裕生活，这是人们生活中最根本的大事，历法的重要我看不是祖独之肤浅的考虑就可以修改的。
+English: I have heard that when it comes to festivals, farming is arranged, and people engage in agriculture in order to live a full life. This is the most fundamental event in people's lives. The importance of the calendar, in my opinion, cannot be modified by superficial considerations.
+
+古文：冲之又命上元日度发自虚一，云虚为北方列宿之中。
+现代文：祖冲之又将上元时太阳位置从虚宿一度开始变化，说虚宿位于北方各宿的中心。
+English: Zu Chongzhi also said that at the time of Shangyuan, the position of the sun began to change from the imaginary place once, saying that the imaginary place was located in the center of the northern places.
+
+古文：臣法兴议：冲之既云冬至岁差，又谓虚为北中，舍形责影，未足为迷。
+现代文：我认为：祖冲之既然讲到冬至每年都有变动，又说虚宿位于北方各宿的中心，舍弃了根本问题不追究却对枝节问题吹毛求疵，这是不足以迷惑人的。
+English: I think: since Zu Chongzhi said that there are changes every year until the winter solstice, and also said that the virtual lodgings are located in the center of the northern lodgings, abandoning the fundamental problem without investigating but nitpicking the branch problems, this is not enough to confuse people.
+
+古文：何者？
+现代文：为什么呢?
+English: Why is that?
+
+古文：凡在天非日不明，居地以斗而辨。
+现代文：天空中没有太阳不会明亮，在地面上要靠北斗星来辨别方向。
+English: In the sky, it would not be bright without the sun. On the ground, it is necessary to rely on the Big Dipper to discern the direction.
+
+古文：借令冬至在虚，则黄道弥远，东北当为黄钟之宫，室壁应属玄枵之位，虚宿岂得复为北中乎？
+现代文：假使冬至时太阳在虚宿，适时黄道相距很远，其东北应舆黄钟的宫声相对应，室宿、壁宿应在属于玄枵星次的位置上，这样虚宿怎么可能还是在北方列宿的中心呢?
+English: If the sun is in an imaginary place at the time of the winter solstice, and the ecliptic is far away at the right time, its northeast should correspond to the palace sound of the yellow bell, and the room and wall should be in the position belonging to the zodiac, how is it possible for the imaginary place to be in the center of the northern row?
+
+古文：曲使分至屡迁，而星次不改，招摇易绳，而律吕仍往，则七政不以玑衡致齐，建时亦非摄提所纪，不知五行何居，六属安托？
+现代文：不合理地使分至点不停地移动，又对星次不作改变，招摇改换了标准，而十二音律却保持依旧，这样曰月五星就不能用浑仪来掌握其运行规律，北斗斗柄所指的时令也不是摄提所标示的，这样就不知道五大行星的位置在哪裹，其六种属性又寄托在何处呢?
+English: It is unreasonable to make the minutes to the point keep moving, and the order of the stars does not change, and the standard is changed, but the twelve-tone system remains the same. In this way, the five stars of the moon cannot use the compass to grasp their operation rules, and the season indicated by the Big Dipper handle is not marked by the camera. So we do not know where the position of the five planets is, and where its six attributes are stored.
+
+古文：冲之又令上元年在甲子。
+现代文：担蛀又将上元设在甲子年。
+English: In the year of the rooster, the rooster will be placed at the top.
+
+古文：臣法兴议：夫置元设纪，各有所尚，或据文于图谶，或取效于当时。
+现代文：我认为设置历元和纪首都有其侧重的方面，或者是根据圃谶中的记述，或者以当时的实际效果为依据。
+English: I think that the setting of the era and the beginning of the chronicle have their important aspects, either according to the description in the records, or based on the actual effect at that time.
+
+古文：冲之云， 群氏纠纷，莫审其会 。
+现代文：祖独之说， 各历法家争来论去，都没有领悟其中的机要 。
+English: Zou Duizhi said that all the calendars of the legalists have not grasped the opportunity.
+
+古文：昔《黄帝》辛卯，日月不过；《颛顼》乙卯，四时不忒；《景初》壬辰，晦无差光；《元嘉》庚辰，朔无错景，岂非承天者乎！
+现代文：当年《黄帝历》上元在辛卯年，曰月的运动并未越轨，《颛顼历》在乙卯，四季也未出现差错，《景初历》在壬辰，黑夜也没有偏差而出现光亮，《元嘉历》在庚辰，朔日并未出现不同的天象；这些难道不是顺承了天象变化吗?
+English: At that time, the "Yellow Emperor Calendar" in Shangyuan was in Xinwu year, and the movement of the month did not deviate from the track. The "Dragon Calendar" was in Yiwu, and the four seasons did not appear wrong. The "New Year Calendar" was in Renchen, and the night did not deviate and appeared bright. The "Yuanjia Calendar" was in Genchen, and the new day did not appear different celestial objects. Are these not obedient to the celestial changes?
+
+古文：冲之苟存甲子，可谓为合以求天也。
+现代文：祖冲之草率地选取甲子年可谓为了合乎自己的理论而对天象提出要求。
+English: It can be said that Zu Chong's hasty selection of the Year of the Rooster was in order to meet the requirements of the celestial elephant.
+
+古文：冲之又令日月五纬，交会迟疾，悉以上元为始。
+现代文：担迚之又将曰月五星运行中的交会和快慢都以上元作为开始。
+English: Danzhong also said that the meeting and the speed of the five-star operation will be based on the above as the beginning.
+
+古文：臣法兴议：夫交会之元，则食既可求，迟疾之际，非凡夫所测。
+现代文：我认为，交会的历元可以从日食的现象来推求，运行的快慢则不是一般人就能推测的。
+English: I think that the era of the meeting can be inferred from the phenomenon of the solar eclipse, but the speed of operation is not something that can be guessed by ordinary people.
+
+古文：昔贾逵略见其差，刘洪觕著其术。至于疏密之数，莫究其极。
+现代文：当年贾逵衹是大概知道运行速度的差异，刘洪也衹是粗略地撰述了推算方法，至于运行快慢的精密数据则未作透彻的研究。
+English: At that time, Jia Jun knew roughly the difference in running speed, Liu Hongyao wrote a rough calculation method, but did not make a thorough study of the precise data of running speed.
+
+古文：且五纬所居，有时盈缩，即如岁星在轸，见超七辰，术家既追算以会今，则往之与来，断可知矣。
+现代文：而且五星位置常有前后的变化，就如岁星位于轸宿，出现了超七辰的情况，历算家既然通过推算来了解现在的情况，那么过去和将来如何也就肯定可以知道了。
+English: Moreover, the position of the five stars often changes back and forth, just as the year star is located in Oshuku, and there is a situation of more than seven hours. Since the calculator understands the current situation through calculation, then the past and the future can certainly be known.
+
+古文：《景初》所以纪首置差，《元嘉》兼又各设后元者，其并省功于实用，不虚推以为烦也。
+现代文：《景初历》在一纪的开始就设置了相应的差值，《元嘉历》除此以外又设置了后设历元，这都是为了在实际运用中节省精力，不进行麻烦的虚浮推算。
+English: The "Jingchuan Calendar" sets the corresponding difference at the beginning of a period, and the "Yuanjia Calendar" sets the post-set calendar in addition to this. This is all in order to save energy in actual use and not to carry out troublesome floating calculations.
+
+古文：冲之既违天于改易，又设法以遂情，愚谓此治历之大过也。
+现代文：祖冲之既违背天象作了改变，又随心所欲地建立规定，我以为是制定历法的大过错。
+English: I thought it was a big mistake for Zu Chongzhi to make the calendar, since he changed it in violation of the celestial phenomenon and established the rules as he pleased.
+
+古文：臣法兴议：日有八行，各成一道，月有一道，离为九行，左交右疾，倍半相违，其一终之理，日数宜同。
+现代文：我认为，太阳有八种运动，合为一条轨道，月亮在一条轨道上运行，可分离为九种运动，时而交会，时而运行较快，增加一倍或减为一半情况都不相同，然而按道理一终的周期包含的天数应该相同。
+English: I hold that the sun has eight motions, which are united in one orbit, and the moon moves in one orbit, which can be divided into nine motions, which sometimes meet, sometimes move faster, and are doubled or halved in different cases, but the number of days in a complete cycle should be the same.
+
+古文：冲之通周与会周相觉九千四十，其阴阳七十九周有奇，迟疾不及一匝。此则当缩反盈，应损更益。
+现代文：祖冲之的通周与会固有九千零四十的差别，这样在阴阳历周期的七十九周多的时间内会引起迟疾的推算不到一周的变化，从而引起实际位置应该落后于按平均速度推算的位置时反而超前了，速度慢时应该将其减小却反而增大了。
+English: Zu Chongzhi's weekly attendance has an inherent difference of nine thousand and forty. In this way, within more than seventy-nine weeks of the lunisolar calendar cycle, it will cause a change of less than one week in the calculation of the delay, thus causing the actual position to lag behind the position calculated by the average speed, but it will be ahead. When the speed is slow, it should be reduced, but it will be increased.
+
+古文：冲之随法兴所难辩折之曰：臣少锐愚尚，专功数术，搜练古今，博采沈奥，唐篇夏典，莫不揆量，周正汉朔，咸加该验。罄策筹之思，究疏密之辨。
+现代文：祖冲之根据越塑的驳难作了辩解，说：我不敏捷又很愚笨，专门在历算上下功夫，搜集熟悉了古今历法，广泛汲取深奥的道理，庐袁、夏伐的经典全都研究过，周代的正月和选丝的朔日都全面作过校验，绞尽脑汁来研究辨别历法的精密与否。
+English: Zu Chongzhi defended himself on the basis of the difficulty of refutation, saying: I am not agile and very stupid, I have worked hard on the calendar, collected and familiarized with the ancient and modern calendars, extensively learned the esoteric truth, studied all the classics of Yu Yuan and Xia Hua, and comprehensively checked the New Year's Day of Zhou Dynasty and the New Year's Day of Silk Selection, and racked my brains to study and distinguish the precision of the calendar.
+
+古文：至若立圆旧误，张衡述而弗改；汉时斛铭，刘歆诡谬其数，此则算氏之剧疵也。
+现代文：至于建立圆周上旧有的错误，张衡有叙述而没有改正，龇斛上的铭文，刘歆将其数字神秘化，这是算术家的大错误。
+English: As for the establishment of the old error on the circumference, Zhang Heng had a description and did not correct it, the inscription on the beak, Liu Wei mystified its number, which is a big mistake of the arithmetician.
+
+古文：《乾象》之弦望定数，《景初》之交度周日，匪谓测候不精，遂乃乘除翻谬，斯又历家之甚失也。
+现代文：《干象历》中的弦望定数，《景初历》中的与黄道白道交点的角距离和周日数据，不是说测量精度不高就是在运算中变成错谬，这又是历法家的大过失。
+English: The chord watch constant in the "Dry Zodiac Calendar," the angular distance to the intersection of the zodiac and the white road in the "New Moon Calendar" and the Sunday data either mean that the measurement accuracy is not high or becomes an error in the operation, which is again a big mistake of the calendar maker.
+
+古文：及郑玄、阚泽、王蕃、刘徽，并综数艺，而每多疏舛。
+现代文：至于翘玄、阖运、王董、刘徽，同时掌握有几种技能，经常会出现粗疏和错误。
+English: As for Zhao Xuan, Xun Yun, Wang Dong and Liu Hui, they have mastered several skills at the same time, and there will often be roughness and mistakes.
+
+古文：臣昔以暇日，撰正众谬，理据炳然，易可详密，此臣以俯信偏识，不虚推古人者也。
+现代文：我过去用空闲的时间对各种错谬进行了订正，其道理和依据都很清楚，所作改变也详尽周密，这是我自己低下片面的认识，并不虚托于古人。
+English: In the past, I used my free time to revise all kinds of errors and fallacies. The reason and basis are very clear, and the changes made are also detailed and thorough. This is my own low and one-sided understanding, and I do not rely on the ancients.
+
+古文：按何承天历，二至先天，闰移一月，五星见伏，或违四旬，列差妄设，当益反损，皆前术之乖远，臣历所改定也。
+现代文：审察何承天的历法，二至比实际天象要早，闰月的设置移了一个月，五星的出现或不出现有时差到四十天，无根据地设立了列差，应该增加时反而减少，这些都是该历法的不精密引起的，也是我历法中所作的改动。
+English: Examining the calendars based on the celestial calendar, it was found that the leap month was moved by one month, the appearance or non-appearance of the five stars sometimes differed by forty days, and the column difference was established without any basis. When it should have been increased, it was reduced. These were all caused by the imprecision of the calendar, and were also changes made in my calendar.
+
+古文：既沿波以讨其源，删滞以暢其要，能使躔次上通，晷管下合，反以讥诋，不其惜乎！
+现代文：既是沿着水流去探讨其源头，删去滞留的束西使其要旨通畅，从而使月五星的位置与以前相通，与以后的天文观测结果也能符合，却反而对此进行讥笑诋毁，这不是很可惜吗?
+English: Isn't it a pity that, instead of following the stream of water to explore its source, deleting the stranded bunch of cormorants to make its essence smooth, so that the position of the five stars of the moon can be connected with the past and can be consistent with future astronomical observations, it mocks and denigrates it?
+
+古文：寻法兴所议六条，并不造理难之关楗。谨陈其目。
+现代文：研究戴法兴所谈六条，并未形成对历理责难的关键，谨依条目来陈述
+English: The study of the six articles discussed by Dai Faxing did not form the key to historical criticism, so I would like to present them according to the articles
+
+古文：其一，日度岁差，前法所略，臣据经史辨正此数，而法兴设难，征引《诗》《书》，三事皆谬。
+现代文：一，曰度岁差，前面历法中已有其大要，我根据经典史籍得到正确的数据，戴法玺对此责难，并引证了《诗经》、《尚书》的记述，谈到的三件事都是错的。
+English: First, regarding the precession of the equinoxes, the above-mentioned calendar already has its major points. I obtained the correct data according to the classic historical books. Dai Fahui criticized this, and cited the descriptions of the "Song of Songs" and "Song of Songs." The three things mentioned are all wrong.
+
+古文：其二，臣校晷景，改旧章法，法兴立难，不能有诘，直云 恐非浅虑，所可穿凿 。
+现代文：二，我考校了圭表的表影长度变化，对以前章的规定作了改变，茎这里的责难并未提出问题，就直接说 恐怕不是肤浅的考虑就可乱加修改的 。
+English: Second, I checked the changes in the length of the face and shadow of the Gui watch, and changed the provisions of the previous chapter. The criticism here did not raise any questions, and I directly said that I am afraid it is not a superficial consideration that can be randomly modified.
+
+古文：其三，次改方移，臣无此法，求术意误，横生嫌贬。其四，历上元年甲子，术体明整，则苟合可疑。
+现代文：三，星次的改动、方位的变化，我并没有这样的做法，这是对推求方法的误解并无故地进行贬责四，历法上元定为甲子年，推算的过程清楚整齐，草率求合的指责是有疑问的。
+English: Third, I did not change the order of the stars or change the direction. This is a misinterpretation of the method of deduction and a groundless accusation. Fourth, the calendar was originally set to the year of the horse, and the process of deduction was clear and orderly. The accusation of hasty deduction is questionable.
+
+古文：其五，臣其历七曜，咸始上元，无隙可乘，复云 非凡夫所测 。其六，迟疾阴阳，法兴所未解，误谓两率日数宜同。
+现代文：五，我历法中曰月五星的运行都从上元开始，并无漏洞，戴法兴却说 不是一般人所能测出来的 ，六，迟疾历、阴阳历基这里并不懂，却错误地认为两者的天数应该相同。
+English: Fifth, in my calendar, the operation of the moon and five stars all start from the Shangyuan, and there are no loopholes, but Dai Faxing said that it is not something that can be measured by ordinary people. Sixth, the Chi Chi calendar and the Yin Yang calendar are not understood here, but it is mistakenly believed that the number of days of the two should be the same.
+
+古文：凡此众条，或援谬目讥，或空加抑绝，未闻折正之谈，厌心之论也。
+现代文：所有这些条议论不是援引错了来进行讥讽就是无故进行压制，没有听到可以令人信服的言论。
+English: All these arguments are either misquoted for ridicule or suppressed without reason, and no convincing speech is heard.
+
+古文：谨随诘洗释，依源征对。仰照天晖，敢罄管穴。
+现代文：谨根据其诘问进行解释，依照其问题作出回答，在天日的光辉下将我的一孔之见都叙述出来。
+English: I would like to explain according to their questions, answer according to their questions, and describe my insights in the light of day.
+
+古文：法兴议曰： 夫二至发敛，南北之极，日有恆度，而宿无改位。
+现代文：戴法兴评论说： 二至的发生与否是太阳运行到最南和最北位置决定的，太阳有确定的位置，星宿也没有改变位置。
+English: Dai Faxing commented: The occurrence or non-occurrence of the equinox is determined by the sun's movement to the southernmost and northernmost positions. The sun has a definite position, and the stars have not changed their positions.
+
+古文：故古历冬至，皆在建星 。
+现代文：所以古代历法中冬至点都在建星附近。 
+English: Therefore, the winter solstice points in the ancient calendar were all near the star.
+
+古文：冲之曰：周汉之际，畴人丧业，曲技竞设，图纬实繁，或借号帝王以崇其大，或假名圣贤以神其说。
+现代文：冲之说：周、连时天文学家没有适当的职业，不合理的方法纷纷出现，图纬迷信倒很流行，或者假托帝王的名号来抬高自己，或者用圣贤的名义使其观点神秘化。
+English: Chong Zhi said: Zhou and Lian Zhi astronomers did not have a proper profession, unreasonable methods appeared one after another, and the latitude and longitude superstition was very popular, or they used the name of the emperor to elevate themselves, or used the name of the sage to mystify their views.
+
+古文：是以谶记多虚，桓谭知其矫妄；古历舛杂，杜预疑其非直。
+现代文：这样在谶书上的记述大部分不真实，桓谭就知道它们虚妄不实；古代历法错乱混杂，杜预怀疑它们不合理。
+English: In this way, most of the descriptions in the Book of Records are untrue, and Huan Tan knows that they are false and untrue; the ancient calendars are disordered and mixed, and Du Xuan suspects that they are unreasonable.
+
+古文：按《五纪论》黄帝历有四法，颛顼、夏、周并有二术，诡异纷然，则孰识其正，此古历可疑之据一也。
+现代文：依照《五纪论》的叙述，《黄帝历》有四种推算方法，《颛顼历》、《夏历》、《周历》各有两种，互相违背的不同之处很多，谁能知道什么是正统的呢?这是古历可疑的第一个证据。
+English: According to the description of the "Five Chronologies," the "Yellow Emperor's Calendar" has four methods of calculation, and the "Lunar Calendar," "Summer Calendar" and "Weekly Calendar" each have two, and there are many differences that contradict each other. Who can know what is orthodox? This is the first evidence of the old calendar being suspicious.
+
+古文：夏历七曜西行，特违众法，刘向以为后人所造，此可疑之据二也。
+现代文：《夏历》中谈到月五星都是向西运行，与其他各历是完全相反的，刘向认为它可能是后人编制的，这是古历可疑的第二个证据。
+English: In the "Summer Calendar," it is said that the moon and the five stars all move westward, which is completely opposite to other calendars. Liu Xiang believes that it may have been compiled by later generations, which is the second evidence of the suspicious ancient calendar.
+
+古文：殷历日法九百四十，而《乾凿度》云殷历以八十一为日法。若《易纬》非差，殷历必妄，此可疑之据三也。
+现代文：《殷历》中的法为九百四十，但《干凿度》却说《殷历》以八十一作为法，如果《易纬》中记述不错的话，《殷历》必然是假的，这是可疑的第三个证据。
+English: The method in the Yin Calendar is nine hundred and forty, but the "dry chisel degree" says that the Yin Calendar uses eighty-one as the method. If the description in the "Yi Wei" is correct, the Yin Calendar must be false. This is the third suspicious evidence.
+
+古文：《颛顼》历元，岁在乙卯，而《命历序》云： 此术设元，岁在甲寅。 
+现代文：《颛项历》的历元是乙卯年，而《命历序》却说： 此历的历元设在甲寅岁。 
+English: The lunar calendar is based on the year of the rooster, while the lunar calendar is based on the year of the rooster.
+
+古文：此可疑之据四也。
+现代文：这是可疑的第四个证据。
+English: This is the fourth suspicious piece of evidence.
+
+古文：《春秋》书食有日朔者凡二十六，其所据历，非周则鲁。
+现代文：《春秋》记录日食有朔日日期的有二十六条，其所依据的历法不是《周历》就是《鲁历》。
+English: "Spring and Autumn" records that the solar eclipse has a new year's day date, and there are twenty-six articles. The calendar it is based on is either the "Weekly Calendar" or the "Lu Calendar."
+
+古文：以周历考之，检其朔日，失二十五，鲁历校之，又失十三。二历并乖，则必有一伪，此可疑之据五也。
+现代文：用《周历》来考校，查到其朔日期有二十五条不同，用《鲁历》来考校，也有十三条不同，两历均不符合，就必然有一种是假的，这是可疑的第五个证据。
+English: Using the "Weekly Calendar" to check the school, it was found that there were 25 different dates, and using the "Lu Calendar" to check the school, there were also 13 different dates. Both calendars did not match, so there must be one that was fake. This was the fifth suspicious evidence.
+
+古文：古之六术，并同《四分》，《四分》之法，久则后天。
+现代文：古代的六种历法都与《四分历》类同，《四分历》运用时间长了必然比实际天象晚。
+English: The six ancient calendars are all similar to the "Quarterly Calendar." The longer the "Quarterly Calendar" is used, the later the actual celestial event will be.
+
+古文：以食检之，经三百年，辄差一日。
+现代文：用日月食来检测，经过三百年就要差一天。
+English: Using eclipses to detect, after three hundred years it will be one day less.
+
+古文：古历课今，其甚疏者，朔后天过二日有余。
+现代文：用古代历法来推算现在的天象，其结果很差者所推朔日比实际要晚两天多。
+English: Using the ancient calendar to calculate the current celestial phenomenon, the results are very poor, and the projected date is more than two days later than the actual one.
+
+古文：以此推之，古术之作，皆在汉初周末，理不得远。
+现代文：据此推算，古代历法的编制都在选初周末，从道理上看不会相差太远。
+English: According to this calculation, the compilation of ancient calendars are all on the first weekend of the election, from a rational point of view, they will not be too far apart.
+
+古文：且却校《春秋》，朔并先天，此则非三代以前之明征矣，此可疑之据六也。
+现代文：而且反过来考校《春秋》，朔日都比实际天象早，造就是它们不是在三代以前编制的明证，这是可疑的第六个证据。
+English: Moreover, in turn, the examination of "Spring and Autumn" shows that the new moon is earlier than the actual celestial body, which is clear evidence that they were not compiled three generations ago. This is the sixth suspicious evidence.
+
+古文：寻《律历志》，前汉冬至日在斗牛之际，度在建星，其势相邻，自非帝者有造，则仪漏或阙，岂能穷密尽微，纤毫不失。
+现代文：研究《律历志》中的记述，西汉时冬至太阳在斗宿、牛宿之间，将其估计在建星位置也是相近的，这自然不是天神的造就，在仪器、漏壶可能欠缺的情况下怎么能精确地探求而做到丝毫不差呢?
+English: Studying the description in the "Rituals," the winter solstice sun in the Western Han Dynasty is between the Dooshu and the Cowshed, and its estimate in the star-building position is also similar. This is naturally not the creation of angels. In the case that instruments and leaking pots may be lacking, how can it be accurately explored and achieved without any difference?
+
+古文：建星之说，未足证矣。
+现代文：冬至时太阳在建星的说法并不能作为证据。
+English: The claim that the sun is setting at the time of the winter solstice is not evidence.
+
+古文：法兴议曰： 战国横骛，史官丧纪，爰及汉初，格候莫审，后杂觇知在南斗二十二度，元和所用，即与古历相符也。逮至景初，终无毫忒。 
+现代文：戴法兴评论说： 战国时十分混乱，史官失去了历法标准，直到汉初仍然对观察天象不很了解，后来观察才知道冬至在牛宿二十一度。元和年间所用的冬至点位置就与古历是相符的，直到景初年间仍然没有丝毫的差别。 
+English: Dai Faxing commented: The Warring States period was very chaotic, historians lost the calendar standard, and until the beginning of the Han Dynasty, they still did not know much about observing celestial objects. Later, it was observed that the winter solstice was at the 21st of Niu Xuan. The winter solstice point position used during the Yuan and He years was consistent with the ancient calendar, and there was still no slightest difference until the first year of Jing.
+
+古文：冲之曰：古术讹杂，其详阙闻，乙卯之历，秦代所用，必有效于当时，故其言可征也。
+现代文：我说：古代历法讹错杂乱，其详细情况知道得很少，秦代使用以岁为历元的历法，它在当时必然是适用的，所以其所说的可以作为证据。
+English: I said: The ancient calendar was confused and chaotic, and its details were little known. The Qin Dynasty used a calendar based on the year, which was necessarily applicable at the time, so what it said could be used as evidence.
+
+古文：汉武改创，检课详备，正仪审漏，事在前史，测星辨度，理无乖远。
+现代文：汉武帝时改制新历，用天文观测来检验考核是详尽完备的，其使仪器符合标准并观察漏壶使用的情况，在以前的史籍中已有记述，观测恒星辨别位置按理是不会相差太大的。
+English: When Emperor Hanwu reformed the new calendar, he used astronomical observations to check that the assessment was detailed and complete, which made the instrument meet the standard and observed the use of leaking pots. It has been described in previous historical books. The observation of stars to distinguish the position will not be too different.
+
+古文：今议者所是不实见，所非徒为虚妄，辨彼骇此，既非通谈，运今背古，所诬诚多，偏据一说，未若兼今之为长也。
+现代文：现在评论者所肯定的并未亲眼所见，所否定的也不过是虚妄之说，通过争论这些问题以对其他问题产生影响是说不通的，运用现在的认识就背离了古代的看法，不实的成分虽然很多，但片面地坚持一种观点不如兼顾现在的情况为好。
+English: What the commentators now affirm is not what they have seen with their own eyes, and what they deny is nothing more than a fallacy. It is unreasonable to argue about these issues in order to influence other issues. The use of current knowledge deviates from the ancient view. Although there are many false components, it is better to adhere to one point of view than to take into account the current situation.
+
+古文：《景初》之法，实错五纬，今则在冲口，至曩已移日。
+现代文：《景初历》实际的差错在五星的推算，现在行星在冲的时候，按以往的推算则移动了期。
+English: The actual error of the "Lunar Calendar" is in the five-star calculation. Now, when the planets are in opposition, according to the previous calculation, the period has moved.
+
+古文：盖略治朔望，无事检候，是以晷漏昏明，并即《元和》，二分异景，尚不知革，日度微差，宜其谬矣。
+现代文：都是因为该历衹对朔望的推算做了点工作，但没有进行检测，这样晷漏昏明的有关数据都是与丞翅年间的相同，春秋分时圭表影长不同尚不知道更正，太阳位置的微小差异就更让其错下去了。
+English: It is all because this calendar has done some work on the projection of the synod, but it has not been tested, so the relevant data are the same as those in the years of the spring and autumn equinox. The spring and autumn equinox has not yet been corrected, and the slight difference in the position of the sun has made it even more wrong.
+
+古文：法兴议曰： 《书》云 日短星昴，以正仲冬 。
+现代文：越圭塑评论说： 《尚书》中说 白昼短，黄昏时昴星在正南方天空中，就可以确定冬季中间的一个月 。
+English: Yue Guipu commented: "Shangshu" says that the day is short, and at dusk, when the Pleiades star is in the southern sky, it is possible to determine the middle month of winter.
+
+古文：直以月推四仲，则中宿常在卫阳，羲、和所以正时，取其万代不易也。
+现代文：就以月份与四仲相联系，这样位置在中央的星宿是不变地位于面腥处，董、扣用它来定季节是根据其永远不变的特点。
+English: It is related to the four elements by the month, so the star in the center is always in the same place, and the use of it to set the season is based on its eternal characteristics.
+
+古文：冲之以为唐代冬至，日在今宿之左五十许度，遂虚加度分，空撤天路。 
+现代文：担迚之认为卢蛊时冬至太阳在现在位置左边五十多度，并因此凭空增大度分数而取消了太阳运行的一段路程。 
+English: Danzhong thought that the winter solstice sun was more than fifty degrees to the left of its current position at the time of the Long March, and therefore, based on the empty increase in the degree of the sun, canceled a section of the sun's path.
+
+古文：冲之曰：《书》以上四星昏中审分至者，据人君南面而言也。
+现代文：我说：《尚书》中根据四颗星在黄昏时位于正南方天空中作为观察分至曰到来的标准，是根据统治者朝南而坐的方向来说的。
+English: I said: "In the Shang Shu, the four stars in the southern sky at dusk are used as the standard for observing the arrival of the day, and it is based on the direction of the ruler sitting in the south.
+
+古文：且南北之正，其详易准，流见之势，中天为极。
+现代文：而且要确定南北方向方法是很清楚的又容易准确，天体的运行趋势以中天为最高。
+English: Moreover, the method of determining the north-south direction is very clear and easy to be accurate. The movement trend of the celestial body is the highest in the middle of the sky.
+
+古文：先儒注述，其义佥同，而法兴以为《书》说四星，皆在卫阳之位，自在巳地，进失向方，退非始见，迂回经文，以就所执，违训诡情，此则甚矣。
+现代文：以前学者所作的注述意思都是相同的。而戴法兴却认为《尚书》中所说的四颗星都是在卫阳处，也就是在巳的地平方位上，前不与恒星运动方向相符，后又非恒星出现方位。
+English: Previously, scholars made comments with the same meaning. Dai Faxing, however, believed that the four stars mentioned in the "Book of Changes" were all in the position of the sun, that is, in the square of the crescent. The former did not match the direction of the star's movement, and the latter was not the direction of the star's appearance.
+
+古文：舍午称巳，午上非无星也。
+现代文：在经典文字中曲折回旋以使观点成立，既违背了有关的法则也与常情不符合，这实在太过分了。
+English: Twisting and turning the classics to make a point, against the law and against common sense, is a step too far.
+
+古文：必据中宿，余宿岂复不足以正时。
+现代文：舍弃下午取用了巳，午的方位上并不是没有星一定要以中央星宿为依据，其他星宿就不能用来确定时令了吗?
+English: Abandoning the afternoon and adopting the morning, the position of the afternoon is not without a star, it must be based on the central star, and other stars can not be used to determine the time?
+
+古文：若谓举中语兼七列者，觜参尚隐，则不得言，昴星虽见，当云伏矣，奎娄已见，复不得言伏见囗囗不得以为辞，则名将何附。
+现代文：假使说衹是提到中央星宿而话中意思实际上涉及到七宿，那么觜宿、参宿尚在地平线，就谈不到了，昴星虽然出现了，但应当说是观察不到的。奎宿、娄宿已经出现，也是谈不到的。隐伏和出现的情况不同也就不能作出判断，这样的概念又依附在哪裹呢?
+English: Assuming that  refers to the central star and the meaning actually involves the seven stars, then 宿 and 参宿 cannot be discussed while  is still on the horizon. 星, although it has appeared, should be said to be unobservable. 奎宿 and 宿 have already appeared and cannot be discussed. It is also impossible to judge the difference between occultation and appearance, so where does such a concept come from?
+
+古文：若中宿之通非允，当实谨检经旨，直云星昴，不自卫阳，卫阳无自显之义，此谈何因而立。
+现代文：如果中央星宿的叙述不能成立，就应对实际内容慎重地探求要旨，直接说昴星在正南方天空中就不是在卫阳，卫阳并没有特别的意义，这种说法为什么会得以成立呢?
+English: If the description of the central star cannot be established, we should carefully explore the gist of the actual content, and directly say that the Pleiades in the southern sky is not a solar eclipse, the solar eclipse has no special meaning, why is this statement true?
+
+古文：苟理无所依，则可愚辞成说，曾泉、桑野，皆为明证，分至之辨，竟在何日，循复再三，窃深叹息。
+现代文：如果没有依据就可以成为道理，那么愚蠢的话也就变成学说了，曾泉、桑野都可以成为明确的证据，这样对分至的争论何时才能停歇呢?经过一次次的争论，也只好暗自叹息。
+English: If there is no basis, it can become a truth, then stupid words will become a theory, Zengquan and Kuwano can both become clear evidence, so when can the dispute over the points be stopped? After repeated disputes, I had to sigh secretly.
+
+古文：法兴议曰： 其置法所在，近违半次，则四十五年九月率移一度。 冲之曰：《元和》日度，法兴所是，唯征古历在建星，以今考之，臣法冬至亦在此宿，斗二十二了无显证，而虚贬臣历乖差半次，此愚情之所骇也。
+现代文：戴法兴评论说： 其采取的方法所得位置几乎相差到半个星次，每经过四十五年九个月就要移动一度 我说：元和年间太阳的位置越造兴是肯定了的，衹是用来证明古历冬至在建星附近，以现在的考证，我历法中冬至也在逭一宿，说它在斗宿二十一度是没有明显证据的，无故地贬低我的历法相差到半个星次，这种做法使我十分吃惊。
+English: Dai Faxing commented: The position obtained by the method he adopted is almost half a star away, and it will move once every forty-five years and nine months. I said: The position of the sun in the Yuan and Qing dynasties is more certain, and it is used to prove that the winter solstice of the ancient calendar is near the founding star. According to the current research, the winter solstice in my calendar is also in the middle of the year, and there is no obvious evidence that it is in the 21st day of the month. The practice of disparaging my calendar without reason is different by half a star, which surprises me very much.
+
+古文：又年数之余有十一月，而议云九月，涉数每乖，皆此类也。
+现代文：又在年数之下是十一个月，评论中说成是九个月，有关的数字经常出现差错都是类似的情况。
+English: Under the number of years, it is eleven months, and in the comments it is said to be nine months. The relevant figures often have errors are similar.
+
+古文：月盈则食，必在日冲，以检日则宿度可辨，请据效以课疏密。
+现代文：月盈之时则会发生月食，这时月亮位置必然与太阳正好相对，用这方法检测太阳位置就可知道其所在宿及度数值，请求根据其效果来考校历法的精密与否。
+English: When the moon is full, a lunar eclipse will occur. At this time, the position of the moon is necessarily exactly opposite the sun. By using this method to detect the position of the sun, you can know its location and degree value, and request to test the precision of the calendar according to its effect.
+
+古文：按太史注记，元嘉十三年十二月十六日中夜月蚀尽，在鬼四度，以冲计之，日当在牛六。
+现代文：按照太史的注记，五塞十三年十二月十六甲夜发生了月全食，月亮位于鬼宿四度，以其与太阳位置相对来计算，太阳应在牛宿六度。
+English: According to the commentary on the history of Taiji, a total lunar eclipse occurred on the night of December 16 of the 13th year of the 5th month of the 12th year of the 13th year of the 12th month of the 13th year of the 5th year of the 13th year of the 12th year of the 13th year of the 15th year of the 13th year of the 15th year of the 13th year of the 15th year of the 13th year of the 15th year of the 13th year of the 13th year of the 15th year of the 13th year of the 13th year of the 15th year of the 13th year of the 13th year
+
+古文：依法兴议： 在女七 。
+现代文：而按照戴法兴所说 在女宿七度 。
+English: But according to Dai Farxing, it was seven degrees at the girls' hostel.
+
+古文：又十四年五月十五日丁夜月蚀尽，在斗二十六度，以冲计之，日当在井三十，依法兴议曰： 日在柳二。 
+现代文：另在元嘉十四年五月十五曰的丁夜发生月全食，月亮在斗宿二二十六度，用与其相对的位置计算，太阳应在井宿三十度。而按照戴法兴所说： 太阳在柳宿：二度。 
+English: In addition, a total lunar eclipse occurred on the evening of the 15th day of the 15th month of the 14th year of the Yuan Jia. The moon was at 226 degrees in Dooshu, and calculated from its opposite position, the sun should be at 30 degrees in Ijuku. And according to Dai Faxing said: The sun is in Liujuku: 2 degrees.
+
+古文：又二十八年八月十五日丁夜月蚀，在奎十一度，以冲计之，日当在角二；依法兴议曰： 日在角十二。 
+现代文：另又在元嘉二十八年八月十五曰丁夜发生了月食，月亮在奎宿十一度，用与其相对的位置计算，太阳应在角宿二度。按照戴法兴的评论是： 太阳在角宿十二度。 
+English: On the other hand, a lunar eclipse occurred on the night of the 15th day of the 8th month of the 28th year of the Yuan Jia. The moon was in the 11th degree of Kuizhou, and the sun should be in the 2nd degree of the Cape according to its relative position. According to Dai Faxing's comment: The sun is in the 12th degree of the Cape.
+
+古文：又大明三年九月十五日乙夜月蚀尽，在胃宿之末，以冲计之，日当在氐十二；依法兴议曰： 日在心二。 
+现代文：又在大明三年九月十五乙夜发生月全食，月亮在胃宿范围的结束处，用与其相对的位置计算，太阳应在氐宿十二度。按照堑这里的评论说： 太阳在心宿二度。 
+English: In addition, a total lunar eclipse occurred on the 15th night of September in the third year of the Ming Dynasty. The moon was at the end of the stomach, and the sun should be in the 12th degree of the abdomen, according to the commentary here: The sun is in the 2nd degree of the heart.
+
+古文：凡此四蚀，皆与臣法符同，纤毫不爽，而法兴所据，顿差十度，违冲移宿，显然易睹。
+现代文：总计造四次月食都与我的历法符合，丝毫没有差别，而戴法兴所坚持的却差了十度，与月亮相对的位置不符合且在星宿中有偏离，这是显而易见的。
+English: A total of four lunar eclipses are consistent with my calendar, there is no difference, and Dai Faxing's insistence is ten degrees off, the position opposite the moon does not match and there is a deviation in the stars, which is obvious.
+
+古文：故知天数渐差，则当式遵以为典，事验昭晰，岂得信古而疑今。
+现代文：由此可知天象的有关数据在逐渐变化，就要据此将其奉为经典而遵守，事情十分清楚，怎么能迷信古代的说法而怀疑现在的认识呢?
+English: From this, it can be seen that the relevant data of celestial phenomena is gradually changing, and it is necessary to treat it as a classic and abide by it. Things are very clear, how can we superstitiously believe the ancient saying and doubt the current understanding?
+
+古文：法兴议曰： 在《诗》 七月流火 ，此夏正建申之时也。 定之方中 ，又小雪之节也。
+现代文：越送兴评论说： 在诗经中 七月流火，是相应于夏正建申的时节，定之方中 是对应于小雪的时节。
+English: Yue Zongxing commented: In the poem, the July fire is the season corresponding to the summer, and in the poem, it is the season corresponding to the light snow.
+
+古文：若冬至审差，则豳公火流，晷长一尺五寸，楚宫之作，昼漏五十三刻，此诡之甚也。 
+现代文：如果冬至果然有差错的话，那么尘公时黄昏大火星偏西时中午圭表的影长一尺五寸，营造楚宫的日子，白天的刻漏数是五十三刻，这都足 分荒谬的。 
+English: If the winter solstice is indeed a mistake, then the shadow length of the Gui watch is one foot and five inches at noon, when the Great Mars is due west at dusk, and the number of missing hours during the day is fifty-three hours when the Chu Palace was built. This is all quite absurd.
+
+古文：冲之曰：臣按此议三条皆谬。
+现代文：我说，所说三条都是错误的。
+English: I said that all three of them were wrong.
+
+古文：《诗》称流火，盖略举西移之中，以为惊寒之候。
+现代文：《诗经》中说大火星偏西不过是粗略地说大火星在西移，作为寒冷将至的征候。
+English: In the "Song of Songs," it is said that the Great Mars is moving westward, but this is only a rough way of saying that the Great Mars is moving westward, as a sign of the coming cold.
+
+古文：流之为言，非始动之辞也。
+现代文：所谓流并不是说刚开始移动。
+English: The so-called flow does not mean just starting to move.
+
+古文：就如始说，冬至日度在斗二十二，则火星之中，当在大暑之前，岂邻建申之限。
+现代文：即使就作为开始移动解释，冬至时太阳在斗宿二十一度，这样大火星黄昏时位于正南方天空中也应在大暑之前，与建申之说哪里有什么关系?
+English: Even if it is interpreted as the beginning of the movement, the sun is at the 21st of the winter solstice, so that the great Mars is located in the southern sky at dusk, it should be before the heat wave, what does it have to do with the explanation?
+
+古文：此专自攻纠，非谓矫失。
+现代文：这是专门指责纠缠，根本说不上是纠正错失。
+English: This is a special accusation of entanglement, and it cannot be said to correct mistakes at all.
+
+古文：《夏小正》： 五月昏，大火中。 
+现代文：在《夏小正》中有： 五月黄昏时大火星在正南方的天空中。 
+English: In Xia Xiaozheng, there is: At dusk in May, the great Mars is in the sky directly to the south.
+
+古文：此复在卫阳之地乎？
+现代文：这还是它在堑屋的位置上吗?
+English: Is it still at the location of the candy store?
+
+古文：又谓臣所立法，楚宫之作，在九月初。
+现代文：又说我的历法中营造楚宣是在九月初。
+English: He also said that the creation of Chu Xuan in my calendar was at the beginning of September.
+
+古文：按《诗》传笺皆谓定之方中者，室辟昏中，形四方也。
+现代文：按照《诗经》的各种传注都说 定之方中 是指室宿、壁宿在黄昏时位于正南方的天空中，形状为方形。
+English: According to the various transmissions of the "Song of Songs," it is said that the "square" refers to the room lodging and the wall lodging, which are located in the south sky at dusk and are square in shape.
+
+古文：然则中天之正，当在室之八度。
+现代文：然而恰在正南方的标准点应在室宿八度。
+English: However, the standard point just due south should be in the Murojuku octave.
+
+古文：臣历推之，元年立冬后四日，此度昏中，乃处十月之初，又非寒露之日也。
+现代文：用我的历法推算，大明元年立冬后四天这一标准点黄昏时在正南方的天空中，这是十月初，又不是寒露曰。
+English: According to my calendar, four days after the winter solstice in the year 1 of the Great Ming Dynasty, this standard point was in the south sky at dusk, which was the beginning of October, and it was not the cold dew.
+
+古文：议者之意，盖误以周世为尧时，度差五十，故致此谬。
+现代文：按照评论人的意思，看来是错误地将周代当为唐尧时代，有五十度的偏差，产生了这样的错误。
+English: According to the meaning of the commentator, it seems to be a mistake to regard the Zhou Dynasty as the Tang Dynasty, with a deviation of fifty degrees, resulting in such an error.
+
+古文：小雪之节，自信之谈，非有明文可据也。
+现代文：小雪时节的说法是衹有自己才会相信的，并没有任何明确的文字记述作为依据。
+English: The assertion of a light snow season is something you have to see for yourself to believe, and is not based on any clear written account.
+
+古文：法兴议曰： 仲尼曰： 丘闻之，火伏而后蛰者毕。
+现代文：戴法兴评论说： 孔子说： 我听说，大火星观察不到以后冬眠的动物都不见了。
+English: Dai Faxing commented: Confucius said: I heard that after the Great Mars could not be observed, the hibernating animals disappeared.
+
+古文：今火犹西流，司历过也。 
+现代文：现在大火星依然在黄昏时偏西，这是掌握历法的人的过错。 
+English: Now, the Great Mars is still westward at dusk, which is the fault of those who have mastered the calendar.
+
+古文：就如冲之所误，则星无定次，卦有差方，名号之正，古今必殊，典诰之音，时不通轨。
+现代文：如果像祖冲之的错误那样就会出现星所在星次要发生变化，卦象也存在不同的方位，名称的确定古代与现在就必然不同，典籍文告中的话随着时代的不同也就难以通用。
+English: If, like Zu Chongzhi's mistake, there will be a change in the location of the stars, the position of the constellations will also be different, the determination of the names will inevitably be different between ancient times and now, and the words in the classics will be difficult to use with different times.
+
+古文：尧之开、闭，今成建、除，今之寿星，乃周之鹑尾也。
+现代文：尧时的开、闭，现在变为建、除，现在的寿星星次就是周代的鹑尾星次。
+English: The opening and closing of the zodiac have now changed to construction and division, and the current zodiac sign is the zodiac sign of Zhou Dynasty.
+
+古文：即时东壁，已非玄武，轸星顿属苍龙，诬天背经，乃至于此。 
+现代文：现时的壁宿已经不属于玄武，轸星突然从属于苍龙，与天象不合又背离了经典，竟然到了这样的地步。 
+English: The present-day lodging on the wall no longer belongs to Xuanwu, and the star suddenly belongs to the dragon, which is incompatible with the celestial body and deviates from the classics, to such an extent.
+
+古文：冲之曰：臣以为辰极居中，而列曜贞观，群像殊体，而阴阳区别，故羽介咸陈，则水火有位，苍素齐设，则东西可准，非以日之所在，定其名号也。
+现代文：我说，我认为北极在天的中心，群星看上去相互之间不移动，各种星象有所不同，通过阴阳来区分，这样朱雀、玄武都在天空中排列着，就使水星、火星能各得其位，苍龙、白虎在苍穹中都有位置，就使束西方向有了标准，并不是根据太阳在天空中位置来确定其名称的。
+English: I said, I think that the North Pole is in the center of the sky, the stars do not seem to move between each other, the various constellations are different, distinguished by yin and yang, so that the Suzaku and the Hyakutake are arranged in the sky, so that Mercury and Mars can each have their place, and the Surya and the White Tiger have a place in the sky, so that the west direction has a standard, and it is not based on the position of the sun in the sky to determine its name.
+
+古文：何以明之？夫阳爻初九，气始正北，玄武七列，虚当子位。
+现代文：根据什么知道的呢阳爻的初九，气从正北开始，玄武的七宿中虚宿恰在子的方位上。
+English: According to what do you know, in the ninth month of Impotence, the qi starts from the due north, and in the seven mansions of Xuanwu, the imaginary mansion is exactly in the direction of the son.
+
+古文：若圆仪辨方，以日为主，冬至所舍，当在玄枵；而今之南极，乃处东维，违体失中，其义何附。
+现代文：如果用圆仪来辨别方向是以太阳为主要依据的，冬至时太阳应在玄枵，而现在太阳最南时却在东方，与实际相违反而出现了偏差，那其本义又附着在哪裹呢?
+English: If using a compass to distinguish the direction is based on the sun, the sun should be in the south at the winter solstice, but now the sun is in the east at the southernmost time, which is contrary to reality and there is a deviation, then where is its original meaning attached?
+
+古文：若南北以冬夏禀称，则卯酉以生杀定号，岂得春躔义方，秋丽仁域，名舛理乖，若此之反哉！因兹以言，因知天以列宿分方，而不在于四时，景纬环序，日不独守故辙矣。至于中星见伏，记籍每以审时者，盖以历数难详，而天验易显，各据一代所合，以为简易之政也。
+现代文：如果将南、北用冬、夏来称呼，卯、酉方位则用春、秋来定名，这样怎么能得到春天太阳在义方位置上，秋天太阳在仁域处照耀呢在概念、道理上都错了，有这样违背的吗因此说，已经知道天以各星宿来分别方向，而并不取决于四季变化，太阳运动轨迹排列成一个环，太阳并不固定在原有的轨道上不变至于黄昏时在正南方天空中的星宿出现与否，古籍中的记述常是确定节令的，那是因为历法难以透彻了解，用天象来检测是方便而显著的，分别根据与一个时代相合的天象来观察是一种简单易行的方法。
+English: If the north and south are called by winter and summer, and the azimuth and declination are named by spring and autumn, how can it be said that the sun shines in the Yigata position in spring and the Ren region in autumn? It is wrong in concept and reason. Is there such a violation? Therefore, it is already known that the sky is distinguished by the stars, and it does not depend on the changes of the four seasons. The sun's movement trajectory is arranged as a ring. The sun is not fixed in the original orbit. As for the appearance or absence of stars in the southern sky at dusk, the descriptions in ancient books often determine the seasons. That is because the calendar
+
+古文：亦犹夏礼未通商典，《濩》容岂袭《韶》节，诚天人之道同差，则艺之兴，因代而推移矣。
+现代文：这好像夏代的礼仪与商代的经典不能相通，《濩》的样式不是沿袭《韶》的节拍，虽然天和人的变化规律有相同也有差异，然而技艺的流行则因时代的不同而推移变化。
+English: It's as if the etiquette of the Xia Dynasty and the classics of the Shang Dynasty can't be connected. The style of "Qing" does not follow the beat of "Qing." Although the laws of change of heaven and man are the same and different, the popularity of skills changes according to the different times.
+
+古文：月位称建，谅以气之所本，名随实著，非谓斗杓所指。近校汉时，已差半次，审斗节时，其效安在。
+现代文：根据月亮位置来称呼建看来也要用节气作为依据，概念随着实际情况而显明，而不是所谓北斗的斗杓所指的，近来校验汉代的节令，有半个星次的偏差，观察北斗确定节令的效果又在哪裹呢?
+English: According to the position of the moon, it seems that the solar terms should also be used as a basis. The concept is revealed with the actual situation, rather than the so-called Big Dipper fight. Recently, the verification of the Han Dynasty festivals has a deviation of half a star. What is the effect of observing the Big Dipper to determine the festivals?
+
+古文：或义非经训，依以成说，将纬候多诡，伪辞间设乎？
+现代文：可能其本义并非出自经书典式，依照这已形成的说法不就使纬候放在不真实的判断中间了吗?
+English: Could it be that its real meaning does not come from the biblical text, and according to this already formed statement, it would not be placed in the middle of an untrue judgment?
+
+古文：次随方名，义合宿体。分至虽迁，而厥位不改，岂谓龙火贸处，金水乱列，名号乖殊之讥，抑未详究。
+现代文：星次随着方位的概念，其本义与星宿符合，虽然分至点移开了，其位置并没有改变，怎么能说苍龙和大火星换了位置，金星与水星的排列发生了混乱呢?对名称有了违反的批评，尚未详细研究。
+English: With the concept of orientation, the original meaning of the constellation is consistent with the stars. Although the points have moved away, their position has not changed. How can it be said that the celestial dragon and the great Mars have changed their positions, and the arrangement of Venus and Mercury has been confused? There has been criticism of the name, which has not been studied in detail.
+
+古文：至如壁非玄武，轸属苍龙，瞻度察晷，实效咸然。
+现代文：至于壁宿不属于玄武、轸星属于苍龙的说法，衹要看宿度观察太阳，其实际效果都是很明显的。
+English: As for the argument that the wall lodge does not belong to the Xuanwu, and the bright star belongs to the Canglong, it depends on the degree of observation of the sun, and its actual effect is very obvious.
+
+古文：《元嘉历法》，寿星之初，亦在翼限，参校晋注，显验甚众。
+现代文：《元嘉历》中的寿星星次的开始也在翼宿的范围裹，与晋代的记载进行参校，符合的很多。
+English: In the "Yuan Jia Calendar," the beginning of the birthday star sequence is also included in the scope of Yingzhuang, which is consistent with the records of the Jin Dynasty.
+
+古文：天数差移，百有余载，议者诚能驰辞骋辩，令南极非冬至，望不在冲，则此谈乃可守耳。
+现代文：天象数据的变化在一百多年中就表现出来了，评论人即使能言善辩，但将太阳在最南处时不是冬至、望时太阳和月亮的位置不正相对的说法可以收起来了。
+English: The changes in the astronomical data have been evident for more than a hundred years. Even if commentators are able to argue, they can put aside the argument that the sun is not at the winter solstice when it is at its southernmost point, and that the position of the sun and the moon is not relative when viewed.
+
+古文：若使日迁次留，则无事屡嫌，乃臣历之良证，非难者所宜列也。
+现代文：如果用太阳的位置校正星次移动则不会发生经常不满意的情况，这是对我的历法有利的证据，并不是对其责难的人所适宜列举的。
+English: If the sidereal movement, corrected by the position of the sun, does not give rise to frequent dissatisfactions, this is evidence in favour of my calendar, which it is not proper for its detractors to adduce.
+
+古文：寻臣所执，必据经史，远考唐典，近征汉籍，谶记碎言，不敢依述，窃谓循经之论也。
+现代文：探究我所坚持的，都是依据经书和史籍，远稽考毫时的经典，近证验汉代的书籍，对那些没有根据的预言和零碎的叙述都不敢去相信，自认为是遵循了经典的说法。
+English: All the research I insisted on was based on scriptures and historical books. I examined the ancient classics from afar and the books of the Han Dynasty from up close. I did not dare to believe those unfounded prophecies and fragmentary accounts, and believed that I had followed the classics.
+
+古文：月蚀检日度，事验昭著，史注详论，文存禁阁，斯又稽天之说也。
+现代文：用月食来确定太阳位置是众所周知的可证实的事情，史书记载有详细的论述，文章存放在禁合之中，这也是研究天象的一种方式。
+English: The use of lunar eclipses to determine the position of the sun is a well-known and verifiable matter, the historical record contains detailed discussion, and the article is stored in confinement, which is also a way to study the celestial phenomenon.
+
+古文：《尧典》四星，并在卫阳，今之日度，远淮元和，诬背之诮，实此之谓。
+现代文：《尧典》中所说的四星怎么会在卫阳方位上，现在的太阳位置又比元和年间准确多了，具有诬蠛性质的责问，实在也就是这种情况了。
+English: The question of how the four stars mentioned in the "Book of Changes" can be in the direction of the sun, and the current position of the sun is much more accurate than the original and the years, has the nature of a false accusation, which is really the case.
+
+古文：法兴议曰： 夫日有缓急，故斗有阔狭，古人制章，立为中格，年积十九，常有七闰，晷或盈虚，此不可革。
+现代文：戴法兴评论说： 太阳运动一固有快慢，所以才有斗宿范围的大小变化。古代人规定章的大小时取的是中间值，在十九年中安排七个闰月，圭表影长或许有变化，但这原则是不能改变的。
+English: Dai Faxing commented: The sun's movement is inherently fast and slow, which is why there is a change in the size of the orbit. The ancients stipulated that the size of the chapter was the middle value, and seven leap months were arranged in nineteen years. The length of the shadow of the Gui table may change, but this principle cannot be changed.
+
+古文：冲之削闰坏章，倍减余数，则一百三十九年二月，于四分之科，顿少一日；七千四百二十九年，辄失一闰。
+现代文：祖冲之减少了闰月的比例，改变了章的规定，减去了余数的两倍，这样，在一百三十九年零两个月中与四分历的规定相比就少了一天，七干四百二十九年中就少了一个闰月。
+English: Zu Chongzhi reduced the proportion of leap months, changed the provisions of the chapter, and subtracted twice the remaining number, so that in one hundred and thirty-nine years and two months, compared with the provisions of the quarter calendar, one day was missing, and in seven hundred and forty-nine years and twenty-nine years, one leap month was missing.
+
+古文：夫日少则先时，闰失则事悖。
+现代文：天数少就使历法的推算比实际节令要早，少置闰月则农事就完全安排错了。
+English: If the number of days is small, the calculation of the calendar will be earlier than the actual festival, and if there are fewer leap months, the agricultural affairs will be completely arranged wrong.
+
+古文：窃闻时以作事，事以厚生，此乃生民之所本，历数之所先。愚恐非冲之浅虑，妄可穿凿。 
+现代文：我听说到了节令就安排农事，从事农业是为了充裕生活，这是人们生活中最根本的大事，历法的重要我看不是祖冲之肤浅的考虑就可以修改的。 
+English: I have heard that farming is arranged at the time of the festival, and that people engage in agriculture in order to live a full life. This is the most fundamental event in people's lives. The importance of the calendar, in my opinion, cannot be modified by Zu Chong's superficial considerations.
+
+古文：冲之曰：按《后汉书》及《乾象说》，《四分历法》，虽分章设篰创自元和，而晷仪众数定于嘉平三年。
+现代文：我说：依照《后汉书》和《干象历》的说法中的叙述，虽然在《四分历》中设立章、周期是在元和年间开始的，但有关表影和仪器的数据都是在画平三年确定的。
+English: I said: According to the descriptions in the "Hou Han Shu" and "Gan Xiang Cuo," although the establishment of chapters and leap years in the "Quarterly Calendar" began in the Yuan and the years, the data related to appearances and instruments were determined in the three years of painting.
+
+古文：《四分志》，立冬中影长一丈，立春中影九尺六寸。
+现代文：在《四分历》中记述，立冬时中午圭表影长一丈，立春时长九尺六寸？
+English: In the "Quarterly Calendar," it is recorded that at the beginning of winter, at noon, Gui's shadow is one meter long, and at the beginning of spring, it is nine feet six inches long?
+
+古文：寻冬至南极，日晷最长，二气去至，日数既同，则中影应等，而前长后短，顿差四寸，此历景冬至后天之验也。二气中影，日差九分半弱，进退均调，略无盈缩。以率计之，二气各退二日十二刻，则晷影之数，立冬更短，立春更长，并差二寸，二气中影俱长九尺八寸矣。
+现代文：考虑到冬至时太阳位于最南处，表影长度最长，而这两个节气距离冬至的天数既然相同则表影长度应该相等，但《四分历》中却前长后短，相差四寸，这就是历法表影数据冬至比实际天象晚的证明这两个节气中午时圭表表影长度每天差九分半弱，其变化是均匀的，大致上没有起伏，以这一比率进行计算，两气各向后退两天零十二刻，立冬的表影变短，立春的变长，都变了二寸，这样两个节气的表影长度都是九尺八寸了。
+English: Considering that at the time of the winter solstice, the sun is located in the southernmost place, and the length of the apparent shadow is the longest, and the number of days between the winter solstice and the two solar terms is the same, the length of the apparent shadow should be equal, but in the "Quarterly Calendar," it is short and short, with a difference of four inches. This is the proof that the calendar's apparent shadow data of the winter solstice is later than the actual celestial phenomenon. The apparent shadow length of the two solar terms at noon varies by less than nine and a half minutes every day. The change is uniform, and there are no ups and downs.
+
+古文：即立冬、立春之正日也。
+现代文：这就是立冬、立春的正确日期。
+English: This is the correct date for the beginning of winter and spring.
+
+古文：以此推之，历置冬至，后天亦二日十二刻也。
+现代文：以此推算，历法中规定的冬至电比实际天象落后了两天零十：二刻。
+English: According to this calculation, the winter solstice specified in the calendar is two days and ten minutes and two minutes later than the actual celestial phenomenon.
+
+古文：嘉平三年，时历丁丑冬至，加时正在日中。以二日十二刻减之，天定以乙亥冬至，加时在夜半后三十八刻。
+现代文：矗垩三年，当时历法推算丁丑曰是冬至，交节气时刻正在中午，将其减去两天十二刻，由天象确定乙亥曰为冬至，交节气的时刻在午夜之后三十八刻。
+English: Three years ago, at that time, the calendar deduced that the winter solstice was the winter solstice, and the time of the intersection of the solar terms was at noon, subtracted two days and twelve hours, and determined by the celestial body that the winter solstice was the winter solstice, and the time of the intersection of the solar terms was thirty-eight hours after midnight.
+
+古文：又臣测景历纪，躬辨分寸，铜表坚刚，暴润不动，光晷明洁，纤毫尽然。
+现代文：我测量圭表影长多年，弯下身去仔细辨认到分寸，铜制的表十分坚固，曝晒和雨水都不会使其变化，阳光下表影清晰，细微之处毕现。
+English: I have been measuring the length of the shadow of the Gui watch for many years, bending down to carefully identify the measurements. The copper watch is very strong, and neither exposure nor rain will change it. The shadow is clear in the sun, and the fine points are revealed.
+
+古文：据大明五年十月十日，影一丈七寸七分半，十一月二十五日，一丈八寸一分太，二十六日，一丈七寸五分强，折取其中，则中天冬至，应在十一月三日。
+现代文：根据大明五年十月十曰表影长一丈零七寸七分半、十一月二十五日一丈零八寸一分太、二十六日一丈零七寸五分强三组数据，取其中点，可得到日期之中冬至应在十一月三日。
+English: According to three sets of data, the apparent magnitude on October 10 of the 5th year of the Ming Dynasty was one degree and seven inches and a half, the apparent magnitude on November 25 was one degree and eight inches and a minute, and the apparent magnitude on the 26th day of the 5th year of the Ming Dynasty was one degree and seven inches and a half and a minute. Taking the middle point, we can get the date of the midwinter solstice, which should be on November 3.
+
+古文：求其蚤晚，令后二日影相减，则一日差率也。倍之为法，前二日减，以百刻乘之为实，以法除实，得冬至加时在夜半后三十一刻，在《元嘉历》后一日，天数之正也。
+现代文：求其交节气的时刻，可将后两天的表影长度值相减，得到一天中表影长度的变化率，将其加倍就得到法，将前两天的数据相减，所得再乘以一百刻就得到实，将实除以法就可得到交冬至的时刻是在午夜后三十一刻，在《元嘉历》所推冬至后一天，这是按照实际天象确定的确值。
+English: At the time of its intersection with the solar terms, the value of the length of the apparent shadow of the next two days can be subtracted to obtain the rate of change of the length of the apparent shadow in one day, and the method can be obtained by doubling it, the data of the first two days can be subtracted, and the income can be multiplied by one hundred hours to obtain the actual, and the time of the winter solstice can be obtained by dividing the actual by the method is at thirty-one hours after midnight, one day after the winter solstice, which is determined according to the actual celestial phenomenon.
+
+古文：量检竟年，则数减均同，异岁相课，则远近应率。
+现代文：检测了一年，其结果所减去的数值都是相同的，不同的年份进行校验，则按年份的远近有相应的比率。
+English: One year was tested, and the values subtracted from the results were all the same. Different years were checked, and there was a corresponding ratio according to the distance from the year.
+
+古文：臣因此验，考正章法。
+现代文：我根据这一验证对章的规定进行了校订。
+English: Based on this verification, I revised the provisions of the chapter.
+
+古文：今以臣历推之，刻如前，窃谓至密，永为定式。
+现代文：现用我的历法推算，其刻数和前面所列相同，我以为已经非常精密了，可以作为永远使用的不变规则。
+English: I now deduce from my calendar that the number of the hours is the same as that previously enumerated, and I believe that this is sufficiently precise to be used as an invariable rule for all time.
+
+古文：寻古历法并同《四分》，《四分》之数久则后天，经三百年，朔差一日。是以汉载四百，食率在晦。
+现代文：古代的历法都同样为《四分历》，采用《四分历》的数据时间长了就会落后于实际天象，经过三百年朔日就会相差一天，这样选伐四百年日食都在晦曰。
+English: The ancient calendars were all the same as the "Quarterly Calendar." If the data time of the "Quarterly Calendar" is too long, it will lag behind the actual celestial objects. After three hundred years, the New Year's Day will be one day different. In this way, the solar eclipses of four hundred years are all in the last day of the year.
+
+古文：魏代已来，遂革斯法，世莫之非者，诚有效于天也。
+现代文：魏代以后就改变了，当时没有人反对，是由于它能有效地反映实际天象。
+English: It was changed after the Wei Dynasty, when no one objected, because it could effectively reflect the actual celestial phenomenon.
+
+古文：章岁十九，其疏尤甚，同出前术，非见经典。
+现代文：将章岁取马十九，其粗疏情况尤为严重，与以前的方法如出一辙，并非出现在经书典籍之中。
+English: The coarseness is particularly serious, and it is the same as the previous method. It does not appear in the scriptures.
+
+古文：而议云此法自古，数不可移。
+现代文：评论认为这一方法是古代就使用的，数据也不能更改。
+English: Commentators believe that this method has been used since ancient times and that the data cannot be changed.
+
+古文：若古法虽疏，永当循用，谬论诚立，则法兴复欲施《四分》于当今矣，理容然乎？
+现代文：如果古代历法虽然粗疏也要永远遵循使用，这一谬论可以成立的话，则戴法兴是想仍然在现代使用《四分历》了，这种道理可以容忍吗?
+English: If the fallacy that the ancient calendar, although crude, should always be used, can be established, then Dai Faxing wants to still use the "Quarterly Calendar" in modern times. Can this be tolerated?
+
+古文：臣所未譬也。
+现代文：我对此是不能理解的。
+English: I don't understand it.
+
+古文：若谓今所革创违舛失衷者，未闻显据有以矫夺臣法也。《元嘉历》术，减闰余二，直以袭旧分粗，故进退未合。
+现代文：如果说现在所做的改革创新有违背错乱而出现偏差的话，也没有听到有什么明显的证据能够使我的方法不能成立《元嘉历》中将闰余减二就直接用以沿袭旧有的粗疏数据，所以推算的变化情况与天象不符合。
+English: If it is said that the reforms and innovations made at present have deviated from the disorder, I have not heard any obvious evidence that my method cannot be established. In the "Yuanjia Calendar," the leap second is directly used to follow the old coarse data, so the changes in the calculation are not consistent with the celestial phenomenon.
+
+古文：至于弃盈求正，非为乖理。
+现代文：至于舍弃盈余以求准确的做法在道理上还是讲得通的。
+English: As for abandoning the surplus in order to be more accurate, it makes sense.
+
+古文：就如议意，率不可易，则分无增损，承天置法，复为违谬。
+现代文：如果依评论中的含义，概都不能改变，这样分上就不能增减，何承天采用的方法也是违反和错谬的。
+English: If, according to the meaning in the commentary, nothing can be changed, then the score cannot be increased or decreased, and the method adopted by He Rongtian is also a violation and fallacy.
+
+古文：节气蚤晚，当循《景初》，二至差三日，曾不觉其非，横谓臣历为失，知日少之先时，未悟增月甚惑也。
+现代文：节气的早晚就应当依照《景初历》来推算，两至曰相差三天也不感觉到其差错，却硬说我的历法有错失，知道天数少会引起推算提前，却未认识到增加一个月是十分可疑的。
+English: The morning and evening of the solar terms should be calculated in accordance with the "Lunar New Year's Calendar." I do not feel the error of the difference of two to three days, but I insist that my calendar has mistakes. I know that a small number of days will cause the calculation to be advanced, but I do not realize that adding a month is very suspicious.
+
+古文：诚未睹天验，岂测历数之要，生民之本，谅非率意所断矣。
+现代文：不观察天象来校验，怎么能测定历法中的重要数据呢?这种关系到人民生活的根本大事看来不是随意就可作出决定的。
+English: How can the important data in the calendar be determined without observing celestial phenomena for calibration? It seems that such a fundamental event related to people's lives cannot be arbitrarily decided.
+
+古文：又法兴始云穷识晷变，可以刊旧革今，复谓晷数盈虚，不可为准，互自违伐，罔识所依。
+现代文：戴法兴开始时说到透彻认识太阳位置的变化，可以对古代的认识进行修订，对现在的做法作出改变，后来又说太阳位置数据的变化不可以作为标准，这是自相矛盾，不知道哪种说法是可靠的。
+English: Dai Faxing said at the beginning that a thorough understanding of the changes in the position of the sun can revise the ancient knowledge and change the current practice. Later, he said that the changes in the sun's position data cannot be used as a standard. This is a contradiction. I don't know which statement is reliable.
+
+古文：若推步不得准，天功绝于心目，未详历纪何因而立。
+现代文：假如历法推算不可能准确，天的作为人们不可能认识和理解，就不知道依据什么来建立纪年了。
+English: If it is impossible for the calendar to be accurate, and it is impossible for people to know and understand the actions of the heavens, it is impossible to know on what basis to establish the calendar.
+
+古文：案《春秋》以来千有余载，以食检朔，曾无差失，此则日行有恆之明征也。
+现代文：《春秋》以来有一千多年，用日食来检验朔日都没有出现差错，造就是太阳运行有不变的规律的明确证据。
+English: For more than a thousand years since "Spring and Autumn," there have been no errors in using solar eclipses to test the new moon, which is clear evidence of the unchanging laws of the sun's movement.
+
+古文：且臣考影弥年，穷察毫微，课验以前，合若符契，孟子以为千岁之日至，可坐而知，斯言实矣。
+现代文：而且我多年来考校圭表的表影长度，仔细观察其微小变化，与以前的记述进行比较校验，结果非常符合。孟子曾经说过一千年的曰至情况坐着就可以知道，逭话看来是确实的。
+English: Moreover, over the years, I have examined the length of the face and shadow of the table, carefully observed its slight changes, compared and checked with previous descriptions, and the results are very consistent. Mencius once said that the situation of a thousand years can be known by sitting, and his words seem to be true.
+
+古文：日有缓急，未见其证，浮辞虚贬，窃非所惧。
+现代文：太阳运动一周有快慢没有看到有相应的证据，用虚浮的词语进行贬低不是我所害怕的。
+English: It is not my fear to disparage with vain words the sun's apparent slow motion through the week, without seeing corresponding evidence.
+
+古文：法兴议曰： 冲之既云冬至岁差，又谓虚为北中，舍形责影，未足为迷。
+现代文：戴法兴评论说： 祖冲之既然讲到冬至每年都有变动，又说虚宿位于北方各宿的中心，舍弃了根本问题不追究却对枝节问题吹毛求疵，这是不足以迷惑人的。
+English: Dai Faxing commented: Since Zu Chongzhi said that there are changes every year until the winter solstice, and also said that the virtual lodgings are located in the center of the northern lodgings, abandoning the fundamental problem without investigating but nitpicking the branch problems, this is not enough to confuse people.
+
+古文：何者？
+现代文：为什么呢?
+English: Why is that?
+
+古文：凡在天非日不明，居地以斗而辨，借令冬至在虚，则黄道弥远，东北当为黄钟之宫，室壁应属玄枵之位，虚宿岂得复为北中乎？
+现代文：天空中没有太阳不会明亮，在地面上要靠北斗星来辨别方向。假使冬至时太阳在虚宿，这时黄道相距很远，其东北应与黄钟的宫声相对应，室宿、壁宿应在属于玄枵星次的位置上，这样虚宿怎么可能还是在北方列宿的中心呢?
+English: Without the sun in the sky, it would not be bright. On the ground, it is necessary to rely on the Big Dipper to discern the direction. If the sun is in an imaginary abode at the time of the winter solstice, when the ecliptic is very far away, its northeast should correspond to the palace sound of the yellow bell, and the room and wall lodgings should be in the position belonging to the Hyades, how is it possible for the imaginary abode to still be in the center of the northern row of lodgings?
+
+古文：曲使分至屡迁，而星次不改，招摇易绳，而律吕仍往，则七政不以玑衡致齐，建时亦非摄提所纪，不知五行何居，六属安托。 
+现代文：不合理地使分至点不停地移动，又对星次不作改变，招摇改换了标准，而十二音律却保持依旧，这样曰月五星就不能用浑仪来掌握其运行规律，北斗斗柄所指的时令也不是摄提所标示的，这样就不知道五大行星的位置在哪裹，其六种属性又寄托在何处呢? 
+English: It is unreasonable to make the minutes to the point keep moving, and the order of the stars does not change, and the standard is changed, but the twelve-tone system remains the same. In this way, the five stars of the moon cannot use the compass to grasp their operation rules, and the season indicated by the Big Dipper handle is not marked by the camera. So we do not know where the position of the five planets is, and where its six attributes are stored.
+
+古文：冲之曰：此条所嫌，前牒已详。
+现代文：我说：这条评论所提出的怀疑在前文中已经详述。
+English: I said: The doubts raised by this comment have already been detailed in the previous paragraph.
+
+古文：次改方移，虚非中位，繁辞广证，自构纷惑，皆议者所谬误，非臣法之违设也。
+现代文：星次改变、方位移动，虚宿不是中心的位置，说得很多，也广泛引用了证据，自己造成了许多迷乱，这都是评论者的错谬，而不是我历法中的错失。
+English: The changing of the order of the stars, the shifting of the compass, the non-central position of the imaginary abode, the much-talked-about and much-cited proofs, the self-inflicted confusions, are the errors of the commentators, not of my calendar.
+
+古文：七政致齐，实谓天仪，郑、王唱述，厥训明允，虽有异说，盖非实义。
+现代文：曰月五星的运行规律实际上是说天象的固有情况，郑、王首先谈到了它，其解释明确而得当，虽然也有不同的说法，都不具实际的意义。
+English: Zheng and Wang first talked about it, and its explanation is clear and appropriate. Although there are different explanations, they have no practical significance.
+
+古文：法兴议曰： 夫置元设纪，各有所尚，或据文于图谶，或取效于当时。
+现代文：戴法兴评论说： 设置历元和纪首都有其侧重的方面，或者是根据图谶中的记述，或者以当时的效果为依据。
+English: Dai Faxing commented: The setting of the era and the beginning of the chronicle have their emphasis aspects, either according to the description in the map, or based on the effect at that time.
+
+古文：冲之云 群氏纠纷，莫审其会。 昔《黄帝》辛卯，日月不过，《颛顼》乙卯，四时不忒，《景初》壬辰，晦无差光，《元嘉》庚辰，朔无错景，岂非承天者乎？
+现代文：祖冲之说 各历法家争来论去，都没有领悟其中机要的，当年《黄帝历》上元在辛卯年，曰月的运动并未越轨；《颛顼历》在乙卯，四季也未出现差错；《景初历》在壬辰，黑夜也没有偏差而出现光亮；《元嘉历》在庚辰，朔日并未出现不同的天象，这些难道不是顺承了天象变化吗?
+English: Zu Chongzhi said that all the calendars have come and gone, but none of them have understood the important points. In the year of the "Yellow Emperor Calendar," the movement of the moon did not deviate from the original in the year of Xinwu; the "Dragon Calendar" did not make any mistakes in the four seasons in the second year of the second year of the second year of the second year of the second year of the second year of the second year of the second year of the second year of the second year of the second year of the second year of the second year of the second year of the third year of the second year of the second year of the second year of the second year
+
+古文：冲之苟存甲子，可谓为合以求天也。 
+现代文：祖冲之草率地选取甲子年可以说是为了符合而对天象提出要求。 
+English: It can be said that Zu Chong's hasty selection of the Year of the Rooster was in order to meet the requirements of the celestial elephant.
+
+古文：冲之曰：夫历存效密，不容殊尚，合谶乖说，训义非所取，虽验当时，不能通远，又臣所未安也。
+现代文：我说：历法既然要有效精密就不应该有什么特殊的侧重符合图谶的谬论所作的解释是不可取的虽然符合当时的效果又不能适用于长期，也是我所不能满足的。
+English: I said: Since the calendar should be effective and precise, there should not be any special emphasis. The explanation that conforms to the fallacy of graphs is not desirable, although it conforms to the effect of the time and cannot be applied to the long term, it is also unsatisfactory to me.
+
+古文：元值始名，体明理正。未详辛卯之说何依，古术诡谬，事在前牒，溺名丧实，殆非索隐之谓也。
+现代文：上元恰逢开始时的名称，事情是明确的，道理也是不偏不倚的我不清楚历元在辛卯的说法有何依据，古代的历法怪异荒谬，在前文中已经谈到，既看不到概念又没有实在的内容，恐怕不能作为探索隐秘的依据。
+English: Shangyuan coincides with the name of the beginning, the matter is clear, the reason is also impartial I do not know what basis there is for saying that the era is in Xinwu, the ancient calendar is strange and absurd, it has already been mentioned in the preamble, neither the concept is visible nor the real content, I am afraid it cannot be used as a basis for exploring secrets.
+
+古文：若以历合一时，理无久用，元在所会，非有定岁者，今以效明之。
+现代文：如果衹将历法与某一时的天象符合则不能长期使用，上元取在天体会合的时候而没有确定的年份，现在给予说明。
+English: If  matches the calendar with the celestial phenomenon at a certain time, it cannot be used for a long time. The upper element is taken at the time of the celestial conjunction, but there is no definite year. Now it is explained.
+
+古文：夏、殷以前，载籍沦逸，《春秋》汉史，咸书日蚀，正朔详审，显然可徵。以臣历检之，数皆协同，诚无虚设，循密而至，千载无殊，则虽远知矣。
+现代文：夏、商以前，有记述的书籍流失了，《春秋》和汉代的史书都有食记录，对正月朔日的记述十分详细清楚，明显可作为证据、用我的历法进行检验，其数据基本上相同，并没有落空的，依照严密的推算得到的结果，一千年都没有偏差，这样时间再久远也可以知道有关的天象情况。
+English: Before the Xia and Shang dynasties, books with descriptions were lost. "Spring and Autumn" and the history books of the Han Dynasty all have records of eclipses. The description of the New Year's Day is very detailed and clear, and can obviously be used as evidence and tested with my calendar. Its data are basically the same, and it has not failed. According to the results obtained by rigorous calculation, there is no deviation for a thousand years. In this way, it is possible to know the relevant celestial situation for a long time.
+
+古文：备阅曩法，疏越实多，或朔差三日，气移七晨，未闻可以下通于今者也。
+现代文：综观以前的历法，偏差很大的实在很多，或者朔相差了二天，或者节气有七天的偏离，没有听到有历法可以适用到现在的。
+English: Looking at the previous calendars, there are a lot of big deviations, or the new moon is two days away, or the solar terms are seven days away. I have not heard of any calendar that can be applied to the present.
+
+古文：元在乙丑，前说以为非正，今值甲子，议者复疑其苟合，无名之岁，自昔无之，则推先者，将何从乎？
+现代文：上元在乙丑年以前就有人说它是不正确的，现在轮到甲子年作为上元，评论者又怀疑它是草率地附会求合没有名称的年份以前就没有存在过，不然的话推求以前事情的人又依据什么呢?
+English: Some people said that the Shangyuan was incorrect before the Year of the Ox, and now it is the turn of the Year of the Goat to be the Shangyuan. Commentators also suspected that it was hastily added to match a year without a name that did not exist before. Otherwise, what is the basis for those who speculate on previous events?
+
+古文：历纪之作，几于息矣。
+现代文：历代的记事著作几乎都可以不要了。
+English: Almost all the historical records can be dispensed with.
+
+古文：夫为合必有不合，愿闻显据，以核理实。
+现代文：然而要使历法与天象符合也必然会有不符合的地方，我愿意听到明确的证据，以在道理与实际仁都更加明白。
+English: However, there are bound to be inconsistencies between the calendar and the celestial bodies, and I would like to hear clear evidence so that I can understand more clearly both in theory and in practice.
+
+古文：法兴曰： 夫交会之元，则蚀既可求，迟疾之际，非凡夫所测。
+现代文：戴法兴说： 交会的历元可以从食的现象来推求，运行的快慢则不是一般人就能推测的。
+English: Dai Faxing said: The era of the fair can be inferred from the phenomenon of eclipses, but the speed of operation cannot be guessed by ordinary people.
+
+古文：昔贾逵略见其差，刘洪粗著其术，至于疏密之数，莫究其极。
+现代文：当年贾逵衹大概知道运行速度的差异，刘洪也衹是粗略地撰述了推算方法，至于运行快慢的精密数据则未作透彻的研究。
+English: At that time, Jia Wei probably knew the difference in running speed, Liu Hongyao only roughly described the calculation method, but did not make a thorough study of the precise data of running speed.
+
+古文：且五纬所居，有时盈缩，即如岁星在轸，见超七辰，术家既追算以会今，则往之与来，断可知矣。
+现代文：而且五星位置常有前后的变化，就如岁星位于轸宿，出现了超七辰的情况，历算家既然通过推算来了解现在的情况，那么过去和将来如何也就肯定可以知道了。
+English: Moreover, the position of the five stars often changes back and forth, just as the year star is located in Oshuku, and there is a situation of more than seven hours. Since the calculator understands the current situation through calculation, then the past and the future can certainly be known.
+
+古文：《景初》所以纪首置差，《元嘉》兼又各设后元者，其并省功于实用，不虚推以为烦也。冲之既违天于改易，又设法以遂情，愚谓此治历之大过也。 冲之曰：迟疾之率，非出神怪，有形可检，有数可推，刘、贾能述，则可累功以求密矣。
+现代文：《景初历》在一纪的开始就设置丁相应的差值，《元嘉历》除此以外又设置了后设历元，这都是为了在实际运用中节省精力，不进行麻烦的虚浮推算、祖冲之既违背天象作了改变，又随心所欲地建立规定，我以为是制订历法的大过错一 我说：运行的快慢变化率并不是神怪产生出来的，它有形态可以观察，有数据可以推算，刘洪、贾逵能够对其叙述。则可以在其基础上更求精密了。
+English: "Jingchuan Calendar" sets the corresponding difference value of Ding at the beginning of a period, and "Yuanjia Calendar" sets a post-set calendar in addition to this. This is all to save energy in actual use, not to make troublesome false calculations. Zuchong not only changed the celestial phenomenon, but also established regulations at will. I thought it was a big mistake to formulate a calendar. I said: The rate of change in the speed of operation is not a miracle. It has a form that can be observed and data that can be calculated. Liu Hong and Jia Wei can describe it. Then it can be more precise on its basis.
+
+古文：议又云 五纬所居，有时盈缩 。 岁星在轸，见超七辰 。
+现代文：评论中又说 五星位置常有前后的变化 。 岁星位于轸宿，出现了超七辰的情况 。
+English: The commentary also said that the position of the five stars often changes before and after. The year star is located in Shibuya, and the situation of exceeding seven hours has appeared.
+
+古文：谓应年移一辰也。
+现代文：意思是说岁星应该每年移一辰。
+English: It means that the year star should move one hour every year.
+
+古文：案岁星之运，年恆过次，行天七匝，辄超一位。
+现代文：考究岁星的运行每年都超过一星次，绕天运行七圈就要超前一个位置。
+English: Every year, the run of the year star is more than one sidereal, and if it runs around the sky seven times, it will exceed the previous position.
+
+古文：代以求之，历凡十法，并合一时，此数咸同，史注所记，天验又符。
+现代文：对各代推求，历法有十余种，部是衹与一段时间相合，但这一数据却都是相同的，与史书：记载的天象校验后又是相符的。
+English: For each generation, there are more than ten kinds of calendars, some of which coincide with a period of time, but this data is the same, and it is consistent with the astronomical checks recorded in history books.
+
+古文：此则盈次之行，自其定准，非为衍度滥徙，顿过其冲也。
+现代文：这就是说岁星运行超过一次是其自身的规律，并不是超出厂限度的无规律移动才突然超出了它的轨道？
+English: That is to say, the year star running more than once is its own law, is it not an irregular movement beyond the factory limit that suddenly exceeds its orbit?
+
+古文：若审由盈缩，岂得常疾无迟。
+现代文：如果将它看作由运行快慢引起的，那怎么会一直是运行快而不慢呢?
+English: If you think of it as being caused by how fast or slow you're running, then how come you're always running fast and not slow?
+
+古文：夫甄耀测象者，必料分析度，考往验来，准以实见，据以经史。
+现代文：观测天象必然要知道天体位置的度分数，并与以前的观测考校且推测将来的情况作为验证，以实际所见为准，以经史中的记述作为依据。
+English: To observe celestial objects, it is necessary to know the degree fraction of the celestial object's position, and verify it with previous observations and speculate on the future situation. It is based on what is actually seen, and based on historical records.
+
+古文：曲辩碎说，类多浮诡，甘、石之书，互为矛盾。今以一句之经，诬一字之谬，坚执偏论，以罔正理，此愚情之所未厌也。
+现代文：歪曲怪诞的辩白和零碎的观点大都是虚浮不实的，甘、石所写的书也互相矛盾，现在又用经书中的一句话来硬说一个字是错的，坚持片面的说法以冒充正确的道理，这是我感情上所不能接受的。
+English: Distorting bizarre arguments and fragmentary views are mostly false, and the books written by Gan and Shi also contradict each other. Now they are using a word in the scripture to say that a word is wrong, and insisting on one-sided statements to pretend to be correct. This is something I cannot accept emotionally.
+
+古文：算自近始，众法可同，但《景初》之二差，承天之后元，实以奇偶不协，故数无尽同，为遗前设后，以从省易。
+现代文：推算总是从近处开始，各种方法可以相同，但是《景初历》中设置的两种差值，何承大所设置的后设历元，由于被除数的奇偶不协调，数值不尽相同，为使以前的得以保存，使以后的更为完备，以采取方便易行的方法为好。
+English: The calculation always starts from the nearest place, and various methods can be the same. However, the two difference values set in the "New Year's Calendar" and the post-set calendar set by He Chengda are not consistent due to the odd and even of the divisor, and the values are not the same. In order to preserve the previous and make the future more complete, it is better to adopt a convenient and easy-to-use method.
+
+古文：夫建言倡论，岂尚矫异，盖令实以文显，言势可极也。
+现代文：要建立一种观点怎么能崇尚无根据的怪异的学说呢?如今要把实际情况用文章表述出来，观点的倾向就非常清楚了，叙述的效果可以最好。
+English: To establish a point of view, how can we advocate groundless and bizarre theories? Nowadays, if we want to express the actual situation in an article, the tendency of the point of view is very clear, and the effect of the description can be the best.
+
+古文：稽元曩岁，群数咸始，斯诚术体，理不可容讥；而讥者以为过，谬之大者。然则《元嘉》置元，虽七率舛陈，而犹纪协甲子，气朔俱终，此又过谬之小者也。
+现代文：考查上元在以前的年份，许多数据都能从这裹起算，这不过是历法推算的具体内容，从道理上说是不容许受到讥讽的，讥讽者却认为这是很大的谬误然而《元嘉历》中设置的历元虽然不整齐地列出了七项，但仍然使纪与甲子联系在一起，节气、朔都以纪作为变化的结束，讥讽者又认为是小的谬误。
+English: In previous years, many data can be calculated from this bundle. This is just the specific content of the calendar calculation. It is not allowed to be ridiculed, but the mockers think it is a big fallacy. However, although the seven items of the calendar set in the "Yuanjia Calendar" are not neatly listed, they are still linked to Ji and Jiazi. The solar terms and New Year's Day all end with Ji as the change. The mockers think it is a small fallacy.
+
+古文：必当虚立上元，假称历始，岁违名初，日避辰首，闰余朔分，月纬七率，并不得有尽，乃为允衷之制乎？
+现代文：难道必须建立虚假的上元，假托为历法的开始，年岁的名称不能是开始的，日期的称呼也要避开辰中的第一个名称，闰余朔分和月亮、行星的七种数据都不能存在没有尾数的情况，这才是公平不偏的做法吗?
+English: Is it fair and just to establish a false Shangyuan, pretending to be the beginning of the calendar, the name of the year cannot be the beginning, the name of the date should also avoid the first name of the hour, and the leap second and the moon and the seven kinds of data of the planet cannot exist without the trailing number?
+
+古文：设法情实，谓意之所安；改易违天，未睹理之讥者也。
+现代文：随意设想各种数据说是其用意的所在，违反天象进行改变，不过是看不到有什么道理的讥讽者。
+English: To casually assume that the data is where it's at, to alter it against the grain, is to be a cynic who doesn't see the point.
+
+古文：法兴曰： 日有八行，合成一道，月有一道，离为九行，左交右疾，倍半相违，其一终之理，日数宜同。
+现代文：戴法兴说： 太阳有八种运动，合为一条轨道，月亮在一条轨道一运行，可分离为九种运动，时而交会，时而运行较快，增加一倍或减为一半情况都不相同然而按道理一终包含的天数应该相同。
+English: Dai Faxing said: The sun has eight kinds of movements, which are combined into one orbit, and the moon runs in one orbit and can be separated into nine kinds of movements, sometimes meeting, sometimes running faster, doubling or halving are different, but it is reasonable that the number of days included should be the same.
+
+古文：冲之通同与会周相觉九千四十，其阴阳七十九周有奇，迟疾不及一匝，此则当缩反盈，应损更益。 
+现代文：祖冲之的通周与会固有九千零四十的差别，这样在阴阳历周期的七十九周多的时间内会引起迟疾的推算有不到一周的变化，从而引起实际位置应该落后于按平均速度推算的位置时反而超前了的现象，速度慢时应该将其减小却反而增大了的现象。 
+English: Zu Chongzhi's weekly attendance has an inherent difference of nine thousand and forty. In this way, within more than seventy-nine weeks of the lunisolar calendar cycle, there will be a change of less than one week in the calculation of the delay, thus causing the phenomenon that the actual position should lag behind the position calculated by the average speed, but instead overtook it. When the speed is slow, it should be reduced, but instead increased.
+
+古文：冲之曰：此议虽游漫无据，然言迹可检。
+现代文：我说：这一评论虽然虚浮随意而没有根据，但其所说尚有踪迹可寻。
+English: I said: Although this comment is frivolous and unfounded, there is still a trace of what he said.
+
+古文：按以日八行譬月九道，此为月行之轨，当循一辙，环匝于天，理无差动也。
+现代文：探究其以太阳有八种运动来与月亮的九条轨道相比拟，造就是月亮运行轨道应当沿着一条轨迹在天空中环绕一周，在道理上说应没有偏差。
+English: The study compared the eight movements of the sun with the nine orbits of the moon, which means that the moon's orbit should follow a single trajectory around the sky, and there should be no deviation.
+
+古文：然则交会之际，当有定所，岂容或斗或牛，同丽一度。
+现代文：然而在交会时应该有确定的位置，怎么能容许一会儿在斗宿，一会儿又在牛宿而且又同在一度上呢?
+English: However, there should be a definite position at the meeting, how can it be allowed to stay in the fight for a while, in the cattle for a while, and at the same time?
+
+古文：去极应等，安得南北无常。
+现代文：到北极的角距离应该相等，怎么会在南北方向上没有一定的位置呢?
+English: The angular distance to the North Pole should be equal, so how can there be no definite position in the north-south direction?
+
+古文：若日月非例，则八行之说是衍文邪？
+现代文：如果太阳、月亮不是互相比照的，那么太阳有八种运动的说法是多出来的文字吗?
+English: If the sun and the moon are not in opposition to each other, then is the statement that the sun has eight movements an extra letter?
+
+古文：左交右疾，语甚未分，为交与疾对？
+现代文：时而交会，时而运动较快，说得也很不分明，是说交会与运动较快是相对立的概念吗?
+English: From time to time there is a junction, and from time to time there is a faster movement, it is also very unclear, does it mean that the junction and the faster movement are opposing concepts?
+
+古文：为舍交即疾？
+现代文：难道不交会就运动较快吗?
+English: Wouldn't the movement be faster without the meeting?
+
+古文：若舍交即疾，即交在平率入历七日及二十一日是也。值交蚀既当在盈缩之极，岂得损益，或多或少。
+现代文：如果是这样，交会应出现在迟疾历中的第七天和第二十一天恰逢交食发生在月亮运动变化最大的地方怎么会速度值的减少或增大会时大时小呢?
+English: If so, how is it that the conjunction should occur on the seventh day and the twenty-first day of the lunar calendar, when the conjunction occurs in the place where the movement of the moon changes the most? How is it that the decrease or increase of the speed value is large and small?
+
+古文：若交与疾对，则在交之冲，当为迟疾之始，岂得入历或深或浅，倍半相违，新故所同，复摽此句，欲以何明。
+现代文：如果交会与运动较快是相对立的，在与交会相对的地方应是月亮运行变慢或变快的开始处，怎么又有它在迟疾历中的位置变化呢增加一倍或减为一半情况都不相同，这在新旧历法中都是一样的，再写出这句话是想说明什么呢?
+English: If the rendezvous and the faster movement are opposite, and the place opposite the rendezvous should be the beginning of the moon running slower or faster, how can it change its position in the delayed calendar? Doubling or halving are not the same, which is the same in the new and old calendars. What is the point of writing this sentence?
+
+古文：臣览历书，古今略备，至如此说，所未前闻，远乖旧准，近背天数，求之愚情，窃所深惑。
+现代文：我阅读历书，古今都相当完备，然而以前从没有听到有如此说法的远与过去的标准相违背，近和实际天象不符合，我从情理上探求，深感迷惑不解。
+English: I read almanacs, both ancient and modern, quite well, but I have never heard such a statement before. It is far from contradicting the past standards, and it is not consistent with the actual celestial phenomena. I am searching for reason, and I am deeply puzzled.
+
+古文：寻迟疾阴阳不相生，故交会加时，进退无常，昔术著之久矣，前儒言之详矣。
+现代文：迟疾历、阴阳历并不是相互促进的，所以交会在两历中对应的日期是前后变化无常的，在以前的历法中早就阐述过了，以前的学者也有详细的叙述。
+English: The lunar calendar and the lunisolar calendar do not promote each other, so the date corresponding to the meeting in the two calendars is fickle. It has long been explained in previous calendars, and previous scholars have detailed descriptions.
+
+古文：而法兴云日数同。
+现代文：但戴法兴说它们曰数相同。
+English: But Dai Faxing said that they are the same.
+
+古文：窃谓议者未晓此意，乖谬自著，无假骤辩，既云盈缩失衷，复不备记其数，或自嫌所执，故泛略其说乎？
+现代文：我认为是评论者不知道这一道理，其错谬自很明显，无需多加辩论。既然说到运动速度的变化有偏差，又不将有关数据都记录下来，是不是自己也对所掌握的数据不满意就在其叙述中省略了呢?
+English: I think it is the commentator who does not know this truth. The fallacy is so obvious that there is no need for further debate. Since the change in the speed of movement is biased and the relevant data are not recorded, are they not satisfied with the data they have and omit it in their description?
+
+古文：又以全为率，当互因其分，法兴所列二数皆误，或以八十为七十九，当缩反盈，应损更益，此条之谓矣。
+现代文：另外以整体计算比率时就应该沿用各自原有的分数，戴法兴列出的两侗数据都是错误的，有时将八十当成七十九，应该落后时反而超前了，应该减小的反却增加了，就是说的这一条。
+English: In addition, when calculating the ratio as a whole, the original scores of each should be used. The two sets of data listed by Dai Fa Xing are all wrong. Sometimes, eighty is taken as seventy-nine, when it should be behind, it is ahead, when it should be reduced, it is increased, that is to say, this one.
+
+古文：总检其议，岂但臣历不密，又谓何承天法乖谬弥甚。
+现代文：总起来看戴法堡的评论，不衹是我的历法不精密，又说何承天的历法错谬更加厉害。
+English: All in all, according to the comments of Dai Fabo, it is not my calendar that is not precise, and it is said that the calendar error of He Zhe Tian is even more severe.
+
+古文：若臣历宜弃，则承天术益不可用。法兴所见既审，则应革创。
+现代文：如果我的历法应该抛弃，那么何承天的历法更加不能用了戴法兴的看法既然很清楚，就应该改革创制新的历法。
+English: If my calendar should be abandoned, then how much more so should the calendar of Heaven's Successor not be used. Since Dai Faxing's view is very clear, it is necessary to reform and create a new calendar.
+
+古文：至非景极，望非日冲，凡诸新说，必有妙辩乎？
+现代文：至曰不是圭表的表影长度最长或最短，望日不是月亮与太阳位置相对的时候，有这许多新的说法，必然会有高妙的辩解吧!
+English: So far, it is not the case that the length of the watch shadow of the Gui watch is the longest or the shortest, and the sun-gazing is not the time when the moon is opposite the sun. There are so many new sayings, there must be a clever justification!
+
+古文：时法兴为世祖所宠，天下畏其权，既立异议，论者皆附之。唯中书舍人巢尚之是冲之之术，执据宜用。
+现代文：当时戴法兴受到宋世祖的宠信，人们也艮惧他的权势，既然他说出丁不同的看法，谈论历法的人都附和他的意见衹有中书舍人巢尚之肯定了祖冲之的历法，坚持认为应该使用。
+English: At that time, Dai Faxing was favored by Song Shizu, and people were also afraid of his power. Since he expressed a different opinion, people who talked about the calendar followed his opinion. Some Chinese scholars affirmed the calendar of Zu Chongzhi and insisted that it should be used.
+
+古文：上爱奇慕古，欲用冲之新法，时大明八年也。
+现代文：皇帝喜爱特殊的见解敬慕古代的东西，准备采用祖冲之的新历法，当时是大明八年。
+English: The emperor, who had a special affinity for ancient things, was about to adopt Zu Chongzhi's new calendar in the eighth year of the Ming Dynasty.
+
+古文：故须明年改元，因此改历。未及施用，而宫车晏驾也。
+现代文：必须在第二年改变年号并由此改用新的历法，但尚未来得及使用该历，皇帝就去世了。
+English: The year had to be changed the following year and the new calendar adopted, but before the new calendar could be used, the emperor died.
+

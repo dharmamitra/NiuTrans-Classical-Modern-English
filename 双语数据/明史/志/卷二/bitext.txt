@@ -1,0 +1,944 @@
+古文：◎天文二
+现代文：天文二
+English: Tianwen 2
+
+古文：▲月掩犯五纬
+现代文：月掩犯五纬
+English: The moon hides the criminals
+
+古文：洪武元年五月甲申，犯填星。
+现代文：洪武元年五月甲申日，月球侵犯镇星。
+English: In May of the first year of Hongwu, on the 6th day of the 6th month, the moon invaded the town.
+
+古文：十二年三月戊辰朔，犯辰星。
+现代文：十二年三月戊辰初一，月球侵犯辰星。
+English: On the first day of the third month of the twelfth year, the moon invaded the star.
+
+古文：十四年十一月甲午，犯填星。
+现代文：十四年十一月甲午日，月球侵犯镇星。
+English: On the afternoon of November 14th, the moon invaded the town.
+
+古文：十九年五月己未，犯岁星。
+现代文：十九年五月己末日，月球侵犯岁星。
+English: It was the last day of May, 1919, and the moon was encroaching on the stars.
+
+古文：二十三年四月丁酉，掩太白。
+现代文：二十三年四月丁酉日，月球遮掩太白星。
+English: On the 23rd day of the 4th lunar month, the moon occulted a white star.
+
+古文：十一月癸卯及永乐四年正月戊午，五年六月丙午，七年十二月壬子，俱犯荧惑。
+现代文：十一月癸卯日，以及永乐四年正月戊午日，五年穴月丙午日，七年十二月壬子日，月球都曾侵犯荧惑星。
+English: In November on the day of Wu, and in Yongle in the first month of the fourth year on the day of Wu, in the fifth year on the day of Wu, and in the seventh year in December on the day of Renzi, the moon invaded the fluorescent planet.
+
+古文：八年十二月壬子，九年四月庚子，十六年七月戊辰，俱犯岁星。
+现代文：永乐八年十二月壬子日，九年四月庚子日，十六年七月戊辰日，月球都曾侵犯岁星。
+English: In December of Yongle 8th year, Ren Zi Day, April 9th year, Geng Zi Day, July 16th year, Bo Chen Day, the moon has invaded the year star.
+
+古文：十八年十一月辛卯，掩太白。
+现代文：十八年十一月辛卯日，月球遮掩太白星。
+English: On November 18th, Xinwu Day, the moon covered the white star.
+
+古文：二十年三月辛未，掩填星。
+现代文：二十年三月辛末日，月球遮掩镇星。
+English: On the 20th day of March, the last day of the year, the moon hides the town's star.
+
+古文：二十二年八月乙丑，犯荧惑。
+现代文：二十二年八月乙丑日，月球侵犯荧惑星。
+English: On August 22nd, the day of the second lunar eclipse, the moon invaded the fluorescent planet.
+
+古文：洪熙元年二月己未，掩填星。
+现代文：洪熙元年二月己末日，月球遮掩镇星。
+English: In February of the first year of Hongxi, the last day of the year, the moon covered the town star.
+
+古文：宣德元年十二月丙子，掩荧惑。
+现代文：宣德元年十二月丙子日，月球遮掩荧惑星。
+English: On December 31st, the first year of Xuande, the moon occulted the fluorescent planet.
+
+古文：二年正月癸卯，犯荧惑。四月甲申，犯太白。
+现代文：二年正月癸卯日，月球侵犯荧惑星；四月甲申日，月球侵犯太白星。
+English: On the 2nd day of the 1st month of the 2nd year, the moon invaded the fluorescent planet; on the 6th day of the 4th month, the moon invaded the white star.
+
+古文：六年十月丙申，掩太白。
+现代文：六年十月丙申日，月球遮掩太白星。
+English: In October of the sixth year, the moon covered the white star.
+
+古文：七年二月甲寅，犯填星。
+现代文：七年二月甲寅日，月球侵犯镇星。
+English: In February of the seventh year, the moon invaded the town star.
+
+古文：八年二月癸巳，掩岁星。四月戊子，犯岁星。
+现代文：八年二月癸巳日，月球遮掩岁星；四月戊子日，月球侵犯岁星。
+English: In February of the eighth year, the moon occulted the year star; in April, the moon invaded the year star.
+
+古文：正统二年正月辛亥，掩岁星。四月癸酉、五月庚子，俱犯岁星。七月戊申，犯荧惑。
+现代文：亚统二年正月辛亥日，月球遮掩岁星；四月癸酉日，五月庚子日，月球都侵犯岁星；七月戊申日，月球侵犯荧惑星。
+English: In the first month of the second year of Asia Unification, on the day of Xinhai, the moon occulted the year star; on the third day of April and the day of Geng Zi in May, the moon invaded the year star; on the day of Boshen in July, the moon invaded the fluorescent planet.
+
+古文：四年正月乙酉，掩填星。
+现代文：四年正月乙酉日，月球遮掩镇星。
+English: On Acetylene Day of the first month of the fourth year, the moon covered the town star.
+
+古文：八年三月庚申，犯填星。十一月丙寅，掩岁星。
+现代文：八年三月庚申日，月球侵犯镇星；十一月丙寅日，月球遮掩岁星。
+English: In March of the eighth year, the moon invaded the town star; in November, the moon occulted the year star.
+
+古文：十年十一月辛卯，犯荧惑。
+现代文：十年十一月辛卯日，月球侵犯荧惑星。
+English: On November 10th, the Moon invaded the fluorescent planet.
+
+古文：十一年十二月甲寅，犯岁星。
+现代文：十一年十二月甲寅日，月球侵犯岁星。
+English: On December 11th, the moon invaded the year star.
+
+古文：十二年正月辛巳，闰四月庚午，俱犯岁星。
+现代文：十二年正月辛巳日，闰四月庚午日，月球都侵犯岁星。
+English: On the first day of the first month of the twelfth year, Xinshi Day, and on the leap day of the fourth month, Gengmo Day, the moon will invade the year star.
+
+古文：十四年四月壬子，犯太白。五月癸未，掩太白。
+现代文：十四年四月壬子日，月球侵犯太白星；五月癸末日，月球遮掩太白星。
+English: On April 14th, Mizi Day, the moon encroaches on Taibai Star; on the last day of May, the moon covers Taibai Star.
+
+古文：景泰二年四月戊子，犯岁星。九月甲辰，犯岁星于斗。
+现代文：景泰二年四月戊子日，月球侵犯岁星；九月甲辰日，月球在斗宿侵犯岁星。
+English: In April of the second year of Jing Tai, the moon invaded the year star; in September of the first hour, the moon invaded the year star in Douxing.
+
+古文：五年二月丁亥，犯太白。
+现代文：五年二月丁亥日，月球侵犯太白星。
+English: In February of the fifth year, on the day of Dinghai, the moon invaded the white star.
+
+古文：六年正月甲寅，犯岁星。
+现代文：六年正月甲寅日，月球侵犯岁星。
+English: On the first day of the first month of the sixth year, the moon invaded the year star.
+
+古文：七年四月癸丑，犯填星。乙丑，犯太白。
+现代文：七年四月癸丑日，月球侵犯镇星；乙丑日，月球侵犯太白星。
+English: In April 7th, the Ugly Day, the moon invaded the town star; the Ugly Day, the moon invaded the white star.
+
+古文：天顺五年十一月己亥，犯太白于斗。
+现代文：天顺五年十一月己亥日，月球在斗宿侵犯太白星。
+English: In November of the 5th year of Tianshun, on the day of Ji Hai, the moon invaded the Taibai Star in Douxue.
+
+古文：成化五年二月丙申、癸亥，俱犯岁星。
+现代文：成化五年二月丙申日、癸亥日，月球两次都侵犯岁星。
+English: In February of the 5th year of the Monkey King, the moon invaded the year star twice.
+
+古文：六年三月癸未，八年正月癸亥，俱犯太白。
+现代文：成化六年三月癸未日，八年正月癸亥日，月球都侵犯太白星。
+English: On the day before the full moon in March of the sixth year, and on the day of the full moon in the first month of the eighth year, the moon invaded Taibai.
+
+古文：十二年十一月戊申，犯岁星于室。
+现代文：十二年十一月戊申日，月球在室宿侵犯岁星。
+English: On November 12th, the lunar new year, the moon invaded the new year star in Muroshuku.
+
+古文：十三年十月乙卯，犯填星。十二月丁酉，犯太白。
+现代文：十三年十月乙卯日，月球侵犯镇星；十二月丁酉日，月球侵犯太白星。
+English: On October 13th, the moon invaded the town star; on December 13th, the moon invaded the white star.
+
+古文：十四年三月戊辰，十八年二月戊午，俱犯填星。
+现代文：十四年三月戊辰日，十八年二月戊午日，月球都侵犯镇星。
+English: On the 14th day of March and the 18th day of February, the moon encroached on the town.
+
+古文：八月己酉，二十三年四月乙亥，俱掩荧惑。
+现代文：十八年八月己酉日，二十三年四月乙亥日，月球都曾遮掩荧惑星。
+English: In August 18 and April 23, the moon occulted the planet.
+
+古文：五月戊午，六月乙酉，俱犯岁星。十月甲戌，掩岁星。
+现代文：二十三年五月戊午日，六月乙酉日，月球都侵犯岁星；十月甲戌日，月球又遮掩岁星。
+English: On the 23rd of May at noon, and on the 23rd of June at noon, the moon encroached on the year star; on the 23rd of October at noon, the moon occulted the year star.
+
+古文：弘治四年二月壬子，犯岁星。
+现代文：弘治四年二月壬子日，月球侵犯岁星。
+English: In February of the 4th year of the Heian period, the moon invaded the year star.
+
+古文：七年十一月戊申，犯荧惑。
+现代文：七年十一月戊申日，月球侵犯荧惑星。
+English: In November of the seventh year, the moon invaded the fluorescent planet.
+
+古文：八年正月癸卯，犯岁星。十二月丙辰，掩填星。
+现代文：八年正月癸卯日，月球侵犯岁星；十二月丙辰日，月球遮掩镇星。
+English: On the day of the first month of the eighth year, the moon invaded the year star; on the day of December, the moon covered the town star.
+
+古文：十一年四月甲申、九月庚子，俱犯岁星。
+现代文：十一年四月甲申日，九月庚子日，月球都慢犯岁星。
+English: On April 11, Jia Sheng Day, and September Geng Zi Day, the moon is a slow-moving New Year's star.
+
+古文：十二年八月壬寅，犯荧惑。
+现代文：十二年八月壬寅日，月球侵犯荧惑星。
+English: On August 12, Ren Yin Day, the moon invaded the fluorescent planet.
+
+古文：十四年七月丁卯，九月己丑，俱犯岁星。丙辰，掩岁星。十二月癸丑，犯荧惑。
+现代文：十四年七月丁卯日，九月己丑日，月球都侵犯岁星；丙辰日，又遮掩岁星；十二月癸丑日，又侵犯荧惑星。
+English: On July 14th, Dingwu Day, and September Fool's Day, the moon encroached on the year star; on Bixin Day, it also covered the year star; on December Fool's Day, it also encroached on the fluorescent planet.
+
+古文：十七年十一月甲辰，犯岁星。
+现代文：十七年十一月甲辰日，月球侵犯岁星。
+English: On the first hour of the 17th day of the 11th month, the moon invaded the year star.
+
+古文：十八年二月丙寅，掩岁星。九月乙巳，掩填星。
+现代文：十八年二月丙寅日，月球遮掩岁星；九月乙巳日，月球又遮掩镇星。
+English: In February 18th, on the day of Yin and Yang, the moon occulted the year star; on the day of Yin and Yang in September, the moon occulted the town star.
+
+古文：正德元年十一月己卯，犯太白。
+现代文：正德元年十一月己卯日，月球侵犯太白星。
+English: In November of the first year of Zhengde, the moon invaded the white star.
+
+古文：四年闰九月癸亥，犯岁星。
+现代文：四年闰九月癸亥日，月球侵犯岁星。
+English: Every four years, the moon encroaches on the Chinese New Year star on the day of the Chinese New Year in September.
+
+古文：八年正月己丑，犯填星。
+现代文：八年正月己丑日，月球侵犯镇星。
+English: On the first day of the first month of the eighth year, the moon invaded the town star.
+
+古文：十六年二月丙戌，掩太白。
+现代文：十六年二月丙戌日，月球遮掩太白星。
+English: On the 16th day of the 2nd month of the year, the moon covered the white star.
+
+古文：嘉靖二年五月戊子，掩岁星。十一月壬申，犯岁星。
+现代文：嘉靖二年五月戊子日，月球遮掩岁星；十一月壬申日，月球侵犯岁星。
+English: In May of the second year of Jiajing, the moon occulted the year star; in November of the second year of Jiajing, the moon invaded the year star.
+
+古文：十七年十二月己未，犯填星。
+现代文：十七年十二月己末日，月球侵犯镇星。
+English: On December 17th, the last day of the year, the moon invaded the town.
+
+古文：十八年十月丙戌，犯荧惑。
+现代文：十八年十月丙戌日，月球侵犯荧惑星。
+English: On October 18th, the moon invaded the fluorescent planet.
+
+古文：二十年五月辛卯，犯岁星。
+现代文：二十年五月辛卯日，月球侵犯岁星。
+English: On the 20th day of the 5th month of Xinwu, the moon invaded the year star.
+
+古文：二十一年四月甲寅，二十七年七月丁丑，俱犯太白。九月庚子，犯太白于角。
+现代文：二十一年四月甲寅日，二十七年七月丁丑日，月球都侵犯太白星；九月庚子日，又在角宿侵犯太白星。
+English: On April 21st, the day of Kato, and on July 27th, the day of Tingushi, the moon encroached on Taibai Star. In September, the day of Geng Zi, it encroached on Taibai Star in Kakushuku.
+
+古文：三十一年五月辛丑，犯填星。九月庚寅，掩填星。十二月丁卯，犯岁星。
+现代文：三十一年五月辛丑日，月球侵犯镇星；九月庚寅日，月球遮掩镇星；十二月丁卯日，月球侵犯岁星。
+English: On May 31st, Xin Ugly Day, the moon invaded the town star; in September, Geng Yin Day, the moon covered the town star; in December, Ding Wu Day, the moon invaded the year star.
+
+古文：四十二年五月庚辰，掩岁星。
+现代文：四十二年五月庚辰日，月球遮掩岁星。
+English: On the day of Geng Chen in May, 42, the moon occulted the year star.
+
+古文：四十四年七月丁巳，犯荧惑。
+现代文：四十四年七月丁巳日，月球侵犯荧惑星。
+English: On July 24th, the moon invaded the fluorescent planet.
+
+古文：万历二年九月己卯，犯荧惑于箕。
+现代文：万历二年九月己卯日，月球在箕宿侵犯荧惑星。
+English: In September of the second year of Wanli, the moon invaded the fluorescent planet in Xizhou.
+
+古文：十年八月戊申，犯荧惑于井。
+现代文：十年八月戊申日，月球在井宿侵犯荧惑星。
+English: On August 10th, the moon invaded the fluorescent planet at Jingdu.
+
+古文：十四年八月己丑，犯太白于角。
+现代文：十四年八月己丑日，月球在角宿侵犯太白星。
+English: On August 14th, the Ugly Day, the moon encroached on Taibai Star in Kakunodate.
+
+古文：十五年六月乙丑，十九年九月辛未，俱犯荧惑。
+现代文：十五年六月乙丑日，十九年九月辛末日，月球都侵犯荧惑星。
+English: On June 15th, the day of the Ugly Goat, and on September 19th, the last day of the Year of the Pig, the moon invaded the fluorescent planet.
+
+古文：十二月甲辰，犯填星于井。
+现代文：十九年十二月甲辰日，月球在井宿侵犯镇星。
+English: On the first hour of the 19th day of December, the moon invaded the town star in Jingdu.
+
+古文：二十四年正月甲申，犯填星于张。
+现代文：二十四年正月甲申日，月球在张宿侵犯镇星。
+English: On the first day of the first month of the twenty-fourth year, the moon invaded the town star in Zhangshu.
+
+古文：二十七年九月辛亥，犯太白。
+现代文：二十七年九月辛亥日，月球侵犯太白星。
+English: In September of the 27th year, the day of Xinhai, the moon invaded the white star.
+
+古文：三十一年五月癸未，犯太白，三十五年六月乙未，犯填星于斗。
+现代文：三十一年五月癸末日，月球侵犯太白星。三十五年六月乙末日，月球在斗宿侵犯镇星。
+English: On the last day of May, 31st, the moon invaded Taibai Star. On the last day of June, 35th, the moon invaded Zhenxing in Douxing.
+
+古文：三十七年八月辛酉，犯填星。
+现代文：三十七年八月辛酉日，月球侵犯镇星。
+English: In August of the year thirty-seven, the moon invaded the town.
+
+古文：四十一年九月癸未，犯岁星。
+现代文：四十一年九月癸末日，月球侵犯岁星。
+English: At the end of September, 1941, the moon encroached on the year star.
+
+古文：崇祯三年八月辛亥，掩太白。
+现代文：崇祯三年八月辛亥日，月球遮掩太白星。
+English: On the day of Xinhai in August of the third year of Chongzhen, the moon obscured the white star.
+
+古文：十一年四月己酉，掩荧惑于尾。
+现代文：十一年四月己酉日，月球在尾宿遮掩荧惑星。
+English: On April 11th, the moon occulted the fluorescent planet in the trailing quarter.
+
+古文：▲五纬掩犯洪武六年三月戊申，荧惑犯填星。六月壬辰，太白犯岁星。
+现代文：洪武六年三月戊申日，荧惑星侵犯镇星；六月壬辰日，太白星侵犯岁星。
+English: In March of the sixth year of Hongwu, on the day of Boshen, the fluorescent planet invaded the town star; in June, on the day of Yinchen, the white star invaded the year star.
+
+古文：八年三月癸亥，荧惑犯填星。
+现代文：八年三月癸亥日，荧惑星侵犯镇星。
+English: In March of the eighth year, on the day of the boar, the fluorescent planet invaded the town star.
+
+古文：二十二年六月丙辰，辰星犯太白。
+现代文：二十二年六月丙辰日，辰星侵犯太白星。
+English: On June 22nd, the day of Yin Yin, the star of Yin Yin invaded the star of Tai Baishi.
+
+古文：二十七年三月乙丑，荧惑犯岁星于奎。
+现代文：二十七年三月乙丑日，荧惑星在奎宿侵犯岁星。
+English: In March of the 27th year, on the day of the Ugly E, the fluorescent planet invaded the year star in Kuishuku.
+
+古文：永乐三年三月戊戌，太白犯岁星。十一月癸巳朔，太白犯辰星于箕。
+现代文：永乐三年三月戊戌日，太白星侵犯岁星；十一月癸巳初一，太白星在箕宿侵犯辰星。
+English: On the 3rd day of the 3rd month of the 3rd year of Yongle, the Taibai Star invaded the New Year Star; on the 1st day of the 1st month of the 11th year of Yongle, the Taibai Star invaded the New Year Star.
+
+古文：四年正月癸卯，太白犯岁星。
+现代文：四年正月癸卯日，太白星侵犯岁星。
+English: On the first day of the first month of the fourth year, Taibai Star invaded the New Year Star.
+
+古文：五年七月甲子。荧惑犯填星。
+现代文：五年七月甲子日，荧惑星侵犯镇星。
+English: On July 1st, the fifth year, the fluorescent planet invaded the town star.
+
+古文：十二年十一月丁卯，太白犯岁星。
+现代文：十二年十一月丁卯日，太白星侵犯岁星。
+English: On November 12th, the day of Dingwu, Taibai Star invaded the New Year Star.
+
+古文：十四年七月乙巳，太白犯填星。
+现代文：十四年七月乙巳日，太白星侵犯镇星。
+English: On the 14th day of the 7th month, Taibai Xing invaded Zhenxing.
+
+古文：二十年九月乙亥，太白犯岁星。十月己酉，太白犯填星。
+现代文：二十年九月乙亥日，太白星侵犯岁星；十月己酉日，太白星侵犯镇星。
+English: On September 20th, the day of Yihai, the Taibai Star invaded the Year Star; on October 6th, the Taibai Star invaded the Town Star.
+
+古文：洪熙元年十一月丙午，太白犯填星。
+现代文：洪熙元年十一月丙午日，太白星侵犯镇星。
+English: On the afternoon of November 3rd in the first year of Hongxi, Taibaixing invaded Zhenxing.
+
+古文：宣德元年十一月戊戌，辰星犯填星。
+现代文：宣德元年十一月戊戌日，辰星侵犯镇星。
+English: In November of the first year of Xuande, the star of the hour invaded the star of the town.
+
+古文：七年六月己酉，太白犯岁星。七月辛巳，太白犯荧惑。
+现代文：七年六月己酉日，太白星侵犯岁星；七月辛巳日，太白星侵犯荧惑星。
+English: In June of the seventh year, Taibai invaded the Year Star; in July, Taibai invaded the Fluorescent Planet.
+
+古文：九年十一月己亥，太白犯填星。
+现代文：九年十一月己亥日，太白星侵犯镇星。
+English: In November of the ninth year, on Ji Hai Day, Tai Bai Xing invaded Zhen Xing.
+
+古文：十年十月庚子，荧惑犯填星。
+现代文：十年十月庚子日，荧惑星侵犯镇星。
+English: In October of the 10th year, the day of Geng Zi, the fluorescent planet invaded the town star.
+
+古文：正统元年五月戊寅，太白犯荧惑于井。
+现代文：正统元年五月戊寅日，太白星在井宿侵犯荧惑星。
+English: In May of the first year of the orthodox era, Taibai Star invaded the fluorescent planet in Ijuku.
+
+古文：二年五月辛丑，荧惑犯填星。
+现代文：二年五月辛丑日，荧惑星侵犯镇星。
+English: In May of the second year, on the fateful day, the fluorescent planet invaded the town star.
+
+古文：三年十二月戊寅，太白犯岁星。
+现代文：三年十二月戊寅日，太白星侵犯岁星。
+English: In December of the third year, on the day of Wu Yin, Taibai Star encroached on the New Year Star.
+
+古文：五年五月丙午，太白犯填星。
+现代文：五年五月丙午日，太白星侵犯镇星。
+English: On the afternoon of May 5th, Taibaixing invaded Zhenxing.
+
+古文：七年九月戊午，太白犯荧惑于氐。
+现代文：七年九月戊午日，太白星在氐宿侵犯荧惑星。
+English: On the afternoon of September 7th, Taibai Star invaded the fluorescent planet in Oshuku.
+
+古文：十一年九月丁亥，太白犯岁星。
+现代文：十一年九月丁亥日，太白星侵犯荧惑星。
+English: On September 11th, Dinghai Day, the Taibai Star invaded the fluorescent planet.
+
+古文：十二年七月戊午，荧惑犯填星。
+现代文：十二年七月戊午日，荧惑星侵犯镇星。
+English: On the afternoon of July 12, the fluorescent planet invaded the town star.
+
+古文：十四年二月己卯，太白犯荧惑。七月丙午，荧惑犯填星。
+现代文：十四年二月己卯日，太白星侵犯荧惑星；七月丙午日，荧惑星侵犯镇星。
+English: On February 14th, Taibai Star invaded the fluorescent planet; on July 3rd, the fluorescent planet invaded Zhenxing.
+
+古文：景泰元年闰正月丁卯，荧惑犯岁星。
+现代文：景泰元年闰正月丁卯日，荧惑星侵犯岁星。
+English: In the leap year of the 1st month of the 1st year of the 1st month of the 1st year of the 1st year of the 1st year of the 1st year of the 1st year of the 1st year of the 1st year of the 1st year of the 1st year of the 1st year of the 1st year of the 1st year of the 1st year of the 1st year of the 1st year of the 1st year of the 1st year of the 1st year of the 1st year of the 1st year of the 1st year of the 1st year of the 1st year of the 1st year of the 1st year of the 1st
+
+古文：天顺七年十一月乙卯朔，荧惑犯填星。
+现代文：玉顺七年十一月乙卯初一，荧惑星侵犯镇星。
+English: On the first day of the seventh month of the 11th year of the 11th month of the 7th year of the 11th year of the 11th year of the 11th year of the 11th year of the 11th year of the 11th year of the 11th year of the 11th year of the 11th year of the 11th year of the 11th year of the 11th year of the 11th year of the 11th year of the 11th year of the 11th year of the 11th year of the 11th year of the 11th year of the 11th year of the 11th year of the 11th year of the 11th year of the 11th year of the 11th year
+
+古文：成化六年九月乙亥，太白犯岁星。
+现代文：成化六年九月乙亥日，太白星侵犯岁星。
+English: In September of the sixth year of the Heian period, Taibai Star invaded the New Year's Star.
+
+古文：十一年七月戊辰，太白犯填星。
+现代文：十一年七月戊辰日，太白星侵犯镇星。
+English: On July 11th, the day of Pentecost, Taibaixing invaded Zhenxing.
+
+古文：十三年九月丙寅，荧惑犯填星。
+现代文：十三年九月丙寅日，荧惑星侵犯镇星。
+English: On September 13th, the fluorescent planet invaded the town star.
+
+古文：十六年六月壬申，太白犯岁星。
+现代文：十六年六月壬申，太白星侵犯岁星。
+English: In June 16th, Jinshin, Taibai Star encroached on the New Year Star.
+
+古文：弘治二年正月戊辰，太白犯岁星。十一月壬午，太白犯填星。
+现代文：弘治二年正月戊辰日，太白星侵犯岁星；十一月壬午，太白星侵犯镇星。
+English: On the day of the first month of the second year of the Hongzhi era, the Taibai Star encroached on the Year Star; in November at noon, the Taibai Star encroached on the Town Star.
+
+古文：三年正月庚申，太白犯填星。
+现代文：三年正月庚申日，太白星侵犯镇星。
+English: On the third day of the first month of the year, Taibaixing invaded Zhenxing.
+
+古文：五年八月丁未，荧惑犯岁星。
+现代文：五年八月丁末日，荧惑星侵犯岁星。
+English: At the end of August of the fifth year, the fluorescent planet invaded the year star.
+
+古文：六年十一月己未，太白犯填星。
+现代文：六年十一月己末日，太白星侵犯镇星。
+English: In November of the sixth year, the last day of the year, Tai Bai Xing invaded Zhen Xing.
+
+古文：七年九月甲寅及十年正月丙辰，荧惑犯岁星。十二月庚辰，辰星犯岁星。
+现代文：七年九月甲寅日，以及十年正月丙辰日，荧惑星侵犯岁星；十二月庚辰日，辰星侵犯岁星。
+English: In September of the seventh year, on the day of Jia Yin, and in the first month of the tenth year, on the day of Jian Chen, the fluorescent planet invaded the year star; in December, on the day of Jian Chen, the year star invaded the year star.
+
+古文：十七年闰四月癸酉，岁星犯填星。
+现代文：十七年闰四月癸酉日，岁星侵犯镇星。
+English: On the seventeenth leap April day, the year star invaded the town star.
+
+古文：正德二年十月癸未，荧惑犯填星。
+现代文：廷德二年十月癸末日，荧惑星侵犯镇星。
+English: At the end of October of the second year of Tynd, the fluorescent planet invaded the town star.
+
+古文：八年正月壬午及十六年十二月丙午，俱太白犯岁星。
+现代文：八年正月壬午日，以殿十六年十二月丙午日，都出现太白星侵犯岁星。
+English: On the morning of the first month of the eighth year, and on the morning of the second day of the sixteenth year, a white star appeared to invade the year star.
+
+古文：嘉靖元年正月己未，太白犯岁星。十二月甲戌，太白犯填星。
+现代文：嘉靖元年正月己末日，太白星侵犯岁星；十二月甲戌日，太白星侵犯镇星。
+English: On the last day of the first month of the first year of Jiajing, the white star encroached on the year star; on December 6th, the white star encroached on the town star.
+
+古文：三年正月癸酉，太白犯岁星。
+现代文：三年正月癸酉日，太白星侵犯岁星。
+English: On the third day of the first month of the year, Taibaixing encroached on the New Year's Star.
+
+古文：二十九年六月庚辰，荧惑犯岁星守井。
+现代文：二十九年六月庚辰日，荧惑星侵犯岁星，停留在井宿。
+English: On the day of Geng Chen in June 29, the fluorescent planet invaded the year star and stayed in the well.
+
+古文：万历五年十二月辛丑，太白犯填星于斗。
+现代文：万历五年十二月辛丑日，太白星在斗宿侵犯镇星。
+English: On the fateful day of December in the fifth year of Wanli, Tai Baixing invaded Zhenxing in Douxing.
+
+古文：九年十二月癸巳，太白犯填星入危。
+现代文：九年十二月癸巳日，太白星侵犯镇星，侵入危宿。
+English: On December 9th, Taibai Xing invaded Zhenxing and broke into the dangerous quarters.
+
+古文：十一年六月丁丑，太白犯荧惑。
+现代文：十一年六月丁丑日，太白星侵犯荧惑星。
+English: On the 11th day of the 6th month of the Dingwuxi year, the Taibai star invaded the fluorescent planet.
+
+古文：十五年五月己亥，太白犯填星。
+现代文：十五年五月己亥日，太白星侵犯镇星。
+English: In May of the fifteenth year, on Ji Hai Day, Tai Bai Xing invaded Zhen Xing.
+
+古文：二十四年四月己酉，太白犯岁星。
+现代文：二十四年四月己酉日，太白星侵犯岁星。
+English: On April 24th, Taibai Xing violated the New Year's Star.
+
+古文：二十五年七月甲辰，荧惑犯岁星。
+现代文：二十五年七月甲辰日，荧惑星侵犯岁星。
+English: On the first hour of the seventh month of the 25th year, the fluorescent planet invaded the year star.
+
+古文：二十七年闰四月庚寅，辰星犯太白于井。
+现代文：二十七年闰四月庚寅日，辰星在井宿侵犯太白星。
+English: On the 27th year of the leap month of April, the day of the rooster, the star of the hour invaded the white star in the well.
+
+古文：三十四年十一月庚辰，荧惑掩岁星于危；甲辰，荧惑犯岁星。
+现代文：三十四年十一月庚辰日，荧惑星在危宿遮掩岁星；甲辰日，荧惑星侵犯岁星。
+English: In November of the year thirty-four, on the day of Geng Chen, the fluorescent planet occulted the year star in the dangerous place; on the day of Ji Chen, the fluorescent planet invaded the year star.
+
+古文：三十八年十一月辛亥，太白犯填星于虚。
+现代文：三十八年十一月辛亥日，太白星在虚宿侵犯镇星。
+English: In November of the 38th year, the day of Xinhai, Tai Baixing invaded the town of Xingxing.
+
+古文：四十七年三月壬子，太白犯岁星于壁。
+现代文：四十七年三月壬子日，太白星在壁宿侵犯岁星。
+English: In March of the 47th year, on the day of Ren Zi, Taibai star invaded the year star in the wall lodge.
+
+古文：天启元年八月丙申，荧惑与太白同度者两日。
+现代文：天启元年八月丙申日，荧惑星与太白星同一度数的现象长达两天。
+English: On the day of the first day of August in the year of the Apocalypse, the phenomenon of the same number of times between the fluorescent planet and the white star lasted for two days.
+
+古文：崇祯九年六月己亥，太白犯岁星于张。
+现代文：崇祯九年六月己亥日，太白星在张宿侵犯岁星。
+English: In June of the 9th year of Chongzhen, on the day of the Chinese Year of the Pig, Taibai Star invaded the Year Star in Zhangshu.
+
+古文：▲五纬合聚洪武十四年六月癸未，辰星、荧惑、太白聚于井。
+现代文：洪武十四年六月癸末日，辰星、荧惑星、太白星在井宿会聚。
+English: On the last day of June in the 14th year of Hongwu, the star, the fluorescent planet, and the white star gathered in the well.
+
+古文：十七年六月丙戌，岁星、填星、太白聚于参。
+现代文：十七年六月丙戌日，岁星、镇星、太白星在参宿会聚。
+English: On the 17th day of the 6th month of the 17th year, the year star, the town star, and the white star gathered at the residence.
+
+古文：十八年二月乙巳，五星并见。三月戊子，填星、岁星、太白聚于井。
+现代文：十八年二月乙巳日，五星一同出现；三月戊子日，镇星、岁星、太白星在井宿会聚。
+English: On February 18th, the day of the snake, the five stars appeared together; on March 18th, the day of the goat, the town star, the year star, and the white star gathered in Ijuku.
+
+古文：二十年二月壬午朔，五星俱见。
+现代文：二十年二月壬午初一，五星都出现。
+English: On the first day of the second lunar month at noon, all five stars appeared.
+
+古文：二十四年七月戊子，太白、荧惑、填星聚于翼。
+现代文：二十四年七月戊子，太白星、荧惑星、镇星在翼宿会聚。
+English: In July of the twenty-fourth year, the Taibai Star, the Fluorescent Planet, and the Town Star gathered in the Wings.
+
+古文：十一月乙未，辰星、岁星合于斗。十二月甲子，荧惑、辰星合于箕。
+现代文：十一月乙末日，辰星、岁星在斗宿相合；十二月甲子日，荧惑星、辰星在箕宿相合。
+English: On the last day of November B, the hour star and the year star coincide at Douju; on December Kozi, the fluorescent planet and the hour star coincide at Pengju.
+
+古文：二十五年正月辛丑，荧惑、岁星合于牛。
+现代文：二十五年正月辛丑日，荧惑星、岁星在牛宿相合。
+English: On the fateful day of the first month of the 25th year, the fluorescent planet and the year star coincide in Ushijuku.
+
+古文：二十六年十月壬辰，太白、填星同度。
+现代文：二十六年十月壬辰，太白星、镇星同一度数。
+English: In October of the 26th year of Imjin, the Taibai Star and the Zhenxing Star appeared at the same time.
+
+古文：永乐元年五月甲辰，五星俱见东方。
+现代文：永乐元年五月甲辰日，五星都出现在东方。
+English: On the first day of the month of May in the first year of Yongle, the five stars appeared in the east.
+
+古文：二年四月戊子，太白、荧惑合于井。
+现代文：二年四月戊子日，太白星、荧惑星在井宿相合。
+English: In April of the second year, on the day of Wu Zi, Taibai Star and Fluorescent Planet coincided in Ijuku.
+
+古文：正统十四年九月壬寅，太白、填星、荧惑聚于翼。十二月辛未，太白、岁星合于尾。
+现代文：垂统十四年九月壬寅日，太白星、镇星、荧惑星在翼宿会聚；十二月辛末日，太白星、岁星在尾宿相合。
+English: In September of the 14th year of the Sui Dynasty, Meng Yin Day, the Taibai Star, the Zhen Star, and the Fluorescent Planet will meet in the wing quarter; at the end of December, the Taibai Star and the Year Star will meet in the tail quarter.
+
+古文：景泰元年十月壬申，太白、岁星合于箕。十二月己丑，辰星、岁星同度。
+现代文：景泰元年十月壬申日，太白星、岁星在箕宿相合；十二月己丑，辰星、岁星同一度数。
+English: In October of the first year of Jinshin, the white star and the year star coincided in Oshuku; in December they were ugly, and the hour star and the year star were the same number.
+
+古文：二年九月庚申，太白、荧惑、填星聚于轸。
+现代文：二年九月庚申日。太白星、荧惑星、镇星在干宿会聚集。
+English: In September of the second year, the day of Koshin, the stars Taibai, Fluorescent Planet, and Zhenxing gathered at the dry lodging association.
+
+古文：四年三月乙丑，太白、岁星合于壁。
+现代文：四年三月乙丑日，太白星、岁星在壁宿相合。
+English: In March of the fourth year, on the day of the Ugly Goose, the Taibai Star and the Year Star coincided in the Walled City.
+
+古文：五年正月戊辰，太白、岁星合于奎。六月己酉，荧惑、岁星合于胃。十一月己未，太白、填星合于氐。
+现代文：五年正月戊辰，太白星、岁星在奎宿相合；六月己酉日，荧惑星、岁星在胃宿相合；十一月己末日，太白星、镇星在氐宿相合。
+English: In the first month of the fifth year, Bo Chen, Taibai Star and Year Star coincide in Kui; in the second month of the sixth year, Fluorescent Planet and Year Star coincide in the stomach; in the last month of the eleventh year, Taibai Star and Town Star coincide in the abdomen.
+
+古文：七年三月戊戌，太白、荧惑合于奎。十月戊申，岁星、荧惑合于鬼。
+现代文：七年三月戊戌日，太白星、荧惑星在奎宿相合；十月戊申日，岁星、荧惑星在鬼宿相合。
+English: In March of the 7th year, the Taibai Star and the Fluorescent Planet coincided in Kui; in October of the 7th year, the Year Star and the Fluorescent Planet coincided in Onitsuka.
+
+古文：天顺元年五月乙丑，太白、岁星合于井。十二月丙辰，太白、填星合于心。
+现代文：天顺元年五月乙丑日，太白星、岁星在井宿相合；十二月丙辰日，太白星、镇星在心宿相合。
+English: In the first year of Tianshun, on May B, the day of the ugly, the Taibai Star and the Year Star coincided in the well; on December B, the Taibai Star and the Town Star coincided in the heart.
+
+古文：二年九月甲寅，太白、填星合于斗。
+现代文：二年九月甲寅日，太白星、镇星在斗宿相合。
+English: In September of the second year, on the day of Kato, Taibai Star and Town Star met at Doujuku.
+
+古文：三年九月乙巳，太白、岁星合于角。
+现代文：三年九月乙巳日，太白星、岁星在角宿相合。
+English: On September 23rd, the Taibai Star and the New Year's Star coincided in Kakunodate.
+
+古文：四年十月壬申，岁星、荧惑、辰星、太白聚于氐。
+现代文：四年十月壬申日，岁星、荧惑星、辰星、太白星在氐宿会聚。
+English: On Jinshin Day in October of the fourth year, the year star, the fluorescent planet, the hour star, and the white star gathered in Oshuku.
+
+古文：五年十一月己亥，填星、荧惑合于牛。甲子，太白、荧惑合于虚。
+现代文：五年十一月己亥日，镇星、荧惑星在牛宿相合；甲子日，太白星、荧惑星在虚宿相合。
+English: In November of the fifth year, on the day of Ji Hai, the town star and the fluorescent planet coincided in the Cattle Inn; on the day of the Goat, the white star and the fluorescent planet coincided in the False Inn.
+
+古文：六年九月甲午，太白、荧惑合于张。
+现代文：六年九月甲午日，太白星、荧惑星在张宿相合。
+English: On the afternoon of September 6, Taibai Star and Fluorescent Planet coincided in Zhangshu.
+
+古文：七年十月庚寅，岁星、荧惑合于女。庚戌，太白、岁星合于女。
+现代文：七年十月庚寅日，岁星、荧惑星在女宿相合；庚戌日，太白星、岁星在女宿相合。
+English: In October of the seventh year, on the day of Yin and Yang, the year star and the fluorescent planet coincided in the girls' hostel; on the day of Yin and Yang, the white star and the year star coincided in the girls' hostel.
+
+古文：八年二月丙午，填星、岁星、太白聚于危。
+现代文：八年二月丙午日，镇星、岁星、太白星在危宿会聚。
+English: On the afternoon of the third day of the second month of the eighth year, the town star, the year star, and the white star gathered in the dangerous place.
+
+古文：成化四年四月癸巳，岁星、荧惑合于井。壬子及七年七月庚子，太白、岁星合于井。
+现代文：成化四年四月癸巳日，岁星、荧惑星在井宿相合；壬子日，以及七年七月庚子日，太白星、岁星在井宿相合。
+English: In April of the 4th year of the 4th year of the 4th year of the 4th year of the 4th year of the 4th year of the 5th year of the 5th year of the 5th year of the 5th year of the 5th year of the 5th year of the 5th year of the 5th year of the 5th year of the 5th year of the 5th year of the 5th year of the 5th year of the 5th year of the 5th year of the 5th year of the 5th year of the 5th year of the 5th year of the 5th year of the 5th year of the 5th year of the 5th year of
+
+古文：十一年八月甲午，荧惑、填星同度。
+现代文：十一年八月甲午日，荧惑星、镇星同度数。
+English: On the afternoon of August 11th, the fluorescent planet and the town star have the same degree.
+
+古文：弘治十三年四月癸丑，荧惑、太白、辰星聚于井。
+现代文：弘治十三年四月癸丑日，荧惑星、太白星、辰星在井宿会聚。
+English: In April of the 13th year of the Heian period, on the day of the Ugly Goat, the fluorescent planet, the white star, and the star of the hour gathered in Ijuku.
+
+古文：十六年八月庚申，荧惑、岁星、填星聚于井。
+现代文：十六年八月庚申日，荧惑星、岁星、镇星在井宿会聚。
+English: On August 16th, Koshin day, the fluorescent planet, the year star, and the town star gathered in Ijuku.
+
+古文：十八年五月丙申，太白、岁星合于星。九月乙未，太白、岁星同度。
+现代文：十八年五月丙申日，太白星、岁星在星宿相合；九月乙未，太白星、岁星同度数。
+English: In May of the 18th year, on the 6th day of the month, the Taibai Star and the Year Star coincide in the constellation; in September of the 2nd year, the Taibai Star and the Year Star have the same degree.
+
+古文：正德二年九月戊辰，辰星、岁星、太白聚于亢。
+现代文：正德二年九月戊辰日，辰星、岁星、太白星在亢宿会聚。
+English: In September of the second year of Zhengde, on the day of Pentecost, the star of the hour, the star of the year, and the star of Taibai gathered in Oshuku.
+
+古文：嘉靖三年正月壬午，五星聚于营室。
+现代文：嘉靖三年正月壬午日，五星在营室会聚。
+English: On the morning of the first day of the third month of the year of Jiajing, the five stars gathered in the camp room.
+
+古文：十九年九月乙卯，太白、辰星、填星聚于角。
+现代文：十九年九月乙卯日，太白星、辰星、镇星在角宿会聚。
+English: On September 19th, Taibai Xing, Chen Xing, and Zhen Xing gathered in Jiuyuan.
+
+古文：二十三年正月癸卯，荧惑、岁星、填星聚于房。
+现代文：二十三年正月癸卯日，荧惑星、岁星、镇星在房宿会聚。
+English: On the 23rd day of the first month of the year, the fluorescent planet, the year star, and the town star gathered in the room.
+
+古文：四十二年七月戊戌，太白、岁星、填星聚于井。
+现代文：四十二年七月戊戌日，太白星、岁星、镇星在井宿会聚。
+English: In July of the year forty-two, Taibai Star, Jiuxing Star, and Zhenxing Star gathered in Ijuku.
+
+古文：四十三年四月庚子，岁星、填星、荧惑、太白聚于柳。
+现代文：四十三年四月庚子日，岁星、镇星、荧惑星、太白星在柳宿会聚。
+English: On the day of Emperor Geng Zi in April 43rd, the Year Star, the Town Star, the Fluorescent Planet, and the Too White Star gathered at the Willow Inn.
+
+古文：万历十七年十二月辛卯，太白、荧惑同度。
+现代文：万历十七年十二月辛卯日，太白星、荧惑星同度数。
+English: In December of the seventeenth year of Wanli, the day of Xinwu, Taibai star, fluorescent planet with the same degree.
+
+古文：二十年六月壬子，太白、辰星、填星聚于井。
+现代文：二十年六月壬子曰，太白星、辰星、镇星在井宿会聚。
+English: In June of the 20th year, Ren Zi said that Taibai Xing, Chen Xing, and Zhen Xing would gather at the well.
+
+古文：三十二年九月辛酉，岁星、填星、荧惑聚于危。
+现代文：三十二年九月辛酉日，岁星、镇星、荧惑星在危宿会聚。
+English: In September of the year thirty-two, the year star, the town star, and the fluorescent planet gathered at the dangerous place.
+
+古文：天启四年七月丙寅，五星聚于张。
+现代文：天启四年七月丙寅日，五星在张宿会聚。
+English: In July of the 4th year of the Apocalypse, the Five Stars gathered in Zhangshu.
+
+古文：崇祯七年闰八月丙午至九月壬申，填星、荧惑、太白聚于尾。
+现代文：崇祯七年闰八月丙午日至九月壬申日，镇星、荧惑星、太白星在尾宿会聚。
+English: In the seven leap years from August 3rd at noon to September 30th, the town star, the fluorescent planet, and the white star gathered in the tail lodge.
+
+古文：十年十一月己卯，岁星、荧惑合于亢。甲午，填星、辰星同度。
+现代文：十年十一月己卯，岁星、荧惑星在亢宿相合；甲午日，镇星、辰星同度数。
+English: In November of the 10th year, the year star and the fluorescent planet coincide in Poyang; on the afternoon of the 1st day of the month, the town star and the hour star have the same degree.
+
+古文：▲五纬掩犯恒星岁星洪武六年九月庚申，犯鬼。十一月壬子，退行犯鬼。
+现代文：岁星洪武六年九月庚申日，岁星侵犯鬼宿；十一月壬子日，后移侵犯鬼宿。
+English: In September of the sixth year of Hongwu's reign, the year star invaded the haunted house on Goshun's day; in November, the year star invaded the haunted house on Jinsi's day.
+
+古文：七年八月乙巳，犯轩辕大星。
+现代文：七年八月乙巳日，侵犯轩辕大星。
+English: In August of the seventh year, on the day of the snake, he attacked Xuan Xuan Da Xing.
+
+古文：九年二月乙丑，退入太微，犯左执法。
+现代文：九年二月乙丑日，后移侵入太微垣，侵犯左执法星。
+English: In February of the ninth year, on the second day of the Ugly, the backward intrusion into Taiyukaki, infringing the left law enforcement star.
+
+古文：十年六月戊寅及戊戌，犯亢。十一月甲辰，犯房。
+现代文：十年六月戊寅以及戊戌日，侵犯亢宿；十一月甲辰，侵犯房宿。
+English: On June 10th, Wu Yin, and on the day of Wu Yi, they invaded the residence; in November, Jia Chen, they invaded the house.
+
+古文：十一年四月戊申，犯键闭。七月甲申，犯牛。八月丙午，犯房。
+现代文：十一年四月戊申日，侵犯键闭星；七月甲申日，侵犯牛宿；八月丙午日，又侵犯房宿。
+English: On April 11th, Wu Sheng Day, the encroachment of the key closed the star; on July 1st, the encroachment of the cattle inn; on August 3rd, the encroachment of the room.
+
+古文：十四年四月壬戌，犯垒壁。
+现代文：十四年四月壬戌日，侵犯垒壁星。
+English: On the 14th day of the 4th month of the lunar calendar, he violated the star of the wall.
+
+古文：十七年闰十月癸卯，犯井。
+现代文：十七年闰十月癸卯日，侵犯井宿。
+English: On the 17th day of the 10th month of the leap year, they invaded Ijuku.
+
+古文：十九年四月丙申，入鬼。八月壬辰，犯轩辕。
+现代文：十九年四月丙申日，侵入鬼宿；八月壬辰日，侵犯轩辕星。
+English: On April 19th, he broke into a haunted house; on August 23rd, he invaded Xuanxing.
+
+古文：二十一年四月丁未，留太微垣。十一月甲戌，入亢。
+现代文：二十一年四月丁末日，停留在太微垣；十一月甲戌日，侵入亢宿。
+English: On the last day of April, 21st, they stayed in Taiwakaki; on Armistice Day in November, they invaded Oyado.
+
+古文：二十二年三月辛卯，退入亢。九月丁卯，犯氐。十一月甲午，入房。十二月壬戌，犯东咸。
+现代文：二十二年三月辛卯日，退移侵入亢宿；九月丁卯日，侵犯氐宿；十一月甲午日，侵入房宿；十二月壬戌日，侵犯东咸星。
+English: On March 22, Xinwu Day, the retreating troops invaded Xingju; on September Dingwu Day, the troops invaded Xingju; on November 1st, the troops invaded Xingwu; and on December 31st, the troops invaded Dongxianxing.
+
+古文：二十三年五月己未，守房。八月乙丑，犯东咸。
+现代文：二十三年五月己末日，入守房宿；八月乙丑日，侵犯束咸星。
+English: On May 23rd, the last day of the year, he entered the guard room; on August 1st, the day of the Ugly, he invaded the Bund Ham Xing.
+
+古文：二十六年二月丙子朔，犯垒壁。
+现代文：二十六年二月丙子初一，侵犯垒壁星。
+English: On the first day of the second month of the 26th year, he violated the star of the wall.
+
+古文：二十九年六月庚子，犯井钺。七月丙辰朔，入井。十月癸卯，退入井。
+现代文：二十九年六月庚子日，侵犯井铁星；七月丙辰初一，侵入井宿；十月癸卯日，后移侵入井宿。
+English: In June 29th, Geng Zi Day, invaded Jing Tie Xing; in July, the first day of the third month, invaded Jing Xing; in October, the second day of the third month, invaded Jing Xing.
+
+古文：三十年八月庚辰朔，入鬼。
+现代文：三十年八月庚辰初一，侵入鬼宿。
+English: On the first day of the eighth month of the 30th year of Geng Chen's reign, he broke into a haunted house.
+
+古文：建文四年七月乙未，退犯东咸。十月丙辰，犯天江。
+现代文：建文四年七月乙末日，岁星后移侵犯东咸星；十月丙辰日，侵犯天江星。
+English: On the last day of the second month of July in the fourth year of Jianwen, the year star moved backward to invade the East Ham star; on the fourth day of the second month of October, it invaded the Tianjiang star.
+
+古文：永乐元年正月丁未，犯建。十二月己丑，犯罗堰。
+现代文：永乐元年正月丁末日，岁星侵犯建星；十二月己丑日，侵犯罗堰星。
+English: In the first month and the last day of the first month of the first year of Yongle, the year star encroached on Jianxing; in December, the ugly day, it encroached on Luoyan.
+
+古文：六年三月己巳，犯诸王西第二星。四月甲午，犯东第一星。六月丙申，犯井。
+现代文：六年三月己巳日，侵犯诸王星西第二星；四月甲午日，侵犯束第一星；六月丙申日，侵犯井宿。
+English: In March of the sixth year, the second star west of the planet was invaded; in April, the first star west of the planet was invaded; in June, the second star west of the planet was invaded.
+
+古文：八年九月乙亥，犯灵台。
+现代文：八年九月乙亥日，侵犯灵台星。
+English: In September of the eighth year, on the day of Yihai, the invasion of Lingtai Star began.
+
+古文：十八年七月己丑，犯天樽西北星。八月庚子，犯东北星。
+现代文：十八年七月己丑日，侵犯天樽西北星；八月庚子日，侵犯东北星。
+English: In July 18th, the Ugly Day, it invaded the Northwest Star of the Heavenly Taras; in August, the Geng Zi Day, it invaded the Northeast Star.
+
+古文：二十一年正月庚戌，犯上将。
+现代文：二十一年正月庚戌，侵犯上将星。
+English: In the first month of the twenty-first year, Geng Yao attacked Admiral Xing.
+
+古文：二十二年十一月戊寅，入氐。
+现代文：二十二年十一月戊寅日，侵入氐宿。
+English: On November 22nd, Wu Yin Day, they invaded Xizhu.
+
+古文：宣德三年闰四月己酉，犯垒壁西第六星。十一月丙寅，又犯。
+现代文：宣德三年闰四月己酉日，岁星侵犯垒壁西第六星；十一月丙寅日，再次侵犯。
+English: Xuande three years leap April Ji Xing day, the year star encroached on the sixth star of the west wall; November Yin Yin day, the second encroachment.
+
+古文：七年七月丙寅，犯天樽。
+现代文：七年七月丙寅日，侵犯天樽星。
+English: In July of the seventh year, on the day of Yin Yin, it invaded the Star of Heaven.
+
+古文：九年五月庚子，犯轩辕大星。
+现代文：九年五月庚子日，侵犯轩辕大星。
+English: On May 9th, Geng Zi Day, Xuan Zi Da Xing was attacked.
+
+古文：正统五年六月甲寅，犯垒壁。
+现代文：正统五年六月甲寅日，岁星侵犯垒壁星。
+English: In June of the fifth year of orthodoxy, on the day of Kato, the year star encroached on the wall star.
+
+古文：十一年十月戊戌，犯右执法。
+现代文：十一年十月戊戌日，侵犯右执法星。
+English: On October 11th, the right law enforcement star was violated.
+
+古文：十四年正月丙申，犯房北第一星。二月丙子，退犯房。九月己卯，犯进贤。丙戌，犯房。
+现代文：十四年正月丙申日，侵犯房宿北第一星；二月丙子日，后移侵犯房宿；九月己卯日，侵犯进贤星；丙戌日，侵犯房宿。
+English: On the 14th day of the 1st month of the year, the 1st star of the North invaded the room; on the 2nd day of the 2nd month, the 1st star of the North invaded the room; on the 3rd day of the 9th month, the 2nd star of the North invaded the room; on the 3rd day of the 9th month, the 3rd star of the North invaded the room; on the 3rd day of the 9th month, the 3rd star of the North invaded the room; on the 3rd day of the 9th month, the 3rd star of the North invaded the room.
+
+古文：景泰元年闰正月庚午，与荧惑递入斗杓。八月戊子，犯秦。
+现代文：景泰元年闰正月庚午日，岁星与荧惑星递相侵入斗杓；八月戊子日，侵犯秦星。
+English: In the leap day of the first month of the first year of the first month of the first year of the first year of the first year of the first year of the first year of the first year of the first year of the first year of the first year of the first year of the first year of the first year of the first year of the first year of the first year of the first year of the first year of the first year of the first year of the first year of the first year of the first year of the first year of the first year of the first year of the first year of the first year of the first year of the first year of the first year of the first year of the first year of the first year
+
+古文：二年二月庚午朔，犯牛。
+现代文：二年二月庚午初一，侵犯牛宿。
+English: On the first day of the second month of the second year of the second year of the second year of the second year of the second year of the second year of the second year of the first year of the second year of the second year of the second year of the second year of the second year of the second year of the second year of the second year of the third year of the second year of the second year of the second year of the second year of the second year of the second year of the second year of the second year of the second year of the second year of the second year of the second year of the second year of the second year of the second year of the second year of the second year of the second year
+
+古文：三年十月辛丑，犯亢。
+现代文：三年十月辛丑日，侵犯亢宿。
+English: In October of the third year, on the day of Xin Ugly, they invaded Xizhu.
+
+古文：六年六月庚子，犯诸王。八月庚申，犯井钺。
+现代文：六年六月庚子日，侵犯诸王星；八月庚申日，侵犯井铁星。
+English: In June of the sixth year, Geng Zi Day, it invaded the planets; in August, Geng Sheng Day, it invaded Jing Tie Xing.
+
+古文：七年九月癸未，入鬼。
+现代文：七年九月癸末日，侵入鬼宿。
+English: On the last day of September of the seventh year, the haunted house was invaded.
+
+古文：天顺元年九月癸亥，犯轩辕大星。
+现代文：天顺元年九月癸亥日，岁星侵犯轩辕大星。
+English: In September of the first year of Tianshun, on the day of the Year of the Boar, the year star invaded the great star of Xuanwu.
+
+古文：二年八月癸未，犯右执法。十月己丑，三年正月辛卯，俱犯左执法。六月辛未，犯右执法。十二月癸亥，犯亢。
+现代文：二年八月癸末日，侵犯右执法星；十月己丑日，三年正月辛卯日，都侵犯左执法星；六月辛末日，侵犯右执法星；十二月癸亥，侵犯亢宿。
+English: In August, the last day of the second year, the right enforcement star was violated; in October, the ugly day, and in the first month of the third year, the bad day, the left enforcement star was violated; in June, the last day of the bad day, the right enforcement star was violated; in December, the boar hen, the hen house was violated.
+
+古文：四年闰十一月丙寅，犯房北第一星。庚午，犯钩钤。
+现代文：四年闰十一月丙寅日，侵犯房宿北第一星；庚午日，侵犯钩钤星。
+English: In the leap year, on November 4th, the day of the rooster, the first star of the North invaded the room; on the day of the rooster, the star of the rooster.
+
+古文：五年三月丁卯，退犯房上星。八月癸酉，犯钩钤。
+现代文：五年三月丁卯日，后移侵犯房上星；八月癸酉日，侵犯钩钤星。
+English: In March of the fifth year, on the day of Dingwu, it moved backwards to invade the house on the star; on the third day of August, it invaded the hook star.
+
+古文：七年二月庚申朔，犯牛。
+现代文：七年二月庚申初一，侵犯牛宿。
+English: On February 7th, the first day of the Year of the Goat, he invaded a cattle inn.
+
+古文：八年二月丙午，犯垒壁。三月辛巳，又犯。
+现代文：八年二月丙午日，侵犯垒壁星；三月辛巳日，再次侵犯垒壁星。
+English: On February 8th, the third day of the eighth lunar month, he violated the Star of the Great Wall; on March 30th, he violated the Star of the Great Wall again.
+
+古文：成化二年六月丁未，守昴。
+现代文：成化二年六月丁末日，岁星入守昴宿。
+English: It was the last day of June in the second year of Chenghua, and the New Year's Star came to Shishuku.
+
+古文：五年七月己酉，犯轩辕大星。
+现代文：五年七月己酉日，侵犯轩辕大星。
+English: In July of the fifth year, on the third day of the month, it invaded Xuanwu Da Xing.
+
+古文：六年三月癸卯，留守轩辕。
+现代文：六年三月癸卯日，停留入守轩辕星。
+English: On the 6th day of the 3rd month of the 6th year, he stopped at the Irimori Hentai Star.
+
+古文：七年三月丁丑，退入太微垣，犯执法。四月乙卯，入太微垣，留守端门。六月甲寅，犯右执法。十一月己亥，犯亢。
+现代文：七年三月丁丑日，后移入守太微垣，侵犯执法星；四月乙卯日，侵入太微垣，停留入守端门；六月甲寅日，侵犯右执法星；十一月己亥，侵犯亢宿。
+English: In March of the seventh year, Ding Chou Day, later moved into Shou Tai Weigaki, violating the law enforcement star; April E U Day, invaded Shou Tai Weigaki, stayed in Shou Tandanmen; June Kato Tora Day, violated the right law enforcement star; November Ji Hai, violated Weixing.
+
+古文：八年十一月辛亥，犯房北第一星。癸丑，犯钩钤。
+现代文：八年十一月辛亥日，侵犯房宿北第一星；癸丑日，侵犯钩钤星。
+English: In November of the eighth year, Xinhai Day, the first star of the North invaded the room; Ugly Day, the star of the hook.
+
+古文：九年三月丙辰，犯东咸。五月己酉，犯钩钤。六月乙丑，犯房第一星。
+现代文：九年三月丙辰日，岁星侵犯束咸垦；五月己酉日，侵犯钩钤星；六月乙丑日，侵犯房宿第一星。
+English: In March of the ninth year, the year star encroached on the cormorant; in May, it encroached on the hook star; in June, on the ugly day, it encroached on the first star.
+
+古文：十二年三月丁巳，犯垒壁。
+现代文：十二年三月丁巳日，侵犯垒壁星。
+English: On March 12th, Ding Si Day, he violated the star of the wall.
+
+古文：十三年闰二月己未，犯外屏。
+现代文：十三年闰二月己未日，侵犯外屏星。
+English: The 13th leap February has already passed, and the invasion of the outer screen star has begun.
+
+古文：十五年三月甲子，犯天街。九月乙卯，犯井。辛巳，守井。
+现代文：十五年三月甲子日，侵犯天街星；九月乙卯日，侵犯井宿；辛巳日，入守井宿。
+English: On March 15th, Kazi Day, they invaded Tianjiexing; on September 18th, they invaded Jingjuku; and on September 19th, they invaded Shoujingjuku.
+
+古文：十七年正月己卯，犯鬼。三月甲午，入鬼。庚子，犯积尸。
+现代文：十七年正月己卯日，侵犯鬼宿；三月甲午日，侵入鬼宿；庚子日，侵犯积尸星。
+English: On the 17th day of the first month of the year, he invaded the haunted house; on the 1st day of the 3rd month, he invaded the haunted house; on the 1st day of the 7th month, he invaded the dead star.
+
+古文：十八年五月庚戌，犯灵台。闰八月壬辰，犯左执法。
+现代文：十八年五月庚戌日；侵犯灵台星；闰八月壬辰日，侵犯左执法星。
+English: In May 18th, Geng Zi Day; violated Ling Tai Star; leap August, Ren Chen Day, violated the left law enforcement star.
+
+古文：二十年五月乙巳，守亢。八月癸酉，犯氐。
+现代文：二十年五月乙巳日，入守亢宿；八月癸酉日，侵犯氐宿。
+English: On the twenty-first day of May, he entered Oyado; on the twenty-first day of August, he invaded Oyado.
+
+古文：弘治四年七月癸巳，犯井。十一月壬辰，又犯。
+现代文：弘治四年七月癸巳日，岁星侵犯井宿；十一月壬辰日，又侵犯井宿。
+English: In July of the 4th year of the Heian period, the year star invaded Ijuku; in November, the Imjin day, Ijuku was invaded again.
+
+古文：六年八月庚寅，犯灵台。
+现代文：六年八月庚寅日，侵犯灵台星。
+English: On August 6th, Geng Yin Day, he invaded Ling Tai Star.
+
+古文：七年正月癸卯，犯垒壁。五月甲辰，犯灵台。
+现代文：七年正月癸卯日，侵犯垒壁星；五月甲辰日，侵犯灵台星。
+English: On the 7th day of the 1st month of the year, it invaded the star of the wall; on the 1st day of the month of May, it invaded the star of the spirit world.
+
+古文：八年二月丁巳，犯进贤。七月辛丑，又犯。十月丁卯，犯亢。十一月己酉，犯氐。
+现代文：八年二月丁巳日，侵犯进贤星；七月辛丑日，又侵犯进贤星；十月丁卯日，侵犯亢宿；十一月己酉日，侵犯氐宿。
+English: In February of the eighth year, Ding Si Day, invaded Jin Xian Xing; in July, Xin Ugly Day, invaded Jin Xian Xing; in October, Ding Yu Day, invaded Xian Xing; in November, Ji Yu Day, invaded Xian Xing.
+
+古文：九年二月至三月庚寅，守氐。
+现代文：九年二月至三月庚寅日，入守氐宿。
+English: From February to March of the ninth year, he was in charge of Shishuku.
+
+古文：十二年五月己亥，犯垒壁。
+现代文：十二年五月己亥日，侵犯垒壁星。
+English: In May of the 12th year, on the day of Ji Hai, it invaded the star of the wall.
+
+古文：十三年八月戊申，又犯。
+现代文：十三年八月戊申日，又侵犯垒壁星。
+English: On August 13th, the day of the Spring Festival, he violated the wall again.
+
+古文：十五年七月丙子，犯诸王。
+现代文：十五年七月丙子日，侵犯诸王星。
+English: On July 15th, Cixi Day, the invasion of the planets began.
+
+古文：十六年七月己巳，犯井。八月壬子，犯天樽。
+现代文：十六年七月己巳日，侵犯井宿；八月壬子日，侵犯天樽星。
+English: On July 16th, he invaded Ijuku, and on August 18th, he invaded Amaterasu.
+
+古文：十八年九月丁未，犯太微垣上相。
+现代文：十八年九月丁未日，侵犯太微垣上相星。
+English: On September 18, the day before New Year's Eve, he assaulted Taibikegami Sosei.
+
+古文：正德元年二月壬子，退犯右执法及上将。三月壬午，犯灵台。十一月戊辰，犯牛。
+现代文：至德元年二月壬子日，岁星后移侵犯右执法以及上将星；三月壬午日，侵犯灵台星；十一月戊辰日，侵犯牛宿。
+English: By February of the first year of the German Empire, the star of the year shifted to infringe on the right to enforce the law and the general star; March, the day of the meridian, infringed on the Lingtai star; November, the day of the Pentecost, infringed on the cattle inn.
+
+古文：六年四月丁未，十二月壬午，俱犯垒壁。
+现代文：六年四月丁末日，十二月壬午日，都侵犯垒壁星。
+English: On the last day of April in the sixth year, and on the morning of December, they all invaded the bastion star.
+
+古文：九年八月丙辰，犯诸王。
+现代文：九年八月丙辰日，侵犯诸王星。
+English: In August of the ninth year, on the day of the yin and yang, they invaded the planets.
+
+古文：十四年十月癸未，犯氐。
+现代文：十四年十月癸末日，侵犯氐宿。
+English: On the last day of October, 1914, they invaded my home.
+
+古文：嘉靖元年四月戊寅，犯牛。十一月丙寅，犯罗堰。
+现代文：嘉靖元年四月戊寅日，岁星侵犯牛宿；十一月丙寅日，侵犯罗堰星。
+English: In April of the first year of Jiajing, the New Year's Eve invaded the Cow Inn; in November, the New Year's Eve invaded the Luoyang Star.
+
+古文：二年十一月壬辰，犯垒壁。
+现代文：二年十一月壬辰，侵犯垒壁星。
+English: In November of the second year of Imjin, he violated the wall star.
+
+古文：二十年十一月庚寅，二十一年正月丁未，俱犯左执法。
+现代文：二十年十一月庚寅日，二十一年正月丁未日，都犯左执法星。
+English: On November 20, Gyeongin Day, and the day before the first day of the first month of the 21st year, they all committed the left law enforcement star.
+
+古文：二十二年十二月丁亥，犯房北第一星。
+现代文：二十二年十二月丁亥日，侵犯房宿北第一星。
+English: On December 22nd, Dinghai Day, he violated the room and board of North First Star.
+
+古文：二十三年四月戊寅，又犯。
+现代文：二十三年四月戊寅日，又侵犯房宿北第一星。
+English: On April 23rd, Wu Yin Day, he also violated the room and board of the North First Star.
+
+古文：三十五年五月壬戌，退行又犯。
+现代文：三十五年五月壬戌日，后移又犯。
+English: On May 30, 1935, he committed the crime again.
+
+古文：四十五年五月辛卯，退留守左执法。
+现代文：四十五年五月辛卯日，后移停留入守左执法星。
+English: In May 45th, Xinwu day, after moving to stay in the left law enforcement star.
+
+古文：隆庆元年二月戊午，退守亢。
+现代文：隆庆元年二月戊午日，岁星后移入守亢宿。
+English: On the afternoon of February in the first year of the Longqing Emperor, after the New Year's Eve, he moved to Shoushuku.
+
+古文：万历三十九年十月己巳，天启三年九月甲辰，俱犯轩辕。
+现代文：万历三十九年十月己巳日，天启三年九月甲辰日，岁星都曾侵犯轩辕星。
+English: In the 39th year of the Wanli calendar, in October, on the day of the snake, and in the 3rd year of the Apocalypse, in September, on the day of the hour, the stars of the year have all encroached on Xuan Xing.
+
+古文：四年正月丙寅，犯轩辕大星。
+现代文：四年正月丙寅日，侵犯轩辕大星。
+English: On the first day of the first month of the fourth year, Xiong Yin Day, Xiong Xiong Da Xing was violated.
+

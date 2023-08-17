@@ -1,0 +1,140 @@
+古文：五年春，公至自晋。
+现代文：五年春季，鲁襄公从晋国到达鲁国。
+English: In the spring of the fifth year, Prince Lu Xiang arrived in Lu from Jin.
+
+古文：夏，郑伯使公子发来聘。
+现代文：夏季，郑伯派遣公子发来鲁国聘问。
+English: In the summer, Zheng Bo sent his son to Lu to ask for a job.
+
+古文：叔孙豹、鄫世子巫如晋。
+现代文：叔孙豹、鄫国世子巫去晋国。
+English: Uncles and grandsons of the Leopard, and the heirs of the Wizard of Shikoku went to Jin.
+
+古文：仲孙蔑、卫孙林父会吴于善道。
+现代文：仲孙蔑、卫国的孙林父在吴国的善道会见。
+English: Sun Lin, the father of Sun Zi and the defender of the country, met with Zendao in the State of Wu.
+
+古文：秋，大雩。楚杀其大夫。公会晋侯、宋公、陈侯、卫侯、郑伯、曹伯、莒子、邾子、滕子、薛伯、齐世子光、吴人、鄫人于戚。公至自会。冬，戍陈。楚公子贞帅师伐陈。
+现代文：襄公与晋侯、宋公、陈侯、卫侯、郑伯、曹伯、莒子、邾子、滕子、薛伯、齐世子光、吴人、鄫人在戚地会见。襄公从戚地回到鲁国。冬季，诸侯派兵戍守陈国。楚国公子贞率领军队攻打陈国。
+English: Prince Xiang met with Prince Jin, Prince Song, Prince Chen, Prince Wei, Prince Zheng, Prince Cao, Prince Zizi, Prince Zizi, Prince Tengzi, Prince Xue, Prince Qi, Prince Wu, and Prince Xian in their relatives' lands. Prince Xiang returned to the State of Lu from his relatives' lands. In winter, the princes sent soldiers to defend the State of Chen. Prince Zizhen of the State of Chu led an army to attack the State of Chen.
+
+古文：公会晋侯、宋公、卫侯、郑伯、曹伯、齐世子光救陈。
+现代文：襄公与晋侯、宋公、卫侯、郑伯、曹伯、齐国世子光一起出兵援救陈国。
+English: Prince Xiang, together with Prince Jin, Prince Song, Prince Wei, Prince Zheng, Prince Cao, and the Heir of Qi, sent troops to rescue Chen.
+
+古文：十有二月，公至自救陈。辛未，季孙行父卒。
+现代文：十二月，襄公从援救陈国的地方回到鲁国。辛未日，季孙行父去世。
+English: In December, Prince Xiang returned to Lu from the place where he had rescued Chen. On the day before Xin, Ji Sun Xing's father passed away.
+
+古文：王使王叔陈生愬戎于晋，晋人执之。
+现代文：周灵王派遣王叔陈生向晋国控告戎人，晋国人把他抓了起来。
+English: King Zhou Ling sent Wang Uncle Chen Sheng to Jin Province to sue the Eunuchs, and the Jin people arrested him.
+
+古文：士鲂如京师，言王叔之贰于戎也。
+现代文：士鲂去到京师，报告说王叔倾向戎人。
+English: Shi Yan went to the Beijing division and reported that Uncle Wang was leaning towards Rongren.
+
+古文：夏，郑子国来聘，通嗣君也。
+现代文：夏季，郑国的子国来鲁国聘问，这是由于为新立的国君来通好。
+English: In the summer, the son of Zheng Guo came to Lu Guo to ask for advice. This was because he wanted to make a good impression on the new sovereign.
+
+古文：穆叔觌鄫大子于晋，以成属鄫。
+现代文：穆叔带领鄫国的太子去到晋国和君臣作私人会晤，以完成鄫国归属鲁国的手续。
+English: Mu Xiu led the prince of Shan State to Jin State for a private meeting to complete the formalities of Shan State belonging to Lu State.
+
+古文：书曰： 叔孙豹、鄫大子巫如晋。 言比诸鲁大夫也。
+现代文：《春秋》记载说： 叔孙豹、鄫太子巫如晋 ，这就是把鄫国的太子巫比作鲁国的大夫。
+English: "Spring and Autumn" records that: "Uncles and grandsons are leopards, and the crown prince is a wizard like Jin," which is to compare the crown prince of the country to the doctor of the country.
+
+古文：吴子使寿越如晋，辞不会于鸡泽之故，且请听诸侯之好。
+现代文：吴子派遣寿越去到晋国，解释没有参加鸡泽会见的缘故，同时请求听从命令和诸侯友好。
+English: Wu Zi sent Shou Yue to Jin Province to explain why he did not attend the meeting with Jizhe, and at the same time asked him to obey orders and be friendly with the princes.
+
+古文：晋人将为之合诸侯，使鲁、卫先会吴，且告会期。
+现代文：晋人将为吴国会合诸侯，于是让鲁国、卫国先会见吴国，同时告诉吴国会见的日期。
+English: The Jin people will meet the princes of the State of Wu, so let the State of Lu and the State of Wei meet the State of Wu first, and tell the State of Wu the date of the meeting.
+
+古文：故孟献子、孙文子会吴于善道。
+现代文：所以孟献子、孙文子在善道会见了吴人。
+English: That is why Meng Xianzi and Sun Wenzi met the Wu people in Shandao.
+
+古文：秋，大雩，旱也。
+现代文：秋季，举行盛大的雩祭，这是由于天旱的缘故。
+English: In autumn, there is a grand harvest festival, which is due to the drought.
+
+古文：楚人讨陈叛故，曰： 由令尹子辛实侵欲焉。 
+现代文：楚国人质问陈国背叛的原因，陈人说： 由于令尹子辛侵害小国以满足他个人欲望。 
+English: When the people of Chu questioned Chen Guo about the reason for his betrayal, Chen Guo said: Because he ordered Yin Zixin to invade a small country to satisfy his personal desires.
+
+古文：乃杀之。
+现代文：楚国就杀死了子辛。
+English: Then he killed him.
+
+古文：书曰： 楚杀其大夫公子壬夫。 贪也。
+现代文：《春秋》记载说： 楚杀其大夫公子壬夫 ，是由于他贪婪的缘故。
+English: "Spring and Autumn" records that: Chu killed his doctor son, Renfu, because of his greed.
+
+古文：君子谓： 楚共王于是不刑。
+现代文：君子认为： 楚共王在这件事情上用刑律不当。
+English: The gentleman thought: Chu Gongwang is using the criminal law inappropriately in this matter.
+
+古文：《诗》曰： 周道挺挺，我心扃扃，讲事不令，集人来定。 
+现代文：《诗》说： 大道笔直，我的心里明白。计划不善灵，应招集贤人决定。 
+English: "Poetry" says: The road is straight, I know it in my heart. Plans are not good spirits, wise men should be summoned to decide.
+
+古文：己则无信。而杀人以逞，不亦难乎？
+现代文：自己就没有信用，反而杀人以快意，不也是很难了吗？
+English: If you don't have trust in yourself, but instead kill people for pleasure, isn't that also difficult?
+
+古文：《夏书》曰： 成允成功。  
+现代文：《夏书》说： 完成信用然后才能成功。  
+English: "Summer Book" said: complete the credit and then succeed.
+
+古文：九月丙午，盟于戚，会吴，且命戍陈也。穆叔以属鄫为不利，使鄫大夫听命于会。
+现代文：九月二十三日，鲁襄公和晋悼公、宋平公、陈哀公、卫献公、郑僖公、曹成公、莒子、邾子、滕成公、薛伯、齐国世子光、吴国人、鄫国人在戚地结盟，这是为了会见吴人，同时由晋悼公命令诸侯出兵戍守陈国。
+English: On September 23rd, Lu Xiang allied with Jin Yue Gong, Song Ping Gong, Chen Ai Gong, Wei Xian Gong, Zheng Yao Gong, Cao Cheng Gong, Zizi, Zizi, Teng Cheng Gong, Xue Bo, Qi Hezikang, Wu Guozhong, and Zang Guozhong at the relative place. This was in order to meet the Wu people. At the same time, Jin Yue Gong ordered the princes to send troops to defend Chen.
+
+古文：楚子囊为令尹。范宣子曰： 我丧陈矣！
+现代文：穆叔认为鄫国的归属对鲁国不利，就让鄫国的大夫以独立国家的身份参加会见听取命令。楚国的子囊做令尹，范宣子说： 我们失去陈国了。
+English: Mu Xiu believed that the affiliation of Shandong Province was unfavorable to Lu Province, so he asked the doctor of Shandong Province to attend the meeting as an independent country to listen to the order. The Zizak of Chu Province ordered Yin, Fan Xuan Zi said: We have lost Chen Province.
+
+古文：楚人讨贰而立子囊，必改行而疾讨陈。
+现代文：楚国人讨伐三心二意的国家而又立了子囊，一定会改变子辛的所作所为而很快讨伐陈国。
+English: The people of Chu will fight against the half-hearted country and set up a seed bag. They will surely change the behavior of Zixin and quickly fight against Chen.
+
+古文：陈近于楚，民朝夕急，能无往乎？
+现代文：陈国接近楚国，百姓时时骇怕兵患，能够不归向楚国吗？
+English: Chen Province is close to Chu Province, and the people are always terrified of soldiers. Can they not return to Chu Province?
+
+古文：有陈，非吾事也，无之而后可。 
+现代文：保有陈国，不是我们的事情；放弃陈国，以后反倒好办。 
+English: Preserving Chen Guo is not our business; abandoning Chen Guo will be easier in the future.
+
+古文：冬，诸侯戍陈。
+现代文：冬季，诸侯派兵戍守陈国。
+English: In winter, the lords sent soldiers to defend Chen.
+
+古文：子囊伐陈。
+现代文：子囊进攻陈国。
+English: Offspring attack Chen Guo.
+
+古文：十一月甲午，会于城棣以救之。
+现代文：十一月十二日，鲁襄公和晋悼公、宋平公、卫献公、郑僖公、曹成公、齐国世子光在城棣会合以救援陈国。
+English: On November 12th, Prince Lu Xiang, along with Prince Jin Rong, Prince Song Ping, Prince Wei Xian, Prince Zheng Qi, Prince Cao Cheng, and the Heir of the State of Qi, gathered at the city gate to rescue Chen Guo.
+
+古文：季文子卒。
+现代文：季文子死。
+English: Kimiko died.
+
+古文：大夫入敛，公在位。
+现代文：根据大夫人敛的礼仪，鲁襄公亲自看视。
+English: According to the etiquette of the great lady, Lu Xianggong personally watched the procession.
+
+古文：宰庀家器为葬备，无衣帛之妾，无食粟之马，无藏金玉，无重器备。
+现代文：家臣收集家里的器物作为葬具。家里没有穿丝绸的妾，没有吃粮食的马，没有收藏铜器玉器，一切用具没有重复。
+English: There is no concubine who wears silk, no horse that eats grain, no collection of copperware and jade, and no duplication of all utensils.
+
+古文：君子是以知季文子之忠于公室也。相三君矣，而无私积，可不谓忠乎？
+现代文：君子从这里知道季文子对公室的忠心：辅助过三位国君而没有私人积蓄，可以说不是忠心吗？
+English: This is how the nobles knew of Ji Fumiko's loyalty to the imperial court: after assisting three sovereigns and having no private savings, can it be said that she was not loyal?
+

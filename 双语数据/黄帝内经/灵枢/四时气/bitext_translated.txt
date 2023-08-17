@@ -1,0 +1,132 @@
+古文：黄帝问于岐伯曰：夫四时之气，各不同形，百病之起，皆有所生，灸刺之道，何者为定？
+现代文：黄帝问岐伯说：四季气候各不相同，各种疾病的发生大都与四时的气候有关，针灸缪刺的方法，也因各个季节的气候而各不相同，其中有什么规律呢？
+English: Huang Di asked Qibo: The four seasons have different climates, and the occurrence of various diseases is mostly related to the weather at four o'clock. The methods of acupuncture and moxibustion are also different depending on the climate of each season. What are the rules?
+
+古文：岐伯答曰：四时之气，各有所在，灸刺之道，得气穴为定。
+现代文：岐伯回答说：每一个季节都有自己的气候特点，灸刺的方法，也要以这一季节的气血特点为依据。
+English: Qibo replied: Every season has its own climatic characteristics, and the method of moxibustion should also be based on the qi and blood characteristics of this season.
+
+古文：故春取经、血脉、分肉之间，甚者深刺之；间者浅刺之。
+现代文：因此，春天灸刺，宜取经脉、血脉和分肉之间的气道，病重的用刺深法；病轻的用刺浅法。
+English: Therefore, the spring moxibustion should take the meridians, blood vessels and the airway between the meat, and the severe patients should use the deep stabbing method; the mild patients should use the shallow stabbing method.
+
+古文：夏取盛经孙络，取分间绝皮肤。
+现代文：夏季针刺应取在这一季节偏盛经脉的孙络，或者用只刺透皮肤而到达分肉之间的浅刺法。
+English: Summer acupuncture should be taken in the season of the prevailing meridians of the sun network, or use only pierce the skin and reach the shallow stabbing method between the meat.
+
+古文：秋取经俞，邪在腑，取之合。
+现代文：秋季应取五输穴的经穴，病邪在六腑就取六阳经的合穴。
+English: In autumn, the meridian of the five meridians should be taken, and the meridian of the six meridians should be taken when the disease is in the six meridians.
+
+古文：冬取井荥，必深以留之。
+现代文：冬季宜取所病脏腑对应经脉的经穴和荥穴，而且一定要深刺并留针时间长些。
+English: In winter, it is advisable to take the acupuncture points corresponding to the meridians and acupoints, and it is necessary to pierce deeply and leave the needle for a longer time.
+
+古文：温疟汗不出，为五十九痏。
+现代文：温疟病，没有汗出症状的，可用热病的五十九个腧穴进行治疗。
+English: Mild malaria, without sweating symptoms, can be treated with the fifty-nine acupoints of fever.
+
+古文：风㽷肤胀，为五十痏。
+现代文：患风水病肌肤肿胀的，可以用五十七个治疗水病的腧穴治疗。
+English: If the skin is swollen due to rheumatism, it can be treated with the fifty-seven acupoints for treating rheumatism.
+
+古文：取皮肤之血者，尽取之。
+现代文：如果是使用针刺放血的治疗方法，就应该将该穴位的恶血放干净。
+English: If it is a treatment method using acupuncture bloodletting, the bad blood at the site should be drained.
+
+古文：飧泄，补三阴之，上补阴陵泉，皆久留之，热行乃止。
+现代文：脾胃虚寒所致的飧泄证，应该使用补的手法，先取三阴交穴，再向上取阴陵泉穴，都要久留针，直至针下有热感的时候才能起针。
+English: Spleen and stomach cold caused by cold deficiency, should use the method of supplementation, first take the three yin cross hole, and then take the yin-ling spring hole upwards, and keep the needle for a long time, until the needle feels hot under the needle.
+
+古文：转筋于阳治其阳，转筋于阴治其阴，皆卒刺之。
+现代文：手臂、腿足的转筋病，其发病部位，在外侧就取阳经的穴位针刺，在内侧就取阴经的穴位针刺，都使用火针法针刺。
+English: For hand, leg and foot spondylosis, acupuncture using the hot needle method is used at the site of the disease. Acupuncture points for taking the yang meridian on the outer side and the yin meridian on the inner side are used.
+
+古文：徒㽷，先取环谷下三寸，以铍针针之，已刺而筩之，而内之，入而复之，以尽其㽷，必坚。
+现代文：只是腹水肿而没有风邪的，针刺治疗应先取脐下三寸的关元穴，用铍针针刺它，针刺后用竹管插入针孔放水，反复进行，使水排尽，然后用布带将腰腹部捆束。
+English: If it's just an abdominal edema and not a cold, the acupuncture treatment should first take the three-inch point under the armpit, and prick it with an acupuncture needle. After the acupuncture, use a bamboo tube to insert a needle hole to release water. Repeat the process to drain the water, and then tie the waist and abdomen with a cloth belt.
+
+古文：来缓则烦悗，来急则安静。
+现代文：如果束得过松就会使患者感到烦闷，绑紧就能舒适、安静。
+English: If it is too loose, it will make the patient feel bored, and if it is too tight, it will be comfortable and quiet.
+
+古文：间日一刺之，㽷尽乃止。
+现代文：每隔一天治疗一次，直到水肿退尽为止。
+English: Repeat the treatment every other day until the edema is completely gone.
+
+古文：饮闭药，方刺之时徒饮之，方饮无食，方食无饮，无食他食，百三十五日。
+现代文：同时服用通利的药物以利小便，防止再肿。就在开始针刺的时候服药，用了药物不要进食，刚吃过饭也不能服药，并保持饮食清淡，不能食用伤脾助湿的食物，这样的治疗及饮食，要坚持一百三十五天。
+English: At the same time, take Tongli's medicine to facilitate urination and prevent re-swelling. Take the medicine at the beginning of acupuncture, do not eat with the medicine, do not take the medicine just after eating, and keep the diet light, do not eat foods that help to wet the spleen. Such treatment and diet should be adhered to for one hundred and thirty-five days.
+
+古文：着痹不去，久寒不已，卒取其三里。
+现代文：湿邪为主的邪气造成的着痹长久不愈，是寒湿邪气久留体内所致，使用疾进疾出的针刺方法取足三里穴。
+English: The paralysis caused by the dampness-dominated evil spirit will not heal for a long time. It is caused by the cold and damp evil spirit staying in the body for a long time. Use the needle method of rushing in and out to take the foot sanli hole.
+
+古文：骨为干。肠中不便，取三里，盛泻之，虚补之。
+现代文：湿邪在肠中造成肠胃不调的病证，治疗取足三里穴，邪气盛的用泻法，正气虚的用补法。
+English: The wetness in the intestine causes the symptoms of gastrointestinal disorders, the treatment is to take the foot of the three-mile hole, the use of laxity for the evil gas, and the use of supplementation for the positive gas deficiency.
+
+古文：疠风者，素刺其肿上。
+现代文：麻风病，一般都用针刺其肿胀的部位。
+English: Leprosy is usually treated by pricking the swollen area with a needle.
+
+古文：已刺，以锐针针其处，按出其恶气，肿尽乃止。
+现代文：针刺之后，再用锋利的针刺这一部位，再用手挤按该处以压出毒气和恶血，直到消肿为止。
+English: After the needling, the area is pricked again with a sharp needle, and then the area is squeezed by hand to expel the poisonous gas and bad blood until the swelling subsides.
+
+古文：常食方食，无食他食。
+现代文：要常食用些普通的食物，不要吃其他刺激性和油腻的食物。
+English: You should always eat some normal food, do not eat other irritating and greasy foods.
+
+古文：腹中常鸣，气上冲胸，喘不能久立，邪在大肠，刺肓之原、巨虚上廉、三里。
+现代文：腹中常有鸣响，腹中有气向上冲至胸中，喘息急促而不能久立，这些都是邪气在大肠的表现，应该针刺肓之原、上巨虚、足三里几个穴位。
+English: There is often a ringing sound in the abdomen, the qi in the abdomen rushes up to the chest, the breath is rapid and cannot stand for a long time. These are all manifestations of evil qi in the large intestine. It should be pricked in the area of the diaphragm, the supraglottis, and several points in the foot.
+
+古文：小腹控睪，引腰脊，上冲心，邪在小肠者，连睪系，属于脊，贯肝肺，络心系。
+现代文：小腹牵引睾丸疼痛，并牵及腰背和脊骨，向上冲至心胸部位，这是邪在小肠的表现。小肠连于睾系，向后附属于脊，其经脉贯通肝肺，络于心系，所以小肠邪气盛就会出现气机上逆的表现，上冲肠胃，熏蒸肝脏，布散于肓膜，结聚于脐。
+English: The small intestine is connected to the testicles, and is attached to the spine in the back. Its meridians run through the liver and lungs, and are connected to the heart. Therefore, the small intestine evil gas content will have the opposite performance of the gas machine. It will rush to the stomach, fumigate the liver, spread to the diaphragm, and accumulate in the diaphragm.
+
+古文：气盛则厥逆，上冲肠胃，熏肝，散于肓，结于脐，故取之肓原以散之，刺太阴以予之，取厥阴以下之，取巨虚下廉以去之，按其所过之经以调之。
+现代文：所以要取肓之原以散肓之邪气，针刺手太阴肺经以补肺虚，刺足厥阴肝经以泻肝实，取下巨虚穴以祛邪气，同时又要按压手太阳小肠经所过之处来调和气血。
+English: Therefore, it is necessary to take away the root of qi by dissipating the evil qi of qi, prick the hands too much with needles to make up the lung deficiency, prick the feet with needles to make up the qi deficiency, prick the feet too much with needles to make up the lung deficiency, prick the feet too much with needles to make up the lung deficiency, prick the feet too much with needles to make up the lung deficiency, prick the feet too much with needles to make up the lung deficiency, prick the feet too much with needles to make up the lung deficiency, prick the feet too much with needles to make up
+
+古文：善呕，呕有苦，长太息，心中憺憺，恐人将捕之，邪在胆，逆在胃，胆液泄则口苦，胃气逆则呕苦，故曰呕胆。
+现代文：病人经常呕吐，且呕吐物中挟有苦水，并常常叹气，心中恐惧不安，害怕有人将会逮捕他，这是邪气在胆腑，阳气上逆于胃的病证。胆中的汁液外泄，所以口苦，胃气上逆所以呕吐苦水，这叫做呕胆。
+English: The patient often vomits, and there is bitter water in the vomit, and often sighs, fear and anxiety in his heart, afraid that someone will arrest him, this is a symptom of the evil spirit in the gallbladder, the yang spirit against the stomach. The juice in the gallbladder leaks out, so the mouth is bitter, and the bitter water is vomited on the stomach, which is called the gallbladder.
+
+古文：取三里以下。
+现代文：治疗应当取足三里穴来和降胃气。
+English: The treatment should be effective in relieving pain and reducing gas.
+
+古文：胃气逆，则刺少阳血络以闭胆逆，却调其虚实，以去其邪。
+现代文：如果有胃气上逆的症状，针刺足少阳胆经的血络以消除胆汁反流的症状，并须根据病邪和正气的虚实状况斟酌以祛其邪气。
+English: If there are symptoms of gastric gas reversal, acupuncture should be performed on the bloodstream of the lesser yang and gallbladder to eliminate the symptoms of bile reflux, and it should be considered according to the false and true conditions of the disease and the virtuous qi to suppress its evil qi.
+
+古文：饮食不下，膈塞不通，邪在胃脘，在上脘则刺抑而下之，在下脘则散而去之。
+现代文：饮食不能下咽或者感觉胸膈阻塞不通，这是病邪留于胃脘的病证。邪在上脘，就用针刺的方法抑制邪气的上逆而使气下行；邪在下脘，就用散法以祛除积滞。
+English: If you can't swallow food or feel that your chest is blocked, this is a symptom of the disease remaining in the stomach. If the disease is in the upper palate, use the method of acupuncture to suppress the upstream and downstream of the evil gas; if the disease is in the lower palate, use the loose method to remove the accumulation.
+
+古文：小腹痛肿，不得小便，邪在三焦约，取之太阳大络。
+现代文：小腹疼痛、肿胀，小便不利，是病邪在膀胱，针刺取足太阳膀胱经的大络委阳穴。
+English: Abdominal pain, swelling, unfavorable urination, is a disease in the bladder, acupuncture to take the foot of the sun through the bladder to the aorta.
+
+古文：视其络脉与厥阴小络结而血者。
+现代文：如果观察到足太阳膀胱经的络脉与足厥阴肝经的小络，在腘窝与足背上有瘀血结聚的，用针刺放血法以祛其瘀血。
+English: If it is observed that the vas deferens of the solar urinary bladder and the meridians of the solar urinary bladder and the solar urinary bladder and the solar urinary bladder and the meridians of the solar urinary bladder and the solar urinary bladder and the solar urinary bladder and the solar urinary bladder and the solar urinary bladder and the solar urinary bladder and the meridians of the solar urinary bladder and the solar urinary bladder and the solar urinary bladder and the solar urinary bladder and the solar urinary bladder and the solar urinary bladder.
+
+古文：肿上及胃脘，取三里。
+现代文：如果小腹部肿痛向上连及胃脘的，取足三里穴。
+English: If the small abdominal swelling is ascending and the stomach is cramping, take the foot sanli hole.
+
+古文：睹其色，察其以，知其散复者，视其目色，以知病之存亡也。
+现代文：诊断疾病时看病人的面色，观察患者的眼神，就能知道正气的散失或恢复的情况。观察眼睛的颜色，可以知道病邪是存在还是已经消失。
+English: When diagnosing a disease, looking at the patient's face and observing the patient's eyes can tell the loss or recovery of sanity. Observing the color of the eyes can tell whether the disease exists or has disappeared.
+
+古文：一其形，听其动静者，持气口、人迎以视其脉，坚且盛且滑者病日进，脉软者病将下，诸经实者病三日已。
+现代文：审查病人的形态、动静，再诊察气口、人迎的脉象，脉象坚实、滑利且洪大的，是病证日渐加重的表现；如果脉象软弱和缓，就是病邪将要衰退的表现；如果各经脉诊候的部位实而有力的，是正气旺盛的表现，三天左右就能痊愈了。
+English: Examine the patient's morphology, movement, re-examine the trachea, the pulse of the person greeting, the pulse is solid, smooth and large, which is a manifestation of the increasing severity of the disease; if the pulse is weak and slow, it is a manifestation of the disease will decline; if the parts of the menstrual pulse diagnosis are real and powerful, it is a manifestation of the vigor of the righteous, and it will be cured in about three days.
+
+古文：气口候阴，人迎候阳也。
+现代文：气口之脉候阴，人迎之脉候阳。
+English: The pulse of the mouth of the breath waits for the yin, the pulse of the greeting waits for the yang.
+

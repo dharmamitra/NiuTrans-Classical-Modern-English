@@ -1,0 +1,516 @@
+古文：立春之日，东风解冻。
+现代文：立春这一天，东风吹，冰动解。
+English: On this day of the first day of spring, the east wind is blowing and the ice is melting.
+
+古文：又五日，蛰虫始振。
+现代文：过五天，冬眠动物动起来。
+English: After five days, the hibernating animals stirred.
+
+古文：又五日，是对上冰，风不街冻，号令不行。
+现代文：又过五天，鱼儿背上还有冰层。如果东风不能消解冰冻，那么号令就不能执行。
+English: After another five days, the fish still has ice on its back. If the east wind cannot dissolve the ice, then the order cannot be carried out.
+
+古文：蛰虫不振，阴奸阳。
+现代文：冬眠动物不活动，是阴气冲犯了阳气。
+English: When hibernating animals are inactive, the yin affects the yang.
+
+古文：鱼不上冰，甲胄私藏。
+现代文：鱼儿不上有冰的水面，预示民间私藏铠甲、头盔等武器。
+English: The fish do not appear on the icy surface of the water, indicating that people are hiding armor, helmets and other weapons.
+
+古文：惊蛰之日，獭祭鱼。
+现代文：惊蛰这一天，水獭捕鱼多，将鱼摆放在水边。
+English: Surprisingly, on this day, otters fished more and placed the fish on the water's edge.
+
+古文：又五日，鸿雁来。
+现代文：过五天，鸿雁自南向北飞过来。
+English: Five days later, the wild goose flew from the south to the north.
+
+古文：又五日，草木萌动。
+现代文：又过五天，草木萌芽，将茁茁而生。
+English: After another five days, the plants and trees will sprout and thrive.
+
+古文：獭不祭鱼，国多盗贼；鸿雁不来，远人不服。
+现代文：如果水獭不摆放鱼儿，国内将多发盗贼。鸿雁不向北飞来，远方之人则不臣服。
+English: If otters do not place fish, there will be more thieves in the country. If wild geese do not fly north, people in the distance will not submit.
+
+古文：草木不萌，动，果蔬不熟。
+现代文：草木不萌芽生长，瓜果蔬菜不会成熟。
+English: Grass and trees do not sprout and grow, and fruits and vegetables do not mature.
+
+古文：雨水之日，桃始华。
+现代文：雨水这一天，桃花初开。
+English: On this day of rain, the peach blossoms are just beginning to bloom.
+
+古文：又五日，仓庚鸣。
+现代文：过五天，黄鹂开始歌唱。
+English: After five days, Huang Qi began to sing.
+
+古文：又五日，鹰化为鸠。
+现代文：又过五天，老鹰化为布谷鸟。
+English: Five days later, the eagle turned into a cuckoo.
+
+古文：桃不始华，是谓阳否。
+现代文：桃树不开花，说明阳气闭塞。
+English: The peach tree does not bloom, indicating that the yang is blocked.
+
+古文：仓庚不鸣，臣不□主。
+现代文：黄鹂不唱歌，臣下不服从君王。
+English: The jaundice does not sing, the subjects do not obey the king.
+
+古文：鹰不化鸠，寇戎数起。
+现代文：老鹰不化为布谷鸟，贼寇屡屡发生。
+English: The eagle does not turn into a cuckoo, and banditry occurs repeatedly.
+
+古文：春分之日，玄鸟至。
+现代文：春分这一天，燕子飞来。
+English: On the day of the vernal equinox, swallows come flying.
+
+古文：又五日，雷乃发声。
+现代文：过五天，春雷隆隆响。
+English: Five days later, the spring thunder rumbles.
+
+古文：又五日，始电。
+现代文：又过五天，第一次出现闪电。
+English: Five days later, lightning strikes for the first time.
+
+古文：玄鸟不至，妇人不娠；雷不发声，诸侯失民。
+现代文：燕子不来，妇女不会怀孕。春雷发不出响声，诸侯国丧失百姓。
+English: If swallows don't come, women won't get pregnant. If the spring thunder doesn't make a sound, states will lose their people.
+
+古文：不始电，君无威震。
+现代文：不出现闪电，君王就没有威严。
+English: Without lightning, a king has no majesty.
+
+古文：谷雨之日，桐始华，又五日，田鼠化为鴽。
+现代文：谷雨这一天，桐树首次开花。过五天，田鼠化为鹌鹑。
+English: On the day of the rain, the paulownia tree blossomed for the first time. Five days later, the field mouse turned into a toad.
+
+古文：又五日，虹始见。
+现代文：又过五天，彩虹开始出现。
+English: After another five days, rainbows began to appear.
+
+古文：桐不华，岁有大寒。
+现代文：桐树不开花，当年必有大寒。
+English: If the paulownia tree does not bloom, it must have been very cold that year.
+
+古文：田鼠不化，鴽，若国贪残。
+现代文：田鼠不化鹌鹑，国家多有贪婪残暴之人。
+English: The country is full of greedy and cruel people.
+
+古文：虹不见，妇人苞乱。
+现代文：彩虹不出现，预示妇女淫乱。
+English: If the rainbow does not appear, it indicates that the woman is unfaithful.
+
+古文：清明之日，萍始生。
+现代文：清明这一天，水面生出浮萍。
+English: On this day of Qingming, duckweed sprouts in the water.
+
+古文：又五日，鸣鸠拂其羽。
+现代文：过五天，斑鸠擦磨翅膀。
+English: Five days later, the pied flycatcher is rubbing its wings.
+
+古文：又五日，戴胜降于桑。
+现代文：又过五天，戴胜鸟飞落桑枝上。
+English: Five days later, the hoopoe flew down onto the mulberry branch.
+
+古文：萍不生，阴气愤盈。
+现代文：水面不生浮萍，阴气过盛。
+English: There are no duckweeds on the surface of the water, and the weather is overcast.
+
+古文：鸣鸠不拂其羽，国不治；戴胜不降于桑，政教不中。
+现代文：班鸠不擦摩翅膀，国家不能治军。戴胜鸟不落桑树上，政令教化会落空。
+English: If the paddlefish does not rub its wings, the country cannot govern the army. If the hoopoe does not fall on the mulberry tree, the government's edification will fail.
+
+古文：立夏之日，蝼蝈鸣。又五日，蚯蚓出。
+现代文：立夏这一天蝼蝈叫，过五天蚯蚓从地下爬出。
+English: On the first day of summer, crickets howl. Five days later, crickets crawl out of the ground.
+
+古文：又五日，王瓜生。
+现代文：又过五天，土瓜土始生长。
+English: After another five days, the cucumber began to grow.
+
+古文：蝼蝈不鸣，水潦淫漫；蚯蚓不出，嬖夺后；王瓜不生，困于百姓。
+现代文：蝼蝈不叫，地面积水漫溢；蚯蚓不出，宠妃会夺去王后性命；土瓜不生，贵族要遭困穷。
+English: If the toad does not crow, the ground is covered with water; if the toad does not crow, the favorite will take the life of the queen; if the cucumber does not grow, the nobles will be impoverished.
+
+古文：小满之日，苦菜秀。又五日，靡草死。
+现代文：小满这一天苦菜开花，过五天靡草枯死。
+English: On this day, the bitter cabbage flowers, and after five days, the grass withers.
+
+古文：又五日，小暑至。
+现代文：又过五天，气候由温变热。
+English: After another five days, the weather changed from warm to hot.
+
+古文：苦菜不秀，贤人潜伏。
+现代文：苦菜不开花，贤人潜伏不出。
+English: Bitter herbs do not blossom, and sages do not lurk.
+
+古文：靡草不死，国纵盗贼。小暑不至，是谓阴慝。
+现代文：靡草不枯死，国内盗贼泛滥，气候不变热，那是阴气太凶恶。
+English: The grass does not wither and die, domestic thieves are rampant, the climate is always hot, and it is too gloomy.
+
+古文：芒种之日，螳螂生。
+现代文：芒种这一天。螳螂生出来。
+English: On this day, cockroaches are born.
+
+古文：又五日，臭始鸣。
+现代文：过五天，伯劳鸟开始鸣叫。
+English: Five days later, the shrike began to sing.
+
+古文：又五日，反舌无声。
+现代文：又过五天，百舌鸟不再出声。
+English: After another five days, the larks stopped singing.
+
+古文：螳螂不生，是谓阴息。
+现代文：螳螂不生出，这叫阴气灭息。
+English: If the cockroach does not emerge, it is said that the yin spirit is extinguished.
+
+古文：臭不始鸣，令奸壅偪。
+现代文：伯劳鸟不叫，政令不行而奸邪逼人。
+English: The shrike does not call, the government decree does not work, and the evil forces people.
+
+古文：反舌有声，佞人在侧。
+现代文：百舌鸟还在叫，定有巧佞之人在君侧。
+English: The mockingbirds are still chirping. There must be a clever person on your side.
+
+古文：夏至之日，鹿角解。
+现代文：夏至这一天，鹿角脱落。
+English: On the day of the summer solstice, antlers fall off.
+
+古文：又五日，蜩始鸣。
+现代文：过五天，蝉子开始呜叫。
+English: After five days, the cicadas began to wail.
+
+古文：又五日，半夏生。
+现代文：又过五天，半夏长出。
+English: After another five days, the half-summer bloom emerges.
+
+古文：鹿角不解，兵革不息。
+现代文：鹿角不脱落，战祸不停止。
+English: The antlers do not fall off, the war does not stop.
+
+古文：蜩不鸣，贵臣放逸。
+现代文：蝉子不呜叫，贵臣放荡淫佚。
+English: The cicadas do not wail, the noblemen are debauched and lewd.
+
+古文：半夏不生，民多厉疾。
+现代文：半夏不长出，老百姓会得传染病。
+English: If it doesn't grow for half the summer, people will get infectious diseases.
+
+古文：小暑之日，温风至。
+现代文：小暑这一天，温风吹来。
+English: On this day of slight heat, a warm breeze blows.
+
+古文：又五日，蟋蟀居辟。
+现代文：过五天，蟋蟀上墙壁。
+English: Five days later, the walls were finished.
+
+古文：又五日，鹰乃学习。
+现代文：又过五天，小鹰开始学飞翔。
+English: After another five days, the eaglet began to learn to fly.
+
+古文：温风不至，国无宽教。
+现代文：温风不吹来，国家没有宽松的政令。
+English: The warm wind does not blow, and the country does not have a loose government decree.
+
+古文：蟋蟀不居辟，急迫之暴。
+现代文：蟋蟀不上墙壁，就有强暴者横行。
+English: If you don't build the wall, the rapists will come.
+
+古文：鹰不学习，不备戎盗。
+现代文：小鹰不学飞，就不能防御敌寇。
+English: If a young eagle does not learn to fly, it will not be able to defend itself against enemy raiders.
+
+古文：大暑之日，腐草化为萤。
+现代文：大暑这一天，腐草变为赞火虫。
+English: On this hot day, the rotten grass turned into fireflies.
+
+古文：又五日，土润溽暑。又五日，大雨时行。
+现代文：过五天，土地潮湿，空气暑热，又过五天，大雨按季节下起来。
+English: After five days, the land is damp and the air is hot, and after another five days, heavy rain falls seasonally.
+
+古文：腐草不化为萤，谷实鲜落。
+现代文：腐草不变为蝥火虫，庄稼颗粒会提早脱落。
+English: Rotten weeds invariably turn into fireflies, and crop particles fall off prematurely.
+
+古文：土润不溽暑，物不应罚。
+现代文：土地潮湿而不暑热，就会刑罚不当。
+English: If the land is damp but not hot, the punishment will be inappropriate.
+
+古文：大雨不时行，国无恩泽。
+现代文：大雨不按时下，国家没有恩惠给百姓。
+English: If the heavy rain does not fall on time, the country will not be able to provide benefits to the people.
+
+古文：立秋之日，凉风至。
+现代文：立秋这一天，凉风吹来。
+English: On this day at the beginning of autumn, a cool breeze blows.
+
+古文：又五日，白露降。
+现代文：过五日，早上白色露水降。
+English: Five days later, white dew fell in the morning.
+
+古文：又五日，寒蝉鸣。
+现代文：又过五天，寒蝉开始呜叫。
+English: After another five days, the chills begin to wail.
+
+古文：凉风不至，国无严政。
+现代文：凉风不吹来，国家政令无威严。
+English: The cool wind does not blow, and the state decrees are not dignified.
+
+古文：白露不降，民多邪病。
+现代文：早上白色露水不降，老百姓多患咳喘。
+English: In the morning, the white dew does not fall, and the common people often suffer from coughing and wheezing.
+
+古文：寒蝉不鸣，人皆力争。
+现代文：寒蝉不鸣叫，大臣们会以力逞强。
+English: If the chilling cicadas do not chirp, the ministers will do their best.
+
+古文：处暑之日，鹰乃祭鸟。
+现代文：处暑这一天，老鹰会陈放捕到的鸟。
+English: On this hot day, the eagle will release the birds it has caught.
+
+古文：又刷日，天地始肃。
+现代文：过五天，天地开始肃杀。
+English: Five days later, the heavens and earth began to shake.
+
+古文：又五日，禾乃登。
+现代文：又过五天，庄稼成熟可收割。
+English: After another five days, the crops are ripe for harvesting.
+
+古文：鹰不祭鸟，师旅无功。
+现代文：老鹰不陈放鸟雀，征战会劳而无功。
+English: If the eagle does not release the sparrow, the campaign will be fruitless.
+
+古文：天地不肃，君臣乃□。
+现代文：天地不肃杀，君臣之间会不分上下。
+English: Heaven and earth do not kill each other, and there will be no distinction between the high and the low among princes and ministers.
+
+古文：农不登谷，暖气为灾。
+现代文：农田里收不到五谷，温暖的气候造成大灾。
+English: There is not enough grain in the farmland, and the warm weather has caused a catastrophe.
+
+古文：白露之日，鸿雁来。
+现代文：白露这一天，大雁从北方飞过来。
+English: Bai Dew On this day, geese fly in from the north.
+
+古文：又五日，玄鸟归。
+现代文：过五天，燕子向南飞回去。
+English: After five days, the swallows fly back south.
+
+古文：又五日，群鸟养羞。
+现代文：又过五天，众鸟开始积存食物。
+English: After another five days, the birds began to hoard food.
+
+古文：鸿雁不来，远人背畔。
+现代文：大雁不飞过来，远方之人会背叛。
+English: If geese do not fly over, people from far away will betray.
+
+古文：玄鸟不归，室家离散。
+现代文：燕子不南归，家庭会离散。
+English: If swallows do not return south, families will be separated.
+
+古文：群鸟不养羞，下臣骄慢。
+现代文：鸟类不积存食物，下臣会骄横傲慢。
+English: Birds do not hoard food. Servants become arrogant.
+
+古文：秋分之日，雷始收声。
+现代文：秋分这一天，雷震不再声响。
+English: On the day of the autumnal equinox, thunderstorms are no longer heard.
+
+古文：又五日，蛰虫培户。
+现代文：过五天，冬眠动物培修洞穴。
+English: After five days, the hibernating animals leave the cave.
+
+古文：又五日，水始涸。
+现代文：又过五天，地上积水逐渐于涸。
+English: After another five days, the accumulated water on the ground gradually dried up.
+
+古文：雷不始收声，诸侯淫佚。
+现代文：雷震不停止声响，诸侯纵欲放荡。
+English: The thunder does not stop the sound, and the lords indulge in debauchery.
+
+古文：蛰虫不培户，民靡有赖。
+现代文：冬眠动物不培修洞穴，老百姓会失去依靠。
+English: If hibernating animals do not cultivate caves, the people will lose their dependence.
+
+古文：水不始涸，甲虫为害。
+现代文：积水不干涸，带甲的动物要成灾。
+English: If the stagnant water does not dry up, the armored animals will become a disaster.
+
+古文：寒露之日，鸿雁来宾。
+现代文：寒露这一天，最后一批大雁飞过来。
+English: On this day of cold dew, the last batch of wild geese flew over.
+
+古文：又五日，爵入大水，化为蛤。
+现代文：过五天，麻雀掉入大水变为蛤蜊。
+English: After five days, the sparrow fell into the water and turned into a cormorant.
+
+古文：又五日，菊有黄华。
+现代文：又过五天，秋菊开出黄花。
+English: After another five days, the chrysanthemums began to bloom.
+
+古文：鸿雁不来，小民不服，爵不入大水，失时之极。
+现代文：最后一批大雁不飞来，小民不驯服。麻雀不掉入海中变蛤蜊，季节会错乱。
+English: The last batch of geese won't fly, the little people won't be tamed, the sparrows won't fall into the sea and turn into maggots, and the seasons will be out of kilter.
+
+古文：较重无黄华，土不稼穑。
+现代文：秋菊不开黄花，土地不能耕种。
+English: Autumn chrysanthemums do not produce yellow flowers, and the land cannot be cultivated.
+
+古文：霜降之日，豺乃祭兽。
+现代文：霜降这一天，豺把捕来的鸟兽陈放起来拜祭。
+English: On the day when the frost falls, the storks release the birds and beasts they have caught to worship.
+
+古文：又五日，草木黄落。
+现代文：过五天，草木枯黄落叶。
+English: After five days, the plants withered and the leaves fell.
+
+古文：又五日，蛰虫咸俯。
+现代文：又过五天，冬眠动物都蛰伏在地。
+English: After another five days, the hibernating animals all lie on the ground.
+
+古文：豺不祭兽，爪牙不良。
+现代文：豺不摆放鸟兽，武士们将无所作为。
+English: If you don't display animals and birds, the samurai will do nothing.
+
+古文：草木不黄落，是为愆阳。
+现代文：草木不枯黄落叶，这就是阳气有差错。
+English: Grass and trees do not wither and yellow leaves fall, which means that there is an error in the yang.
+
+古文：蛰虫不咸附，民多流亡。
+现代文：冬眠动物不蛰伏，老百姓会四处流浪。
+English: Hibernating animals do not hibernate, and people will wander around.
+
+古文：立冬之日，水始冰。
+现代文：立冬这一天，水面开始结冰。
+English: On the first day of winter, the water began to freeze.
+
+古文：又五日，地始冻。
+现代文：过五天，地面开始封冻。
+English: Five days later, the ground began to freeze.
+
+古文：又五日，雉入大水为蜃。
+现代文：又过五天，野鸡飞入大海化为大蛤。
+English: Five days later, the pheasant flew into the sea and turned into a great egret.
+
+古文：水不冰，是谓阴负地。
+现代文：水面不开始结冰，就是阴气不足。
+English: If the water doesn't start to freeze, it's because there's not enough shade.
+
+古文：不始冻，咎征之咎。
+现代文：地面开始封冻，是灾祸的征兆。
+English: The ground begins to freeze, a harbinger of disaster.
+
+古文：雉不入大水，国多淫妇。
+现代文：野鸡不飞人大海化为大蛤，国中会出现大批淫妇。
+English: The pheasants will not fly, the sea of people will turn into a great sea, and a large number of prostitutes will appear in the country.
+
+古文：小雪之日，虹藏不见。
+现代文：小雪这一天，彩虹隐藏不再现。
+English: On this day of light snow, the hidden rainbow no longer appears.
+
+古文：又五日，天气上腾。地气下降。
+现代文：过五天，阳气升上天，阴气降地面。
+English: After five days, the yang rises to the sky and the yin descends to the ground.
+
+古文：又五日，闭塞而成冬。
+现代文：又过五天，天地凝结，闭塞而成冬。
+English: After another five days, the heavens and earth congealed, closed up and turned into winter.
+
+古文：虹不藏，妇不专一。
+现代文：彩虹不隐藏，妻子不忠于丈夫。
+English: The rainbow is not hidden, the wife is not faithful to her husband.
+
+古文：天气不上腾，地气不下降，君臣相嫉。
+现代文：阳气不升天，阴气不落地，君臣间相互憎恨。
+English: Yang qi does not rise to the sky, yin qi does not fall to the ground, and princes and ministers hate each other.
+
+古文：不闭塞而成冬，母后淫佚。
+现代文：天地不团塞成冬，国内淫乱放荡。
+English: The heavens and the earth will not be stuffed into winter, and domestic lewdness and debauchery will continue.
+
+古文：大雪之日，鴠鸟不鸣。
+现代文：大雪这一天，寒号鸟不再呜叫。
+English: On this day of heavy snow, the cold hornbill no longer howls.
+
+古文：又五日，虎始交。
+现代文：过五天，老虎开始交配。
+English: After five days, the tigers started mating.
+
+古文：又五日，荔挺生。
+现代文：又过五天，马蔺草生长出来。
+English: After another five days, the verbena sprouted.
+
+古文：鴠鸟犹鸣，国有讹言。
+现代文：寒号鸟还在啼叫，国内有妖言惑众。
+English: The winter hornbill is still howling, and there are omens in the country to mislead the public.
+
+古文：虎不始交，将帅不和。
+现代文：老虎不交配，将帅不和睦。
+English: If tigers don't mate, they won't get along.
+
+古文：理睬挺不生，卿士专权。
+现代文：马蔺草不长出来，卿士们会专权欺主。
+English: If the horsetail grass does not grow, nobles and officials will abuse their power.
+
+古文：冬至之日，蚯蚓结。
+现代文：冬至这一天，蚯蚓盘结。
+English: On the day of the winter solstice, the cocoon is closed.
+
+古文：又五日，麋角解。
+现代文：过五天，麋鹿角开始脱落。
+English: After five days, the elk horns began to fall off.
+
+古文：又五日，水泉动。
+现代文：又过五天，地下水泉会涌动。
+English: In another five days, the underground spring will begin to gush.
+
+古文：蚯蚓不结，君政不行。
+现代文：蚯蚓不盘结，国君政令行不通。
+English: Without co-ordination, the sovereign's decrees cannot be carried out.
+
+古文：麋角不解，兵甲不藏。
+现代文：麋鹿角不脱落，兵甲武器不能收藏。
+English: Elk horns do not fall off, and armor weapons cannot be collected.
+
+古文：水泉不动，阴不承阳。
+现代文：地下水泉不涌动，阴气没有阳气来承接。
+English: Groundwater springs do not gush, yin does not have yang to undertake.
+
+古文：小寒之日，雁北向。
+现代文：小寒这一天，大雁开始向北飞。
+English: On this cold day, the geese began to fly north.
+
+古文：又五日，鹊始巢。
+现代文：过五天，喜鹊开始筑巢。
+English: After five days, the magpies begin to build their nests.
+
+古文：鹊不始巢，国不宁。雉不始雊，国大水。
+现代文：又过五天，野鸡开始啼叫。大雁不向北飞，百姓不会心向君王。野鸡不开始啼叫，国内会发大水。
+English: After another five days, the pheasants begin to crow. If the geese do not fly north, the people will not turn their hearts to the king. If the pheasants do not begin to crow, the country will be flooded.
+
+古文：大寒之日，鸡始乳。
+现代文：大寒这一天，母鸡开始产蛋。
+English: On this cold day, the hens began to lay eggs.
+
+古文：又五日，鸷鸟厉疾。
+现代文：过五天，猛禽凌空疾飞。
+English: Five days later, the bird of prey soared into the sky.
+
+古文：又五日，泽腹坚。
+现代文：又过五天，水塘中央结坚冰。
+English: Five days later, the centre of the pond was frozen solid.
+
+古文：鸡不始乳，淫女乱男。
+现代文：母鸡不开始产蛋，淫妇会迷乱男人。
+English: If the hen does not begin to lay eggs, the adulteress will bewilder the man.
+
+古文：鸷鸟不厉，国不除兵。
+现代文：猛禽不高飞，国家不能翦除奸邪。
+English: Birds of prey do not fly high, and the state cannot eradicate the evil of adultery.
+
+古文：水泽不腹，坚言乃不从。
+现代文：水中不结坚冰，国君的政令无人听从。
+English: There is no ice in the water, and no one obeys the sovereign's decrees.
+

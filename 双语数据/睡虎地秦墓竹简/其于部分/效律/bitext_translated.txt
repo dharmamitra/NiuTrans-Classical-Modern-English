@@ -1,0 +1,132 @@
+古文：為都官及縣效律：其有贏、不備，物直之，以其賈多者罪之，勿羸。
+现代文：制定都官和县核验物资财产的法律：如有超出或不足数的情形，每种物品均应估价，按其中价值最高的论罪，不要把各种物品价值累计在一起论罪。
+English: Enact a law on the verification of material assets by city officials and counties: if there is an excess or deficiency, each item should be valued, according to the highest value of the crime, and do not accumulate the value of various items together.
+
+古文：官嗇夫、冗吏皆共賞不備之貨而入贏。
+现代文：官府的啬夫和众吏应都共同赔偿不足数的财货，而上缴多余的财货。
+English: The miser and all officials of the government should jointly compensate for the insufficient number of goods, and hand over the excess goods.
+
+古文：衡石不正，十六兩以上，貲官嗇夫一甲；不盈十六兩到八兩，貲一盾。
+现代文：衡石不准确，误差在十六两以上，罚该官府啬夫一甲；不满十六两而在八两以上，罚一盾。
+English: If the weighing stone is not accurate, and the error is more than 16 taels, the government will be fined 1 ka; if it is less than 16 taels but more than 8 taels, it will be fined 1 dong.
+
+古文：甬不正，二升以上，貲一甲；不盈二升到一升，貲一盾。
+现代文：桶不准确，误差在二升以上，罚一甲；不满二升而一升以上，罚一盾。
+English: If the bucket is not accurate, the error is more than two liters, the penalty is one point; if it is less than two liters but more than one liter, the penalty is one rupee.
+
+古文：斗不正，半升以上，貲一甲；不盈半升到少半升，貲一盾。
+现代文：斗不准确，误差在半升以上，罚一甲；不满半升而在三分之一升以上，罚一盾。
+English: If the bucket is not accurate, the error is more than half a liter, the penalty is one point; if it is less than half a liter and more than one-third of a liter, the penalty is one point.
+
+古文：半石不正，八兩以上；鈞不正，四兩以上；斤不正，三朱以上；半斗不正，少半升以上；參不正，六分升一以上；升不正，廿分升一以上；黃金衡羸不正，半朱以上，貲各一盾。
+现代文：半石不准确，误差在八两以上；钧不准确，误差在四两以上，斤不准确，误差在三铢以上；半斗不准确，误差在三分之一以上；参不准确，误差在六分之一升以上；称黄金所用天平法码不准确，误差在半铢以上，均罚一盾。
+English: Half a stone is inaccurate, the error is more than eighty-two;  is inaccurate, the error is more than forty-two; 斤 is inaccurate, the error is more than three shillings; 半斗 is inaccurate, the error is more than one-third; 参 is inaccurate, the error is more than one-sixth of a liter; The scale used to weigh gold is inaccurate, the error is more than half a shilling, and both are fined one ryo.
+
+古文：數而贏、不備，直百一十錢以到二百廿錢，誶官嗇夫；過二百廿錢以到千一百錢，貲嗇夫一盾；過千一百錢以到二千二百錢，貲官嗇夫一甲；過二千二百錢以上，貲官嗇夫二甲。
+现代文：清点物品数目而有超过或不足数情形，价值在一百一十钱以上到二百二十钱，斥责该官府的啬夫；超过二百二十钱到一千一百钱，罚啬夫一盾；超过一千一百钱到二千二百钱，罚啬夫一甲；超过二千二百钱以上，罚啬夫二甲。
+English: If there is an over- or under-quantity in the number of items to be counted, and the value exceeds one hundred and ten to two hundred and twenty, the miser of the government shall be reprimanded; if it exceeds two hundred and twenty to one hundred and one, the miser shall be fined one guilder; if it exceeds one hundred and one hundred to two hundred, the miser shall be fined one carat; if it exceeds two hundred and two hundred, the miser shall be fined two carats.
+
+古文：縣料而不備者，欽書其縣料之數。
+现代文：称量物资而不足数的，都要记明称量出的数量。
+English: If there is not enough material to be weighed, the quantity to be weighed shall be recorded.
+
+古文：縣料而不備其見數五分一以上，直其賈，其貲、誶如數者然。
+现代文：称量物资而不足现应有数五分之一以上，加以估价，其罚金或斥责的处理和清点物品的规定一样。
+English: The same penalty or reprimand shall apply to those who weigh goods and do not have more than one-fifth of the current number, and then estimate the value, as well as the provisions for inventorying goods.
+
+古文：十分一以到不盈五分一，直過二百廿錢以到千一百錢，誶官嗇夫；過千一百錢以到二千二百錢，貲官嗇夫一盾；過二千二百錢以上，貲官嗇夫一甲。
+现代文：不足数在十分之一以上而不满五分之一，价值超过二百二十钱到一千一百钱斥责该官府的啬夫；超过一千一百钱到二千二百钱，罚啬夫一盾；超过二千二百钱以上，罚啬夫一甲。
+English: If the shortfall is more than one-tenth but less than one-fifth, and the value is more than 220 yuan but less than 1100 yuan, the miser will be reprimanded; if the shortfall is more than 1100 yuan but less than 2200 yuan, the miser will be fined; if the shortfall is more than 1100 yuan but less than 2200 yuan, the miser will be fined; and if the shortfall is more than 2200 yuan, the miser will be fined.
+
+古文：百分一以到不盈十分一，直過千一百錢以到二千二百錢，誶官嗇夫；過二千二百錢以上，貲官嗇夫一盾。
+现代文：不足数在百分之一以上而不满十分之一，价值超过一千一百钱到二千二百钱，斥责该官府的啬夫；超过二千二百钱以上的，罚啬夫一盾。
+English: If the shortfall is more than one percent but less than one tenth, and the value is more than eleven hundred to twenty-two hundred yuan, the miser of the government shall be reprimanded; if it is more than twenty-two hundred yuan, the miser shall be fined one dong.
+
+古文：同官而各有主，各坐其所主。
+现代文：在同一官府任职而所掌管方面不同，分别承担所管方面的罪责。
+English: If they work in the same government office but are in charge of different areas, they shall bear the criminal responsibility for the areas they are in charge of separately.
+
+古文：官嗇夫免，縣令令人效其官，官嗇夫坐效以貲，大嗇夫及丞除。
+现代文：官府的啬夫免职，如县令已派人核验该官府的物资，则该官府啬夫因核验中问题被罚时，大啬夫和丞相免罪。
+English: If the county government has sent someone to verify the materials of the government, then when the government's miser is punished for problems in verification, the miser and the prime minister are exonerated.
+
+古文：縣令免，新嗇夫自效，故嗇夫及丞皆不得除。
+现代文：县令免职，新任啬夫自行核验，原任啬夫和丞都不能免罪。
+English: The county magistrate removed him from his post, and the newly-appointed miser verified it on his own. Neither the former miser nor Jo could be exonerated.
+
+古文：甲旅札贏其籍及不備者，入其贏旅衣札，而責其不備旅衣札。
+现代文：甲的旅札数超过或不足簿籍登记数的，多余的应上缴，不足的责令补赔。
+English: If the number of A's travel tickets exceeds or falls short of the number registered in the register, the excess shall be handed over, and the shortfall shall be ordered to make up for.
+
+古文：官府臧皮革，數穆風之。
+现代文：官府收藏皮革，应常曝晒风吹。
+English: The government's collection of leather should be exposed to the wind.
+
+古文：有蠹突者，貲官嗇夫一甲。
+现代文：有被咬坏的，罚该官府的啬一甲。
+English: If there is any damage caused by the bite, the authority will impose a fine of one to one.
+
+古文：器職耳不當籍者，大者貲官嗇夫一盾，小者除。
+现代文：器物标记编号与簿籍不合的，如为大的器物，罚该官府的啬夫一盾，小的器物则可免罪。
+English: If the marking number of the object does not match the book, if it is a large object, the official will be fined one rupee, while a small object will be exempted.
+
+古文：馬牛誤職耳，及物之不能相易者，貲官嗇夫一盾。
+现代文：牛马及不能调换的器物错标了次第，罚该官府的啬夫一盾。
+English: Cattle, horses and non-exchangeable goods that are mislabelled will be fined one rupee.
+
+古文：殳、戟、弩，相易，勿以為贏、不備，以職耳不當之律論之。
+现代文：殳、战和弯、涂黑色和涂红色的调换了，不要认为是超过或不足数的问题，应按标错次第的法律论处。
+English: Don't think of it as a problem of over or under quantity. It should be dealt with according to the laws of mislabeling.
+
+古文：工稟它縣，到官試之，飲水，水二百斗以上，貲工及吏將者各二甲；不盈二百斗以下到百斗，貲各一甲；不盈百斗以下到十斗，貲各一盾；不盈十斗以下及稟縣中而負者，負之如故。
+现代文：工匠到别的县领漆，运抵官府，加以测试，饮水，水减在二百斗以上，罚工匠及率领他们的吏各二甲；不满二百斗而在一百斗以上，罚各一甲；不满一百斗而在十斗以上，罚各一盾；不满十斗以及从该倒领漆时亏欠的，应补赔使足原数。
+English: If the craftsmen go to another county to collect the lacquer and bring it to the government office for testing and drinking, if the water is reduced to more than 200 doe, the craftsmen and the officials who lead them will be fined 2 ka each; if the water is less than 200 doe but more than 100 doe, they will be fined 1 ka each; if the water is less than 100 doe but more than 10 doe, they will be fined 1 guilder each; if the water is less than 10 doe and there is a shortfall from the time of collecting the lacquer, they will be compensated.
+
+古文：上節發委輸，百姓或之縣就及移輸者，以律論之。
+现代文：朝廷如征发运输的劳役，百姓有到县里雇车或转交给别人运送的，应依法论处。
+English: If the imperial court requisitions and dispatches laborers for transportation, and the common people have hired cars in the county or transferred them to others for transportation, they shall be dealt with according to law.
+
+古文：計用律不審而贏、不備，以效贏、不備之律貲之，而勿令賞。
+现代文：会计不合法律规定而有出入，按核验实物时有超出或不足数的法律罚金，但不令赔偿。
+English: If there is a discrepancy in the accounting that does not meet the legal requirements, there will be a legal fine for the excess or shortfall according to the physical verification, but no compensation will be made.
+
+古文：官嗇夫貲二甲，令、丞貲一甲；官嗇夫貲一甲，令、丞貲一盾。
+现代文：官府的啬夫罚二甲，则令、丞应罚一甲；官府的啬夫则一甲，则令、丞罚一盾。
+English: If a miserly person in a government office is fined 2 koku, it is ordered that a miserly person should be fined 1 koku; if a miserly person in a government office is fined 1 koku, it is ordered that a miserly person should be fined 1 kun.
+
+古文：其吏主者坐以貲、誶如官嗇夫。
+现代文：主管该事的吏与该官府啬夫同样罚金或斥责。
+English: The official in charge of the matter will be fined or reprimanded in the same way as the official.
+
+古文：其它冗吏、令史掾計者，及都倉、庫、田、亭嗇夫坐其離官屬於鄉者，如令、丞。
+现代文：其他群吏、令史掾参预会计的，以及都仓、库、田、亭啬夫承担下面属于乡的分支机构的罪责，都和令、丞同例。
+English: Other group officials, those who ordered Shi Yan to participate in the preliminary accounting, as well as those who ordered the warehouses, warehouses, fields, and pavilions to bear the criminal responsibility of the branches belonging to the township below, are the same as the orders and joes.
+
+古文：尉計及尉官吏節有劾，其令、丞坐之，如它官然。
+现代文：县尉的会计以及县尉官府中的吏如犯有罪行，该县令、丞应承担罪责。和其它官府一样。
+English: If the county magistrate's accountant and officials in the county magistrate's office commit a crime, the county magistrate and the county magistrate should bear criminal responsibility, just like other government offices.
+
+古文：司馬令史掾苑計，計有劾，司馬令史坐之，如令史坐官計劾然。
+现代文：司马令史掾管理苑囿的会计，如会计有罪，司马令史应承担罪责，和令史承担官府会计的罪责一样。
+English: Sima Lingshi managed the accounting of Yuan Rong. If the accountant is guilty, Sima Lingshi should bear the criminal responsibility, just as Lingshi should bear the criminal responsibility of the government accounting.
+
+古文：計校相繆，自二百廿錢以下，誶官嗇夫；過二百廿錢以到二千二百錢，貲一盾；過二千二百錢以上，貲一甲。
+现代文：会计经过核对发现差误，错算数目在二百二十钱以下，斥责该官府的啬夫；超过二百二十钱到二千二百钱，罚一盾；超过二千二百钱以上，罚一甲。
+English: After verification, the accountant found an error, and the number of miscalculations rose to less than 220 yuan, rebuking the miserliness of the government; more than 220 yuan to 2200 yuan, fined one dong; more than 2200 yuan, fined one yuan.
+
+古文：人戶、馬牛一，貲一盾；自二以上，貲一甲。
+现代文：错算人口一户或牛马一头，罚一盾；两户或两头以上，罚一甲。
+English: If one household or one head of cattle or horse is miscalculated, a fine of one dong will be imposed; if two households or more than two heads are miscalculated, a fine of one jia will be imposed.
+
+古文：計脫實及出實多於律程，及不當出而出之，直其賈，不盈廿二錢，除；廿二錢以到六百六十錢，貲官嗇夫一盾；過六百六十錢以上，貲官嗇夫一甲，而復責其出。
+现代文：会计帐目不足或多过实有数超出了法律规定的限度，和不应销帐而销了帐，估计其价值，不满二十二钱，可免罪；二十二钱到六百六十钱，罚该官府的啬夫一盾；超过六百六十钱以上，罚该官府的啬夫一甲，并仍责令赔偿所销帐的东西。
+English: If an accounting account is deficient, or if the actual number exceeds the limit prescribed by law, and the account is written off instead of being written off, and its value is estimated to be less than 22 yuan, the offender shall be exempted from punishment; if the value is between 22 yuan and 660 yuan, the miser of the government shall be fined 1 yuan; if the value is more than 660 yuan, the miser of the government shall be fined 1 yuan, and the offender shall still be ordered to compensate for what was written off.
+
+古文：人戶、馬牛一以上為大誤。
+现代文：错算人口一户或牛马一头以上是大误。
+English: It is a big mistake to miscalculate the population of one household or more than one head of cattle and horses.
+
+古文：誤自重，罪一等。
+现代文：如系自行查觉错误，可减罪一等。
+English: If it is a case of self-detection of error, the crime may be reduced to the first degree.
+

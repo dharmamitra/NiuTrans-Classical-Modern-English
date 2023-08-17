@@ -1,0 +1,324 @@
+古文：桓公问管子曰： 请问官国轨。 
+现代文：桓公问管仲说： 请问关于国家统计理财工作的管理。 
+English: Huan Gong asked Guanzhong: Please tell me about the management of the national statistical and financial work.
+
+古文：管子对曰： 田有轨，人有轨，用有轨，乡有轨，人事有轨，币有轨，县有轨，国有轨。
+现代文：管仲回答说： 土地有统计，人口有统计，需用有统计，常费有统计，货币有统计，乡有统计，县有统计，整个国家都要有统计。
+English: Guanzhong replied: The land has statistics, the population has statistics, the needs have statistics, the regular expenses have statistics, the currency has statistics, the townships have statistics, the counties have statistics, and the whole country must have statistics.
+
+古文：不通于轨数而欲为国，不可。 
+现代文：不懂得统计理财方法而想要主持国家，不行。 
+English: If you want to preside over a country without understanding statistical and financial methods, you can't.
+
+古文：桓公曰， 行轨数奈何？ 
+现代文：桓公说： 实行统计理财方法应该怎么办？ 
+English: Huan Gong said: What should be done to implement the statistical financial management method?
+
+古文：对曰， 某乡田若干？
+现代文：回答说： 一个乡有土地多少？
+English: He replied: How much land does a township have?
+
+古文：人事之准若干？
+现代文：用费的一般标准多少？
+English: What is the general standard for expenses?
+
+古文：谷重若干？
+现代文：粮食总值多少？
+English: What is the total value of grain?
+
+古文：曰：某县之人若干？
+现代文：还有：一个县的人口多少？
+English: Also: how many people live in a county?
+
+古文：田若干？
+现代文：土地多少？
+English: How much land?
+
+古文：币若干而中用？
+现代文：货币多少才合于该县需要？
+English: How much money does the county need?
+
+古文：谷重若干而中币？
+现代文：谷价多高才合于货币流通之数？
+English: How high must grain prices be to correspond to the number of coins in circulation?
+
+古文：终岁度人食，其余若干？
+现代文：全年计算供应人食后，余粮多少？
+English: After calculating the supply of human food for the whole year, how much surplus grain is there?
+
+古文：曰：某乡女胜事者终岁绩，其功业若干？
+现代文：还有一乡的女劳力全年进行纺织，其成品多少？
+English: There is also a township of female laborers who weave textiles all year round. How many finished products do they produce?
+
+古文：以功业直时而櫎之，终岁，人已衣被之后，余衣若干？
+现代文：应当把成品按时价算出总值，全年，供全部人口穿用后，余布多少？
+English: Should the total value of the finished product be calculated according to the current price, after the whole year, for the entire population to wear, how much cloth is left?
+
+古文：别群轨，相壤宜。 
+现代文：还要有另外一组统计项目，调查土地的情况。 
+English: There should also be another set of statistical projects to investigate the situation of land.
+
+古文：桓公曰： 何谓别群轨，相壤宜？ 
+现代文：桓公说： 为什么要用另一组统计项目，调查土地情况呢？ 
+English: Huan Gong said: Why should we use another set of statistical items to investigate the land situation?
+
+古文：管子对曰： 有莞蒲之壤，有竹箭檀柘之壤，有汜下渐泽之壤，有水潦鱼鳖之壤。
+现代文：管仲回答说： 有生长芜蒲的沼泽地，有生长竹箭檀朽的山地，有污下潮湿的低洼地，有生长鱼鳖的水溏地。
+English: Guanzhong replied, "There are marshes with irises, there are mountains with bamboo and arrowheads, there are muddy and wet lowlands, and there are wetlands with fish hooks.
+
+古文：今四壤之数，君皆善官而守之，则籍于财物，不籍于人。
+现代文：这四种土地，君主若都善于管理和控制，就可以从产品上取得收入，而不必向人们征税。
+English: These four kinds of land, if the monarch is good at management and control, can obtain income from products without having to tax people.
+
+古文：亩十鼓之壤，君不以轨守，则民且守之。
+现代文：至于亩产十鼓的上等土地，君主若不纳入统计来控制其产品，富民商人就要来控制。
+English: As for the high-class land with a yield of ten drums per mu, if the monarch does not control his products by including them in the statistics, the rich merchants will have to control them.
+
+古文：民有过移长力，不以本为得，此君失也。 
+现代文：他们手中有钱，从不以务农为重，这便是君主的失策了。 
+English: They had money in their hands, but they never focused on farming, which was a mistake on the part of the monarch.
+
+古文：桓公曰： 轨意安出？ 
+现代文：桓公说： 统计预测的内容怎样产生？ 
+English: Kanko said: How is the content of the statistical forecast generated?
+
+古文：管子对曰： 不阴据其轨，皆下制其上。 
+现代文：管仲回答说： 此事如不保守机密，朝廷就将受制于下面的富民商人。 
+English: Guanzhong replied: If this matter is not kept confidential, the imperial court will be subject to the rich merchants below.
+
+古文：桓公曰： 此若言何谓也？ 
+现代文：桓公说： 这些话是什么意思呢？ 
+English: Prince Kan said, "What does that mean?
+
+古文：管子对曰： 某乡田若干？
+现代文：管仲回答说： 一个乡土地多少？
+English: Guanzhong replied: How much land does a township have?
+
+古文：食者若干？
+现代文：吃粮人口多少？
+English: How many people eat grain?
+
+古文：某乡之女事若干？
+现代文：一乡从事纺织的妇女有多少？
+English: How many women in your village are engaged in textiles?
+
+古文：余衣若干？
+现代文：余布有多少？
+English: How much fabric is left?
+
+古文：谨行州里，曰： 田若干，人若干，人众田不度食若干。 
+现代文：认真巡视各州各里后，有的情况是： 地多少，人多少，粮食不够有多少。 
+English: After carefully inspecting every mile of every state, some situations are: how much land, how many people, how much grain is not enough.
+
+古文：曰： 田若干，余食若干。 
+现代文：有的情况是： 地多少，粮食剩余有多少。 
+English: In some cases: how much land, how much grain surplus.
+
+古文：必得轨程，此谓之泰轨也。
+现代文：必须调查出一个标准数据来。
+English: A standard figure has to be worked out.
+
+古文：然后调立环乘之币。
+现代文：这叫作总体的统计。然后就计划发行一笔经过全面筹算的货币。
+English: It's called the grand total, and then there's a plan to issue a fully funded currency.
+
+古文：田轨之有余于其人食者，谨置公币焉。大家众，小家寡。
+现代文：对于预计其土地收成超过口粮消费的农户，就主动借钱给他们。大户多借，小户少借。
+English: For farmers who expect their land harvest to exceed the consumption of rations, they will take the initiative to lend them money. Large households borrow more, small households borrow less.
+
+古文：山田、间田，曰终岁其食不足于其人若干，则置公币焉，以满其准。
+现代文：山地和中等土地的农户，是全年口粮不够消费的，也要借钱给他们，以保持其最低生活水平。次年，年景好，五谷丰登。
+English: Mountain and middle-land farmers, who do not consume enough rations throughout the year, also need to borrow money to maintain their minimum standard of living. The following year, the year is good, and the grain is abundant.
+
+古文：重岁，丰年，五谷登，谓高田之萌曰： 吾所寄币于子者若干，乡谷之櫎若干，请为子什减三。 谷为上，币为下。
+现代文：官府就对据有上等土地的农户说： 我所贷给你们的共多少钱？
+English: The government said to the farmers who owned high-grade land: How much did I lend you?
+
+古文：高田抚间田山不被，谷十倍。
+现代文：乡中粮食的现价多少？请按照十成减三的比例折价还粮。 
+English: What is the current price of grain in the village? Please return grain according to the proportion of ten percent minus three.
+
+古文：山田以君寄币，振其不赡，未淫失也。高田以时抚于主上，坐长加十也。
+现代文：这样粮价就会上涨，币值就会下跌。因为上等土地的余粮被官府掌握起来，中等土地又无法补足山地的缺粮，故粮价将上涨十倍。但山地农户因已有国家贷款，接济其不足，也不至于过分损失。只是上等土地的余粮及时被国家掌握，使粮价坐长了十倍。
+English: In this way, grain prices will rise, and the value of the currency will fall. Because the surplus grain of high-grade land is controlled by the government, and medium-grade land cannot make up for the grain shortage in the mountains, grain prices will rise tenfold. However, mountain farmers will not suffer excessive losses due to the shortage of state loans. However, the surplus grain of high-grade land was controlled by the state in time, making grain prices increase tenfold.
+
+古文：女贡织帛，苟合于国奉者，皆置而券之。
+现代文：这时对妇女所生产的布帛，只要合于国家需用，都加以收购并立下合同。
+English: At this time, the cloth produced by women, as long as it meets the needs of the country, will be purchased and a contract will be established.
+
+古文：以乡櫎市准曰： 上无币，有谷。
+现代文：合同按乡、市的价格写明： 官府无钱，但有粮。
+English: The contract is written according to the price of the township and city: The government has no money, but there is grain.
+
+古文：以谷准币。 
+现代文：用粮食折价来收购。 
+English: Purchasing grain at discounted prices.
+
+古文：环谷而应策，国奉决。
+现代文：这样又用卖回粮食办法清偿买布的合同，国家需用的布帛便可以解决。
+English: In this way, the contract for the purchase of cloth can be settled by selling back the grain, and the cloth needed by the country can be solved.
+
+古文：谷反准，赋轨币，谷廪重有加十。
+现代文：接着粮价又降回到原来水平了。再贷放经过统筹发行的货币，再进行囤集粮食，粮价又上涨十倍。
+English: Then the grain price fell back to the original level. Then the currency issued through the overall plan was lent, and then the grain was collected. The grain price rose tenfold.
+
+古文：谓大家委赀家曰： 上且修游，人出若干币。 
+现代文：这时通告豪富之家和高利贷者们说： 国君将巡行各地，尔等各应出钱若干备用。 
+English: At this time, the House of Plutocrats and the usurers were notified that the Emperor would be making a tour of various regions, and that they should all pay a certain amount of money.
+
+古文：谓邻县曰： 有实者皆勿左右。
+现代文：还通告邻近各县说： 有存粮的都不准擅自处理。
+English: It also notified neighboring counties that: Anyone with stored grain is not allowed to dispose of it without authorization.
+
+古文：不赡，则且为人马假其食民。 
+现代文：如果巡行用粮不够，国君将为解决人马食用向民间借粮。 
+English: If there is not enough grain for the parade, the sovereign will borrow grain from the people to solve the problem.
+
+古文：邻县四面皆櫎，谷坐长而十倍。
+现代文：邻县四周都由此影响粮价，粮价又坐涨十倍。
+English: Neighbouring counties have been affected by this and grain prices have risen tenfold.
+
+古文：上下令曰： 赀家假币，皆以谷准币，直币而庚之。 
+现代文：国君便下令说： 从富家所借的钱，一律以粮食折价偿还。 
+English: The sovereign then decreed: All money borrowed from the rich must be repaid with a discount on grain.
+
+古文：谷为下，币为上。
+现代文：这样，粮食的市价又会降下来了，币值又要上升了。
+English: In this way, the market price of grain will fall again, and the value of the currency will rise again.
+
+古文：百都百县轨据，谷坐长十倍。
+现代文：全国的百都百县，其统计理财工作都可按此法行事。首先使粮价坐长十倍。
+English: The statistical and financial work of all the cities and counties in the country can be carried out according to this method. First, the grain price should be increased by ten times.
+
+古文：环谷而应假币。
+现代文：其次用粮食支付借款。
+English: Secondly, the grain is used to pay off the loan.
+
+古文：国币之九在上，一在下，币重而万物轻。敛万物，应之以币。
+现代文：再其次因国家货币的九成在官府，一成在民间，币值高而万物贱，便收购物资而投出货币。
+English: Secondly, due to the fact that 90% of the national currency is in the government and 10% in the private sector, the value of the currency is high and everything is cheap, they purchase materials and throw money.
+
+古文：币在下，万物皆在上，万物重十倍。府官以市櫎出万物，隆而止。
+现代文：再其次因货币放在民间，物资都集在官府，万物价格乃上涨十倍；府官便按照市价抛售物资，至物价回降而止。
+English: Secondly, because the money was placed in the hands of the people and the materials were concentrated in the government, the price of everything rose tenfold; the government officials then sold the materials at the market price until the price fell back.
+
+古文：国轨，布于未形，据其已成，乘令而进退，无求于民。谓之国轨。 
+现代文：这样的国家统计理财工作，安排在产品未成之前，掌握经营在产品已成之后，运用国家号令而收放进退，不必向民间直接求索。所以叫作国家的 统计理财 。 
+English: Such national statistical financial management work is arranged before the product is not completed, the management is mastered after the product has been completed, and the state orders are used to collect and return, and it is not necessary to directly seek from the people. Therefore, it is called national statistical financial management.
+
+古文：桓公间于管子曰： 不籍而赡国，为之有道乎？ 
+现代文：桓公问管仲说： 不征收赋税而满足国家财政需要，有办法么？ 
+English: Huan Gong asked Guanzhong: Is there any way to meet the national financial needs without levying taxes?
+
+古文：管子对曰： 轨守其时，有官天财，何求于民。 
+现代文：管仲回答说： 统计理财工作做得及时，又能管好自然资源，何必向民间征税呢？ 
+English: Guanzhong replied: The statistical and financial work is done in a timely manner, and natural resources can be well managed. Why do we need to collect taxes from the private sector?
+
+古文：桓公曰： 何谓官天财？ 
+现代文：桓公说： 何谓管好自然资源？ 
+English: Kanko said: What is good management of natural resources?
+
+古文：管子对曰： 泰春民之功繇；泰夏民之令之所止，令之所发；泰秋民令之所止，令之所发；泰冬民令之所止，令之所发。此皆民所以时守也，此物之高下之时也，此民之所以相并兼之时也。君守诸四务。 桓公曰： 何谓四务？ 
+现代文：管仲回答说： 除春天是人民种地与服徭役的时节外，夏天就要明令规定何时禁止、何时开发山泽，秋天与冬天也都要明令规定何时禁止、何时开发山泽，这都是富民乘时控制市场的时节，这又是物价涨落、贫富兼并的时节。君主一定要注意掌握 四务 。 桓公接着说： 什么叫作四务呢？ 
+English: Guanzhong replied, "In addition to spring, which is the time for the people to cultivate land and perform labor, in summer, it is necessary to clearly stipulate when to prohibit and when to develop mountains and lakes, and in autumn and winter, it is also necessary to clearly stipulate when to prohibit and when to develop mountains and lakes. These are the times when the rich and the people use time to control the market, and this is also the time of price fluctuations and the merging of the rich and the poor. The monarch must pay attention to mastering the four affairs. Huan Gong continued: What is called the four affairs?
+
+古文：管子对曰： 泰春，民之且所用者，君已廪之矣；泰夏，民之且所用者，君已廪之矣；泰秋，民之且所用者，君已廪之矣；泰冬，民之且所用者，君已廪之矣。
+现代文：管仲回答说： 大春，人民将用的东西，君主早有贮备了；大夏，人民将用的东西，君主早有贮备了；大秋，人民将用的东西，君主早有贮备了；大冬，人民将用的东西，君主早有贮备了。
+English: Guanzhong replied, "In the spring, the monarch has already prepared what the people will use; in the summer, the monarch has already prepared what the people will use; in the autumn, the monarch has already prepared what the people will use; in the winter, the monarch has already prepared what the people will use.
+
+古文：泰春功布日，春缣衣、夏单衣、捍、宠、累箕、胜、籯、屑、，若干日之功，用人若干，无赀之家皆假之械器，幐、籯、筲、、公衣，功已而归公衣，折券。
+现代文：大春，安排农事的时候就计算好：春天的夹衣、夏天的单衣、竿子、篮子、绳子、青箕、口袋、筐子、竹盒、捆绳等物品，使用多少天，使用的人有多少。凡无钱的农家都可以租借这些工具器物：口袋、筐子、竹盒、绳子和公衣等。完工后归还公家，并毁掉合同。
+English: In the spring, when arranging agricultural work, it is good to calculate: spring jackets, summer jackets, poles, baskets, ropes, hoes, bags, baskets, bamboo boxes, ropes and other items, how many days they are used, and how many people use them. All farmers without money can rent these tools and equipment: bags, baskets, bamboo boxes, ropes and coats, etc. After completion, return them to the government and destroy the contract.
+
+古文：故力出于民，而用出于上。
+现代文：所以，劳力出自百姓，器用出自国家。
+English: Therefore, labor comes from the people, and skill comes from the state.
+
+古文：春十日不害耕事，夏十日不害芸事，秋十日不害敛实，冬二十日不害除田。此之谓时作。 
+现代文：春季最紧要的十天不误耕种，夏季最紧要的十天不误锄草，秋季最紧要的十天不误收获，冬季最紧要的二十天不误整治土地，这就叫作保证按照农时进行作业了。 
+English: The most important ten days in spring do not fail to cultivate, the most important ten days in summer do not fail to weed, the most important ten days in autumn do not fail to harvest, and the most important twenty days in winter do not fail to prepare the land. This is called ensuring that operations are carried out in accordance with farming hours.
+
+古文：桓公曰： 善。吾欲立轨官，为之奈何？ 
+现代文：桓公说： 好，我想筹办一个统计理财的机构，该怎么办呢？ 
+English: Huan Gong said: OK, I want to set up a statistical financial management institution, what should I do?
+
+古文：管子对曰： 盐铁之策，足以立轨官。 
+现代文：管仲回答说： 利用盐铁专营的收入，就足够办好这个机构了。 
+English: Guanzhong replied, "Using the income from the salt and iron franchise is enough to run this institution well.
+
+古文：桓公曰： 奈何？ 
+现代文：桓公说： 筹办后怎样展开工作？ 
+English: Kanko said, "After the preparation, how will the work be carried out?"
+
+古文：管子对曰： 龙夏之地，布黄金九千，以币赀金，巨家以金，小家以币。
+现代文：管仲回答说： 在龙夏地区，贷放黄金九千斤，可以用钱币辅助黄金。大户用金。小户用币。
+English: Guanzhong replied, "In Longxia District, the maximum amount of gold that can be lent is 9,000 jin. Gold can be supplemented with coins. Large households use gold. Small households use coins.
+
+古文：周岐山至于峥丘之西塞丘者，山邑之田也，布币称贫富而调之。
+现代文：在歧山周围至峥丘以西的塞丘地区，是山地之田，只贷放钱币，而且按贫富分别调度。
+English: In the Sekiu region, which stretches from around Mount Kisan to west of Mengqiu, it is a mountainous field, where only coins are lent and distributed according to wealth and poverty.
+
+古文：周寿陵而东至少沙者，中田也，据之以币、巨家以金、小家以币。
+现代文：在寿陵周围往东至少沙一带，是中等土地，也用贷款控制，大户用金，小户用币。
+English: Around Shuling to the east, at least in the Shaxia area, is medium-sized land, also controlled by loans, with large households using gold and small households using coins.
+
+古文：三壤已抚，而国谷再什倍。
+现代文：三个地区的出产都已掌握起来以后，粮价就可以涨二十倍。
+English: After the production of the three regions has been mastered, grain prices can rise twenty times.
+
+古文：粱渭、阳琐之牛马满齐衍，请驱之颠齿，量其高壮，曰： 国为师旅，战车驱就敛子之牛马，上无币，请以谷视市櫎而庚子。 
+现代文：梁渭、阳琐两家的牛马遍齐国田野，请去区分一下牛马的岁口，验看一下它们的高壮程度，然后就对这两家说： 国家为建设军队，将为配备战车征购你们的牛马，但国家手里无钱，就用粮食按市价折算偿付。 
+English: Liang Kun and Yang Zuo's cattle and horses cover the country's fields. Please go to distinguish the age of the cattle and horses, check their stamina, and then say to the two: In order to build an army, the state will purchase your cattle and horses for equipping chariots, but the state has no money, so it will use grain to pay at the market price.
+
+古文：牛马在上，粟二家。
+现代文：这样，牛马为国家掌握，粮食归此两家。
+English: In this way, the cattle and horses are controlled by the state, and the grain belongs to these two families.
+
+古文：二家散其粟，反准。牛马归于上。 
+现代文：两家把粮食出卖以后，粮价回到原来的水平，牛马则落到国家手中了。 
+English: After the two companies sold the grain, the grain price returned to its original level, while the cattle and horses fell into the hands of the state.
+
+古文：管子曰： 请立赀于民，有田倍之。
+现代文：管仲接着说： 请国家与人民订立合同，有田者加倍贷放预购款。
+English: Guanzhong went on to say: I ask the state to sign a contract with the people, and those who have rice fields to double the advance purchase amount.
+
+古文：内毋有，其外外皆为赀壤。
+现代文：内地可不办，边地都是订合同的地区。
+English: There is no need to deal with the mainland, the border areas are all areas where contracts have been signed.
+
+古文：被鞍之马千乘，齐之战车之具，具于此，无求于民。
+现代文：这里可用之马足够配备千辆兵车，齐国战车的配备，就在这里解决，不必向民间求索。
+English: The horses available here are enough to equip a thousand chariots, and the equipping of Qigong chariots can be solved here, without having to ask the people.
+
+古文：此去丘邑之籍也。 
+现代文：这也就免除按丘、邑等单位向居民征课马匹了。 
+English: This also exempts units such as counties and towns from collecting horses from residents.
+
+古文： 国谷之朝夕在上，山林廪械器之高下在上，春秋冬夏之轻重在上。
+现代文： 国内粮价的涨落决定于国家，山林和库藏械器的价格涨落决定于国家，春秋冬夏的物价高低也决定于国家。
+English: The rise and fall of domestic grain prices is determined by the state, the rise and fall of the prices of mountain forests and warehouse equipment is determined by the state, and the high and low prices in spring, autumn, winter and summer are also determined by the state.
+
+古文：行田畴，田中有木者，谓之谷贼。
+现代文：下一步还要巡行各地的农田，凡在田地里面植的树，都把它叫作粮食之害来除掉。
+English: The next step will be to patrol farmlands across the country and remove any trees that have been planted in the fields, calling them "food pests."
+
+古文：宫中四荣，树其余曰害女功。
+现代文：凡房屋四周不种桑树而要种其他杂木的，都斥为妨害妇女养蚕禁止之。
+English: Anyone who does not plant mulberry trees around the house but wants to plant other trees is prohibited from growing silkworms in order to prevent women from raising silkworms.
+
+古文：宫室械器非山无所仰。
+现代文：使盖房子、造器械的人们，不靠国家的山林就没有其他来源。
+English: Without the country's mountains and forests, there is no other source of income for the people who build houses and machines.
+
+古文：然后君立三等之租于山，曰：握以下者为柴楂，把以上者为室奉，三围以上为棺椁之奉；柴楂之租若干，室奉之租若干，棺椁之租若干。 
+现代文：然后，君主就可以确定三个等级的租税：树粗不足一握的叫小木散柴，一把以上的为建筑用材，三围以上是制造棺停的上等木材；小木散柴应收租税若干，建筑用材应收租税若干，棺停用材应收若干。 
+English: Then, the monarch can determine three levels of tax: trees with a thickness of less than a handful are called small wood logs, more than a handful are used for construction, and more than three are used for making coffins; small wood logs are subject to a certain amount of tax, building materials are subject to a certain amount of tax, and coffin materials are subject to a certain amount.
+
+古文：管子曰： 盐铁抚轨，谷一廪十，君常操九，民衣食而繇，下安无怨咎。
+现代文：管仲说： 用盐铁的收入来办理统计理财事业，可以使粮食经过囤积而一涨为十，国家得利九倍，人民还照常衣食服役，安而无怨。
+English: Guanzhong said: Using the income of salt and iron to handle the statistical financial management business, the grain can be increased to ten through hoarding, the country will gain nine times, and the people will still serve as usual, safe and sound.
+
+古文：去其田赋，以租其山：巨家重葬其亲者服重租，小家菲葬其亲者服小租；巨家美修其宫室者服重租，小家为室庐者服小租。上立轨于国，民之贫富如加之以绳，谓之国轨。 
+现代文：现在又免除田赋，收税于山林资源：富户厚葬者出高价，小户薄葬者出低价；富户盖好房子出高价，贫户盖小房子出低价。君主设立统计制度于国内，就象使用绳索一样控制人民的贫富，这就叫作国家的统计理财工作。 
+English: Now, they are exempted from paying land tax and collecting taxes on mountain forest resources: rich households with large burial plots pay high prices, while small households with small burial plots pay low prices; rich households with well-built houses pay high prices, while poor households with small houses pay low prices. The establishment of a statistical system in the country by the monarch is like using a rope to control the people's wealth and poverty. This is called the country's statistical and financial management work.
+

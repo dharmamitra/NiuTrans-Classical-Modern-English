@@ -1,0 +1,32 @@
+古文：军中之制，五人为伍，伍相保也；十人为什，什相保也；五十为属，属相保也；百人为闾，闾相保也。
+现代文：军队的联保制度，是按五人编为一伍，伍内的人互相联保，十人编为一什，什内的人互相联保；五十人编为一属，属内的人互相联保；百人编为一闾，闾内的人互相联保。
+English: The army's mutual insurance system is based on the following principles: five people are organized into a troop, and those in the troop mutually insure each other; ten people are organized into a company, and those in the company mutually insure each other; fifty people are organized into a tribe, and those in the tribe mutually insure each other; one hundred people are organized into a company, and those in the company mutually insure each other.
+
+古文：伍有干令犯禁者，揭之，免于罪；知而弗揭，全伍有诛。
+现代文：伍内如有触犯禁令的，同伍的人揭发了他，全伍免罪，知道而不揭发，全伍受罚。
+English: If anyone in the troop violated the ban, his fellow soldiers would expose him, and the entire troop would be exonerated; if they knew about it but did not expose it, the entire troop would be punished.
+
+古文：什有干令犯禁者，揭之，免于罪；知而弗揭，全什有诛。
+现代文：什内有触犯禁令的，同什的人揭发了他，全什免罪，知道而不揭发，全什受罚。
+English: If anyone has violated the prohibition, and his fellow-slaves have denounced him, he is free from all blame; if he knew about it and did not denounce it, he is punished.
+
+古文：属有干令犯禁者，揭之，免于罪；知而弗揭，全属有诛。
+现代文：属内有触犯禁令的，同属的人揭发了他，全属免罪，知道而不揭发，全属受罚。
+English: If any of his relatives violate the prohibition, and any of his relatives denounce him, they shall all be absolved; if they know about it but do not denounce him, they shall all be punished.
+
+古文：闾有干令犯禁者，揭之，免于罪；知而弗揭，全闾有诛。
+现代文：闾内有触犯禁令的，同间的人揭发了他，全闾免罪，知道而不揭发，全间受罚。
+English: If anyone in the group violated the ban, the others in the group exposed him, and they were all exonerated; if they knew but did not expose him, they were all punished.
+
+古文：吏自什长以上，至左右将，上下皆相保也。有干令犯禁者，揭之，免于罪；知而弗揭者，皆与同罪。
+现代文：将吏从什长以上到左、右将军，上下都互相联保，凡有触犯禁令的，揭发了的都免于治罪，知道而不揭发的，都与他同罪。
+English: The generals from Shichang and above to the left and right generals, up and down, mutually assured each other that anyone who violated the ban and exposed it would be exempt from punishment, and anyone who knew about it but did not expose it would be equally guilty.
+
+古文：夫什伍相结，上下相联，无有不得之奸，无有不揭之罪。
+现代文：同伍同什的人都互相具结，上下之间都互相联保，就没有不能破获的阴谋，没有不被揭发的罪恶。
+English: There is no conspiracy that cannot be uncovered, no sin that cannot be revealed.
+
+古文：父不得以私其子，兄不得以私其弟，而况国人聚舍同食，乌能以干令相私者哉！
+现代文：即使父亲也不能够包庇他的儿子，哥哥也不能够包庇他的弟弟，何况一般的人呢？既然同吃同住在一起，哪还敢有违犯禁令而私相包庇的呢?
+English: If a father cannot protect his son, or a brother his brother, how much less a man? Seeing that they eat and live together, who will dare to violate the prohibition and secretly protect one another?
+

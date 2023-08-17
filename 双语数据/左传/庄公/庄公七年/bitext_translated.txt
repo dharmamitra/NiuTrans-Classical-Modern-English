@@ -1,0 +1,40 @@
+古文：七年春，夫人姜氏会齐侯于防。
+现代文：七年春季，桓公夫人姜氏在防地与齐侯相会。
+English: In the spring of the seventh year, Prince Kan's wife, Jiang, met Qi Hou at the fort.
+
+古文：夏四月辛卯，夜，恒星不见。
+现代文：夏季四月辛卯日，夜晚，看不见星星。
+English: In the summer, in April, when the days are long and the nights are dark, you can't see the stars.
+
+古文：夜中，星陨如雨。
+现代文：半夜时，流星坠落像雨一样。
+English: At midnight, meteors fall like rain.
+
+古文：秋，大水。
+现代文：秋季，发大水。
+English: In autumn, there is a lot of flooding.
+
+古文：无麦、苗。
+现代文：麦子没有收成，地里无苗。
+English: There is no harvest of wheat, and there are no seedlings in the fields.
+
+古文：冬，夫人姜氏会齐侯于穀。
+现代文：冬季，桓公夫人姜氏在穀地与齐侯见面。
+English: In winter, Huan Gong's wife Jiang met Qi Hou in the grain field.
+
+古文：七年春，文姜会齐侯于防，齐志也。
+现代文：七年春季，文姜和齐襄公在防地相会，这是出于齐襄公的主意。
+English: In the spring of the seventh year, Wen Jiang and Qi Xianggong met at the fort, which was the idea of Qi Xianggong.
+
+古文：夏，恒星不见，夜明也。
+现代文：夏季，看不到常见的星星，这是由于夜空明亮的缘故。
+English: In summer, you can't see the usual stars because of the brightness of the night sky.
+
+古文：星陨如雨，与雨偕也。
+现代文：流星坠落像雨一样，这是和雨一起落下来的。
+English: Meteors fall like rain, and this one fell with the rain.
+
+古文：秋，无麦、苗，不害嘉谷也。
+现代文：秋季，麦子不收，小苗不长，但没有影响黍稷的收成。
+English: In autumn, the wheat was not harvested and the seedlings did not grow, but this did not affect the alfalfa harvest.
+

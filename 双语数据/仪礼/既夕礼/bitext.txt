@@ -1,0 +1,856 @@
+古文：既夕哭，请启期，告于宾。
+现代文：夕哭后，有司向丧主请示启殡的日期和时间，并告之宾客。
+English: After the evening's tears, a steward asked the mourners for the date and time of the funeral, and announced it to the guests.
+
+古文：夙兴，设盥于祖庙门外。
+现代文：次日早上起来，在祖庙门外设好盥盆。
+English: The next morning, I got up and set up a wicker basin outside the ancestral temple gate.
+
+古文：陈鼎皆如殡，东方之馔亦如之。
+现代文：陈放三只鼎，都和大殓既殡之奠时所设一样，东边所设祭席也和大殓既殡之奠时所设相同。
+English: The three altars are the same as those set up when the coffin was buried, and the altar set up on the east side is also the same as that set up when the coffin was buried.
+
+古文：夷床馔于阶间。
+现代文：尸床设在堂下东西两阶之间。
+English: The corpse bed is located between the east and west steps of the hall.
+
+古文：二烛俟于殡门外。
+现代文：两支火烛点燃后置于殡宫门外，俟启殡时用。
+English: After two candles are lit, they are placed outside the door of the mortuary, and are used at the beginning of the funeral.
+
+古文：丈夫髽，散带垂，即位如初。
+现代文：男子 免 ，妇人用麻束发，腰绖下垂，即位和朝夕哭时一样。
+English: Men are exempt, while women wear their hair in a ponytail, and their hips hang down, just as they do when they cry in the morning or evening.
+
+古文：妇人不哭。主人拜宾，入，即位，袒。
+现代文：妇人不哭，丧主叩拜宾客，入门后就堂下之位，袒露左臂。
+English: The woman does not cry, mourns the deceased, bows to the guests, takes a lower seat after entering the door, and shows her left arm.
+
+古文：商祝免袒，执功布入，升自西阶，尽阶，不升堂。
+现代文：商祝免于袒露左臂，执大功之布从西阶进入，走到西阶尽头，但不登堂。
+English: Shang Zhu was exempted from exposing his left arm, and the cloth of the Great Achievement entered from the west steps and walked to the end of the west steps, but did not enter the hall.
+
+古文：声三，启三，命哭。
+现代文：商祝随即连续三次发出 噫歆 之声以警觉神灵；又连续三遍诏告神即将启柩；进而命丧主及家里男女等号哭。
+English: Shangzhu then shouted three times in succession to alert the gods; he also shouted three times in succession to tell the gods that the funeral was about to begin; and then the deceased and the men and women in the family cried.
+
+古文：烛入。祝降，与夏祝交于阶下。
+现代文：执烛者拿着火烛进来，周祝取铭下堂，与夏祝在阶下相遇，各从右侧走过。
+English: The bearer of the candle came in with the candle, Zhou Zhu and Xia Zhu met at the foot of the stairs, and each walked past from the right side.
+
+古文：取铭置于重。
+现代文：周祝将铭插于重上。
+English: Zhou Zhu will be inscribed on the top.
+
+古文：踊无算。
+现代文：丧主哭、踊不计数。
+English: Countless mourners wept and danced.
+
+古文：商祝拂柩用功布，幠用夷衾。
+现代文：商祝用大功之布拂柩之尘，用夷衾盖在灵柩上。
+English: The merchant wishes to use the cloth of great merit to wipe the dust of the coffin, and cover the coffin with the coffin.
+
+古文：迁于祖，用轴。
+现代文：接着用轴车运灵柩到祖庙。
+English: Then they used the axle car to transport the coffin to the ancestral temple.
+
+古文：重先，奠从，烛从，柩从，烛从，主人从。
+现代文：插有铭的重在最前面，重之后是奠，奠之后是火烛，火烛后为灵柩，灵柩后又是火烛，然后是丧主及其亲属。
+English: A heavy cross with an inscription is at the forefront, followed by a memorial, followed by a candle, followed by a casket, followed by another candle, and then the deceased and his relatives.
+
+古文：升自西阶。
+现代文：及至祖庙，由西阶抬灵柩上堂。
+English: And to the ancestral temple, from the west steps to carry the coffin into the hall.
+
+古文：奠俟于下，东面北上。
+现代文：奠于西阶下等着灵柩之升设，正面朝东，以北为上，丧主随灵柩之后上堂。
+English: It is laid at the foot of the west steps, waiting for the casket to be raised. The front faces east, with the north at the top, and the mourners follow the casket into the church.
+
+古文：主人从升，妇人升，东面。
+现代文：妇人也跟着上堂，面向东。
+English: The woman followed him into the hall, facing east.
+
+古文：众主人东即位。
+现代文：众主人于东阶下就位。
+English: The hosts take their places at the foot of the East Steps.
+
+古文：正柩于两楹间，用夷床。
+现代文：在两楹柱间正柩，将灵柩放到夷床上。
+English: Place the coffin between the two pillars and place the coffin on the raised bed.
+
+古文：主人柩东，西面。
+现代文：丧主站在灵柩的东边，向西视柩。
+English: The mourners stood on the east side of the casket, looking west at the coffin.
+
+古文：置重如初。
+现代文：和在殡宫时一样，置重于中庭三分之一处。
+English: As in the mortuary, the emphasis is on the third of the atrium.
+
+古文：席升设于柩西。
+现代文：拿席上堂，铺设在灵柩的西边。
+English: Take a seat in the hall and lie down on the west side of the casket.
+
+古文：奠设如初，巾之，升降自西阶。
+现代文：然后和原初一样陈设祭席，并用巾盖好以御挡风尘，设奠者由西阶上堂和下堂。
+English: Then, as in the beginning, the altar was set up, and covered with a cloth to keep out the wind and dust. The founder walked up and down the hall from the west steps.
+
+古文：主人踊无算，降，拜宾，即位，踊，袭。
+现代文：丧主哭、踊不计数，下堂，拜谢宾客；在堂下东阶即位，哭、踊，穿衣。
+English: Countless mourners wept and danced as they went down the hall to thank the guests. At the eastern step of the hall, they were enthroned, wept, danced and dressed.
+
+古文：主妇及亲者由足，西面。
+现代文：主妇及大功以上亲属经由柩南而至东阶，向西就位。
+English: Housewives and relatives who have made great achievements or more will go to the east via the south of Handan and take their seats in the west.
+
+古文：荐车，直东荣，北輈。质明，灭烛。
+现代文：拉死者生前所乘之车进祖庙，与东边的屋翼对齐，车辕朝北。次日天亮，灭掉火烛。
+English: Pull the dead person's car into the ancestral temple, align it with the east wing of the roof, with the front of the car facing north. At dawn the next day, extinguish the candles.
+
+古文：彻者升自阼阶，降自西阶。
+现代文：撤席者从东阶上堂，撤去旧奠后，从西阶下堂。
+English: Those who vacate their seats will enter the hall from the east steps, and after removing the old memorial, they will leave the hall from the west steps.
+
+古文：乃奠如初，升降自西阶。
+现代文：继而为迁柩朝祖而于堂上设迁祖奠，和先前所设从奠一样，设奠者从西阶上堂和下堂。
+English: Next, a memorial service was held in the hall for the ancestors of Emperor Qianlong. As with the previous memorial services, the memorial service was held on the west steps of the hall.
+
+古文：主人要节而踊。
+现代文：丧主在设奠者上堂时哭、踊，主妇在设奠者下堂时哭、踊。
+English: Mourners cry and dance when the founder enters the hall, and housewives cry and dance when the founder leaves.
+
+古文：荐马，缨三就，入门，北面，交辔，圉人夹牵之。
+现代文：接着牵驾车之马进祖庙，马缨由红、白、苍三色丝绳做成，入门后面朝北；每两马的缰绳交结在一起，由养马之人在左右两侧牵着。
+English: Next, the horse of the driver enters the ancestral temple. The stirrup is made of red, white and brown silk ropes, facing north behind the entrance. The reins of each two horses are intertwined, and the horse breeder leads them on the left and right sides.
+
+古文：御者执策立于马后。
+现代文：驾车之人手执马鞭立于马后。
+English: The driver stands behind the horse with a whip in his hand.
+
+古文：哭成踊，右还，出。
+现代文：丧主哭、踊，牵马者右转身，牵马出门。
+English: The mourners wept and danced. The person leading the horse turned to the right and led the horse out of the door.
+
+古文：宾出，主人送于门外。
+现代文：宾客出门，丧主送至门外。
+English: The guests leave and the mourners are escorted outside.
+
+古文：有司请祖期。
+现代文：有司向丧主请示设祖奠的时间。
+English: A secretary asked the mourners for the time of the memorial service.
+
+古文：曰： 日侧。 
+现代文：丧主回答： 太阳西斜之时 。
+English: The mourner replied: When the sun sets.
+
+古文：主人入，袒。
+现代文：丧主进来，袒露左臂。
+English: The deceased came in, exposing his left arm.
+
+古文：乃载，踊无算。
+现代文：载灵柩于柩车。
+English: The hearse carrying the coffin leaves the hearse.
+
+古文：卒束。
+现代文：丧主哭、踊不计数。
+English: Countless mourners wept and danced.
+
+古文：袭。降奠，当前束。
+现代文：束棺于柩车完毕，丧主穿好衣服，有司取下迁祖奠席，改设于柩车前束之旁。
+English: The casket was completed in the hearse, the mourners were dressed, and a steward removed the seat for the funeral service and placed it next to the coffin in front of the hearse.
+
+古文：商祝饰柩，一池，纽前赤巠后缁，齐三采，无贝。
+现代文：商祝装饰柩车：柩前挂竹制的 池 一个，用白布围上柩之四周称之帷，又以白布覆盖柩之上部称之荒，联结帷和荒的 纽 前红后黑，要求前后左右各一 纽 ，柩车顶端之圆盖以三色缯为之，上红中白下苍，并充之以絮使之高起，没有贝饰。
+English: The merchant wishes to decorate the carriage: a bamboo pool is hung in front of the carriage, a white cloth is used to surround the four sides of the carriage, and a white cloth is used to cover the upper part of the carriage, and the connection of the curtain and the knots of the knots is red in front and black behind, requiring one knot each in front and behind, and the round cover at the top of the carriage is made of three-colored knots, red in the middle and white under the sky, and filled with floc to make it high, without shell ornaments.
+
+古文：设披。属引。
+现代文：在棺之两侧各设二 披 以固棺柩。
+English: On both sides of the coffin, two drapes are set up to secure the coffin lid.
+
+古文：陈明器于乘车之西。
+现代文：用一长绳拴系柩车前辂的两端而以人引之。送死之明器陈放在乘车的西边。
+English: A long rope is used to tie the two ends of the car's front axle and pull it with a person. The death machine is placed on the west side of the car.
+
+古文：折，横覆之。
+现代文：先将 折 横放于地上。
+English: First, fold the dough horizontally on the floor.
+
+古文：抗木，横三，缩二。
+现代文：继放 抗木 ，横的三根，竖的两根。
+English: Next, release the wooden blocks, three horizontally and two vertically.
+
+古文：加抗席三。
+现代文：然后加三重用苇做成的 抗席 于抗木之上。
+English: Then, a counter seat made of reeds was added on top of the wood.
+
+古文：加茵，用疏布，缁翦，有幅，亦缩二横三。
+现代文：又加垫棺用的 茵 于抗席之上。茵用大功之布，染成浅黑色，有缘边，也是竖的两块，横的三块。
+English: There is also a coffin cushion on top of the seat. It is made of heavy-duty fabric, dyed light black, with edges, also two pieces vertically and three pieces horizontally.
+
+古文：器西南上，綪。茵。
+现代文：陈列明器以最西一行之南端为上，按自南往北、又自北往南的格式排列。
+English: The display indicators are arranged in a south-to-north and north-to-south format, with the south end of the westernmost row at the top.
+
+古文：苞二。筲三，黍，稷，麦。瓮三，醯，醢，屑。
+现代文：然后是瓮三只，一盛醋，一盛豆酱，一盛 屑 。
+English: Then there were three clams, a serving of vinegar, a serving of bean sauce, and a serving of shredded cucumber.
+
+古文：幂用疏布。
+现代文：覆盖以大功之布。
+English: Covered with cloth of great merit.
+
+古文：甒二，醴，酒。
+现代文：甒两只，一盛醴酒，一盛酒。
+English: Two gourds, a bowl of wine, a bowl of wine.
+
+古文：幂用功布。
+现代文：覆盖以小功之布。
+English: Covered with a small cloth.
+
+古文：皆木桁，久之。
+现代文：每器之下皆置一木架，各器皆用盖子盖好。
+English: A wooden rack is placed under each utensil, and each utensil is covered with a lid.
+
+古文：用器：弓矢，耒耜，两敦，两杅，槃，匜。
+现代文：日常使用之器具依次是：弓，矢，耒，耜，两只敦，两个盂，盘，匜。
+English: The utensils used on a daily basis are, in order: bow, arrow, pestle, hoe, two tuns, two shovels, plate, pickaxe.
+
+古文：匜实于槃中，南流。
+现代文：匜放在盘中，匜口朝南。
+English: Place the clams on a plate, with the clams facing south.
+
+古文：无祭器。
+现代文：没有祭器。
+English: There is no altar.
+
+古文：有燕乐器可也。
+现代文：可以有燕饮、奏乐之器。
+English: There can be alcoholic drinks and musical instruments.
+
+古文：役器，甲，胄，干，笮。
+现代文：兵器依次是：铠甲，头盔，盾牌，竹制的箭袋。
+English: The weapons are, in order: armor, helmet, shield, bamboo quiver.
+
+古文：燕器，杖，笠，翣。
+现代文：燕居安体之器依次是：杖，斗笠，大掌扇。
+English: The utensils of Yanjuan are, in order: a cane, a battle hat, and a large palm fan.
+
+古文：彻奠，巾席俟于西方。
+现代文：上述各器放好后，撤去祭席，并将所撤之奠的巾和席放在西边，以俟设祖奠时用。
+English: After the above-mentioned utensils have been placed, the altar is removed, and the cloth and seat of the removed offering are placed on the west side, to be used when setting up the ancestral offering.
+
+古文：主人要节而踊，袒。
+现代文：撤奠者入时男子哭、踊，出时妇人哭、踊，丧主袒露左臂。
+English: When the mourners enter, the men cry and dance, and when they leave, the women cry and dance. The mourners bare their left arms.
+
+古文：商祝御柩，乃祖。
+现代文：商祝执功布指挥柩车调头向外，为行之始。
+English: At the beginning of the procession, the leader of the procession, the merchant Zhu, commanded the carriage to turn around and head outwards.
+
+古文：踊，袭，少南，当前束。
+现代文：丧主哭、踊，穿衣，稍向南至灵柩前束处而立。
+English: The mourners cry, dance, dress, and stand a little south of the casket.
+
+古文：妇人降，即位于阶间。
+现代文：妇人下堂，于东西两阶之间即位。
+English: The woman comes down the aisle and ascends between the east and west aisles.
+
+古文：祖，还车不还器。
+现代文：出行时，调转柩车车头，但陈列的各种器具不必移动方向。
+English: When traveling, turn the front of the car, but the various appliances on display do not have to move direction.
+
+古文：祝取铭，置于茵。
+现代文：周祝取铭置于茵上。
+English: Zhou Zhuotong's epitaph was placed on it.
+
+古文：二人还重，左还。
+现代文：两个人抬起重左转身，使重由面北转为面南。
+English: Two people lift the weight and turn around to the left, turning the weight from face north to face south.
+
+古文：布席，乃奠如初，主人要节而踊。荐马如初。
+现代文：又牵驾车之马进来，其礼仪和前一次一样。
+English: The carriage-horse came in again, with the same formality as before.
+
+古文：宾出。
+现代文：宾客出去，丧主相送。
+English: The chief guest is leaving.
+
+古文：主人送，有司请葬期。入，复位。
+现代文：这时有司向丧主请示下葬的日期，丧主作答后进来，返回堂下柩东之位。
+English: At this time, a steward asked the mourner for the date of burial. After the mourner answered, he came in and returned to his seat at the back of the hall.
+
+古文：公賵玄纁束，马两。
+现代文：国君遣人送来助葬之物：黑色帛三束，浅黄色帛两束，马两匹。
+English: The sovereign sent three bundles of black cocoons, two bundles of light yellow cocoons, and two horses.
+
+古文：摈者出请，入告。
+现代文：傧者出门请使者进来，并入告丧主。
+English: The mourners went out to invite the messenger to come in and announce the death of the deceased.
+
+古文：主人释杖，迎于庙门外，不哭。先入门右，北面，及众主人袒。
+现代文：丧主放下丧杖，到庙门外迎接，不哭；然后自己先进来朝北立于门右，和众主人袒露左臂。
+English: The bereaved put down his cane and went to the outside of the temple gate to greet the mourners, without crying. Then he went to the front and stood facing north on the right side of the gate, showing his left arm to all the mourners.
+
+古文：马入设。宾奉币，由马西当前辂，北面致命。
+现代文：牵马进门后设于庭中重的南边，国君使者捧拿束帛经由马的西边过来，站在柩车车辕的西边向北传达君命。丧主哭，叩拜，起立。
+English: After the horse-drawn carriage enters the door, it is set up on the south side of the middle of the courtyard. The emissary of the sovereign, holding a bundle of ropes, comes from the west side of the horse and stands on the west side of the carriage to convey the sovereign's life to the north. The bereaved cry, bow, and stand up.
+
+古文：主人哭，拜稽颡，成踊。宾奠币于栈左服，出。
+现代文：使者置放束帛于柩车车箱的左边，继而出庙门。
+English: The messenger placed a bunch of yakitori on the left side of the cart, and then went out to the temple gate.
+
+古文：宰由主人之北，举币以东。
+现代文：冢宰从丧主的北边过去，拿起束帛至东边收藏起来。
+English: The eunuch went from the north side of the deceased, picked up the bundle and went to the east side to collect it.
+
+古文：士受马以出。主人送于外门外，拜，袭，入复位，杖。
+现代文：胥徒之长接过马缰牵马出去，丧主送使者到外门之外，拜谢后穿好衣服；进而入庙门，返回柩东之位，拿起丧杖。
+English: The leader of the mourners took the horse and led the horse out, the mourners sent the messenger outside the outer gate, bowed and then dressed; then entered the temple gate, returned to the east of the gate, and picked up the funeral staff.
+
+古文：宾賵者将命，摈者出请，入告，出告须。
+现代文：卿大夫士遣使送助葬之物，由傧者传命。傧者出去请使者进来，并入告丧主，又出告使者，出告之辞是： 孤某须矣 一一丧主正等着。
+English: The deceased went out to invite the messenger to come in, and announced the deceased, and announced the messenger, and the announcement was: The deceased is waiting.
+
+古文：马入设，宾奉币。摈者先入，宾从，致命如初。
+现代文：牵马进来设于中庭重的南边，使者捧拿束帛。
+English: The horse-drawn carriage is located on the south side of the atrium, and the messenger is holding a bunch of straw.
+
+古文：主人拜于位，不踊。宾奠币如初，举币、受马如按。摈者出请。
+现代文：傧者先进来，使者随从于后，经由马的西边过来，站在柩车车辕的西北向北传达卿大夫士之命，和国君使者传达君命一样。
+English: The charioteer came first, followed by the messenger, who came from the west side of the horse and stood in the northwest of the carriage to convey the order of the doctor to the north, just as the king's messenger conveyed the king's order.
+
+古文：若奠，入告，出，以宾入，将命如初。
+现代文：丧主于柩车东边位拜谢，不哭、踊。使者置放束帛和国君之使者置放束帛的位置相同。
+English: The mourners stand on the east side of the hearse, bow, do not cry, and dance. The messenger places the casket in the same position as the emissary of the sovereign.
+
+古文：士受羊，如受马。
+现代文：冢宰拿起束帛收藏起来和胥徒之长接过马缰牵马出去都和前面相同。
+English: The donkey driver picks up the bundles of yakitori, collects them, and the leader of the yakitori takes over the yakitori and leads the horse out, all in the same way as before.
+
+古文：又请。若赙，入告。
+现代文：使者出去后，傧者旋即出去请问使者是否还有事。
+English: After the emissary left, the man went out immediately to ask the emissary if there was anything else.
+
+古文：主人出门左，西面。宾东面将命，主人拜，宾坐委之；宰由主人之北，东面举之，反位。
+现代文：使者若还赠送别的祭物，傧者就入告丧主，随即又出去引使者入门，使者传命和前面一样。胥徒之长接受使者赠羊和前面接受赠马时一样。
+English: If the messenger also presents other sacrifices, the mourners will announce the death of the lord, and then go out again to lead the messenger into the door. The messenger passes on the order as before. The leader of the mourners accepts the messenger's gift of a sheep as before when he accepted a horse.
+
+古文：若无器，则捂受之。又请，宾告事毕，拜送入。
+现代文：使者出去后，傧者又出去询问使者是否还有事。使者若还赠送财物以助办丧事，傧者就又入告丧主。
+English: After the messenger went out, the mourner went out again to ask the messenger if there was anything else. If the messenger also gave money to help with the funeral, the mourner would be sued again.
+
+古文：赠者将命，摈者出请，纳宾如初。
+现代文：丧主走出庙门，向西站在东边；使者朝东转达卿大夫士之使命；丧主拜谢，使者坐下将所赠财物置放地上；冢宰从丧主的北边过来，向东端拿装有财物之器具，返回丧主身后之原位。
+English: The mourner walks out of the temple gate and stands on the east side facing west; the messenger goes to the east to convey the mission of the noble doctor; the mourner thanks the messenger, the messenger sits down and places the donated property on the ground; the mourner comes from the north side of the mourner, takes the equipment with the property to the east end, and returns to the original position behind the mourner.
+
+古文：宾奠币如初。若就器，则坐奠于陈。
+现代文：如果所赠财物未装于器具之中，冢宰就直接从使者手中接过来。
+English: If the gift is not contained in the utensil, the giver receives it directly from the messenger.
+
+古文：凡将礼，必请而后拜送。
+现代文：傧者又问使者是否还有事，使者告之事毕；丧主拜送使者，然后入庙。
+English: The mourners then asked the messenger if there was anything else, and the messenger reported that the matter was over. The mourners bowed before the messenger and then entered the temple.
+
+古文：兄弟，賵、奠可也。所知，则賵而不奠。知死者赠，知生者赙。
+现代文：另有赠送助丧之物的使者来传达其主人使命，傧者出去请使者进来，并引使者入门，其仪节和前面一样。
+English: In addition, the messenger who presents the objects of condolence comes to convey his master's mission. The mourners go out to invite the messenger to come in and lead the messenger to the door. The ceremony is the same as before.
+
+古文：书賵于方，若九，若七，若五。
+现代文：使者置放束帛的位置也和前面一样。
+English: The position of the messenger's crotch is also the same as the front.
+
+古文：书遣于策。乃代哭，如初。宵，为燎于门内之右。
+现代文：又将所赠之明器记载于简策上，死者下葬之前，家中男女须行庙中轮流哭，不用官为之哭，和小殓时一样。晚上，要于门内右边点上火烛。
+English: Before the deceased is buried, the men and women in the family must go to the temple to cry in turn, without crying for the official, as in the case of a small cocoon. In the evening, a candle should be lit on the right side of the door.
+
+古文：厥明，陈鼎五于门外，如初。
+现代文：次日天亮，陈设五只鼎于庙门外，和大殓奠时一样。
+English: At dawn the next day, five of them were set up outside the temple gate, just like at the time of the great memorial service.
+
+古文：其实。羊左胖，髀不升，肠五，胃五，离肺。豕亦如之，豚解，无肠胃。鱼、腊、鲜兽，皆如初。
+现代文：鼎中所盛：羊体的左半边，去髀，羊肠五段，羊胃五块，无切割的肺一块；猪亦如上，即猪体的左半边，去髀，未切割的肺一块，猪体分解为前两肢、后两肢、脊、胁，但不用猪肠和猪胃；鱼、干兽、鲜兽等和殡时设奠相同。
+English: In the middle of the offering: the left half of the sheep's body, the rind removed, five segments of sheep's intestine, five pieces of sheep's stomach, and one uncut lung; the pig is the same as above, that is, the left half of the pig's body, the rind removed, one uncut lung, and the pig's body is divided into the front two limbs, the back two limbs, the ridge, and the stirrup, but the pig's intestine and the pig's stomach are not used; fish, dried animals, fresh animals, etc. are the same as the funeral offering.
+
+古文：东方之馔：四豆，脾析，蜱醢，葵菹，蠃醢；四笾，枣，糗，栗，脯；醴，酒。
+现代文：在东边设的祭席为：四只豆，一盛百叶，一盛蚌酱，一盛葵菹，一盛蜗酱；四只笾，一盛枣，一盛点心，一盛栗，一盛于肉；此外还有甜醴酒和酒。
+English: On the east side, the banquet consisted of: four beans, a serving of lilies, a serving of dipping sauce, a serving of sunflower seeds, a serving of dipping sauce; four clams, a serving of dates, a serving of dim sum, a serving of chestnuts, and a serving of meat; in addition, there was sweet wine and wine.
+
+古文：陈器。灭燎。
+现代文：将夜间敛藏之明器又陈列出来。
+English: The lanterns, which had been hidden at night, were put back on display.
+
+古文：执烛，侠辂，北面。宾入者，拜之。
+现代文：灭掉庭中火烛，执烛者二人，一于柩车前辂之东，一于柩车前辂之西，皆向北而立。有宾客为助葬而入庙，丧主拜之。
+English: The candles in the courtyard were extinguished, and two candle-bearers, one at the east end of the chariot and the other at the west end of the chariot, stood facing north. Guests came to the temple to attend the funeral and pay their respects to the deceased.
+
+古文：彻者入，丈夫踊。设于西北，妇人踊。
+现代文：撤奠者入庙，男子哭、踊；改设于柩车西北、序西南，妇人哭、踊。
+English: When the mourners enter the temple, the men cry and dance; when it is moved to the northwest of the carriage and the southwest of the sequence, the women cry and dance.
+
+古文：彻者东，鼎入，乃奠。豆南上，綪。笾，蠃醢南，北上，綪。
+现代文：撤奠者由柩车北边转而东去，这时抬鼎入庙，设于重的东北边，鼎正面朝西，以北为上，进而设遣奠。
+English: The mourners moved from the north side of the carriage to the east. At this time, they carried the casket into the temple and placed it on the northeast side of the grave. The front of the casket faced west, with the north facing up, and then placed the casket.
+
+古文：俎二以成，南上，不綪。
+现代文：豆的设法为：先设百叶于西南，次设蚌酱于百叶之北，继设葵菹于蚌酱之东，后设蜗酱于葵菹之南；笾的设法为：先设枣于蜗酱之南，再设点心于枣之南，继设栗于点心之东，后设干肉于栗之北。俎的设法为：羊俎与豕俎并一起，鱼俎和腊俎并一起，皆设于豆之东和笾之北，以南为上，不目北屈而南。
+English: For beans, the scheme is as follows: first, set the shamrock in the southwest, then set the dipping sauce in the north of the shamrock, then set the sunflower stalk in the east of the dipping sauce, and then set the dipping sauce in the south of the sunflower stalk; for ginger, the scheme is as follows: first, set the jujube in the south of the dipping sauce, then set the dim sum in the south of the jujube, then set the chestnut in the east of the dim sum, and then set the dried meat in the north of the chestnut. For ginger, the scheme is as follows: the sheep's g
+
+古文：特鲜兽。醴、酒在笾西，北上。
+现代文：此外，鲜兽俎单独设于豕、腊二俎的北边，甜醴酒设于笾的西边，以北为上。
+English: In addition, the fresh animal gourd is separately placed on the north side of the urn and the second urn, and the sweet gourd wine is placed on the west side of the urn, with the north at the top.
+
+古文：奠者出，主人要节而踊。
+现代文：设遣奠的人入时男子哭、踊，出时妇人哭、踊。
+English: Men cry and dance when a memorial is set up, and women cry and dance when it is taken down.
+
+古文：甸人抗重。出自道，道左倚之。
+现代文：甸人抬重从门之中间出去，倚于门外的东边。
+English: And he went out through the midst of the gate, and stooped down at the east side of the gate.
+
+古文：荐马，马出自道，车各从其马，驾于门外，西面而俟，南上。
+现代文：牵马进门，又牵马从门之中间出去，车随马后；至门外套马于车，在门外的东边向西而待发，以南为上。
+English: The horse is led into the door, and the horse is led out from the middle of the door, and the cart follows the horse; to the door, the coat of the horse is on the cart, and it is waiting to go west on the east side outside the door, and south is up.
+
+古文：彻者入，踊如初。
+现代文：撤奠者入庙，男子哭、踊，和撤祖奠时一样。
+English: When the mourners enter the temple, the men cry and dance, just as they did when the ancestors were laid to rest.
+
+古文：彻巾，苞牲，取下体。
+现代文：先撤去覆巾，包在羊、豕的前后四足上面。
+English: First, remove the scarf and wrap it around the sheep and the donkey's fore and hind legs.
+
+古文：不以鱼腊。
+现代文：不包鱼和干兽等非正牲。
+English: It does not include fish and non-genuine animals such as dried animals.
+
+古文：行器，茵、苞、器序从，车从。彻者出。
+现代文：再撤去明器，按照先茵、折、抗木、抗席，继苞、筲、瓮、甒，后弓、矢、耒、耜、甲、胄等器的次第撤出，车子随从于后。
+English: After that, the opener is removed, and the bow, arrow, crossbow, shovel, chariot, etc. are removed one by one, followed by the bow, arrow, crossbow, shovel, chariot, etc.
+
+古文：踊如初。主人之史请读賵，执算从。
+现代文：撤奠者出庙，妇人哭、踊，也和撤祖奠时一样。丧主之私臣一一掌管文书者一一史请示丧主宣读礼单，史之助手执算随从史之后。
+English: When the mourners leave the temple, the women cry and dance, just as they did when the ancestors were laid to rest. The mourner's retainer - the person in charge of the documents - asks the mourner to read out the eulogy, and the assistant of the historian follows after the historian.
+
+古文：柩东，当前束，西面。
+现代文：史于柩车的东边、柩车前束的旁边向西而立。
+English: Shi stands on the east side of the carriage, next to the front of the carriage, facing west.
+
+古文：不命毋哭，哭者相止也。
+现代文：没有相者的命令不许哭泣，如有人哭，由相者制止之。
+English: There is no order from the seer not to cry. If someone cries, the seer stops it.
+
+古文：唯主人主妇哭。
+现代文：只有丧主和主妇可以哭，然亦不踊。
+English: Only mourners and housewives can weep, but not dance.
+
+古文：烛在右，南面。
+现代文：执烛者于史之右向南而立。
+English: The candle-bearer stands on the right side of history, facing south.
+
+古文：读书，释算则坐。
+现代文：史站着宣读礼单，史之助手坐着计算赠物之数目。
+English: Shi stood and read the list of gifts, while Shi's assistant sat and counted the number of gifts.
+
+古文：卒，命哭，灭烛，书与算执之以逆出。
+现代文：读、算完毕，相者下令可以哭，灭掉火烛；史之助手执算先出去，史执记有礼单的方板后出去。
+English: After reading and calculating, the judge ordered that they could cry and extinguish the candle; Shi's assistant went out first, and Shi's clerk went out after the square board with the etiquette.
+
+古文：公史自西方，东面，命毋哭，主人、主妇皆不哭。
+现代文：为国君掌管典礼及文书的公史向东立于西边，下令不许哭，丧主、主妇等皆止哭。
+English: The official historian, who presided over the ceremony and documents for the sovereign, stood to the east and to the west, and ordered that there should be no weeping, and that mourners, housewives, etc. should all stop crying.
+
+古文：读遣，卒，命哭，灭烛，出。
+现代文：公史宣读陪葬物品清单，完毕后命哭，灭掉火烛，公史出去。
+English: The public historian reads out the list of items to accompany the funeral, after which the mourners cry for their lives, extinguish the candles, and the public historian leaves.
+
+古文：商祝执功布以御柩。
+现代文：商祝执拿小功之布于柩车之前导引。
+English: The merchant wishes to guide the adherent to take the cloth of small merit before the carriage ride.
+
+古文：执披。
+现代文：士八人于柩车两旁执披。
+English: Eight soldiers marched on both sides of the carriage.
+
+古文：主人袒。
+现代文：丧主袒露左臂。
+English: The deceased showed his left arm.
+
+古文：乃行。踊无算。
+现代文：柩车始行，死者家人和亲属哭、踊不计数。
+English: When the hearse started, the families and relatives of the deceased cried and danced countless times.
+
+古文：出宫，踊，袭。
+现代文：柩车行至大门之外，丧主哭、踊，穿好衣服。
+English: The hearse drove to outside the gate, mourners cried, danced, and dressed.
+
+古文：至于邦门，公使宰夫赠玄纁束。主人去杖，不哭，由左听命。宾由右致命。
+现代文：行至城门，国君遣宰夫赠送黑色和浅黄色束帛；丧主放下丧杖，不哭，于柩车前辂的左侧听命；宰夫则于柩车前辂的右侧传达君命。
+English: When they arrived at the city gate, the sovereign sent Zaif to present him with a black and light yellow sash; the bereaved put down his cane, did not cry, and obeyed his orders on the left side of the front of the carriage; Zaif conveyed the sovereign's order on the right side of the front of the carriage.
+
+古文：主人哭，拜稽颡。
+现代文：丧主哭、踊，叩拜宰夫。
+English: The mourners wept, danced, and worshipped Zayf.
+
+古文：宾升，实币于盖，降。
+现代文：宰夫登上柩车，置束帛于棺盖之柳中，然后下车。
+English: Zayev boarded the hearse, placed the coffin in the willow of the coffin lid, and then got off.
+
+古文：主人拜送，复位，杖。乃行。
+现代文：丧主拜送，返回车后之位，拿起丧杖，旋即柩车继续前行。
+English: Bid farewell to the deceased, return to the back of the car, pick up the funeral stick, and then drive the car forward.
+
+古文：至于圹。陈器于道东西，北上。
+现代文：柩车行至墓穴，陈放送葬之明器于墓道东西两侧，以北为上。
+English: The hearse drove to the grave, and the candelabra of Chen's funeral were placed on the east and west sides of the cemetery road, with the north side on top.
+
+古文：茵先入。
+现代文：茵先放入墓穴。
+English: Put him in the grave first.
+
+古文：属引。主人袒。
+现代文：接着除去棺饰和棺束，并系好下棺之绳。丧主袒露左臂。
+English: Next, the coffin decoration and the coffin bundle are removed, and the lower coffin rope is tied. The left arm of the deceased is exposed.
+
+古文：众主人西面，北上。
+现代文：众主人于东边向西而立，以北为上。
+English: The lords stand on the east, facing west, with the north at the top.
+
+古文：妇人东面。皆不哭。
+现代文：妇人于西边向东而立，都不哭。
+English: And the woman arose out of the west country eastward: and wept not.
+
+古文：乃窆。
+现代文：于是落葬。
+English: So it was buried.
+
+古文：主人哭，踊无算。袭，赠用制币，玄纁束，拜稽颡，踊如初。
+现代文：丧主及亲属哭、踊不计数，丧主继而穿好衣服；丧主将一一丈八已长的黑色、浅黄色束帛赠给死者，置于墓穴之中；然后向死者叩拜，哭、踊和先前一样。
+English: The mourners and their relatives wept and danced countless times. The mourners then dressed themselves. The mourners presented the dead with eight-meter-long black and light yellow bundles and placed them in the grave. Then they bowed to the dead, weeping and dancing as before.
+
+古文：卒，袒，拜宾。主妇亦拜宾；即位，拾踊三，袭。
+现代文：完毕，丧主袒露左臂，拜谢宾客，主妇则拜谢女宾；然后丧主和主妇各返其原位，丧主和妇人和宾客轮流哭、踊，各三次，丧主穿好衣服。
+English: When it was over, the mourner bared his left arm, bowed to thank the guests, and the housewife bowed to thank the female guests. Then the mourner and the housewife each returned to their original positions. The mourner, the woman, and the guests took turns crying and dancing, three times each. The mourner dressed.
+
+古文：宾出，则拜送。
+现代文：有宾客辞行，丧主须拜送。
+English: If a guest resigns, the mourner must be given a send-off.
+
+古文：藏器于旁，加见。
+现代文：置放用器、役器于棺旁，加上棺饰。
+English: Placing utensils and props next to the coffin, and adding coffin ornaments.
+
+古文：藏苞筲于旁。
+现代文：又置放苇包和筲于棺饰之旁。
+English: A coffin bag and an urn were also placed next to the coffin ornaments.
+
+古文：加折，却之。加抗席，覆之。加抗木。
+现代文：继而加折，正面朝上；加抗席，正面朝下；加抗木。
+English: Then add folds, front facing up; add resistance seat, front facing down; add resistance wood.
+
+古文：实土三。
+现代文：之后又加三匝土于抗木之上。
+English: After that, three layers of soil were added on top of the resistant wood.
+
+古文：主人拜乡人。即位，踊，袭，如初。
+现代文：丧主向加土之人拜谢后，返回原位，哭、踊、穿衣如前。
+English: After the mourners bowed their heads in thanks to the people of Kato, they returned to their original positions, crying, dancing, and dressing as before.
+
+古文：乃反哭，入，升自西阶，东面。
+现代文：落葬后返回祖庙而哭，丧主人门，从西阶上堂，面朝东而立。
+English: After the funeral, he returned to the ancestral temple and wept, mourned his master's death, walked up the hall from the west steps, and stood facing east.
+
+古文：众主人堂下东面，北上。
+现代文：众主人于堂下向东面立，以北为上。
+English: The masters stand at the bottom of the hall, facing east, with the north at the top.
+
+古文：妇人入，丈夫踊，升自阼阶。
+现代文：妇人入门，从东阶上堂，男子哭、踊。
+English: Women enter the door and walk up the hall from the east steps, men cry and dance.
+
+古文：主妇入于室，踊，出即位，及丈夫拾踊，三。
+现代文：主妇入室，哭、踊，出室后就堂上西面位，妇人和男子轮流哭、踊，各三次。
+English: The housewife enters the room, cries and dances. After leaving the room, she goes to the hall to kneel. The woman and the man take turns crying and dancing, three times each.
+
+古文：宾吊者升自西阶，曰： 如之何！ 
+现代文：众宾之长从西阶上堂，告慰丧主说： 这实在是无可奈何的事。 
+English: The head of the guests came up from the west steps to console the mourners, saying: "This is really a matter of no choice.
+
+古文：主人拜稽颡。宾降，出。
+现代文：丧主叩拜。众宾之长下堂，出去。
+English: The mourners bowed. The head of the guests left the hall and went outside.
+
+古文：主人送于门外，拜稽颡。遂适殡宫，皆如启位，拾踊三。
+现代文：丧主送至庙门外，又叩首拜谢；进而皆至殡宫就位，和朝夕哭时所就之位相同，男子妇人轮流哭、踊，各三次。
+English: The mourners were escorted to the outside of the temple gate, and bowed their heads in thanks; then they all went to the funeral home and took their places, the same places they take when they cry in the morning and evening. The men and women took turns crying and dancing, three times each.
+
+古文：兄弟出，主人拜送。
+现代文：小功以下的同族兄弟辞行，丧主拜送。
+English: The brothers of the same race below Xiaogong resigned and went to pay their respects to the deceased.
+
+古文：众主人出门，哭止，阖门。
+现代文：众主人出门，止哭，丧主关门。
+English: The owners went out, stopped crying, and closed the door.
+
+古文：主人揖众主人，乃就次。
+现代文：继而丧主与众主人拱手，就斩衰、倚庐之丧次。
+English: Next, the bereaved and the hosts shake hands, and then the bereaved and the mourners shake hands.
+
+古文：犹朝夕哭，不奠。
+现代文：同日仍旧朝夕哭于殡宫，但不设祭席。
+English: On the same day, there was still weeping in the morning and evening at the funeral home, but there was no memorial service.
+
+古文：三虞。
+现代文：先举行虞祭仪式，共三次。
+English: First, there will be a ceremony of the yakitori festival, which will be held three times.
+
+古文：卒哭。
+现代文：继举行卒哭仪式。
+English: A wailing ceremony followed.
+
+古文：明日，以其班祔。
+现代文：次日，将死者附祭于其先祖之灵位。
+English: The next day, the deceased is sacrificed to the spirits of their ancestors.
+
+古文：记。士处适寝，寝东首于北墉下。
+现代文：士有病就从燕寝迁居正寝，头朝东躺在北墙下。
+English: If a scholar was ill, he would move from the Yan sleeping position to the Zheng sleeping position, and lie with his head facing east under the north wall.
+
+古文：有疾，疾者齐。
+现代文：有病，当斋戒。
+English: If one is sick, he should fast.
+
+古文：养者皆齐，彻琴瑟。
+现代文：养病皆须斋戒，撤掉琴、瑟等乐器。
+English: Those who want to recover from illness must fast and give up musical instruments such as the harp and flute.
+
+古文：疾病，外内皆扫。
+现代文：病重时当内外清扫，使其洁净。
+English: When the patient is critically ill, it is necessary to clean both inside and outside the bedroom.
+
+古文：彻亵衣，加新衣。
+现代文：脱下内衣，穿上新衣。
+English: Take off your underwear and put on a new one.
+
+古文：御者四人，皆坐持体。
+现代文：四位侍从皆坐于床边共同侍候病人。
+English: The four attendants all sit at the bedside and wait on the patient together.
+
+古文：属纩，以俟绝气。
+现代文：将新丝绵置于病人口鼻上，以验证病人是否还有气。
+English: A new silk pad is placed on the patient's nose to check if the patient still has breath.
+
+古文：男子不绝于妇人之手，妇人不绝于男子之手。
+现代文：男人不死于妇人之手，妇人也不死于男人之手。
+English: A man shall not die at the hand of a woman, nor a woman at the hand of a man.
+
+古文：乃行祷于五祀。乃卒。
+现代文：病人垂危之际，孝子遣人分祷于司命、中塯、国门、国行、公厉五祀。
+English: When the patient was in danger of dying, the filial son sent people to pray at the five shrines of Simei, Zhongli, Kunimen, Kunigyo, and Gongli.
+
+古文：主人啼，兄弟哭。
+现代文：及病人谢世，长子啼，兄弟哭。
+English: And the patient dies, the eldest son dies, the brothers cry.
+
+古文：设床第，当牖。衽，下莞上簟，设枕。迁尸。
+现代文：旋即于南边窗户下设尸床，铺上床席，先铺苇席于下，继铺竹席于上，放好枕头，然后将尸体置于所设之床上。
+English: Immediately set up a body bed under the south window, lay a bed seat on top, first lay a mattress on the bottom, then lay a bamboo seat on top, put a pillow, and then place the body on the bed.
+
+古文：复者朝服，左执领，右执要，招而左。
+现代文：招魂之人身穿朝服，左手执衣领，右手执腰，从左至右、从右到左往返招之。
+English: The person performing the summoning wears a morning dress, with the left hand holding the collar and the right hand holding the waist. The summoning goes back and forth from left to right and from right to left.
+
+古文：楔，貌如轭，上两末。
+现代文：楔的外形犹如车轭，两端向上弯曲。
+English: The shape of the wedge is like a rickshaw, with both ends bending upwards.
+
+古文：缀足用燕几，校在南，御者坐持之。
+现代文：用矮几拘正死者两脚，矮几之腿朝南，侍从坐着拿几。
+English: With the dwarf holding the dead man's feet upright, the dwarf's legs facing south, and the attendant sitting on the bench.
+
+古文：即床而奠，当腢，用吉器。
+现代文：就床设奠，在床头，用吉利之器具。
+English: Lay a wreath on the bed, and at the head of the bed, decorate it with auspicious objects.
+
+古文：若醴，若酒，无巾柶。
+现代文：或用甜醴酒，或用酒，不用覆巾和祭勺。
+English: or with sweet wine, or with strong drink; and he shall not wear a turban, nor offer a heave offering.
+
+古文：赴曰： 君之臣某死。 
+现代文：向国君报丧，其辞为： 君之臣某死。 
+English: The announcement of the death of the sovereign was made with the words: Your vassal has died.
+
+古文：赴母、妻、长子，则曰： 君之臣某之某死。 
+现代文：向母亲、妻子、长子报丧，其辞为： 君之臣某之某死。 
+English: To his mother, his wife, and his eldest son, he announced his death with the words: Your vassal, so-and-so, has died.
+
+古文：室中，唯主人、主妇坐。
+现代文：室中只有丧主和主妇坐。
+English: In the room, only the mourners and the housewife are sitting.
+
+古文：兄弟有命夫命妇在焉，亦坐。
+现代文：但大功以上兄弟中有命夫或命妇，也坐。
+English: However, brothers and sisters who have made great achievements and have a husband or wife to be are also seated.
+
+古文：尸在室，有君命，众主人不出。
+现代文：尸体停放室中时，如有君命来，丧主要出迎，众主人则不必出迎。
+English: When the body is in the parking room, if there is a death, the mourners will meet, but the owners do not have to meet.
+
+古文：襚者委衣于床，不坐。
+现代文：赠衣者将所赠之衣放在床上，不坐。
+English: The giver of the clothes puts the clothes on the bed and does not sit down.
+
+古文：其襚于室，户西北面致命。
+现代文：赠衣者于室中西边户下向北传达其主人使命。
+English: In the middle of the room, on the west side of the house, the giver of the clothes goes down to the north to convey his master's mission.
+
+古文：夏祝淅米，差盛之。
+现代文：夏祝淘米，择拣其坚好者盛于敦中。
+English: Summer greetings to Amoy rice, and those who are good at selecting and picking it are flourishing in Dongzhong.
+
+古文：御者四人，抗衾而浴，示亶第。
+现代文：四位侍者拿开殓衾，撤下床席，为死者浴尸。
+English: The four attendants opened the coffin, removed the bedstead, and removed the body of the deceased.
+
+古文：其母之丧，则内御者浴，鬠无笄。
+现代文：若是士之母亲病丧，则由四位女侍为其浴尸，不用笄固其发。
+English: If the deceased's mother died of illness, the four maids of honour would take care of the corpse in the bath, and there would be no need to fix the hair.
+
+古文：设明衣，妇人则设中带。
+现代文：准备 明衣 ，若是妇人，则还须准备 中带 。
+English: Prepare a light jacket, if you are a woman, you must also prepare a midi skirt.
+
+古文：卒洗，贝反于笄，实贝，柱右齻左齻塞耳。
+现代文：洗尸完毕，将干净贝壳放回盛放贝壳的竹器之中，进而用贝壳顶开死者左右牙齿。
+English: After washing the corpse, the clean shell is placed back into the bamboo container in which the shell was placed, and then the shell is used to open the dead person's left and right teeth.
+
+古文：掘坎，南顺，广尺，轮二尺，深三尺；南其壤。
+现代文：饭含完毕，夏祝撤去剩余之米。接着用丝绵塞住死者两耳。于堂下东西两阶间掘坎，南北向；坎宽一尺，长二尺，深三尺；掘坎之上堆于坎的南侧。
+English: After the meal is over, the remaining rice is removed. Next, the ears of the deceased are plugged with silk. A ditch is dug between the east and west steps of the hall, facing north and south; the ditch is one foot wide, two feet long, and three feet deep; the top of the ditch is piled on the south side of the ditch.
+
+古文：垼，用块。
+现代文：用土块垒灶以烧洗尸之水。
+English: The water used to wash the bodies was boiled in a clay stove.
+
+古文：明衣裳，用幕布，袂属幅，长下膝。
+现代文：死者的上衣和下裳用帷幕之布做成，袖子宽二尺二寸，衣长至膝下。
+English: The deceased's tunic and petticoat were made of curtain fabric, the sleeves were two feet two inches wide, and the dress reached below the knees.
+
+古文：有前后裳，不辟，长及觳。
+现代文：下裳为前三幅、后四幅，其宽上下相同，其长能遮住脚背。
+English: The lower pajamas are three wide at the front and four wide at the back. Their width is the same up and down, and their length can cover the soles of the feet.
+
+古文：縓綼緆。
+现代文：下裳的缘饰和下饰为红色。
+English: The hem and bottom of the petticoat are red.
+
+古文：缁纯。
+现代文：上衣的衣领和袖口为红色。
+English: The collar and cuffs of the blouse are red.
+
+古文：设握，里亲肤，系钩中指，结于腕。甸人筑坅坎。
+现代文：设 握 于左手，其里贴着手心， 握 的两端各系有绳，先以绳的一头绕手掌一匝，继以绳的另一头弯曲向上钩住中指，然后两头皆返回手掌之后系结。甸人用土填平所掘之坎。
+English: It is held in the left hand, in which it is attached to the palm of the hand. There is a rope at each end of the grip. First, one end of the rope is looped around the palm, then the other end of the rope is bent upwards to hook the middle finger, and then both ends are returned to the palm and then tied.
+
+古文：隶人涅厕。
+现代文：罪人堵塞死者生前所用厕所。
+English: The culprit blocked the toilet used by the deceased during his lifetime.
+
+古文：既袭，宵为燎于中庭。
+现代文：为死者穿衣，夜里，于中庭点上火烛。
+English: The dead are dressed and, at night, candles are lit in the courtyard.
+
+古文：厥明，灭燎，陈衣。
+现代文：次日天亮，灭掉火烛，陈设小殓用衣服。
+English: At dawn the next day, extinguish the candles and put out a small pile of clothes.
+
+古文：凡绞紟用布，伦如朝服。
+现代文：凡绞和单被所用之布皆和朝服之布相同。
+English: The cloth used for all hanging and single quilts is the same as that of the imperial robe.
+
+古文：设棜于东堂下，南顺，齐于坫。
+现代文：于东堂下设长方形无足的木承盘，南北向，其南端与堂隅之坫对齐。
+English: A rectangular footless wooden base plate is set up under the east hall, facing north-south, with its southern end aligned with the corner of the hall.
+
+古文：馔于其上两甒醴、酒，酒在南。篚在东，南顺，实角觯四，木柶二，素勺二。豆在甒北，二以并，笾亦如之。
+现代文：木承盘上陈设：两只甒，一盛甜醴酒，放在北边，一盛酒，放在南边；盛物的竹器篚放在东边，南北向，内放四只角觯，两个木制祭勺，两个素勺；豆设在甒的北边，两只一组并排；笾的陈设和豆一样。
+English: Displayed on a wooden tray: two gourds, a bowl of sweet wine, placed on the north side, a bowl of wine, placed on the south side; a bowl of bamboo ware was placed on the east side, facing north-south, with four horned gourds, two wooden ceremonial spoons, and two plain spoons inside; beans were placed on the north side of the bowl, in a group of two side by side; the bowl was displayed in the same way as the beans.
+
+古文：凡笾豆，实具设，皆巾之。
+现代文：凡盛有祭品的笾、豆同时陈设，都要用巾覆盖。
+English: All baskets and jars containing sacrificial offerings that are set up at the same time must be covered with a cloth.
+
+古文：觯，俟时而酌，柶覆加之，面枋；及错，建之。
+现代文：酒觯俟朝、夕祭时斟酒，用木制祭勺加于其上，夕柄向后；完毕，插勺于甜醴酒中。
+English: During the morning and evening festivals, the wine is poured, and a wooden spoon is used to add wine to it, with the handle facing backwards; when finished, the spoon is placed in the sweet wine.
+
+古文：小敛，辟奠不出室。
+现代文：小殓之时，室中苟有空地，则就便设奠，不必出室改设。
+English: At the time of a small funeral, if there is a vacant space in the room, then a memorial service will be held, and there is no need to leave the room to change the location.
+
+古文：无踊节。
+现代文：这时省去哭、踊之礼节。
+English: At this time, save the crying and dancing etiquette.
+
+古文：既冯尸，主人袒，髺发，绞带；众主人布带。
+现代文：凭尸之后，丧主袒露左臂，用麻束发，用麻带系腰；而齐衰以下之亲属则束以麻布带。
+English: After the body was exhumed, the deceased had his left arm uncovered, his hair tied with a hemp bundle, and his waist tied with a hemp belt; while his relatives below the level of Qi Fen were tied with a linen belt.
+
+古文：大敛于阼。大夫升自西阶，阶东，北面东上。既冯尸，大夫逆降，复位。
+现代文：于东阶行大殓，大夫从西阶上堂，向北立于西阶东边，以东为上，凭尸后，大夫反向下堂，返回原位。
+English: On the east side of the staircase, there is a large urn. The doctor ascends from the west side of the staircase, stands to the north on the east side of the west side of the staircase, with the east as the top. After the corpse, the doctor goes down the staircase in the opposite direction and returns to his original position.
+
+古文：巾奠，执烛者灭烛出，降自阼阶，由主人之北，东。
+现代文：用覆巾盖好祭席，执烛者灭掉火烛，出去，从东阶下堂，又从主人的北边朝东走去。
+English: Covering the altar with a cloth, the candle-bearer extinguished the candle and went out, down the east steps of the hall, and from the north side of the host, towards the east.
+
+古文：既殡，主人说髦。
+现代文：殡后，丧主夫掉发饰。
+English: After the funeral, the bereaved husband lost his hair ornaments.
+
+古文：三日绞垂。冠六升，外縪，缨条属，厌。
+现代文：丧事第三天，大功以上亲属绞束其散垂的腰绖。制冠用布六升，以通屈一绳从外面缝于帽沿上，其下垂者为缨。
+English: On the third day of the funeral, relatives of the deceased who had made great contributions to the cause tied up his loose loincloth. A six-liter cloth was used to make a crown, and it was sewn onto the brim of the hat from the outside with a crocheted rope. The drooping part was the brim.
+
+古文：衰三升。
+现代文：斩衰之服用布三升。
+English: The recommended dose of cloth is three liters.
+
+古文：履外纳。
+现代文：鞋向外收束。
+English: The shoe bunches outwards.
+
+古文：杖下本，竹桐一也。
+现代文：丧杖根部在下，竹杖、桐杖也不例外。
+English: The roots of dead canes are at the bottom, and bamboo canes and paulownia canes are no exception.
+
+古文：居倚庐，寝苫枕块。
+现代文：孝子居于倚庐，睡于草苫，以土块为枕。
+English: A filial son lives in a reclining chair, sleeps in a straw bed, and uses a clod of earth as a pillow.
+
+古文：不说絰带。
+现代文：不脱掉首绖和腰绖。
+English: Do not remove the headband and loincloth.
+
+古文：哭昼夜无时。
+现代文：昼夜之间哀至即哭，不定时。
+English: Between the day and the night, there is no fixed time for mourning or crying.
+
+古文：非丧事不言。
+现代文：不是丧事不与交谈。
+English: It's not a funeral without conversation.
+
+古文：歠粥，朝一溢米，夕一溢米。不食菜果。
+现代文：早晚喝粥，均以一溢米为量。不吃蔬菜和果品。
+English: In the morning and in the evening, I drink porridge with an excess of rice. I don't eat vegetables and fruits.
+
+古文：主人乘恶车，白狗幦，蒲蔽，御以蒲菆，犬服，木錧，约绥，约辔，木镳，马不齐髦。
+现代文：丧主乘坐粗恶木车：以白狗皮覆盖车前横木，用蒲草做车藩以御风尘；用蒲草之茎作赶车的鞭子；用白狗皮制成兵器袋，车轴两端用木键钉牢，升车之索和御马之索皆用绳，马衔用木制的；马之鬃毛不必修剪。
+English: The deceased rode in a coarse wooden carriage: the front crossbar was covered with white dog skin, the carriage was made of rushes to keep out the wind; the stems of rushes were used as whips to drive the carriage; a weapon bag was made of white dog skin, the axles were fastened with wooden keys at both ends, the rope for lifting the carriage and the rope for pulling the horse were both made of rope, and the horse's bit was made of wood; the horse's mane did not have to be trimmed.
+
+古文：主妇之车亦与之，疏布示炎。
+现代文：主妇乘的车和丧主的相同，不过其车帷以大功之布为之。
+English: The car in which the housewife is travelling is the same as the one in which the deceased died, but the curtains of the car are made from the cloth of great merit.
+
+古文：贰车，白狗摄服，其仓皆如乘车。
+现代文：副车之兵器袋用白狗皮镶边，其他情况和丧主乘车一样。
+English: The weapon bag of the sidecar is edged with white dog skin, otherwise it is the same as the owner's ride.
+

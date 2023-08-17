@@ -1,0 +1,48 @@
+古文：夫弈棋布势，务相接连。
+现代文：说到下棋布置阵势，务必在整体上连成一气。
+English: When it comes to setting up a chess position, it's important to work together as a whole.
+
+古文：自始至终，着着求先。
+现代文：自始至终，着着求先。
+English: From start to finish, we always strive to be the best.
+
+古文：临局离争，雌雄未决，毫厘不可以差焉。
+现代文：一旦面对棋盘较量高下，胜负未分，一毫一厘的差错也不能出。
+English: Once you face a chessboard with a high-stakes game, there is no winner or loser, and you can't make a millisecond's error.
+
+古文：局势已赢，专精求生。局势已弱，锐意侵绰。
+现代文：如果大局已占上风，则一心一意地求生；如果大局已处于劣势，那就勇往直前地侵占对手的棋路。
+English: If the overall situation has gained the upper hand, it will single-mindedly fight for survival; if the overall situation has been at a disadvantage, it will boldly invade the opponent's chess path.
+
+古文：沿边而走，虽得其生者，败。
+现代文：顺着边缘走棋，即使活了，也仍旧不免失败。
+English: If you walk along the edge, even if you survive, you will still inevitably fail.
+
+古文：弱而不伏者，愈屈。
+现代文：处于劣势而不承认，局面将更加难以挽回。
+English: If we do not admit that we are at a disadvantage, the situation will be even more difficult to recover from.
+
+古文：躁而求胜者，多败。
+现代文：心情急躁，一味求胜，这样的人，大多都会失败。
+English: People who are impatient and eager to win will fail most of the time.
+
+古文：两势相违，先蹙其外。
+现代文：双方相互围攻的时候，先压迫对手的外部。
+English: When the two sides besiege each other, they first oppress the outside of the opponent.
+
+古文：势孤援寡，则勿走。机危阵溃，则勿下。
+现代文：倘若被围而又势孤援少，就不要逃跑了；倘若机危阵溃就不要下了。
+English: If you are surrounded and outnumbered, do not retreat; if you are outnumbered, do not surrender.
+
+古文：是故棋有不走之走，不下之下。
+现代文：所以，围棋中有 不走之走 、 不下之下 的说法。
+English: Therefore, in Go, there is a saying of "never go below, never go below."
+
+古文：误人者多方，成功者一路而已。能审局者多胜。
+现代文：使人犯错误的可能性是多种多样的，但通向成功的路却只有一条，只有那些仔细了解棋局特点、认真估计情况变化的人，才能经常得胜。
+English: The possibilities of making mistakes are manifold, but there is only one road to success, and only those who thoroughly understand the characteristics of the game and carefully estimate the changes in the situation can often win.
+
+古文：《易》曰﹕ 穷则变，变则通，通则久。 
+现代文：《易·系辞下》说： 事物处于穷尽即须改变，改变然后能开通，开通才能久长。 
+English: "Under the Yi Dynasty" says: When things are exhausted, they must be changed, and then they can be changed, and they can be changed for a long time.
+

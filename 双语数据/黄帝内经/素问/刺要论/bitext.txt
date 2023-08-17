@@ -1,0 +1,40 @@
+古文：黄帝问曰：愿闻刺要。
+现代文：黄帝问道：我想了解针刺方面的要领。
+English: Huang Di asked: I want to know the essentials of acupuncture.
+
+古文：岐伯对曰：病有浮沉，刺有浅深，各至其理，无过其道，过之则内伤，不及则生外壅，壅则邪从之。
+现代文：岐伯回答说：疾病有在表在里的区别，刺法有浅刺深刺的不同，病在表应当浅刺，病在里应当深刺，各应到达一定的部位，而不能违背这一法度。刺得太深，就会损伤内脏；刺得太浅，不仅达不到病处，而且反使在表的气血壅滞，给病邪以可乘之机。
+English: Qi Bo replied, "Diseases have differences in appearance and inside, and the methods of pricking are different from shallow pricking to deep pricking. Diseases should be lightly pricked on the surface, and diseases should be deeply pricked on the inside. Each should reach a certain part, but they cannot violate this law. If they are pricked too deeply, they will damage the internal organs; if they are pricked too shallowly, they will not only fail to reach the disease site, but also cause stagnation of qi and blood on the surface, giving the disease an opportunity to take advantage of.
+
+古文：浅深不得，反为大贼，内动五脏，后生大病。
+现代文：因此，针刺深浅不当，反会给人体带来很大的危害，使五脏功能紊乱，继而发生严重的疾病。
+English: Therefore, inappropriate acupuncture will bring great harm to the human body, causing disorders of the five viscera, resulting in serious diseases.
+
+古文：故曰： 病有在毫毛腠理者，有在皮肤者，有在肌肉者，有在脉者，有在筋者，有在骨者，有在髓者。 
+现代文：所以说： 疾病的部位有在毫毛腠理的，有在皮肤的，有在肌肉的，有在脉的，有在筋的，有在骨的，有在髓的。 
+English: Therefore it is said: "The parts of the disease are in the hair follicle, in the skin, in the muscles, in the veins, in the sinews, in the bones, and in the marrow."
+
+古文：是故刺毫毛腠理无伤皮，皮伤则内动肺，肺动则秋病温疟，泝泝然寒栗。
+现代文：因此，该刺毫毛腠理的，不要伤及皮肤，若皮肤受伤，就会影响肺脏的正常功能，肺脏功能扰乱后，以致到秋天时，易患温疟病，发生恶寒战栗的症状。
+English: Therefore, do not hurt the skin, if the skin is injured, it will affect the normal function of the lungs. After the lung function is disturbed, it will be susceptible to chills and shivering in the autumn.
+
+古文：刺皮无伤肉，肉伤则内动脾，脾动则七十二日四季之月，病腹胀，烦不嗜食。
+现代文：该刺皮肤的，不要伤及肌肉，若肌肉受伤，就会影响脾脏的正常功能，以致在每一季节的最后十八天中，发生腹胀烦满，不思饮食的病症。
+English: If you prick the skin, do not injure the muscle. If the muscle is injured, it will affect the normal function of the spleen, so that in the last eighteen days of each season, the symptoms of bloating, fullness, and not thinking about eating will occur.
+
+古文：刺肉无伤脉，脉伤则内动心，心动则夏病心痛。
+现代文：该刺肌肉的，不要伤及血脉，若血脉受伤，就会影响心脏的正常功能，以致到夏天时，易患心痛的病症。
+English: Do not injure the blood vessels of the stabbing muscle. If the blood vessels are injured, it will affect the normal function of the heart, so that in the summer, it is prone to the disease of heartache.
+
+古文：刺脉无伤筋，筋伤则内动肝，肝动则春病热而筋弛。
+现代文：该刺血脉的，不要伤及筋脉，若筋脉受伤，就会影响肝脏的正常功能，以致到秋天时，易患热性病，发生筋脉弛缓的症状。
+English: If you prick the blood vessel, do not hurt the muscle vein. If the muscle vein is injured, it will affect the normal function of the liver, so that by the autumn, it is prone to febrile diseases and symptoms of muscle relaxation occur.
+
+古文：刺筋无伤骨，骨伤则内动肾，肾动则冬病胀腰痛。
+现代文：该刺筋的，不要伤及骨，若骨受伤，就会影响肾脏的正常功能，以致到冬天时，易患腹胀、腰痛的病症。
+English: If the spine is injured, it will affect the normal function of the kidneys, so that in winter, it is prone to bloating and low back pain.
+
+古文：刺骨无伤髓，髓伤则销铄胻酸，体解㑊然不去也。
+现代文：该刺骨的，不要伤及骨髓，若骨髓被损伤，便使身体枯瘦、小腿酸痛，肢体懈怠行动无力的病症。
+English: Don't injure the bone marrow. If the bone marrow is injured, it will cause the body to be thin, the calf to be sore, and the limb to be sluggish.
+

@@ -1,0 +1,3288 @@
+古文：统母日法八十一。元始黄钟初九自乘，一龠之数，得日法。
+现代文：曰法：八十一；原始黄钟初九自行相乘，是一龠的数，得到曰法数。
+English: Say method: eighty-one; the original yellow clock multiplies itself by nine, which is a power of one, resulting in the Say method number.
+
+古文：闰法十九，因为章岁。合天地终数，得闰法。
+现代文：闰法：十九；把它作为一章的年数，把天地的终数加起来，得到闰法数。
+English: Intercalary: nineteen; take it as the number of years in a chapter, add the final number of heaven and earth, and get the intercalary number.
+
+古文：统法一千五百三十九。以闰法乘日法，得统法。
+现代文：统法：一千五百三十九；以闰法数乘以日法数，得到统法数。
+English: Unification method: one thousand five hundred thirty-nine; multiply the leap day number by the day number to get the unification number.
+
+古文：元法四千六百一十七。参统法，得元法。
+现代文：元法：四千六百一十七；统法数乘以三，元法数。
+English: Element method: 4,617; the harmonic number multiplied by three is the element method number.
+
+古文：会数四十七。参天九，两地十，得会数。
+现代文：会数：四十七；天数九乘以三，地数十乘以二，相加得会数。
+English: The number of meetings: forty-seven; the number of days is nine multiplied by three, and the number of places is ten multiplied by two, adding up to the number of meetings.
+
+古文：章月二百三十五。五位乘会数，得章月。
+现代文：章月：二百三十五；用五位乘会数，得章月数。
+English: Chapter months: two hundred and thirty-five; multiply the number of members by five to get the number of chapter months.
+
+古文：月法二千三百九十二。推大衍象，得月法。
+现代文：月法：二千三百九十二；推演大衍象，得月法数。
+English: The number of lunar months is 2,392; the number of lunar months is obtained by deducing the large derivative.
+
+古文：通法五百九十八。四分月法，得通法。
+现代文：通法：五百九十八；把月法除以四，得通法数。
+English: Common divisor: 598; Divide the lunar divisor by four to get the common divisor.
+
+古文：中法十四万五百三十。以章月乘通法，得中法。
+现代文：中法：十四万零五百三十；用章月数乘通法敷，得中法数。
+English: Middle method: one hundred forty-five hundred and thirty; multiply the number of months by the common method and get the middle method number.
+
+古文：周天五十六万二千一百二十。以章月乘月法，得周天。
+现代文：周天：五十六万二千一百二十；用章月数乘月法数，得周天数。
+English: Zhou Tian: 562,120; the number of days in a week is obtained by multiplying the number of months by the number of months.
+
+古文：岁中十二。以三统乘四时，得岁中。
+现代文：岁中：十二；用三统数乘四时数，得岁中数。
+English: Middle of the year: twelve; multiply the number of hours by the number of years to get the middle of the year.
+
+古文：月周二百五十四。以章月加闰法，得月周。
+现代文：月周：二百五十四；用章月数加上闰法数得月周数。
+English: Lunar week: 254; the number of lunar weeks is obtained by adding the number of leap months to the number of lunar weeks.
+
+古文：朔望之会百三十五。参天数二十五，两地数三十，得朔望之会。
+现代文：朔望相会：一百三十五；用三乘以天数二十五，二乘以两地数三十，积相加得朔望相会数。
+English: New Year's Eve meeting: one hundred and thirty-five; multiply three times the number of days by twenty-five, two times the number of two places by thirty, and add the product to get the number of New Year's Eve meeting.
+
+古文：会月六千三百四十五。以会数乘朔望之会，得会月。
+现代文：会月：六千三百四十五；用会数乘朔望相会数，得会月数。
+English: Month of meeting: six thousand three hundred and forty-five; multiply the number of meetings by the number of meetings at a glance to get the number of months.
+
+古文：统月一万九千三十五。参会月，得统月。
+现代文：统月：一万九千零三十五；数，得统月数。
+English: The total number of months is 19,035.
+
+古文：元月五万七千一百五。参统月，得元月。
+现代文：元月：五万七千一百零五；数，得元月数。
+English: The number of the first month of the year: fifty-seven thousand one hundred and five.
+
+古文：章中二百二十八。以闰法乘岁中，得章中。
+现代文：用三乘以会月用三乘以统月章中：二百二十八；用闰法数乘岁中数，得章中数。
+English: Using three times the month of the meeting, using three times the month of the general chapter: two hundred and twenty-eight; using the leap year method to multiply the middle number of years, and get the middle number of chapters.
+
+古文：统中一万八千四百六十八。以日法乘章中，得统中。
+现代文：统中：一万八千四百六十八；用曰法数乘章中数，得统中数。
+English: In the system: 18,468; using the method of multiplying the day number by the middle number of the chapter, the middle number is obtained.
+
+古文：元中五万五千四百四。参统中，得元中。
+现代文：元中：五万五千四百零四；用三乘以统中数，得元中数。
+English: Middle yuan: 55,404. Multiply the middle yuan by three to get the middle yuan.
+
+古文：策余八千八十。什乘元中，以减周天，得策余。
+现代文：策余：八千零八十；用十乘元中数，积再减去周天数，得策余数。
+English: Remaining balance: eight thousand and eighty; multiply by ten and subtract the number of days from the product to get the remaining balance.
+
+古文：周至五十七。参闰法，得周至。
+现代文：周至：五十七；用三乘以闰法，得周至数。
+English: Zhou Zu: fifty-seven; multiply by three using the interpolation method to get the number of Zhou Zu.
+
+古文：纪母。木金相乘为十二，是为岁星小周。
+现代文：木金之数相乘得十二，这是岁星小周数。
+English: Multiply the number of wood and gold to get twelve, which is the number of years and weeks.
+
+古文：小周乘 坤 策，为千七百二十八，是为岁星岁数。
+现代文：用小周数乘《》策数，得一千七百二十八，这是岁星的年数。
+English: Multiply the number of small weeks by the number of "," and you get one thousand seven hundred and twenty-eight, which is the number of years of the year star.
+
+古文：见中分二万七百三十六。
+现代文：见中分数：二万零七百三十六。
+English: See the middle score: twenty thousand seven hundred thirty-six.
+
+古文：积中十三，中余百五十七。
+现代文：积中数：十三；中余：一百五十七。
+English: The product of the middle number: thirteen; the remainder: one hundred fifty-seven.
+
+古文：见中法一千五百八十三。
+现代文：见中法数：一千五百八十三。
+English: See the Chinese number: one thousand five hundred eighty-three.
+
+古文：见数也。
+现代文：是见数。
+English: That's the number.
+
+古文：见闰分万二千九十六。
+现代文：见闰分数：一万二千零九十六。
+English: See the leap minute: twelve thousand ninety-six.
+
+古文：积月十三，月余一万五千七十九。
+现代文：积月数：十三；月余：一万五千零七十九。
+English: Accumulated months: 13; Months remaining: 15,079.
+
+古文：见月法三万七十七。
+现代文：见月法：三万零七十七。
+English: Moon sighting: 30,777.
+
+古文：见中日法七百三十万八千七百一十一。
+现代文：见中曰法：七百三十万八千七百一十一。
+English: See the middle of the sentence: seven million three hundred eight thousand seven hundred and eleven.
+
+古文：见月日法二百四十三万六千二百三十七。
+现代文：见月曰法：二百四十三万六千二百三十七。
+English: The number of the day of the month is 2,433,662,337.
+
+古文：金火相乘为八，又以火乘之为十六而小复。
+现代文：金火之数相乘为八，又用火数乘八得十六和小复数。
+English: Multiply the number of gold flames by eight, and multiply the number of flames by eight to get sixteen and a small complex number.
+
+古文：小复乘 乾 策，为三千四百五十六，是为太白岁数。
+现代文：用小复数乘《干》策数，得三千四百五十六，这是太白星的年数。
+English: Multiply the small complex number by the "dry" number to get three thousand four hundred and fifty-six, which is the number of years of the white star.
+
+古文：见中分四万一千四百七十二。
+现代文：见中分：四万一千四百七十二。
+English: See the middle score: forty-one thousand four hundred seventy-two.
+
+古文：积中十九，中余四百一十三。
+现代文：积中：十九；中余：四百一十三。
+English: Total: nineteen; Remaining: four hundred thirteen.
+
+古文：见中法二千一百六十一。
+现代文：见中法：二千一百六十一。
+English: See the Chinese version: two thousand one hundred and sixty-one.
+
+古文：复数。
+现代文：是复数。
+English: It's plural.
+
+古文：见闰分二万四千一百九十二。
+现代文：见闰分：二万四千一百九十二。
+English: See leap seconds: twenty-four thousand one hundred and ninety-two.
+
+古文：积月十九，月余三万二千三十九。
+现代文：积月：十九；月余：三万二千零三十九。
+English: The accumulated months: nineteen; the remaining months: thirty-two thousand and thirty-nine.
+
+古文：见月法四万一千五十九。
+现代文：见月法：四万一千零五十九。
+English: Moon phase: 41,059.
+
+古文：晨中分二万三千三百二十八。
+现代文：晨中分：二万三千三百二十八。
+English: Mid-morning: 23,328.
+
+古文：积中七，中余千七百一十八。
+现代文：积中：十；中余：一千七百一十八。
+English: Total: ten; Remaining: one thousand seven hundred and eighteen.
+
+古文：夕中分一万八千一百四十四。
+现代文：夕中分：一万八千一百四十四。
+English: Mid-evening: 18,144.
+
+古文：积中八，中余八百五十六。
+现代文：积中：八；中余：八百五十六。
+English: Middle product: eight; middle remainder: eight hundred and fifty-six.
+
+古文：晨闰分万三千六百八。
+现代文：晨闰分：一万三千六百零八。
+English: Morning leap minute: 13,608.
+
+古文：积月十一，月余五千一百九十一。
+现代文：积月：十一；月余：五千一百九十一。
+English: Accumulated: 11; remaining: 5,191.
+
+古文：夕闰分万五百八十四。
+现代文：夕闰分：一万零五百八十四。
+English: Evening leap minute: 10,584.
+
+古文：积月八，月余二万六千八百四十八。
+现代文：积月：八；月余：二万六千八百四十八。
+English: Accumulated months: eight; remaining months: 26,848.
+
+古文：见中日法九百九十七万七千三百三十七。
+现代文：见中法：九百九十七万七千三百三十七。
+English: See Chinese and French: 9,977,337.
+
+古文：见月日法三百三十二万五千七百七十九。
+现代文：见月曰法：三百三十二万五千七百七十九。
+English: Three million three hundred and twenty five thousand seven hundred and seventy-nine.
+
+古文：土木相乘而合经纬为三十，是为镇星小周。
+现代文：土木之数相乘再加经纬数是三十，这是镇星的小周数。
+English: The number of earthworks multiplied by the number of latitude and longitude is thirty, which is the number of small weeks of the town star.
+
+古文：小周乘 坤 策，为四千三百二十，是为镇星岁数。
+现代文：小周数乘《》策数，为四千三百二十，这是镇星的年数。
+English: The number of small weeks multiplied by the number of measures of "," is four thousand three hundred and twenty, which is the number of years of the town star.
+
+古文：见中分五万一千八百四十。
+现代文：见中分：五万一千八百四十。
+English: See the middle score: fifty one thousand eight hundred and forty.
+
+古文：积中十二，中余一千七百四十。
+现代文：积中：十二；中余：一千七百四十。
+English: Of the total: twelve; of the remainder: one thousand seven hundred and forty.
+
+古文：见中法四千一百七十五。
+现代文：五。见中法：四千一百七十五。
+English: 5. See the Chinese version: four thousand one hundred and seventy-five.
+
+古文：见数也。
+现代文：这是见数。
+English: That's the number.
+
+古文：见闰分三万二百四十。
+现代文：见闰分：三万零二百四十。
+English: See leap minute: thirty two hundred and forty.
+
+古文：积月十二，月余六万三千三百。
+现代文：积月：十二；月余：六万三千三百。
+English: The accumulated months: twelve; the remaining months: sixty-three thousand three hundred.
+
+古文：见月法七万九千三百二十五。
+现代文：见月法：七万九千三百二十五。
+English: Moon phase: 79,325.
+
+古文：见中日法一千九百二十七万五千九百七十五。见月日法六百四十二万五千三百二十五。
+现代文：见中法：一千九百二十七万五千九百七十见月曰法：六百四十二万五千三百二十五。
+English: See the middle act: nineteen thousand two hundred and seventy-five thousand nine hundred and seventy. See the middle act: six thousand four hundred and twenty-five thousand three hundred and twenty-five.
+
+古文：火经特成，故二岁而过初，三十二过初为六十四岁而小周。
+现代文：火的规律形成很特别，经过二年就过了起点，三十二次超过起点就是六十四年，就有小周。
+English: The formation of the law of fire is very special. After two years, it has passed the starting point. Thirty-two times beyond the starting point is sixty-four years, and there is a small week.
+
+古文：小周乘 乾 策，则太阳大周，为一万三千八百二十四岁，是为荧惑岁数。
+现代文：小周数乘《干》策数，那么太阳就是大周，得一万三千八百二十四年，这是荧惑星的年数。
+English: Multiply the number of small weeks by the number of "dry" weeks, then the sun is a big week, resulting in 13,824 years, which is the number of years of the fluorescent planet.
+
+古文：见中分十六万五千八百八十八。
+现代文：见中分：十六万五千八百八十八。
+English: See middle score: from one hundred and sixty-five thousand eight hundred and eighty-eight.
+
+古文：积中二十五，中余四千一百六十三。
+现代文：四。积中：二十五；中余：四千一百六十三。
+English: 4. Of the total: 25; Of the remainder: 4,163.
+
+古文：见中法六千四百六十九。
+现代文：见中法：六干四百六十九。
+English: See Chinese law: 六干四六十九.
+
+古文：见数也。
+现代文：这是见数。
+English: That's the number.
+
+古文：见闰分九万六千七百六十八。
+现代文：见闰分：九万六千七百六十八。
+English: See leap minute: ninety-six thousand seven hundred sixty-eight.
+
+古文：积月二十六，月余五万二千九百五十四。见月法一十二万二千九百一十一。
+现代文：积月：二十六；月余：五万二千九百五十见月法：十二万二干九百一十一。
+English: The crescent moon: twenty-six; the remaining months: fifty-two thousand nine hundred and fifty; the crescent moon: twelve thousand two hundred and ninety-one.
+
+古文：见中日法二千九百八十六万七千三百七十三。见月日法九百九十五万五千七百九十一。
+现代文：见中曰法：二千九百八十六万七千三百七十见月曰法：九百九十五万五千七百九十一。
+English: From the middle of the month to the first day of the month: 29,86,600,773,770.
+
+古文：水经特成，故一岁而及初，六十四及初而小复。
+现代文：水的规律形成特别，所以经过一年就到开始，六十四次到开始就有小复。
+English: The regularity of the formation of water is special, so after a year, it will reach the beginning, and there will be a small complication at the beginning of the 64th time.
+
+古文：小复乘 坤 策，则太阴大周，为九千二百一十六岁，是为辰星岁数。
+现代文：用小复乘《》策数，就是太阴大周，有九千二百一十六年，是辰星的年数。
+English: Multiply the number of years by a small multiple of "," which is the number of years between the great yin and the great yang, and you get 9216. This is the number of years between the stars.
+
+古文：见中分十一万五百九十二。
+现代文：见中分：十一万零五百九十二。
+English: See the middle part: one hundred and one thousand five hundred ninety-two.
+
+古文：积中三，中余二万三千四百六十九。
+现代文：积中：三；中余：三万二千四百六十九。
+English: Total: three; Remainder: 32,469.
+
+古文：见中法二万九千四十一。
+现代文：见中法：二万九千零四十一。
+English: See the Chinese version: 29 thousand and 41st.
+
+古文：复数也。
+现代文：这是复数。
+English: It's plural.
+
+古文：见闰分六万四千五百一十二。
+现代文：见闰分：六万四千五百一十二。
+English: See leap minutes: 64,512.
+
+古文：积月三，月余五十一万四百二十三。
+现代文：积月：三；月余：五十一万零四百二十三。
+English: Accumulated months: three; Remaining months: 5,104,233.
+
+古文：见月法五十五万一千七百七十九。
+现代文：见月法：五十五万一千七百七十九。
+English: Moon phase: 551,779.
+
+古文：晨中分六万二千二百八。
+现代文：晨中分：六万二千二百零八。
+English: Mid-morning: 62,200.
+
+古文：积中二，中余四千一百二十六。
+现代文：积中：二；中余：四千一百二十六。
+English: Middle product: two; middle remainder: four thousand one hundred and twenty-six.
+
+古文：夕中分四万八千三百八十四。
+现代文：夕中分：四万八千三百八十四。
+English: Mid-evening: 48,384.
+
+古文：积中一，中余一万九千三百四十三。
+现代文：积中：一；中余：一万九千三百四十三。
+English: The product is one; the remainder is nineteen thousand three hundred forty-three.
+
+古文：晨闰分三万六千二百八十八。
+现代文：晨闰分：三万六千二百八十八。
+English: The morning leap minute: 36,288.
+
+古文：积月二，月余十一万四千六百八十二。
+现代文：积月：二；月余：十万四千六百八十二。
+English: Accumulated months: two; Remaining months: 104,682.
+
+古文：久闰分二万八千二百二十四。
+现代文：夕闰分：二万八千二百二十四。
+English: Evening leap minute: 28,224.
+
+古文：积月一，月余三十九万五千七百四十一。
+现代文：积月：一；月余：三十九万五千七百四十
+English: Accumulated months: one; remaining months: three hundred ninety-five thousand seven hundred and forty
+
+古文：见中日法一亿三千四百八万二千二百九十七。
+现代文：见中曰法：一亿三千四百零八万二千二百九十七。
+English: See the formula in the middle: one hundred thirty-four million, eighty-two thousand, two hundred and ninety-seven.
+
+古文：见月日法四千四百六十九万四千九十九。
+现代文：见月日法：四千四百六十九万四千零九十九。
+English: Date and time: 44,694,099.
+
+古文：合太阴太阳之岁数而中分之，各万一千五百二十。
+现代文：把太阴太阳的年数相加再除以二，各为一万一千五百二十。
+English: And he took the sum of the number of the years of the sun, and of the moon, and of the years of the sun, and divided it by two, and found it to be eleven thousand five hundred and twenty years.
+
+古文：阳施其气，阴成其物。
+现代文：阳气施放，阴气使万物成长。
+English: The yang qi is released and the yin qi makes all things grow.
+
+古文：以星行率减岁数，余则见数也。
+现代文：用星行率数减去岁数，所余就是见数。
+English: Subtract the number of years from the starwalking rate, and the remainder is the number you see.
+
+古文：东九西七乘岁数，并九七为法，得一，金、水晨夕岁数。
+现代文：束九西七乘岁数，九与七相加为法数，得一，是金、水晨夕的年数。
+English: Bundle nine west seven times the number of years, nine and seven add up to the legal number, resulting in one, is the number of years of gold, water, morning and evening.
+
+古文：以岁中乘岁数，是为星见中分。
+现代文：用岁中数乘岁数，就是星见中分数。
+English: Multiply the number of years by the number of years, that is, the number of stars.
+
+古文：星见数，是为见中法。
+现代文：星见数，就是见中法数。
+English: The number of stars seen is the number of stars seen.
+
+古文：以岁闰乘岁数，是为星见闰分。
+现代文：用岁闰数乘岁数，就是星见闰分数。
+English: Multiplying the number of leap years by the number of years is the intercalary fraction.
+
+古文：以章岁乘见数，是为见月法。
+现代文：用章岁数乘见数，就是见月法数。
+English: Multiply the number of years by the number of months to get the number of months.
+
+古文：以元法乘见数，是为见中日法。
+现代文：用元法数乘见数，就是见中曰法数。
+English: The number of elements multiplied by the number of observations is the number of observations.
+
+古文：以统法乘见数，是为见月日法。
+现代文：用统法数乘见数，就是见月曰法数。
+English: Using the canonical number multiplied by the common number is the common number.
+
+古文：五步木，晨始见，去日半次。
+现代文：木星：早晨开始出现，去掉一天的一半。
+English: Jupiter: Starts appearing in the morning, removing half of the day.
+
+古文：顺，日行十一分度二，百二十一日。
+现代文：顺行，每天运行十一分二度，经过一百二十一天。
+English: Running in a clockwise direction, it runs for eleven minutes and two seconds every day, lasting for one hundred and twenty-one days.
+
+古文：始留，二十五日而旋。
+现代文：开始停止运行，过二十五天后又回来。
+English: It began to stop running, and after twenty-five days it came back.
+
+古文：逆，日行七分度一，八十四日。
+现代文：逆行，每天运行七分一度，经过八十四天。
+English: retrograde, running once every seven minutes, after 84 days.
+
+古文：复留，二十四日三分而旋。
+现代文：又停留二十四天三分后再回转。
+English: After another stay of twenty-four days and three minutes, it will turn around.
+
+古文：复顺，日行十一分度二，百一十一日有百八十二万八千三百六十二分而伏。
+现代文：又顺行，每天运行十一分二度，经过一百一十一天一百八十二万八千三百六十二分后就伏。
+English: It also runs in a clockwise direction, running twice a day at 11 minutes past the hour, and after 111 days and 1,802,283,362 minutes, it stops.
+
+古文：凡见三百六十五日有百八十二万八千三百六十五分，除逆，定行星三十度百六十六万一千二百八十六分。
+现代文：共出现三百六十五天一百八十二万八千三百六十五分，除逆行数，定行星为三十度一百六十六万一千二百八十六分。
+English: A total of three hundred and sixty-five days and one million eight hundred and twenty-eight thousand three hundred and sixty-five minutes appeared, excluding the retrograde number, the fixed planet was thirty degrees one million six hundred and sixty-one thousand two hundred and eighty-six minutes.
+
+古文：凡见一岁，行一次而后伏。
+现代文：凡出现一年，行一次就后伏。
+English: If it happens once a year, do it once and move on.
+
+古文：日行不盈十一分度一。
+现代文：每天运行不满十一分一度。
+English: It runs less than once every eleven minutes.
+
+古文：伏三十三日三百三十三万四千七百三十七分，行星三度百六十七万三千四百五十一分。
+现代文：伏三十三天三百三十三万四千七百三十七分，行星三度一百六十七万三千四百五十一分。
+English: Thirty-three days and nights, 3,334,737.37 minutes; three planets, 1,673,451 minutes.
+
+古文：一见，三百九十八日五百一十六万三千一百二分，行星三十三度三百三十三万四千七百三十七分。
+现代文：出现一次，就有三百九十八天五百一十六万三千一百零二分，行星三十三度三百三十三万四千七百三十七分。
+English: Once appearing, there are three hundred and ninety-eight days five hundred and sixteen thousand three hundred and two minutes, and the planet thirty-three degrees three hundred and thirty-three thousand four hundred and seven hundred and thirty-seven minutes.
+
+古文：通其率，故曰日行千七百二十八分度之百四十五。
+现代文：是它通常的比率，所以说一天行一千七百二十八分一百四十五分之一度。
+English: is its usual ratio, so that one day is equal to one thousand seven hundred and twenty-eight hundred and forty-five degrees.
+
+古文：金，晨始见，去日半次。
+现代文：金星：早晨开始出现，去掉一天的一半。
+English: Venus: Morning starts to appear, removing half of the day.
+
+古文：逆，日行二分度一，六日，始留，八日而旋。
+现代文：逆行，一天运行二分一度，经过六天。开始停留八天后又回来。
+English: It runs in reverse, once every two minutes, for six days, stopping for eight days before returning.
+
+古文：始顺，日行四十六分度三十三，四十六日。
+现代文：开始顺行，一天运行四十六分三十三度，经过四十六天。
+English: It began to run in a clockwise direction, running at forty-six minutes and thirty-three degrees per day, for forty-six days.
+
+古文：顺，疾，日行一度九十二分度十五，百八十四日而伏。
+现代文：顺行就快，一天运行一度九十二分十五度，经过一百八十四天就伏。
+English: It runs at a speed of ninety-two-point-fifteen degrees once a day, and after one hundred and eighty-four days, it stops.
+
+古文：凡见二百四十四日，除逆，定行星二百四十四度。
+现代文：共出现二百四十四天，除逆行数，定行星二百四十四度。
+English: A total of two hundred and forty-four days, excluding the retrograde number, the fixed planet is two hundred and forty-four degrees.
+
+古文：伏，日行一度九十二分度三十三有奇。
+现代文：伏，一天运行一度九十二分三十三度有余。
+English: Voltage, once a day running more than ninety-two thirty-three degrees.
+
+古文：伏八十三日，行星百一十三度四百三十六万五千二百二十分。
+现代文：伏八十三天，行星一百一十三度四百三十六万五千二百二十分。
+English: Eighty-three days, one hundred and thirteen degrees, four hundred and thirty-six thousand, five hundred and twenty minutes.
+
+古文：凡晨见、伏三百二十七日，行星三百五十七度四百三十六万五千二百二十分。
+现代文：晨现、伏共三百二十七天，行星三百五十七度四百三十六万五千二百二十分。
+English: A total of three hundred and twenty-seven days, planet three hundred and fifty-seven degrees four hundred and sixty-five thousand two hundred and twenty minutes.
+
+古文：夕始见，去日半次。
+现代文：晚上开始出现，去掉一天的一半。
+English: The evening begins to appear, removing half of the day.
+
+古文：顺，日行一度九十二分度十五，百八十一日百七分日四十五。
+现代文：顺行，一天运行一度九十二分十五度，一百八十一天一百零七分日四十五。
+English: It runs in a clockwise direction, once a day at ninety-two minutes and fifteen degrees, and once a day at one hundred eighty-one minutes and one hundred seventy-seven minutes and forty-five degrees.
+
+古文：顺，迟，日行四十六分度四十三，四十六日。
+现代文：顺行，慢，一天运行四十六分三十三度，四十六天。
+English: Forward, slow, one day running forty-six minutes thirty-three degrees, forty-six days.
+
+古文：始留，七日百七分日六十二分而旋。
+现代文：开始停留，七天一百零七分六十二分又回转。
+English: It began to stop, and after seven days, one hundred and seven minutes and sixty-two minutes, it turned around again.
+
+古文：逆，日行二分度一，六日而伏。
+现代文：逆行，一天行二分一度，六天就伏。
+English: Backward, one-day line bisected once, six days upside down.
+
+古文：凡见二百四十一日，除逆，定行星二百四十一度。
+现代文：共出现二百四十一天，除逆行数，定行星二百四十一度。
+English: A total of 241 days, excluding retrograde, 241 planets.
+
+古文：伏，逆，日行八分度七有奇。
+现代文：伏，逆行，一天就运行八分七度有余。
+English: Volts, counterclockwise, running more than eight minutes and seven seconds a day.
+
+古文：伏十六日百二十九万五千三百五十二分，行星十四度三百六万九千八百六十八分。
+现代文：伏十六天一百二十九万五千三百五十二分，行星十四度三百零六万九千八百六十八分。
+English: The 16th day of the 4th month is 1,295,352 minutes and the 14th day of the 4th month is 3,069,868 minutes.
+
+古文：一凡夕见伏，二百五十七日百二十九万五千三百五十一分，行星二百二十六度六百九十万七千四百六十九分。
+现代文：一凡晚上出现的伏日数是二百五十七一百二十九万五千三百五十二分，行星二百二十六度六百九十万七千四百六十九分。
+English: The number of the days of the solstice that occur each night is 257,1295,352, and the number of the planets is 226,697,469.
+
+古文：一复，五百八十四日百二十九万五千三百五十二分。
+现代文：重复一次，是五百八十四天一百二十九万五千三百五十二分。
+English: Once again, it is five hundred and eighty-four days to one million two hundred ninety-five thousand three hundred and fifty-two minutes.
+
+古文：行星亦如之，故曰日行一度。
+现代文：行星也是这样，所以说一天运行一度。
+English: This is also the case with the planets, which means that they move once a day.
+
+古文：土，晨始见，去日半次。
+现代文：土星：早晨开始出现，去掉一天的一半。
+English: Saturn: Morning begins to appear, removing half of the day.
+
+古文：顺，日行十五分度一，八十七日。始留，三十四日而旋。
+现代文：顺行，一天运行十五分一度，经过八十七天开始停留，三十四天后回转。
+English: It runs in a straight line, once a day for 15 minutes, and after 87 days, it begins to stop, and after 34 days, it turns around.
+
+古文：逆，日行八十一分度五，百一日。复留，三十三日八十六万二千四百五十五分而旋。
+现代文：逆行，一天运行八十一分五度，经过一百零一天又开始停留，三十三天八十六万二千四百五十五分后回转。
+English: In retrograde motion, it travels at a speed of 81.5 degrees per day. After one hundred and one days, it begins to slow down again, and after thirty-three days and eight hundred sixty-two thousand four hundred and fifty-five minutes, it turns around.
+
+古文：复顺，日行十五分度一，八十五日而伏。
+现代文：重新顺行，一天运行十五分一度，八十五天后伏。
+English: Re-proceeding, running once a day for fifteen minutes, and closing after eighty-five days.
+
+古文：凡见三百四十日八十六万二千四百五十五分，除逆，定余行星五度四百四十七万三千九百三十分。
+现代文：共出现三百四十日八十六万二千四百五十五分，除逆行数，定行星五度四百四十七万三千九百三十分。
+English: A total of three hundred and forty days and eight hundred and sixty-two thousand four hundred and fifty-five minutes appeared, excluding the retrograde number, the fixed planet five degrees four hundred and forty-seven thousand three hundred and nine thirty minutes.
+
+古文：伏，日行不盈十五分度三。
+现代文：伏的时候，一天运行不满十五分三度。
+English: When it is down, it runs less than 15 minutes three times a day.
+
+古文：三十七日千七百一十七万一百七十分，行星七度八百七十三万六千五百七十分。
+现代文：三十七天一千七百一十七万零一百七十分，行星七度八百七十三万六千五百七十分。
+English: Thirty-seven days, seventeen million, seventeen thousand, one hundred and seventy minutes, the planet seven degrees, eight hundred and seventy-three thousand, six hundred and fifty-seven minutes.
+
+古文：一见，三百七十七日千八百三万二千六百二十五分，行星十二度千三百二十一万五百分。
+现代文：出现一次，是三百七十七天一千八百零三万二千六百二十五分，行星十二度一千三百二十一万五百分。
+English: Appears once, is three hundred and seventy-seven days one thousand eight hundred and thirty-two thousand six hundred and twenty-five minutes, the planet twelve degrees one thousand three hundred and twenty-one thousand five hundred.
+
+古文：通其率，故曰日行四千三百二十分度之百四十五。
+现代文：是它的通常比例，所以说一天运行四千三百二十分一百四十五分之一度。
+English: is its usual ratio, so that a day runs four thousand three hundred and twenty one hundred and forty-five degrees.
+
+古文：火，晨始见，去日半次，顺，日行九十二分度五十三，二百七十六日，始留，十日而旋。
+现代文：火星：早晨开始出现，去掉一天的一半。顺行，一天运行九十二分五十三度，经过二百七十六天开始停留，十天后回转。
+English: Mars: Appears in the morning, half of the day is removed. Goes along, moves ninety-two and fifty-three degrees in a day, begins to stay after two hundred and seventy-six days, and rotates ten days later.
+
+古文：逆，日行六十二分度十七，六十二日。
+现代文：逆行，一天运行六十二分十七度，经过六十二天。
+English: retrograde, one day running sixty-two minutes and seventeen degrees, after sixty-two days.
+
+古文：复留，十日而旋。
+现代文：重新停留十后又回转。
+English: After stopping again for ten minutes, it turned around again.
+
+古文：复顺，日行九十二分度五十三，二百七十六日而伏。凡见六百三十四日，除逆，定行星三百一度。
+现代文：重新顺行，一天运行九十二分五十三度，经过二百七十六天后伏：共出现六百三十四天，除逆行，定行星三百零一度。
+English: Re-prograde, one day moving ninety-two and fifty-three degrees, after two hundred and seventy-six days retrograde: a total of six hundred and thirty-four days, excluding retrograde, fixed planet three hundred and one.
+
+古文：伏，日行不盈九十二分度七十三，伏百四十六日千五百六十八万九千七百分，行星百一十四度八百二十一万八千五分。
+现代文：伏的时候一天运行不满九十二分七十三度，伏一百四十六天一千五百六十八万九千七百分，行星一百一十四度八百二十一万八千零五分。
+English: At the equinox, one day is less than ninety-two minutes and seventy-three degrees; at the solstice, one hundred and forty-six days, one thousand five hundred and sixty-eight thousand nine hundred and seven hundred; at the equinox, one hundred and fourteen degrees, eight hundred and twenty-one thousand eight hundred and five.
+
+古文：一见，七百八十日千五百六十八万九千七百分，凡行星四百一十五度八百二十一万八千五分。
+现代文：出现一次，是七百八十天一千五百六十八万九千百分，共行星四百一十五度八百二十一万八千零五分。
+English: Appearing once, it is seven hundred and eighty days to one thousand five hundred and sixty-eight thousand nine hundred, for a total of four hundred and fifteen degrees, eight hundred and twenty-one thousand eight hundred and fifty-five minutes.
+
+古文：通其率，故曰日行万三千八百二十四分度之七千三百五十五。
+现代文：是它通常的比例，所以说一天运行一万三千八百二十四分七千三百五十五分之一度。
+English: is its usual ratio, so that a day runs to one thirteen thousand eight hundred and twenty-four point seven thousand three hundred and fifty-five degrees.
+
+古文：水，晨始见，去日半次。
+现代文：水星：早晨开始出现，去掉一天的一半。
+English: Mercury: Starts appearing in the morning, removing half of the day.
+
+古文：逆，日行二度，一日。
+现代文：逆行，一天运行二度，运行一天。
+English: Reverse, run twice a day, run once a day.
+
+古文：始留，二日而旋。
+现代文：开始停留二天就回转。
+English: Start with a two-day stay and rotate.
+
+古文：顺，日行七分度六，七日。
+现代文：顺行，一天运行七分六度，运行七天。
+English: In a straight line, it runs seven minutes and six seconds a day, and runs for seven days.
+
+古文：顺，疾，日行一度三分度一，十八日而伏。
+现代文：顺行，快，一天运行三分一度，十八天后伏。
+English: Go straight, go fast, run once every three days, and turn around after 18 days.
+
+古文：凡见二十八日，除逆，定行星二十八度。
+现代文：共出现二十八天，除逆行数，定行星二十八度。
+English: A total of twenty-eight days appear, excluding the retrograde number, and the fixed planet is twenty-eight degrees.
+
+古文：伏，日行一度九分度七有奇，三十七日一亿二千二百二万九千六百五分，行星六十八度四千六百六十一万一百二十八分。
+现代文：伏时一天运行一度九分七度有余，经过三十七天一亿二千二百零二万九千六百零五分，行星六十八度四千六百六十一万零一百二十八分。
+English: A volt-hour moves once a day by more than ninety-seven degrees, and after thirty-seven days it is one hundred twenty-two thousand two hundred and ninety-nine thousand six hundred and five, and the planet is sixty-eight degrees forty-six thousand six hundred and one hundred and twenty-eight.
+
+古文：凡晨见、伏，六十五日一亿二千二百二万九千六百五分，行星九十六度四千六百六十一万一百二十八分。
+现代文：早晨出现、伏共六十五天一亿二千二百零二万九千六百零五分，行星九十六度四千六百六十一万零一百二十八分。
+English: Appearing in the morning, the total of sixty-five days is one hundred twenty-two million twenty-nine thousand six hundred and five minutes, and the planet is ninety-six degrees forty-six million six hundred and ten thousand one hundred and twenty-eight minutes.
+
+古文：夕始见，去日半次。
+现代文：晚上开始出现，去掉一天的一半。
+English: The evening begins to appear, removing half of the day.
+
+古文：顺，日行一度三分度一，十六日二分日一。
+现代文：顺行，快，一天运行一度三分一度，运行十六天二分一。
+English: Forward, fast, one-day operation once every three minutes, sixteen-day operation every two minutes.
+
+古文：顺，迟，日行七分度六，七日。
+现代文：顺行，慢，一天运行七分六度，运行七天。
+English: Go forward, slow down, run seven minutes and six degrees a day, run seven days.
+
+古文：留，一日二分日一而旋。
+现代文：停留一天二分一就回转。
+English: If you stay for a day and a half, you can turn around.
+
+古文：逆，日行二度，一日而伏。
+现代文：逆行，一天运行二度，经过一天后伏。
+English: Retrograde, run twice a day, after a day of retrograde.
+
+古文：凡见二十六日，除逆，定行星二十六度。
+现代文：共出现二十六天，除逆行数，定行星二十六度。
+English: A total of twenty-six days appear, excluding the retrograde number, and the fixed planet is twenty-six degrees.
+
+古文：伏，逆，日行十五分度四有奇，二十四日，行星六百五千八百六十六万二千八百二十分。
+现代文：伏时逆行，一天运行十五分四度有余，经过二十四天，行星六度五千八百六十六万二千八百二十分。
+English: retrograde, the day runs fifteen minutes and four degrees more, after twenty-four days, the planet six degrees five thousand eight hundred sixty-six thousand two hundred and eighty-two minutes.
+
+古文：凡夕见伏，五十日，行星十九度七千五百四十一万九千四百七十七分。
+现代文：凡晚上出现时伏，经过五十天，行星十九度七千五百四十一万九千四百七十七分。
+English: For every hour and minute that occurs in the evening, after fifty days, the planet nineteen degrees seven thousand five hundred forty-one thousand nine thousand four hundred and seventy-seven minutes.
+
+古文：一复，百一十五日一亿二千二百二万九千六百五分。
+现代文：重复一次出现，需一百一十五天一亿二千二百零二万九千六百零五分。
+English: It takes one hundred and fifteen days, one hundred and twenty-two million, twenty-nine thousand, six hundred and five minutes for a repeat to occur.
+
+古文：行星亦如之，故曰日行一度。
+现代文：行星也是这样，所以说一天运行一度。
+English: This is also the case with the planets, which means that they move once a day.
+
+古文：统术推日月元统，置太极上元以来，外所求年，盈元法除之，余不盈统者，则天统甲子以来年数也。
+现代文：推演日月元统：从原始的上元以来，不计所求年，满元法就除去它，剩下不满一统的，就是天统甲子以来的年数。
+English: The deduction of the sun-moon principle: since the original Shangyuan, regardless of the desired year, the Man Yuan method removes it, and the remaining unsatisfactory uniformity is the number of years since the unification of heaven and earth.
+
+古文：盈统，除之，余则地统甲辰以来年数也。
+现代文：满一统，就除去，所余就是地统甲辰以来的年数。
+English: If it is completely unified, it will be removed, and the rest will be the number of years since the unification of Jia Chen.
+
+古文：又盈统，除之，余则人统甲申以来年数也。
+现代文：又满一统，就除去，所余就是入统甲申以来年数。
+English: Once it is unified, it will be removed, and the rest will be the number of years since it was unified in Jiaxing.
+
+古文：各以其统首日为纪。
+现代文：各以它的统首的一天作为纪。
+English: Each with a day of its leader as discipline.
+
+古文：推天正，以章月乘入统岁数，盈章岁得一，名曰积月，不盈者名曰闰余。
+现代文：推演天正：用章月数乘入统岁数，满章岁得一，命名为积月，不满章岁的命名为闰余。
+English: Derivation of Tian Zheng: Multiply the number of chapter months by the number of unified years, and the full chapter year is one, named the accumulation month, and the unsatisfied chapter year is named the surplus.
+
+古文：闰余十二以上，岁有闰。
+现代文：闰余有十二以上，一年就有闰。
+English: If the remainder is 12 or more, the year has a leap month.
+
+古文：求地正，加积月一；求入正，加二。
+现代文：求地正：加一个积月；求人正：加两个积月。
+English: To find the exactitude of the earth: add one crescent moon; to find the exactitude of the man: add two crescent moons.
+
+古文：推正月朔，以月法乘积月，盈日法得一，名曰积日，不盈者名曰小余。
+现代文：推演正月朔：用月法乘积月，满法就得一，命名为积曰，不满积曰就命名为小余。
+English: Extrapolation of the New Year's Day: using the lunar method to multiply the product month, the full method will get one, named the product day, and the unsatisfactory product day will be named the small surplus.
+
+古文：小余三十八以上，其月大。
+现代文：小余有三十八以上，它的月就是大月。
+English: Xiaoyu has more than thirty-eight, and its month is the big month.
+
+古文：积日盈六十，除之，不盈者名曰大余。
+现代文：积曰满六十，就除去它，不满六十就命名为大余。
+English: If the product is over sixty, it will be removed, and if it is less than sixty, it will be named big surplus.
+
+古文：数从统首日起，算外，则朔日也。
+现代文：计算是从统的第一天开始，计算所除去的，就是朔日。
+English: The calculation starts from the first day of the month, and the day removed from the calculation is the new moon.
+
+古文：求其次月，加大余二十九，小余四十三。
+现代文：求它的第二个月：就加上大余二十九，小余四十三。
+English: If you ask for the second month, add 29 for the largest and 43 for the smallest.
+
+古文：小余盈日法得一，从大余，数除如法。
+现代文：小余满法得一，并入大余，大余满六十就同前面方法一样除去。
+English: The small surplus is merged into the large surplus, and the large surplus is removed at the age of 60 as in the previous method.
+
+古文：求弦，加大余七，小余三十一。
+现代文：求弦：就加上大余七，小余三十一。
+English: Find the chord: add the major remainder seven and the minor remainder thirty-one.
+
+古文：求望，倍弦。
+现代文：求望：把弦乘以二。
+English: Aspiration: Multiply the chord by two.
+
+古文：推闰余所在，以十二乘闰余，加七得一。
+现代文：推演闰余的所在：就以十二乘闰余，加上七得一。
+English: To deduce where the remainder lies: multiply the remainder by twelve and add seven to get one.
+
+古文：盈章中，数所得，起冬至，算外，则中至终闰盈。
+现代文：满章中，计算所得的，从冬至起，算外，就是中气到终点闰满。
+English: In the full chapter, the calculated result, from the winter solstice, the extra calculation, is the mid-air to the end of the leap.
+
+古文：中气在朔若二日，则前月闰也。
+现代文：中气在朔如果是两天，那么前一个月就闰。
+English: If the new moon falls on the second day of the month, the previous month will be a leap month.
+
+古文：推冬至，以策余乘入统岁数，盈弦法得一，名曰大余，不盈者名曰小余。
+现代文：推演冬至：用策余乘入统岁数，满统法得一，命名为大余，不满统法就命名为小余。
+English: Extrapolation of the winter solstice: using the method of multiplying the remainder by the universal number of years, the universal method obtained one, named the great remainder, and the dissatisfied universal method was named the small remainder.
+
+古文：除数如法，则所求冬至日也。
+现代文：除数与前面一样，就是所求的冬至曰。
+English: The divisor is the same as before, which is the desired winter solstice.
+
+古文：求八节，加大余四十五，小余千一十。
+现代文：求八节：就把大余四十五，小余一千零一十相加。
+English: Verse 8: and he shall add to it forty-five times the first, and a thousand times ten times the second.
+
+古文：求二十四气，三其小余，加大余十五，小余千一十。
+现代文：求二十四时气：就用三乘以小余，加上大余十五，小余一千零一十。
+English: For the 24 hour qi, multiply the small surplus by three, add the large surplus by 15, and the small surplus by 110.
+
+古文：推中部二十四气，皆以元为法。
+现代文：推算中部二十四气：都以元作为法数。
+English: Calculation of the central twenty-four qi: all are based on yuan as the method number.
+
+古文：推五行，其四行各七十三日，统法分之七十七。
+现代文：推算五行：其中四行各有七十三天，是统法分之七十七。
+English: There are five lines of reckoning: four of them have seventy-three days each, which is seventy-seven parts of the Uniform Law.
+
+古文：中央各十八日，统法分之四百四。
+现代文：中央各十八天，是统法分之四百零四。
+English: The average is 18 days, which is 404 days less than the unified law.
+
+古文：冬至后，中央二十七日六百六分。
+现代文：冬至后，中央二十七天六百零六分。
+English: After the winter solstice, the meridian is 27 days, 606 minutes.
+
+古文：推合晨所在星，置积日，以统法乘之，以十九乘小余而并之。
+现代文：推算所有早晨所在星：用积乘以统法，别十九乘小余再加上积日。
+English: Calculate all the morning stars: multiply the product by unity, divide by nineteen, multiply by the remainder and add the product day.
+
+古文：盈周天，除去之；不盈者，令盈统法得一度。
+现代文：满周天，就除去它；不满周天，就让满统法得一度。
+English: If it is complete, it will be removed; if it is unsatisfactory, it will be given a second chance.
+
+古文：数起牵牛，算外，则合晨所入星度也。
+现代文：计算从牵牛开始，计算除去的，就是整个早晨所入的星度。
+English: The calculation starts with the cowherd, and what is removed is the star rating for the entire morning.
+
+古文：推其日夜半所在星，以章岁乘月小余，以减合晨度。
+现代文：推算日夜半所在星：用章岁乘月小余，再减合晨度。
+English: Calculate the position of the star at midnight: multiply the month by the year and subtract the hour.
+
+古文：小余不足者，破全度。
+现代文：小余不足，就破全度。
+English: If there is a small deficiency, it will be broken.
+
+古文：推其月夜半所在星，以月周乘月小余，盈统法得一度，以减合晨度。
+现代文：推算月夜半所在星：用月周乘月小余，满统法得一度，再减去合晨度。
+English: Calculate the position of the star at midnight: use the lunar week to multiply the small remainder of the month, the Manx method to get one degree, and then subtract the morning degree.
+
+古文：推诸加时，以十二乘小余为实，各盈分母为法，数起于子，算外，则所加辰也。
+现代文：推算各加时：用十二乘小余为实数，各满分母为法数，数从子开始，计算除去的，就是所加辰。
+English: Calculate each extra hour: use twelve times the remainder as the real number, each full denominator as the normal number, the number starts from the child, and what is calculated and removed is the extra hour.
+
+古文：推月食，置会余岁积月，以二十三乘之，盈百三十五，除之。
+现代文：推算月食：用二十三乘会余岁积月，满一百三十五，除去它。
+English: Calculate the lunar eclipse: use 23 to calculate the remaining years and months, complete 135, and remove it.
+
+古文：不盈者，加二十三得一月，盈百三十五，数所得，起其正，算外，则食月也。
+现代文：不满一百三十五的，就十三得一月，满一百三十五，计算所得的，从正开始，计算除去的，就是食月。
+English: If it is less than one hundred and thirty-five, it is a thirteenth month; if it is more than one hundred and thirty-five, it is a month of eclipses.
+
+古文：加时，在望日冲辰。
+现代文：加时，在望日冲辰。
+English: In extra time, in the hope of beating the clock.
+
+古文：纪术推五星见复，置太极上元以来，尽所求年，乘大终见复数，盈岁数得一，则定见复数也。
+现代文：推算五星现复：用原始上元以来以及所有所求年来乘大统现复数，满岁数得一，就是定现复数。
+English: Calculating the five-star present complex: multiply the total present complex number by the original number of years since the founding of the People's Republic of China and all the years to be obtained, and the number of years of age is one, which is the constant present complex number.
+
+古文：不盈者名曰见复余。
+现代文：不满岁的就叫现复余。
+English: Those who are under the age of retirement are called Gen Fu Rong.
+
+古文：见复余盈其见复数，一以上见在往年，倍一以上，又在前往年，不盈者在今年也。
+现代文：现复余满了它的现复数，一以上的就出现在前一年，一倍以上，又出现在更前一年，不满岁的，就出现在今年。
+English: The present complex is full of its present complex numbers, more than one appeared in the previous year, more than double, appeared again in the previous year, and underage, appeared this year.
+
+古文：推星所见中次，以见中分乘定见复数，盈见中法得一则积中也。
+现代文：推算星所出现的中次：用现中分乘定现复数，满现中法得一，就是积中。
+English: The mean times of the stars appearing in the calculation: use the present median to multiply the fixed present complex number, and the method of full present to get one, that is, the product.
+
+古文：不盈者名曰中余。
+现代文：不满现中法的，就叫中余。
+English: Those who are dissatisfied with the current Chinese law are called "Middle Remainers."
+
+古文：以元中除积中，余则中元余也。
+现代文：用元中除积中，所余的就是中元余。
+English: In the division of the product among the elements, the remainder is the remainder of the middle element.
+
+古文：以章中除之，余则入章中数也。
+现代文：用章中除中元余，余数就入章中数。
+English: If there are more than the number of middle elements in a chapter, the remaining number goes into the middle of the chapter.
+
+古文：以十二除之，余则星见中次也。
+现代文：用十二除章中数，余数就是星现中次。
+English: Using the middle number of the twelve divisions, the remaining number is the middle number of the star.
+
+古文：中数从冬至起，次数从星纪起，算外，则星所见中次也。
+现代文：中数从冬至起，次数从星纪起，算外，就是星所现中次。
+English: The middle number is from the winter solstice, the number of times is from the astrological era, and the extra number is the average number of times the star appears.
+
+古文：推星见月，以闰分乘定见复数，以章岁乘中余从之，盈见月法得一，并积中，则积月也。
+现代文：推算星现月：用闰分乘定现复数，用章岁乘中余，把两个积相加，满现月法得一，加上积中，就是积月。
+English: Calculating the current month: Multiply the current complex number by the leap minute, multiply the middle remainder by the leap year, add the two products, and the current month method will get one, and add the product to the middle, which is the current month.
+
+古文：不盈者名曰月余。
+现代文：不满现月法就叫月余。
+English: Dissatisfaction with the current month law is called moon surplus.
+
+古文：以元月除积月余，名曰月元余。
+现代文：用元月除积月余，叫月元余。
+English: Using the first month of the year to divide the surplus of the month is called the surplus of the month.
+
+古文：以章月除月元余，则入章月数也。
+现代文：用章月除月元余，就并入章月数了。
+English: If the month of the chapter is used to subtract the remainder of the month, it will be included in the number of months of the chapter.
+
+古文：以十二除之，至有闰之岁，除十三入章。
+现代文：用十二除章月数，到有闰的年份，除十三后并入章。
+English: The number of months in a leap year is divided by twelve and added to the chapter after the thirteenth division.
+
+古文：三岁一闰，六岁二闰，九岁三闰，十一岁四闰，十四岁五闰，十七岁六闰，十九岁七闰。
+现代文：三年一闰，六年两闰，九年有三闰，十一年有四闰，十四年有五闰，十七年有六闰，十九年有七闰。
+English: There is one leap in three years, two in six years, three in nine years, four in eleven years, five in fourteen years, six in seventeen years, and seven in nineteen years.
+
+古文：不盈者数起于天正，算外，则星所见月也。
+现代文：不满现月法的就从天正开始计算起，算外，就是星所现月。
+English: Unhappy with the present-month method, it has been calculated from the beginning of the day, and the extra month is the present-month of the observatory.
+
+古文：推至日，以中法乘中元余，盈元法得一，名曰积日，不盈者名曰小余。
+现代文：推算至曰：用中法乘中元余，满元法得一，叫做积曰，不满元法就叫小余。
+English: Extrapolation to say: with the middle method multiplied by the middle element remainder, the full element method gets one, called the product, and the dissatisfied element method is called the small remainder.
+
+古文：小余盈二千五百九十七以上，中大。
+现代文：小余满二千五百九十七以上，中大。
+English: Students with a grade point average of 2597 or higher are admitted to junior high school and college.
+
+古文：数除积日如法，算外，则冬至也。
+现代文：按照规则数除积，算外，就是冬至。
+English: According to the rule of addition and subtraction, it is the winter solstice.
+
+古文：推朔日，以月法乘月元余，盈日法得一，名曰积日，余名曰小余。
+现代文：推算朔日：用月法乘月元余，满曰法得一，叫做积曰，余名叫做小余。
+English: The calculation of the new moon day: the monthly method is used to multiply the month element by the remainder, the full day method is obtained by one, called the product day, and the remainder is called the small remainder.
+
+古文：小余三十八以上，月大。
+现代文：小余三十八以上，月大。
+English: Xiao Yu is over thirty-eight years old, and is a month old.
+
+古文：数除积日如法，算外，则星见月朔日也。
+现代文：按照规则数除积曰，算外，就是星现月朔日。
+English: According to the rules of the number of division and addition, it is the star, the moon and the new moon.
+
+古文：推入中次日度数，以中法乘中余，以见中法乘其小余并之。盈见中日法得一，则入中日入次度数也。
+现代文：推算入中次日度数：用中法乘中余，用现中法乘它的小余，把两个积相加，满现中曰法得一，就是入中曰入次度数。
+English: Calculate the degree of entering the middle of the next day: use the middle method to multiply the middle remainder, use the present middle method to multiply its small remainder, add the two products, and the full present middle method to get one, that is, the degree of entering the middle of the next day.
+
+古文：中以至日数，次以次初数，算外，则星所见及日所在度数也。
+现代文：中用至曰数，次用次初数，算外，就是星所现及所在的度数。
+English: The middle number is the day number, the lower number is the initial number, and the outer number is the degree of the star's appearance and location.
+
+古文：求夕，在日后十五度。
+现代文：求夕，在后十五度。
+English: In the evening, it is 15 degrees below zero.
+
+古文：推入月日数，以月法乘月余，以见月法乘其小余并之，盈见月日法得一，则入月日数也。
+现代文：推算入月曰数：用月法乘月余，用现月法乘它的小余，把它们的积相加，满现月曰法得一，就是入月曰数。
+English: Calculate the number of days in the month: multiply the remainder of the month by the lunar method, multiply the remainder of the month by the current month method, and add their products. The result of the current month method is one, which is the number of days in the month.
+
+古文：并之大余，数除如法，则见日也。
+现代文：加上大余，按规则数除，就是现曰。
+English: Add a large surplus, divide by a regular number, that is, now.
+
+古文：推后见中，加积中于中元余，加后中余于中余，盈其法得一，从中元余，除数如法，则后见中也。
+现代文：推算后现中：把积中加进中元余，把后中余加进中余，满其法得一，加上中元余，按规则除数，就是后现中。
+English: After the calculation, the result is in the middle: the product is added to the middle element, the middle element is added to the middle element, and the middle element is added to the middle element. The result is one, and the middle element is added, and the result is divided according to the rules. It is in the middle.
+
+古文：推后见月，加积月于月元余，加后月余于月余，盈其法得一，从月元余，除数如法，则后见月也。
+现代文：推算后现月：把积月加进月元余，把后月余加进月余，满其法得一，加上月元余，按规则除数，就是后现月。
+English: After calculation, the current month: add the accumulated month to the remaining month, add the remaining month to the remaining month, and add the remaining month to the remaining month. If the method is successful, add the remaining month and divide by the rule, it is the current month.
+
+古文：推至日及人中次度数，如上法。
+现代文：推算至曰以及入中次度数：与前面方法一样。
+English: Estimation to the day and the frequency of entering the middle: the same as the previous method.
+
+古文：推朔日及入月数，如上法。
+现代文：推算朔日以及入月数：与前面方法一样。
+English: Calculate the new moon day and the number of months: the same as the previous method.
+
+古文：推晨见加夕，夕见加晨，皆如上法。
+现代文：推算晨现加夕：夕现加晨，都与前面方法一样。
+English: The calculation of morning present plus evening: evening present plus morning is the same as the previous method.
+
+古文：推五步，置始见以来日数，至所求日，各以其行度数乘之。
+现代文：推算五步：用开始出现以来曰数，到所求日，各用它所运行度数来乘它们。
+English: There are five steps to the calculation: take the number of days since it first appeared, and multiply them by the number of times it has run up to the desired day.
+
+古文：其星若日有分者，分子乘全为实，分母为法。
+现代文：其中的星如果日中有分的，那么就用分子乘全作为除数，分母作为被除数。
+English: If one of the stars is divisible by the day, then the numerator is used as the divisor and the denominator as the dividend.
+
+古文：其两有分者，分母分度数乘全，分子从之，令相乘为实，分母相乘为法，实如法得一，名曰积度。
+现代文：其中两星有分的，分母分度数乘全，分子也一样，使它相乘为除数，分母相乘为被除数，被除数与除数一样就得一，叫做积度。
+English: Among them, two stars are divisible, the denominator and the divisor are multipliers, and the numerator is the same, so that it is multiplied by the divisor, the denominator is multiplied by the divisor, and the divisor and the divisor are the same, and one is obtained, which is called the integral degree.
+
+古文：数起星初见所在宿度，算外，则星所在宿度也。
+现代文：从星初现所在宿度开始计算，算外，就是星所在宿度。
+English: It is calculated from the latitude of the star's first appearance. The latitude of the star's location is not included in the calculation.
+
+古文：岁术推岁所在，置上元以来，外所求年，盈岁数，除去之，不盈者以百四十五乘之，以百四十四为法，如法得一，名曰积次，不盈者名曰次余。
+现代文：推算岁所在：从上元以来，不计所求年，涌岁数，就除去它，不满岁数，就用一百四十五乘它，以一百四十四作为除数，与除数相等就得一，叫积次，不满岁数的叫次余。
+English: Where the years are calculated: Since the Yuan Dynasty, regardless of the number of years required, the number of years of growth is removed, the number of years of dissatisfaction is multiplied by one hundred and forty-five, and the number of years of dissatisfaction is divided by one hundred and forty-four. If the number of years is equal to the number of years of dissatisfaction, the result is one, which is called the product, and the number of years of dissatisfaction is called the remainder.
+
+古文：积次盈十二，除去之，不盈者名曰定次。
+现代文：积次满十二，除去它，不满十二的就叫定次。
+English: If the total number is over twelve, it is removed, and if it is less than twelve, it is called a fixed number.
+
+古文：数从星纪起，算尽之外，则所在次也。
+现代文：从星纪起开始计数，计算完后以外的，就是所在次。
+English: Counting starts from the beginning of the astrological era, and the time after the calculation is the current time.
+
+古文：欲知太岁，以六十除积次，余不盈者，数从丙子起，算尽之外，则太岁日也。
+现代文：想要知道太岁，就用六十除积次，所余的就是不满十二的，从丙子起计数，计算完后以外的，就是太岁日。
+English: If you want to know how old you are, use sixty to divide by the product. The remainder is less than twelve, counting from c. The remainder after the calculation is your age.
+
+古文：赢缩。
+现代文：岁星盈亏。
+English: The new year is full of ups and downs.
+
+古文：传曰： 岁弃其次而旅于明年之次，以害鸟帑，周、楚恶之。 
+现代文：传说： 岁星失去了它的位次，错行到明年的位次上，损害了轸星，周、楚都要受到灾害。 
+English: Legend: The Year Star lost its rank and made a wrong move to the next year's rank, damaging the Dragon Star. Zhou and Chu both suffered disasters.
+
+古文：五星之赢缩不是过也。
+现代文：五星的盈亏不是过错。
+English: Five Star's profit and loss is not its fault.
+
+古文：过次者殃大，过舍者灾小，不过者亡咎。
+现代文：错过了一年的位置灾祸就大，错过了一个晚上灾祸就小，不错过就没有灾祸。
+English: If you miss a year's position, the disaster will be big, if you miss a night, the disaster will be small, and if you miss it, there will be no disaster.
+
+古文：次度。
+现代文：这是位置的标准。
+English: That's standard for the position.
+
+古文：六物者，岁时日月星辰也。
+现代文：六物是指岁、时、曰、月、星、辰。
+English: The six objects refer to the year, hour, day, month, star and hour.
+
+古文：辰者，日月之会而建所指也。星纪，初斗十二度，大雪。
+现代文：辰是曰月交会时斗柄所指。星纪，首先在斗十二度，大雪。
+English: "Chen" refers to the crescent moon at the time of the lunar meeting. According to the astrological calendar, heavy snow will first fall at the 12th degree of the crescent moon.
+
+古文：中牵牛初，冬至。
+现代文：再在牵牛初度，冬至。
+English: Then, at the beginning of the cow-herding season, the winter solstice.
+
+古文：于夏为十一月，商为十二月，周为正月。
+现代文：在夏朝时为十一月，在商朝为十二月，在周朝时为正月。
+English: In the summer, it is November, in the Shang Dynasty, December, and in the Zhou Dynasty, it is the first month of the year.
+
+古文：终于婺女七度。
+现代文：最后在婺女七度。
+English: In the end, the song was sung seven times.
+
+古文：玄枵，初婺女八度，小寒。
+现代文：玄枵，开始于婺女八度，小寒。
+English: Xuanzang, beginning in the eighth octave of the octave, Xiao Han.
+
+古文：中危初，大寒。
+现代文：中间到危初度，大寒。
+English: Moderately to dangerously cold, very cold.
+
+古文：于夏为十二月，商为正月，周为二月。
+现代文：在夏朝为十二月，商朝为正月，周朝为二月。
+English: In the summer, it is December, in the business week, it is the first month, and in the week, it is February.
+
+古文：终于危十五度。
+现代文：结束于危十五度。
+English: It ended in a tie for 15th.
+
+古文：诹訾，初危十六度，立春。
+现代文：诹訾，开始于危十六度，立春。
+English: , began in the sixteenth degree of danger, the beginning of spring.
+
+古文：中营室十四度，惊蛰。
+现代文：中间到营室十四度，惊蛰。
+English: It was 14 degrees in the middle of the camp and I was panicking.
+
+古文：今日雨水，于夏为正月，商为二月，周为三月。
+现代文：现在叫雨水，在夏朝时是正月，在商朝是二月，在周朝时是三月。
+English: Now it is called rain, in the summer it is the first month, in the Shang Dynasty it is February, and in the Zhou Dynasty it is March.
+
+古文：终于奎四度。
+现代文：结束于奎四度。
+English: It ended in a tie for fourth.
+
+古文：降娄，初奎五度，雨水。
+现代文：降娄，开始于奎五度，雨水。
+English: The hail began to fall, and it rained for five days.
+
+古文：今日惊蛰。
+现代文：现在叫惊蛰。
+English: Now it's called shock and awe.
+
+古文：中娄四度，春分。
+现代文：中间到娄四度，春分。
+English: From the middle to the middle four degrees, the vernal equinox.
+
+古文：于夏为二月，商为三月，周为四月。
+现代文：在夏朝时是二月，在商朝时是三月，在周朝时是四月。
+English: In the Summer Dynasty it was February, in the Shang Dynasty it was March, and in the Zhou Dynasty it was April.
+
+古文：终于胃六度。
+现代文：结束于胃六度。
+English: Ended up with an upset stomach.
+
+古文：大梁，初胃七度，谷雨。
+现代文：大梁，开始于胃七度，谷雨。
+English: Great beam, began in the stomach seven degrees, valley rain.
+
+古文：今日清明。
+现代文：现在叫清明。
+English: Now it is called Qingming.
+
+古文：中昴八度，清明。
+现代文：中间到昴八度，清明。
+English: Middle to high octave, clear.
+
+古文：今日谷雨，于夏为三月，商为四月，周为五月。
+现代文：现在叫谷雨。在夏朝时是三月，在商朝是四月，在周朝是五月。
+English: Now it is called Gu Yu. In the Summer Dynasty, it was March, in the Shang Dynasty, it was April, and in the Zhou Dynasty, it was May.
+
+古文：终于毕十一度。
+现代文：结束于毕十一度。
+English: It ended in Bi eleven times.
+
+古文：实沈、初毕十二度，立夏。
+现代文：实沈，开始于毕十二度，立夏。
+English: In fact, it began at the 12th degree of the meridian, the beginning of summer.
+
+古文：中井初，小满。
+现代文：中间到井初度，小满。
+English: In the middle to the beginning of the well, a little full.
+
+古文：于夏为四月，商为五月，周为六月。
+现代文：在夏朝是四月，商朝是五月，周朝是六月。
+English: In summer, it is April, in business, it is May, and in the week, it is June.
+
+古文：终于井十五度。
+现代文：结束于井十五度。
+English: It ends at the 15th degree of the well.
+
+古文：鹑首，初井十六度，芒种。
+现代文：鹑首，开始于井十六度，芒种。
+English: Dagger, starting at well 16 degrees, male seed.
+
+古文：中井三十一度，夏至。
+现代文：中间到井三十一度，夏至。
+English: The summer solstice falls on the 31st, midway through the month.
+
+古文：于夏为五月。商为六月，周为七月。
+现代文：在夏朝是五月，在商朝是六月，在周朝是七月。
+English: In the summer, it is May, in the Shang Dynasty, it is June, and in the Zhou Dynasty, it is July.
+
+古文：终于柳八度。
+现代文：结束于柳八度。
+English: It ends in the Liu octave.
+
+古文：鹑火，初柳九度，小暑。
+现代文：鹑火，开始于柳九度，小暑。
+English: Bonfire, starting in the ninth degree of the willow, a little heat.
+
+古文：中张三度，大暑。
+现代文：中间到张三度，大暑。
+English: In the middle it was up to 3 degrees, very hot.
+
+古文：于夏为六月，商为七月，周为八月。
+现代文：在夏朝是六月，在商朝是七月，在周朝是八月。
+English: In the Xia Dynasty, it was June, in the Shang Dynasty, it was July, and in the Zhou Dynasty, it was August.
+
+古文：终于张十七度。
+现代文：结束于张十七度。
+English: It ended at 17 degrees.
+
+古文：鹑尾，初张十八度，立秋。
+现代文：鹑尾，开始于张十八度，立秋。
+English: Shanwei, beginning at the 18th degree of Zhang, the beginning of autumn.
+
+古文：中冀十五度，处暑。
+现代文：中间到翼十五度，处暑。
+English: Fifteen degrees from the middle to the wings.
+
+古文：于夏为七月，商为八月，周为九月。
+现代文：在夏朝是七月，在商朝是八月，在周朝是九月。
+English: In the Summer Dynasty it was July, in the Shang Dynasty it was August, and in the Zhou Dynasty it was September.
+
+古文：终于轸十一度。
+现代文：结束于轸十一度。
+English: It will end at 11:15 a.m.
+
+古文：寿星，初轸十二度，白露。
+现代文：寿星，开始于轸十二度，白露。
+English: The birthday star, begins in the twelfth degree of the meridian, white dew.
+
+古文：中角十度，秋分。
+现代文：中间到角十度，秋分。
+English: The middle to the corner is ten degrees, the autumn equinox.
+
+古文：于夏为八月，商为九月，周为十月。
+现代文：在夏朝是八月，商朝是九月，周朝是十月。
+English: In summer, it is August, in September, it is September, and in October, it is October.
+
+古文：终于氐四度。
+现代文：结束于氐四度。
+English: It ended with a bang four times.
+
+古文：大火，初氐五度，寒露。
+现代文：大火，开始于氏五度，寒露。
+English: The conflagration began in the fifth degree of cold dew.
+
+古文：中房五度，霜降。
+现代文：中间到房五度，霜降。
+English: Temperatures will be in the mid-to-high fifties, with frost.
+
+古文：于夏为九月，商为十月，周为十一月。
+现代文：在夏朝是九月，商朝是十月，周朝是十一月。
+English: In summer, it is September, in business it is October, and in weekdays it is November.
+
+古文：终于尾九度。
+现代文：结束于尾九度。
+English: It ends at the end of the ninth degree.
+
+古文：析木，初尾十度，立冬。
+现代文：析木，开始于尾十度，立冬。
+English: Decomposition of wood, beginning at the end of the tenth degree, the beginning of winter.
+
+古文：中箕七度，小雪。
+现代文：中间到箕七度，小雪。
+English: Snow flurries in the middle of the day.
+
+古文：于夏为十月，商为十一月，周为十二月。
+现代文：在夏朝是十月，商朝是十一月，周朝是十二月。
+English: The summer morning is October, the business morning is November, and the Sunday morning is December.
+
+古文：张十八。
+现代文：结束于斗十一度。
+English: It ended in the eleventh hour.
+
+古文：翼十八。轸十七。南百一十二度。
+现代文：房五虚十心五尾十八箕十一危十七营室十六壁九昴十一毕十六觜二参九星七张十八翼十八轸十七
+English: The house has five elements, ten hearts, five tails, eighteen gates, eleven perils, seventeen quarters, sixteen walls, nine gates, eleven gates, sixteen gates, two staffs, nine stars, seven sheets, eighteen wings, eighteen gates, seventeen
+
+古文：九章岁为百七十一岁，而九道小终。
+现代文：九章岁是一百七十一年，出现九道小终。
+English: The nine chapters are one hundred and seventy-one years old, and nine minor endings appear.
+
+古文：九终千五百三十九岁而大终。
+现代文：九终一千五百三十九年后大终。
+English: Nine years and one thousand five hundred and thirty-nine years later, the end came.
+
+古文：三终而与元终。
+现代文：三终就与元终。
+English: The third ending is the same as the first ending.
+
+古文：进退于牵牛之前四度五分。
+现代文：在牵牛之前四度五分之间进退。
+English: Before the cow is led, it moves back and forth between four and five points.
+
+古文：九会。
+现代文：有九次交会。
+English: There are nine fairs.
+
+古文：阳以九终，故曰有九道。
+现代文：阳以九为终结，所以曰有九道。
+English: Yang ends with nine, so it is said that there are nine paths.
+
+古文：阴兼而成之，故月有十九道。
+现代文：阴兼有阳九和曰九道而成，所以月有十九道。
+English: Yin and yang are nine and nine, so the moon has nineteen.
+
+古文：阳名成功，故九会而终。
+现代文：阳的意思是成功，所以九次交会就结束。
+English: Yang means success, so the 9th Fair will be over.
+
+古文：四营而成易，故四岁中余一，四章而朔余一，为篇首，八十一章而终一统。
+现代文：四次环绕而成比较容易，所以四年中余下一，四章就有朔余一，作为篇首，八十一章就完成了一统。
+English: It is relatively easy to wrap around four times, so the remaining one in four years, four chapters will have a surplus, and as the first chapter, eighty-one chapters will be completed.
+
+古文：一，甲子元首。
+现代文：一，甲子元首。
+English: First, the head of the Koshi clan.
+
+古文：汉太初元年。
+现代文：汉朝太初元年。
+English: It was the first year of the first decade of the Han Dynasty.
+
+古文：十，辛酉。
+现代文：十，辛酉。
+English: Ten, Hsin-soo.
+
+古文：十九，己未。
+现代文：十九，己未。
+English: Nineteen, not yet.
+
+古文：二十八，丁巳。
+现代文：二十八，丁巳。
+English: Twenty-eight, Ding Si.
+
+古文：三十七，乙卯。
+现代文：三十七，乙卯。
+English: Thirty-seven, b flat.
+
+古文：四十六，壬子。
+现代文：四十六，壬子。
+English: Forty-six, my son.
+
+古文：五十五，庚戌。
+现代文：五十五，庚戌。
+English: 55 years old, Geng Yao.
+
+古文：六十四，戊申。
+现代文：六十四，戊申。
+English: Sixty-four, wushin.
+
+古文：七十三，丙午，中。
+现代文：七十三，丙午，中。
+English: Seventy-three, middle-aged, middle-aged.
+
+古文：甲辰二统。
+现代文：甲辰二统。
+English: The second generation of the Jia Chen dynasty.
+
+古文：辛丑。
+现代文：辛丑。
+English: It's disgusting.
+
+古文：己亥。
+现代文：己亥。
+English: It's my own fault.
+
+古文：丁酉。
+现代文：丁酉。
+English: Ding dong.
+
+古文：乙未。
+现代文：乙未。
+English: Bit Wei sighed.
+
+古文：壬辰。
+现代文：壬辰。
+English: Imjin.
+
+古文：庚寅。
+现代文：庚寅。
+English: Koin.
+
+古文：戊子。
+现代文：戊子。
+English: Boshi groaned.
+
+古文：丙戌，季。
+现代文：丙戌，季。
+English: Clapper, Sessions.
+
+古文：甲申三统。
+现代文：甲申三统。
+English: A-shin sanshin.
+
+古文：辛巳。
+现代文：辛巳。
+English: That's it.
+
+古文：乙卯。
+现代文：己卯。
+English: Etsu.
+
+古文：丁丑。
+现代文：丁丑。
+English: Ding ugly.
+
+古文：文王十二年。乙亥。
+现代文：文王四十二年：乙亥。
+English: In the 42nd year of King Wen, the Year of the Boar.
+
+古文：壬申。
+现代文：进玉二十六年。壬申。
+English: Jinshin.
+
+古文：庚午。
+现代文：庚午。
+English: Geng Wu.
+
+古文：戊辰。
+现代文：戊辰。
+English: Boshin.
+
+古文：丙寅，孟。
+现代文：丙寅，孟。
+English: C Yin, Meng.
+
+古文：愍二十二年。
+现代文：愍王二卜二年。
+English: In the year of the Dragon King, two years have passed.
+
+古文：二，癸卯。
+现代文：二，癸卯。
+English: Two, three, four.
+
+古文：十一，辛丑。
+现代文：十一，辛丑。
+English: On the 11th day of the 11th month.
+
+古文：二十，己亥。
+现代文：二十，己亥。
+English: Twenty years old, and it's winter.
+
+古文：二十九，丁酉。
+现代文：二十九，丁酉。
+English: Twenty-nine, ding dong.
+
+古文：三十八，甲午。
+现代文：三十八，甲午。
+English: Thirty-eight, one o'clock.
+
+古文：四十七，壬辰。
+现代文：四十七，壬辰。
+English: Forty-seven, Imjin.
+
+古文：五十六，庚寅。
+现代文：五十六，庚寅。
+English: Fifty-six, Goin.
+
+古文：六十五，戊子。
+现代文：六十五，戊子。
+English: Sixty-five years old.
+
+古文：七十四，乙酉，中。
+现代文：七十四，乙酉，中。
+English: 74, acetylene, medium.
+
+古文：癸未。
+现代文：癸未。
+English: It's not over.
+
+古文：辛巳。
+现代文：辛巳。
+English: That's it.
+
+古文：己卯。
+现代文：己卯。
+English: I'm sorry.
+
+古文：丁丑。
+现代文：丁丑。
+English: Ding ugly.
+
+古文：甲戌。
+现代文：甲戌。
+English: A suit of armor.
+
+古文：壬申。
+现代文：壬申。
+English: Jinshin.
+
+古文：庚午。
+现代文：庚午。
+English: Geng Wu.
+
+古文：戊辰。
+现代文：戊辰。
+English: Boshin.
+
+古文：乙丑，季。
+现代文：乙丑，季。
+English: Second Ugly, second season.
+
+古文：癸亥。
+现代文：癸亥。
+English: In the first year of the Shang Dynasty, in the city of Tairi.
+
+古文：辛酉。
+现代文：辛酉。
+English: That's it.
+
+古文：己未。
+现代文：己未。
+English: It's not over yet.
+
+古文：丁巳。
+现代文：丁巳。
+English: Ding Si said.
+
+古文：周公五年。甲寅。
+现代文：周公石年：甲寅。
+English: Zhou Gongshi's year of birth: in the year of the Rooster.
+
+古文：壬子。
+现代文：壬子。
+English: That's it.
+
+古文：庚戌。
+现代文：庚戌。
+English: Geng Yao.
+
+古文：戊申。元四年。
+现代文：戊申元四年。
+English: It was the fourth year of the Wushen era.
+
+古文：乙巳，孟。
+现代文：乙巳，孟。
+English: Here we go, Meng.
+
+古文：三，癸未。
+现代文：三，癸未。
+English: Three, three, three.
+
+古文：十二，辛巳。
+现代文：十二，辛巳。
+English: Twelve, it's getting late.
+
+古文：二十一，己卯。
+现代文：二十一，己卯。
+English: Twenty-one, my ass.
+
+古文：三十，丙子。
+现代文：三十，丙子。
+English: Thirty, middle-aged.
+
+古文：三十九，甲戌。
+现代文：三十九，甲戌。
+English: Thirty-nine, armor up.
+
+古文：四十八，壬申。
+现代文：四十八，壬申。
+English: Forty-eight, Jinshin.
+
+古文：五十七，庚午。
+现代文：五十七，庚子。
+English: Fifty-seven, Geng Zi.
+
+古文：六十六，丁卯。
+现代文：六十六，丁卯。
+English: Sixty-six, Ding Wu.
+
+古文：七十五，乙丑，中。
+现代文：七十五，乙丑，中。
+English: Seventy-five, second ugly, middle.
+
+古文：癸亥。
+现代文：癸亥。
+English: In the first year of the Shang Dynasty, in the city of Tairi.
+
+古文：辛酉。
+现代文：辛酉。
+English: That's it.
+
+古文：己未。
+现代文：己未。
+English: It's not over yet.
+
+古文：丙辰。
+现代文：丙辰。
+English: B Chen said.
+
+古文：甲寅。
+现代文：甲寅。
+English: "Kotora."
+
+古文：壬子。
+现代文：壬子。
+English: That's it.
+
+古文：庚戌。
+现代文：庚戌。
+English: Geng Yao.
+
+古文：丁未。
+现代文：丁未。
+English: Ding Wei said.
+
+古文：乙巳，季。
+现代文：乙巳，季。
+English: Here we go, quarter time.
+
+古文：癸卯。
+现代文：癸卯。
+English: That's it.
+
+古文：辛丑。
+现代文：辛丑。
+English: It's disgusting.
+
+古文：己亥。
+现代文：己亥。
+English: It's my own fault.
+
+古文：丙申。
+现代文：丙申。
+English: Bishin said.
+
+古文：甲午。
+现代文：甲午。
+English: It's the middle of the afternoon.
+
+古文：壬辰。
+现代文：壬辰。
+English: Imjin.
+
+古文：庚寅。
+现代文：庚寅。
+English: Koin.
+
+古文：成十二年。
+现代文：成王十二年。
+English: Twelve years have passed since he became king.
+
+古文：丁亥。
+现代文：丁亥。
+English: Dinghai sighed.
+
+古文：乙酉，孟。
+现代文：乙酉，孟。
+English: Acetylene, Meng.
+
+古文：四，癸亥。
+现代文：四，癸亥。
+English: On the fourth day, the boar is boiled.
+
+古文：十三，辛酉。
+现代文：初元二年。十三，辛酉。
+English: In the second year of the first millennium, the thirteenth year of the Heian period.
+
+古文：二十二，戊午。
+现代文：二十二，戊午。
+English: Twenty-two o'clock in the afternoon.
+
+古文：三十一，丙辰。
+现代文：三十一，丙辰。
+English: On the 31st, the moon will be full.
+
+古文：四十，甲寅。
+现代文：四十，甲寅。
+English: Forty, Koin.
+
+古文：四十九，壬子。
+现代文：四十九，壬子。
+English: Forty-nine, my son.
+
+古文：五十八，己酉。
+现代文：五十八，己酉。
+English: Fifty-eight, he thought.
+
+古文：六十七，丁未。
+现代文：六十七，丁未。
+English: Sixty-seven, Ding Wei.
+
+古文：七十六，乙巳，中。
+现代文：七十六，乙巳，中。
+English: Seventy-six, ace, middle.
+
+古文：癸卯。
+现代文：癸卯。
+English: That's it.
+
+古文：辛丑。
+现代文：辛丑。
+English: It's disgusting.
+
+古文：戊戌。
+现代文：戊戌。
+English: It's over.
+
+古文：丙申。
+现代文：丙申。
+English: Bishin said.
+
+古文：甲午。
+现代文：甲午。
+English: It's the middle of the afternoon.
+
+古文：壬辰。
+现代文：壬辰。
+English: Imjin.
+
+古文：己丑。
+现代文：己丑。
+English: You're ugly.
+
+古文：丁亥。
+现代文：丁亥。
+English: Dinghai sighed.
+
+古文：乙酉，季。
+现代文：乙酉，季。
+English: Acetylene, coke.
+
+古文：癸未。
+现代文：癸未。
+English: It's not over.
+
+古文：辛巳。
+现代文：辛巳。
+English: That's it.
+
+古文：戊寅。
+现代文：戊寅。
+English: "Wu Yin."
+
+古文：丙子。
+现代文：丙子。
+English: Son of a bitch.
+
+古文：甲戌。
+现代文：甲戌。
+English: A suit of armor.
+
+古文：壬申。
+现代文：壬申。
+English: Jinshin.
+
+古文：己巳。
+现代文：基王三十八年。己巳。
+English: That's it.
+
+古文：丁卯。
+现代文：丁卯。
+English: Dingwu said.
+
+古文：乙丑，孟。
+现代文：乙丑，孟。
+English: Second Ugly, Meng.
+
+古文：五，癸卯。
+现代文：五，癸卯。
+English: Five, shabu shabu.
+
+古文：河平元年。
+现代文：河平元年。
+English: It is the first year of the Heian period.
+
+古文：十四，庚子。
+现代文：十四，庚子。
+English: 14, Geng Zi.
+
+古文：二十三，戊戌。
+现代文：二十三，戊戌。
+English: Twenty-three, gong gong.
+
+古文：三十二，丙申。
+现代文：三十二，丙申。
+English: Thirty-two, xin xin.
+
+古文：四十一，甲午。
+现代文：四十一，甲午。
+English: Forty-one, one o'clock.
+
+古文：五十，辛卯。
+现代文：五十，辛卯。
+English: Fifty is the new forty.
+
+古文：五十九，己丑。
+现代文：五十九，己丑。
+English: Fifty-nine and ugly.
+
+古文：六十八，丁亥。
+现代文：六十八，丁亥。
+English: Sixty-eight, Dinghai.
+
+古文：七十七，乙酉，中。
+现代文：七十七，乙酉，中。
+English: Seventy-seven, acetylene, medium.
+
+古文：癸未。
+现代文：癸未。
+English: It's not over.
+
+古文：庚辰。
+现代文：庚辰。
+English: Geng Chen.
+
+古文：戊寅。
+现代文：戊寅。
+English: "Wu Yin."
+
+古文：丙子。
+现代文：丙子。
+English: Son of a bitch.
+
+古文：甲戌。
+现代文：甲戌。
+English: A suit of armor.
+
+古文：辛未。
+现代文：辛未。
+English: Xin Wei sighed.
+
+古文：己巳。
+现代文：己巳。
+English: That's it.
+
+古文：丁卯。
+现代文：丁卯。
+English: Dingwu said.
+
+古文：乙丑，季。
+现代文：乙丑，季。
+English: Second Ugly, second season.
+
+古文：癸亥。
+现代文：商朝太里元年。癸亥。
+English: In the first year of the Shang Dynasty, in the city of Tairi.
+
+古文：庚申。
+现代文：庚申。
+English: Koshin.
+
+古文：戊午。
+现代文：戊午。
+English: It was mid-afternoon.
+
+古文：丙辰。
+现代文：丙辰。
+English: B Chen said.
+
+古文：甲寅。
+现代文：甲寅。
+English: "Kotora."
+
+古文：献十五年。
+现代文：献王十五年。
+English: Fifteen years of dedication to the king.
+
+古文：商太甲元年。
+现代文：辛亥。己酉。丁未。
+English: Xinhai. Jiqian. Dingwei.
+
+古文：楚元三年。
+现代文：乙巳，孟。楚元三年。
+English: Yes, Meng. Chuyuan three years.
+
+古文：六，壬午。
+现代文：六，壬午。
+English: Six o'clock in the morning.
+
+古文：十五，庚辰。
+现代文：十五，庚辰。
+English: 15, Geng Chen.
+
+古文：二十四，戊寅。
+现代文：二十四，戊寅。
+English: Twenty-four, Wu Yin.
+
+古文：三十三，丙子。
+现代文：三十三，丙子。
+English: Thirty-three, son of a bitch.
+
+古文：四十二，癸酉。
+现代文：四十二，癸酉。
+English: Forty-two, sir.
+
+古文：五十一，辛未。
+现代文：五十一，辛未。
+English: Fifty-one, it's getting late.
+
+古文：六十，己巳。
+现代文：六十，己巳。
+English: I'm sixty years old.
+
+古文：六十九，丁卯。
+现代文：六十九，丁卯。
+English: Sixty-nine, Dingwu.
+
+古文：七十八，甲子，中。
+现代文：七十八，甲子，中。
+English: Seventy-eight, female, middle-aged.
+
+古文：壬戌。
+现代文：壬戌。
+English: That's it.
+
+古文：庚申。
+现代文：庚申。
+English: Koshin.
+
+古文：戊午。
+现代文：戊午。
+English: It was mid-afternoon.
+
+古文：丙辰。
+现代文：丙辰。
+English: B Chen said.
+
+古文：癸丑。
+现代文：癸丑。
+English: It's ugly.
+
+古文：辛亥。
+现代文：辛亥。
+English: Xinhai.
+
+古文：巳酉。
+现代文：己酉。
+English: I'm so sorry.
+
+古文：丁未。
+现代文：丁未。
+English: Ding Wei said.
+
+古文：甲辰，季。
+现代文：甲辰，季。
+English: Jia Chen, Ji.
+
+古文：壬寅。
+现代文：壬寅。
+English: Renin.
+
+古文：庚子。
+现代文：庚子。
+English: Geng Zi.
+
+古文：戊戌。
+现代文：戊戌。
+English: It's over.
+
+古文：丙申。
+现代文：丙申。
+English: Bishin said.
+
+古文：炀二十四年。
+现代文：炀公二十四年。
+English: It has been twenty-four years since the death of Shigong.
+
+古文：癸巳。
+现代文：癸巳。
+English: That's it.
+
+古文：辛卯。
+现代文：辛卯。
+English: Shin woo.
+
+古文：己丑。
+现代文：己丑。
+English: You're ugly.
+
+古文：丁亥。
+现代文：丁亥。
+English: Dinghai sighed.
+
+古文：康四年。
+现代文：虚王四年。
+English: Four years of false kings.
+
+古文：甲申，孟。
+现代文：甲申，孟。
+English: Ka-shin, Meng.
+
+古文：七，壬戌。
+现代文：七，壬戌。
+English: Seven, seven, seven.
+
+古文：始建国三年。
+现代文：始建国三年。
+English: It has been three years since the founding of the country.
+
+古文：十六，庚申。
+现代文：十六，庚申。
+English: 16, Koshin.
+
+古文：二十五，戊午。
+现代文：二十五，戊午。
+English: Twenty-five, three o'clock.
+
+古文：三十四，乙卯。
+现代文：三十四，乙卯。
+English: Thirty-four, B flat.
+
+古文：四十三，癸丑。
+现代文：四十三，癸丑。
+English: Forty-three and ugly.
+
+古文：五十二，辛亥。
+现代文：五十二，辛亥。
+English: Fifty-two, Xinhai.
+
+古文：六十一，己酉。
+现代文：六十一，己酉。
+English: Sixty-one years old.
+
+古文：七十，丙午。
+现代文：七十，丙午。
+English: Seventy, mid-afternoon.
+
+古文：七十九，甲辰，中。
+现代文：七十九，甲辰，中。
+English: Seventy-nine, Jia Chen, middle.
+
+古文：壬寅。
+现代文：壬寅。
+English: Renin.
+
+古文：庚子。
+现代文：庚子。
+English: Geng Zi.
+
+古文：戊戌。
+现代文：戊戌。
+English: It's over.
+
+古文：乙未。
+现代文：乙未。
+English: Bit Wei sighed.
+
+古文：癸己。
+现代文：癸巳。
+English: That's it.
+
+古文：辛卯。
+现代文：辛卯。
+English: Shin woo.
+
+古文：己丑。
+现代文：己丑。
+English: You're ugly.
+
+古文：丙戌。
+现代文：丙戌。
+English: It's made of plastic.
+
+古文：甲申，季。
+现代文：甲申，季。
+English: Ka-shin, season.
+
+古文：壬午。
+现代文：壬午。
+English: In the morning.
+
+古文：庚辰。
+现代文：庚辰。
+English: Geng Chen.
+
+古文：戌寅。
+现代文：戊寅。
+English: "Wu Yin."
+
+古文：乙亥。
+现代文：乙亥。
+English: The second year of the boar.
+
+古文：癸酉。
+现代文：癸酉。
+English: That's it.
+
+古文：辛未。
+现代文：辛未。
+English: Xin Wei sighed.
+
+古文：己巳。
+现代文：己巳。
+English: That's it.
+
+古文：定七年。
+现代文：定公七年。
+English: Seven years to be exact.
+
+古文：丙寅。
+现代文：丙寅。
+English: Cui Yin said.
+
+古文：甲子，孟。
+现代文：甲子，孟。
+English: Ka Zi, Meng Zong.
+
+古文：八，壬寅。
+现代文：八，壬寅。
+English: Eight, Renin.
+
+古文：十七，庚子。
+现代文：十七，庚子。
+English: Seventeen, Geng Zi.
+
+古文：二十六，丁酉。
+现代文：二十六，丁酉。
+English: Twenty-six, Ding Yao.
+
+古文：三十五，乙未。
+现代文：三十五，乙未。
+English: Thirty-five years old.
+
+古文：四十四，癸巳。
+现代文：四十四，癸巳。
+English: Forty-four, here we come.
+
+古文：五十三，辛卯。
+现代文：五十三，辛卯。
+English: Fifty-three, Xinwu.
+
+古文：六十二，戊子。
+现代文：六卜二，戊子。
+English: Six, two, three.
+
+古文：七十一，丙戌。
+现代文：七十一，丙戌。
+English: Seventy-one years old.
+
+古文：八十，甲申，中。
+现代文：八十，甲申，中。
+English: Eighty, Koshin, middle.
+
+古文：壬午。
+现代文：壬午。
+English: In the morning.
+
+古文：庚辰。
+现代文：庚辰。
+English: Geng Chen.
+
+古文：丁丑。
+现代文：丁丑。
+English: Ding ugly.
+
+古文：乙亥。
+现代文：乙亥。
+English: The second year of the boar.
+
+古文：癸酉。
+现代文：癸酉。
+English: That's it.
+
+古文：辛未。
+现代文：辛未。
+English: Xin Wei sighed.
+
+古文：戊辰。
+现代文：戊辰。
+English: Boshin.
+
+古文：丙寅。
+现代文：丙寅。
+English: Cui Yin said.
+
+古文：甲子，季。
+现代文：甲子，季。
+English: Koshi, season.
+
+古文：壬戌。
+现代文：壬戌。
+English: That's it.
+
+古文：庚申。
+现代文：庚申。
+English: Koshin.
+
+古文：丁巳。
+现代文：丁巳。
+English: Ding Si said.
+
+古文：乙卯。
+现代文：乙卯。
+English: Etsu.
+
+古文：癸丑。
+现代文：癸丑。
+English: It's ugly.
+
+古文：辛亥。
+现代文：辛亥。
+English: Xinhai.
+
+古文：僖五年。
+现代文：僖公五年。
+English: It's been five years.
+
+古文：戊申。
+现代文：戊申。
+English: Wushin.
+
+古文：丙午。
+现代文：丙午。
+English: It's the middle of the afternoon.
+
+古文：甲辰，孟。
+现代文：甲辰，孟。
+English: Jiachen, Meng.
+
+古文：九，壬午。
+现代文：九，壬午。
+English: Nine, three o'clock.
+
+古文：十八，己卯。
+现代文：十八，己卯。
+English: Eighteen, my ass.
+
+古文：二十七，丁丑。
+现代文：二十七，丁丑。
+English: Twenty-seven, Ding Chou.
+
+古文：三十六，乙亥。
+现代文：三十六，乙亥。
+English: Thirty-six, the second year of the boar.
+
+古文：四十五，癸酉。
+现代文：四十五，癸酉。
+English: Forty-five, sir.
+
+古文：五十四，庚午。
+现代文：五十四，庚午。
+English: Fifty-four, late afternoon.
+
+古文：六十三，戊辰。
+现代文：六十三，戊辰。
+English: Sixty-three, Boshin.
+
+古文：七十二，丙寅。
+现代文：七十二，丙寅。
+English: Seventy-two, He Yin.
+
+古文：八十一，甲子，中。
+现代文：八十一，甲子，中。
+English: Eighty-one years old, middle-aged.
+
+古文：壬戌。
+现代文：壬戌。
+English: That's it.
+
+古文：己未。
+现代文：己未。
+English: It's not over yet.
+
+古文：丁巳。
+现代文：丁巳。
+English: Ding Si said.
+
+古文：乙卯。
+现代文：乙卯。
+English: Etsu.
+
+古文：癸丑。
+现代文：癸丑。
+English: It's ugly.
+
+古文：庚戌。
+现代文：庚戌。
+English: Geng Yao.
+
+古文：戊申。
+现代文：戊申。
+English: Wushin.
+
+古文：丙午。
+现代文：丙午。
+English: It's the middle of the afternoon.
+
+古文：甲辰，季。
+现代文：甲辰，季。
+English: Jia Chen, Ji.
+
+古文：壬寅。
+现代文：壬寅。
+English: Renin.
+
+古文：己亥。
+现代文：己亥。
+English: It's my own fault.
+
+古文：丁酉。
+现代文：丁酉。
+English: Ding dong.
+
+古文：乙未。
+现代文：乙未。
+English: Bit Wei sighed.
+
+古文：癸巳。
+现代文：癸巳。
+English: That's it.
+
+古文：懿九年。
+现代文：懿公九年。
+English: It's been nine years since I've been king.
+
+古文：庚寅。
+现代文：庚寅。
+English: Koin.
+
+古文：戊子。
+现代文：戊子。
+English: Boshi groaned.
+
+古文：丙戌。
+现代文：丙戌。
+English: It's made of plastic.
+
+古文：甲申，孟。
+现代文：甲申，孟。
+English: Ka-shin, Meng.
+
+古文：元朔六年。
+现代文：翅六年。
+English: Wing six years.
+
+古文：推章首朔旦冬至日，置大余三十九，小余六十一，数除如法，各从其统首起。
+现代文：推算章首朔旦冬至的日子：用大余三十九，小余六十一，按规则数除，各自从自己统首开始。
+English: The days of the winter solstice at the beginning of the calculation chapter: divide by the number of rules, starting with your own head, using the larger remainder of thirty-nine and the smaller of sixty-one.
+
+古文：求其后章，当加大余三十九，小余六十一，各尽其八十一章。
+现代文：求它后章，应加上大余三十九，小余六十一，各自完成自己的八十一章。
+English: If you ask for the latter chapter, you should add the remaining thirty-nine chapters and the remaining sixty-one chapters, respectively, to complete your eighty-one chapters.
+
+古文：推篇，大余亦如之，小余加一。
+现代文：推算篇首，大余仍是三十九，小余加上一。
+English: At the beginning of the calculation, the big surplus is still 39, and the small surplus is plus one.
+
+古文：求周至，加大余五十九，小余二十一。
+现代文：求周至，加上大余五十九，小余二十一。
+English: Ask Zhou Zi, add the remaining fifty-nine, and the remaining twenty-one.
+
+古文：世经《春秋》昭公十七年 郯子来朝 ，《传》曰：昭子问少昊氏鸟名何故，对曰： 吾祖也，我知之矣。
+现代文：《春秋》昭公十七年记载 郯子来朝见 ，传说昭子问少吴氏乌名是什么缘故，少吴氏回答道： 乌名来自我的祖先，我知道这件事。
+English: "Spring and Autumn" recorded in the seventeenth year of King Zhaogong's reign: Zizi came to see the emperor. Legend has it that when Zhaogong asked Shao Wu about the origin of the Wu name, Shao Wu replied, "The Wu name comes from my ancestors. I know about it."
+
+古文：昔者，黄帝氏以云纪，故为云师而云名；炎帝氏以为纪，故为火师而火名；共工氏以水纪，故为水师而水名；太昊氏以龙纪，故为龙师而龙名。
+现代文：以前，黄帝部落以云记事，所以百宫师长都以云为名号；炎帝部落以火记事，所以百官师长都以火为名号；共工部落以水记事，所以百官师长都以水为名号；太吴部落以龙记事，所以百官师长都以龙作为名号。
+English: In the past, the Yellow Emperor Tribe used the cloud to record things, so the masters of the hundred palaces all took the cloud as their name; the Burning Emperor Tribe used the fire to record things, so the masters of the hundred officials all took the fire as their name; the Cooperative Tribe used the water to record things, so the masters of the hundred officials all took the water as their name; the Taiwu Tribe used the dragon to record things, so the masters of the hundred officials all took the dragon as their name.
+
+古文：我高祖少昊挚之立也，凤鸟适至，故纪于鸟，为鸟师而鸟名。 
+现代文：我的高祖少吴挚刚建国时，凤鸟正好飞来，所以就以鸟记事，百官师长都以鸟为名号。 
+English: When my great-great-grandfather, the younger Wu Jing, founded the country, the phoenix bird just happened to fly in, so he used the bird to record things. Hundreds of officials and teachers all used the bird as their name.
+
+古文：言郯子据少昊受黄帝，黄帝受炎帝，炎帝受共工，共工受太昊，故先言黄帝，上及太昊。
+现代文：是说郯子根据少吴从黄帝那裹接受帝位，黄帝从炎帝那裹接受帝位，炎帝从共工那裹接受帝位，共工从太吴那裹接受帝位，所以先说黄帝，往前一直到太吴。
+English: That is to say, according to Shao Wu, Zizi accepted the imperial throne from the Yellow Emperor, the Yellow Emperor accepted the imperial throne from the Yan Emperor, the Yan Emperor accepted the imperial throne from the Co-worker, and the Co-worker accepted the imperial throne from the Taowu, so he said the Yellow Emperor first and went all the way to the Taowu.
+
+古文：稽之于《易》，砲牺、神农、黄帝相继之世可知。
+现代文：在《易》中考察，就可以知道炮牺、神农、黄帝相互继承的时代了。
+English: An examination of "Yi" will show that the era of cannon sacrifice, Shennong, and the Yellow Emperor succeeded each other.
+
+古文：太昊帝《易》曰： 砲牺氏之王天下也。 
+现代文：太吴帝，《易》上说： 炮牺氏统治天下。 
+English: Emperor Wu, "Yi" said: Cannons and warriors rule the world.
+
+古文：言砲牺继天而王，为百王先，首德始于木，故为帝太昊。
+现代文：意思是炮牺继承天命而称王，作为百王的首领，第一个四季中的旺气开始于木，所以称为帝太吴。
+English: As the leader of a hundred kings, the first four seasons of prosperity began with wood, so it was called Emperor Wu.
+
+古文：作罔罟以田渔，取牺牲，故天下号曰砲牺氏。《祭典》曰： 共工氏伯九域。 
+现代文：他制作网来打猎捕鱼，选取供祭祀用的纯色全体牲畜，所以天下都称他为炮牺氏。《祭典》说： 共工氏称霸九州。 
+English: He made nets to hunt and catch fish, and selected all the pure-colored livestock for sacrifice, so the whole world called him the Cannon Sacrifice Clan. "Celebration" said: The Co-worker Clan dominated Kyushu.
+
+古文：言虽有水德，在火、木之间，其非序也。
+现代文：是说即使有水德，在火木之间，不是他的位置。
+English: That is to say, even if there is water virtue, between the firewood is not his place.
+
+古文：任知刑以强，故伯而不王。
+现代文：凭藉谋略和刑杀而强大，所以说是称霸而不是称王。
+English: He became powerful by means of stratagem and assassination, so it is said that he sought hegemony rather than kingship.
+
+古文：秦以水德，在周、汉木火之间。
+现代文：秦以水德，处在周朝、汉朝木火之间。
+English: The Qin Dynasty was water-oriented and stood between the Zhou Dynasty and the Han Dynasty.
+
+古文：周人迁其行序，故《易》不载。
+现代文：周人变更了他们行动的次序，所以《易》上不作记载。
+English: Zhou people changed the order of their actions, so they were not recorded in Yi.
+
+古文：炎帝《易》曰： 砲牺氏没，神农氏作。 
+现代文：炎帝，《易》上说： 炮牺氏去世后，神农氏开始兴起。 
+English: Yan Di, "Yi" said: After the death of the cannon victims, the Shennong clan began to rise.
+
+古文：言共工伯而不王，虽有水德，非其序也。
+现代文：是说共工称霸后而不称王，即使有水德，也不是他的位置。
+English: That is to say, it is not his place to be a king, even if he has the virtue of water.
+
+古文：以火承木，故为炎帝。
+现代文：以火继承木，所以是炎帝。
+English: As fire succeeds wood, so is the Emperor of Flame.
+
+古文：教民耕农，故天下号曰神农氏。
+现代文：教百姓耕作，所以天下称为神农氏。
+English: He taught the people to farm, which is why the world knows him as the Shennong.
+
+古文：黄帝《易》曰： 神农氏没，黄帝氏作。 
+现代文：黄帝，《易》上说： 神农氏去世后，黄帝氏兴起。 
+English: The Yellow Emperor, "Yi" said: After the death of Shennong, the Yellow Emperor arose.
+
+古文：火生土，故为土德。
+现代文：火生土，所以是上德。
+English: Fire begets earth, hence Shangde.
+
+古文：与炎帝之后战于坂泉，遂王天下。
+现代文：他与炎帝的后代在阪泉开战，于是统治了天下。
+English: He went to war with the descendants of Emperor Yan in Hanquan, and then ruled the world.
+
+古文：始垂衣裳，有轩、冕之服，故天下号曰轩辕氏。
+现代文：开始无为而治，有轩车和冕服，所以天下称为轩辕氏。
+English: At the beginning, he ruled without doing anything. He had a carriage and a coronation robe. That's why the world called him Xuan Xuan.
+
+古文：少昊帝《孝德》曰少昊曰清。
+现代文：少吴帝，《考德》上说少昊叫清。
+English: Shao Wu Di, "Cao De" said that Shao Hao called for clarity.
+
+古文：清者，黄帝之子清阳也，是其子孙名挚立。
+现代文：清，是黄帝的儿子清阳，这是他的子孙中名叫挚的登上了帝位。
+English: Qing, is the son of the Yellow Emperor Qingyang, this is the name of one of his descendants, Sincerely ascended to the throne.
+
+古文：土生金，故为金德，天下号曰金天氏。
+现代文：土生金，所以是金德，天下称为金天氏。
+English: Native gold, so it is Jin De, the world is known as the Jin Tian clan.
+
+古文：周迁其乐，故《易》不载，序于行。
+现代文：周代变更了他的乐，所以《易》上没有记载，衹记在行动中了。
+English: Zhou Dynasty changed his music, so "Yi" is not recorded, but it is recorded in action.
+
+古文：颛顼帝《春秋外传》曰：少昊之衰，九黎乱德，颛顼受之，乃命重黎。
+现代文：颛顼帝，《春秋外传》说，少吴衰老后，九黎背离德行，颛顼就接受了帝位，于是就任命重和黎。
+English: Emperor Shun, "Spring and Autumn Foreign Biography" said that after Shao Wu became senile, Jiu Li deviated from virtue, Shun accepted the throne, and then appointed Chonghe Li.
+
+古文：苍林昌意之子也。
+现代文：他们是苍林昌意的儿子。
+English: They are the sons of Changyi Sorin.
+
+古文：金生水，故为水德。
+现代文：金生水，所以是水德。
+English: Gold produces water, so water is virtue.
+
+古文：天下号曰高阳氏。
+现代文：天下称为高阳氏。
+English: They are known as the Goyang clan.
+
+古文：周迁其乐，故《易》不载，序于行。
+现代文：周代变更了他的乐，所以《易》上不作记载，衹记在行动中。
+English: Zhou Dynasty changed his music, so "Yi" is not recorded, but it is recorded in action.
+
+古文：帝喾《春秋外传》曰：颛顼之所建，帝喾受之。
+现代文：帝学，《春秋外传》说，颛项所建立的，帝誉都接受了。
+English: According to the "Spring and Autumn Foreign Biography" of the Imperial Academy of Sciences, all of the imperial honors were accepted by the Emperor.
+
+古文：清阳玄嚣之孙也。
+现代文：帝是清阳玄嚣的孙子。
+English: Emperor Qian is the grandson of Qingyang Xuanran.
+
+古文：水生木，故为木德。
+现代文：水生木，所以是木德。
+English: Aquatic wood, so it is wood virtue.
+
+古文：天下号曰高辛氏。
+现代文：天下称为高辛氏。
+English: They are known as the Gosin clan.
+
+古文：帝挚继之，不知世数。
+现代文：帝挚继承他的帝位，不知年代数。
+English: The emperor sincerely succeeds to his imperial throne for an unknown number of years.
+
+古文：周迁其乐，故《易》不载。
+现代文：周代变更了他的乐。
+English: Zhou changed his tune.
+
+古文：周人禘之。
+现代文：所以《易》上没有记载。周人为他祭祀。
+English: Therefore, there is no record in Yi. Zhou people worshiped him.
+
+古文：唐帝《帝系》曰：帝喾四妃，陈丰生帝尧，封于唐。
+现代文：唐帝，《帝系》上说，帝罂有四个妃子，陈丰生了帝尧，被封在唐。
+English: Tang Emperor, "Imperial Lineage" said that Emperor Qian had four concubines, Chen Feng gave birth to Emperor Qian and was sealed in Tang.
+
+古文：盖高辛氏衰，天下归之。
+现代文：当高辛氏衰弱后，天下就归从了帝尧。
+English: When Gao Xin became weak, the whole country followed the emperor.
+
+古文：木生火，故为火德，天下号曰陶唐氏。
+现代文：木生火，所以是火德，天下称为陶唐氏。
+English: Wood makes fire, so it is fire virtue, the world is known as the Tao Tang Dynasty.
+
+古文：让天下于虞，使子朱处于丹渊为诸侯。
+现代文：后来把天下禅让给虞，让儿子朱到丹渊为诸侯。
+English: Later, he ceded the world of Zen to Yu, and allowed his son Zhu to become the vassal of Dan Yuan.
+
+古文：即位七十载。
+现代文：唐帝在位七十年。
+English: Emperor Tang reigned for seventy years.
+
+古文：虞帝《帝系》曰：颛顼生穷蝉，五世而生瞽叟，瞽叟生帝舜，处虞之妫汭，尧嬗以天下。
+现代文：虞帝，《帝系》上说，颛顼生穷蝉，过了五代就生瞽叟，瞽叟生了帝舜，把虞安置在嫣水弯曲的地方，尧禅让了天下。
+English: Yu Di, "Imperial line," said that the twins gave birth to poor cicadas, and after five generations they gave birth to cicadas, and the twins gave birth to imperial cicadas, and placed the cicadas in the crooked place of the floodplain, and gave the world to Yu Zen.
+
+古文：火生土，故为土德。天下号曰有虞氏。
+现代文：火生土，所以是土德，天下称为有虞氏。
+English: Fire begets earth, so it is a local virtue, and the whole world is called the Yu clan.
+
+古文：让天下于禹，使子商均为诸侯。
+现代文：他把天下让给丁禹，让自己的儿子商均为诸侯。
+English: He ceded the whole country to Ding Yu and allowed his sons, the merchants, to become princes.
+
+古文：即位五十载。
+现代文：虞帝在位五十年。
+English: Emperor Yu reigned for fifty years.
+
+古文：伯禹《帝系》曰：颛顼五世而生鲧，鲧生禹，虞舜嬗以天下。
+现代文：伯禹，《帝系》上说，颛顼的五代孙子生下鲧，鲧又生下禹，虞舜惮让了天下。
+English: Bo Yu, "Imperial line," said that the five-generation grandchildren of Yao gave birth to Yao, Yao gave birth to Yu, and Yu Yu gave birth to the world.
+
+古文：土生金，故为金德。
+现代文：土生金，所以是金德。
+English: Native gold, so it is kind.
+
+古文：天下号曰夏后氏。
+现代文：天下称为夏后氏。
+English: They are known as the Natsugo clan.
+
+古文：继世十七王，四百三十二岁。
+现代文：继承他的有十匕个王，共四百三十二年。
+English: And he was succeeded by ten kings, who reigned four hundred and thirty-two years.
+
+古文：成汤《书经·汤誓》：汤伐夏桀。
+现代文：成汤。《书经。汤誓》记载商汤讨伐夏桀。
+English: "Shu Jing. Tang Xie" records that Shang Tang fought against Xia Yao.
+
+古文：金生水，故为水德。
+现代文：金生水，所以是水德。
+English: Gold produces water, so water is virtue.
+
+古文：天下号曰商，后曰殷。
+现代文：天下称为商，后来是殷：
+English: He was called Shang, and later Yin:
+
+古文：《三统》，上元至伐桀之岁，十四万一千四百八十岁，岁在大火房五度，故《传》曰： 大火，阏伯之星也，实纪商人。 
+现代文：《三统历》说，上元到讨伐桀这一年，是十四万一千四百八十年，逭年在大火星和房星五度，所以传说： 大火星，是板伯的星，实际上用来记商人。 
+English: The "Three Kingdoms Calendar" says that the year from Shangyuan to the Battle of Jiuquan is 141,480 years, and the year of Jiuquan is five times that of the Great Mars and the House Star, so the legend: the Great Mars is the star of Pan Bo, and is actually used to remember merchants.
+
+古文：后为成汤，方即世崩没之时，为天子用事十三年矣。
+现代文：后来是成汤，正当他去世的时候，以天子的礼节祭祀他十三年了。
+English: Later it was Cheng Tang, and at the time of his death, he had been worshipped with the etiquette of a heavenly son for thirteen years.
+
+古文：商十二月乙丑朔旦冬至，故《书序》曰： 成汤既没，太甲元年，使伊尹作《伊训》。 
+现代文：商十二月乙丑朔旦冬至，所以《书序》上说： 成汤去世后，太甲元年，命伊尹写了《伊训》。 
+English: The winter solstice falls on the second day of the second month of the 12th lunar month, so the "Preface" says: After the death of Cheng Tang, in the first year of the Taiga, Yi Yin was ordered to write "Yishun."
+
+古文：《伊训》篇曰： 惟太甲元年十有二月乙丑朔，伊尹祀于先王，诞资有牧方明。 
+现代文：《伊训》篇说： 太甲元年十二月乙丑朔，伊尹祭祀先王，诞资有牧方明。 
+English: The "I Ching" says: In December of the first year of Taiga, Yi Yin made a sacrifice to the ancestor king, and the birth capital was Mokfangming.
+
+古文：言虽有成汤、太丁、外丙之服，以冬至越祀先王于方明以配上帝，是朔旦冬至之岁也。
+现代文：是说即使有成汤、太丁、外丙的职务，因为冬至要越过遮蔽车身的竹席在神明之像前祭祀先王来拊祭上天，这是朔旦冬至之年。
+English: That is to say, even if there are the posts of Cheng Tang, Taiding, and Waigong, because the winter solstice has to go over the bamboo seat that covers the body of the car in front of the image of the gods to sacrifice the first king to the god, this is the year of the new moon winter solstice.
+
+古文：后九十五岁，商十二月甲申朔旦冬至，亡余分，是为孟统。
+现代文：过九十五年后，商十二月甲申朔旦冬至，没有余分，造就是孟统。
+English: After ninety-five years, when the winter solstice comes, there is no extra, and it is Meng Tong.
+
+古文：自伐桀至武王伐纣，六百二十九岁，故《传》曰殷 载祀六百 。
+现代文：从成汤讨伐桀到武王讨伐纣，经过了六百二十九年，所以传说殷 记载祭祀有六百 。
+English: It took 629 years from the Battle of Chengtang to the Battle of Wuwang, so legend has it that there were 600 recorded sacrifices.
+
+古文：《殷历》曰：当成汤方即世用事十三年，十一月甲子朔旦冬至，终六府首。
+现代文：《殷历》说，当成汤刚去世祭祀了十三年，十一月甲子朔旦冬至，到六首时止。
+English: "Yin Li" said that when Cheng Tang died, it had been thirteen years since the sacrifice, and the winter solstice was in November, and it ended at the time of the six daggers.
+
+古文：当周公五年，则为距伐桀四百五十八岁，少百七十一岁，不盈六百二十九。
+现代文：到周公五年时，距讨伐桀有四百五十八年，少了一百七十一年，不满六百二十九。
+English: By Zhou Gong's fifth year, there had been 458 years since the crackdown, 171 years less, and 629 years less.
+
+古文：又以夏时乙丑为甲子，计其年乃孟统后五章，癸亥朔旦冬至也。
+现代文：又按夏的时间乙丑是甲子，计算它的年代则是孟统后五章，癸亥朔旦冬至。
+English: According to the summer time, Bixi is the year of the horse, and according to the calculation of its age, it is the five chapters after the reign of King Mencius and the winter solstice.
+
+古文：以为甲子府首，皆非是。
+现代文：把它作为甲子首，都不是。
+English: If you think of it as a sword, it's not.
+
+古文：凡殷世继嗣三十一王，六百二十九岁。
+现代文：殷代继承的确三十一个王，共六百二十九年。
+English: Indeed, the Yin Dynasty succeeded thirty-one kings, a total of 629 years.
+
+古文：《四分》，上元至伐桀十三万二千一百一十三岁，其八十八纪，甲子府首，入伐桀后百二十七岁。
+现代文：《四分历》说，上元到讨伐基有十三万二千一百一十三年，其中八十八纪，甲子首，归入讨伐桀后的一百二十七年。
+English: The "Quarterly Calendar" says that Shangyuan to the base of the crusade was 132,113, of which the 88th year, Jiazi Dagger, was classified as the 127th year after the crusade.
+
+古文：《春秋历》，周文王四十二年十二月丁丑朔旦冬至，孟统之二会首也。
+现代文：《春秋历》上说，周文王四十二年十二月丁丑朔旦冬至，是孟统的二会首。
+English: According to the "Spring and Autumn Calendar," the winter solstice in December of the 42nd year of the reign of King Zhou Wen is the second head of the Mon Dynasty.
+
+古文：后八岁而武王伐纣。
+现代文：八年后武王伐纣。武王，《书经。
+English: Eight years later, King Wu fell into a trench.
+
+古文：武王《书经·牧誓》：武王伐商纣。
+现代文：牧誓》武王讨伐商纣。
+English: Wu Wang's "Pastoral Vow" to fight against gossip.
+
+古文：水生木，故为木德。
+现代文：水生木，所以是木德。
+English: Aquatic wood, so it is wood virtue.
+
+古文：天下号曰周室。
+现代文：天下称为周室。
+English: It is known as the Zhou Room.
+
+古文：《三统》，上元至伐纣之岁，十四万二千一百九岁，岁在鹑火张十三度。
+现代文：《三统历》上说，上元到讨伐纣这一年，有十四万二千一百零九年，这一年在鹑火星和张宿十三度。
+English: According to the "Three Dynasties and Three Kingdoms" calendar, the year from Shangyuan to the beginning of the Crusade was 142,109, and this year was the thirteenth degree of Mars and Zhangzhou.
+
+古文：文王受命九年而崩，再期，在大祥而伐纣，故《书序》曰： 惟十有一年，武王伐纣，作《太誓》。 
+现代文：文王受命于天九年后去世，遇了两年，在大祥的日子裹起兵伐纣，所以《书序》说： 十一年，武王伐纣，作《太誓》。 
+English: King Wen was ordered to die nine years later, and he died two years later. On the auspicious day, he gathered his troops and made a great vow. Therefore, the "Preface" says: In the eleventh year, King Wu made a great vow.
+
+古文：八百诸侯会。
+现代文：八百诸侯集中在一块。
+English: Eight hundred lords gathered in one place.
+
+古文：还归二年，乃遂伐纣克殷，以箕子归，十三年也。
+现代文：回来两年后，就讨伐了纣攻克了殷，带着箕子回来了，用了十三年。
+English: After returning two years later, he fought against Yao and conquered Yin, and returned with Yao, which took thirteen years.
+
+古文：故《书序》曰： 武王克殷，以箕子归，作《洪范》。
+现代文：所以《书序》说： 武王战胜了殷，带着箕子回来，写了《洪范》。 
+English: Therefore, the "Preface" says: King Wu defeated Yin, came back with a mule, and wrote "Hong Fan."
+
+古文：《洪范》篇曰： 惟十有三祀，王访于箕子。 
+现代文：《洪范》篇说： 十三年，武王向箕子咨询国事。 
+English: "Hong Fan" said: In the thirteenth year, King Wu consulted Xunzi about state affairs.
+
+古文：自文王受命而至此十三年，岁亦在鹑火，故《传》曰： 岁在鹑火，则我有周之分野也。 
+现代文：从文王受命于天到适时有十三年了，这年也在鹑火，所以传说： 岁星在鹑火，那么就是周朝的分野。 
+English: It has been thirteen years since King Wen was ordered by heaven to be on time, and this year is also at the bonfire, so the legend: The year star is at the bonfire, then it is the field of the Zhou Dynasty.
+
+古文：师初发，以殷十一月戊子，日在析木箕七度，故《传》曰： 日在析木。 
+现代文：军队开始出发，因为殷十一月戊子，太阳在析木箕七度，所以传说： 太阳在析木。 
+English: The army began to set out, because in November, the sun was in the woodpile seven degrees, so the legend: The sun is in the woodpile.
+
+古文：是夕也，月在房五度。
+现代文：这一晚，月亮在房宿五度。
+English: That night, the moon rose five degrees in the room.
+
+古文：房为天驷，故《传》曰： 月在天驷。 
+现代文：房宿就是天驷星，所以传说： 月亮在天驷星。 
+English: The lodgings are the stars, hence the legend: The moon is in the stars.
+
+古文：后三日得周正月辛卯朔，合辰在斗前一度，斗柄也，故《传》曰： 辰在斗柄。 
+现代文：三天后到了周朝正月辛卯朔，月交会的地方在斗前一度，即斗柄，所以传说： 曰月交会在斗柄。 
+English: Three days later, on the morning of the first day of the first month of the new year, the place of the lunar fair was once in front of the dipper, that is, the dipper, so the legend: "The lunar fair is in the dipper."
+
+古文：明日壬辰，晨星始见。
+现代文：第二天壬辰，晨星开始出现。
+English: The next day, the morning star began to appear.
+
+古文：癸巳武王始发，丙午还师，戊午度于孟津。
+现代文：癸巳武王开始发兵，丙午军队回来，戊午在孟津渡河。
+English: King Wu began to send troops, and the troops came back in the afternoon, and they crossed the river in Mengjin in the afternoon.
+
+古文：孟津去周九百里，师行三十里，故三十一日而度。
+现代文：孟津离周有九百里，军队每天行三十里，所以要过三十一天才渡河。
+English: Mengjin is nine hundred miles from Zhou, and the army marched thirty miles a day, so it took thirty-one days to cross the river.
+
+古文：明日己未冬至，晨星与婺女伏，历建星及牵牛，至于婺女天鼋之首，故《传》曰： 星在天鼋。 
+现代文：第二天己未冬至，晨星和婺女伏，经过建星和牵牛星，直到婺女和天鼂的首部，所以传说： 星在天鼋。 
+English: The next day, before the winter solstice, the morning star and the morning star rose, passing through the morning star and the morning star, until the morning star and the morning star, so the legend: The star is in the morning star.
+
+古文：《周书·武成》篇： 惟一月壬辰，旁死霸，若翌日癸巳，武王乃朝步自周，于征伐纣。 
+现代文：《周书。武成》篇上说： 一月壬辰，初二。到了第二天，癸巳日，武王早晨从镐京出发前往伐商。 
+English: "Zhou Shu. Wucheng" said in the article: January Imjin, the second day of the first month. On the second day, the third day, King Wu left Beijing in the morning to go to the woodcutter.
+
+古文：《序》曰： 一月戊午，师度于孟津。 
+现代文：序说： 一月戊午，军队在孟津渡河。 
+English: Preface: On the afternoon of January 3rd, the army crossed the river in Mengjin.
+
+古文：至庚申，二月朔日也。
+现代文：到庚申，是二月的朔日。
+English: At Koshin, it is the first day of February.
+
+古文：四日癸亥，至牧野，夜陈，甲子昧爽而合矣。
+现代文：四癸亥，到了牧野，夜晚摆设军阵，甲子拂晓军阵已摆好。
+English: At the time of the four harvests, when we arrived at Makino, we set up the army lines at night, and by dawn the army lines were ready.
+
+古文：故《外传》曰： 王以二月癸亥夜陈。 
+现代文：所以《外传》说： 王在二月癸亥夜晚摆军阵。 
+English: Therefore, "Gai Zhuan" said: Wang waged war on the night of February in the year of the boar.
+
+古文：《武成》篇曰： 粤若来三月，既死霸，粤五日甲子，咸刘商王纣。 
+现代文：《武成》篇说： 到了三月，五日甲子，商王纣被杀死。 
+English: "Bu Cheng" said: In March, on the 5th day of the month, the merchant Wang Yao was killed.
+
+古文：是岁也，闰数余十八，正大寒中，在周二月己丑晦。
+现代文：造一年，闰数余十八，正好是大寒的中期，在周朝二月己丑晦。
+English: It is the middle of the coldest time of the year, with a leap year of 18 days, and it is already getting ugly in February.
+
+古文：明日闰月庚寅朔。
+现代文：第二天是闰月庚寅朔日。
+English: The next day is a leap month.
+
+古文：三月二日庚申惊蛰。
+现代文：三月二日是庚申惊蛰。
+English: On March 2nd, the shock of the "Goshen" was over.
+
+古文：四月己丑朔死霸。
+现代文：四月己丑朔日死霸。
+English: The month of April has become the deadliest month.
+
+古文：死霸，朔也。
+现代文：死霸，就是朔日。
+English: Death is the new day.
+
+古文：生霸，望也。
+现代文：生霸，就是望日。
+English: Seihaku, that is, Mochizuki.
+
+古文：是月甲辰望，乙巳，旁之。
+现代文：这月甲辰是望日，乙巳，就是十六曰。
+English: This month, the first hour is Mochizuki, and the second hour is Isshi, which is the 16th day.
+
+古文：故《武成》篇曰： 惟四月既旁生霸，粤六日庚戌，武王燎于周庙。
+现代文：所以《武成》篇上说： 四月十七曰，六日庚戌，武王焚柴祭于周庙。
+English: Therefore, the "Bu Cheng" article said: On the 17th day of April, on the 6th day of Geng Zi, King Wu's wood-burning festival was held in the Zhou Temple.
+
+古文：翌日辛亥，祀于天位。
+现代文：第二天辛亥，祭天位。
+English: On the second day of Xinhai, the festival is over.
+
+古文：粤五日乙卯，乃以庶国祀馘于周庙。 文王十五而生武王，受命九年而崩，崩后四年而武王克殷。
+现代文：五乙卯，就带领众国在周庙献祭。 文王十五岁时生下武王，受命于天九年就去世了，崩后四年武王就战胜了殷朝。
+English: At the age of fifteen, King Wen gave birth to King Wu, who was ordered to die in the ninth year of Tian, and four years after his death, King Wu defeated the Yin Dynasty.
+
+古文：克殷之岁八十六矣，后七岁而崩。
+现代文：武王打败殷朝时已八十六岁了，过了七年就去世了。
+English: King Wu was eighty-six years old when he defeated the Yin Dynasty, and he died seven years later.
+
+古文：故《礼记·文王世子》曰： 文王九十七而终，武王九十三而终。 
+现代文：所以《礼记。文王世子》上说： 文王活了九十七年，武王活了九十三年。 
+English: Therefore, "Li Ji. The son of King Wen" said: King Wen lived ninety-seven years, King Wu lived ninety-three years.
+
+古文：凡武王即位十一年，周公摄政五年，正月丁巳朔旦冬至，《殷历》以为六年戊午，距炀公七十六岁，入孟统二十九章首也。
+现代文：武王在位共十一年，周公代为执政五年，正月丁巳朔旦冬至，《殷历》以为是六年戊午，距离炀公七十六年，进入孟统二十九章的开端了。
+English: King Wu reigned for a total of eleven years. The Zhou dynasty was in power for five years. The first month of the year, Ding Si, marked the winter solstice. The Yin calendar thought it was six years and a half. It was seventy-six years since the death of King Wu, and it was the beginning of the twenty-nine chapters of the Mongol Monarchy.
+
+古文：后二岁，得周公七年 复子明辟 之岁。
+现代文：二年后，是周公七年 复子明辟 之年。
+English: Two years later, it was the seventh year of Zhou Gong's reinstatement.
+
+古文：是岁二月乙亥朔，庚寅望，后六日得乙未。
+现代文：这年二月乙亥是朔，庚寅是望，六天后是乙未。
+English: In February of this year, Yi Hai was Shuang, Geng Yin was Wang, and six days later, Yi Wei.
+
+古文：故《召诰》曰： 惟二月既望，粤六日乙未。 
+现代文：因此《召诰》就说： 二月十六曰，六天后是乙未。 
+English: Therefore, "Zhao Zhao" said: February 16th, six days later is the second day of the month.
+
+古文：又其三月甲辰朔，三日丙午。
+现代文：又这年三月甲辰是朔日，三日丙午。
+English: Also this year, the first hour of March is the new moon day, and the third day is the new moon afternoon.
+
+古文：《召诰》曰： 惟三月丙午朏。 
+现代文：《召诰》上说： 三月丙午月初生明。 
+English: "Zhao Zhao" said: March C, the beginning of the second half of the month is clear.
+
+古文：古文《月采》篇曰 三日曰朏 。
+现代文：古文《月采》篇上说： 三天就叫础 。
+English: An ancient text, "The Harvesting of the Moon," says: "It takes three days to make a base.
+
+古文：是岁十二月戊辰晦，周公以反政。
+现代文：这年十二月戊辰晦，周公还政给成王。
+English: At the end of December of that year, Zhou returned power to Chengwang.
+
+古文：故《洛诰》篇曰： 戊辰，王在新邑，祭岁。命作策，惟周公诞保文、武受命，惟七年。 
+现代文：所以《洛诰》篇上就说： 戊辰，王在新邑，祭祀岁，命作策，周公辅佐文王、武王受天命，有七年。 
+English: Therefore, the "Luoyang" article said: Wu Chen, the king of Xinmiao, the year of sacrifice, the life of strategy, Zhou Gongfu, King Sa Wen, King Wu, by the mandate of heaven, there are seven years.
+
+古文：成王元年正月己巳朔，此命伯禽俾侯于鲁之岁也。
+现代文：成王元年正月己巳朔日，这是任命伯禽为鲁国诸侯的一年。
+English: It was the first day of the first month of the first year of King Chengwu's reign, and this was the year of the appointment of Bo Jiao as the prince of Lu.
+
+古文：后三十年四月庚戌朔，十五日甲子哉生霸。
+现代文：三十年后四月庚戌是朔日，十五日甲子月亮开始发光。
+English: Thirty years later, April Geng Zi is the new moon, and on the fifteenth day of the month, the moon begins to shine.
+
+古文：故《顾命》曰 惟四月哉生霸，王有疾不豫，甲子，王乃洮水 ，作《顾命》。
+现代文：所以《顾命》上说 四月十五曰，成王生病没有参加活动，甲子，成王才盥洗 ，写了《顾命》。
+English: Therefore, "Gu Mui" said that on April 15th, Cheng Wang was ill and did not participate in the activities, and therefore, Cheng Wang was baptized and wrote "Gu Mui."
+
+古文：翌日乙丑，成王崩。
+现代文：第二天乙丑，成王去世。
+English: On the second day, Cheng Wang passed away.
+
+古文：康王十二年六月戊辰朔，三日庚午，故《毕命丰刑》曰： 惟十有二年六月庚午朏，王命作策《丰刑》。 
+现代文：康王十二年六月戊辰是朔日，三日庚午，因此《毕命丰刑》就说： 十二年六月庚午月亮出现，康王就命人写了《丰刑》。 
+English: In the twelfth year of King Kang's reign, June 12th, the day of Bo Chen was the new moon, and the third day was the afternoon of Geng. Therefore, "Living Life and Ample Punishment" said: In the twelfth year of King Kang's reign, June 12th, the moon appeared in the afternoon of Geng, and King Kang ordered someone to write "Ample Punishment."
+
+古文：《春秋》、《殷历》皆以殷，鲁自周昭王以下亡年数，故据周公、伯禽以下为纪。
+现代文：《春秋》、《殷历》都以殷为根据，鲁国从周昭王以后没有年数，所以根据周公、伯禽以下来纪年。
+English: "Spring and Autumn" and "Yin Calendar" are all based on Yin. There are no years in Lu after Zhou Zhao Wang, so the years are based on Zhou Gong and Bo Yang.
+
+古文：鲁公伯禽，推即位四十六年，至康王十六年而薨。
+现代文：鲁公伯禽，推断他在位四十六年，到康王十六年去世。
+English: Lu Gong's uncle, it is inferred that he reigned for forty-six years and died in the sixteenth year of King Kang.
+
+古文：故《传》曰 燮父、禽父并事康王 ，言晋侯燮、鲁公伯禽俱事康王也。
+现代文：所以传说 燮父、禽父一同事奉康王 ，这是说晋侯燮、鲁公伯禽都事奉康王。
+English: Therefore, it is said that a colleague of both father and father served King Kang, which means that both Jin Houyi and Lu Gongbo served King Kang.
+
+古文：子考公就立，酋。
+现代文：伯禽的儿子考公就即位，考公就就是酋。
+English: His uncle's son, Kogong, ascended to the throne, and Kogong was the chief.
+
+古文：考公，《世家》：即位四年，及炀公熙立。
+现代文：考公，《世家》上说他在位四年，一直到炀公熙即位。
+English: In the imperial examination, "Sejia" said that he reigned for four years, until the enthronement of Zang Gongxi.
+
+古文：炀公二十四年正月丙申朔旦冬至，《殷历》以为丁酉，距微公七十六岁。
+现代文：堡公二十四年正月丙申朔旦冬至，《殷历》上认为是丁酉，距离邀公七十六年。
+English: The winter solstice of the first month of the 24th year of the king of the castle, which is considered to be Ding Xi on the Yin calendar, is 76 years away from the invitation.
+
+古文：《世家》：炀公即位六十年，子幽公宰立。
+现代文：《世家》上说，炀公在位六十年，儿子幽公宰即位。
+English: "Seika" said that Shoko reigned for sixty years, and his son Yuhonzai ascended the throne.
+
+古文：幽公，《世家》：即位十四年，及微公立，。
+现代文：幽公，《世家》上说在位十四年，到微公弗即位，微公弗就是漕。
+English: Yugong, "Sejia" said that he had been on the throne for fourteen years, and he ascended to the throne of Weigongfu. Weigongfu is a row.
+
+古文：微公二十六年正月乙亥朔旦冬至，《殷历》以为丙子，距献公七十六岁。
+现代文：微公二十六年正月乙亥朔旦冬至，《殷历》认为在丙子，距献公七十六年。
+English: According to the Yin Calendar, the winter solstice in the first month of the twenty-sixth year of the micro-reign is in the third month of the second month of the second year of the second year of the third year of the second year of the second year of the third year of the second year of the second year of the third year of the second year of the third year of the second year of the second year of the third year of the second year of the third year of the second year of the second year of the third year of the second year of the second year of the third year of the second year of the second year of the second year of the third year of the second year of the second year
+
+古文：《世家》：微公即位五十年，子厉公翟立，擢。
+现代文：《世家》上说，微公在位五十年，儿子厉公翟即位，厉公翟就是擢。
+English: "Sekiya" said that the Weigong reigned for fifty years, and his son, Liguangyao, ascended the throne. Liguangyao is a promotion.
+
+古文：厉公，《世家》：即位三十七年，及献公具立。
+现代文：厉公，《世家》上说他在位三十七年，到献公具即位。
+English: Liguo, "Sekiya" said that he reigned for thirty-seven years, and ascended the throne at the dedication ceremony.
+
+古文：献公十五年正月甲寅朔旦冬至，《殷历》以为乙卯，距懿公七十六岁。
+现代文：献公十五年正月甲寅朔旦冬至，《殷历》认为在乙卯，距懿公七十六年。
+English: According to the Yin Calendar, the winter solstice in the first month of the 15th year of dedication to the emperor is in the second month of the 15th year, which is 76 years after the enthronement of the emperor.
+
+古文：《世家》：献公即位五十年，子慎公执立，嚊。
+现代文：《世家》上说，献公在位五十年，儿子慎公执即位，慎公执就是嗅。
+English: "Sekiya" said that the emperor had been on the throne for fifty years, and his son Shingong Ruling was enthroned, and Shingong Ruling was sniffing.
+
+古文：慎公，《世家》：即位三十年，及武公敖立。
+现代文：慎公，《世家》上说他在位三十年，到武公敖即位。
+English: Shinkong, "Sejia" said that he reigned for thirty years, and ascended the throne to Wukong.
+
+古文：武公，《世家》：即位二年，子懿公被立，戏。
+现代文：武公，《世家》上说他在位两年，儿子懿公被即位，懿公被就是戏。
+English: Wu Gong, "Sejia" said that he reigned for two years, and his son Xing Gong was enthroned, and Xing Gong was a play.
+
+古文：懿公九年正月癸巳朔旦冬至，《殷历》以为甲午，距惠公七十六岁。
+现代文：懿公九年正月癸巳初一早晨冬至，《殷历》认为在甲午，距惠公七十六年。
+English: The winter solstice occurred on the morning of the first day of the first month of the ninth year of King Min, and the Yin Calendar considered it to be in the afternoon of the first day of the first month of the ninth year of King Min, 76 years after King Huigong.
+
+古文：《世家》：懿公即位九年，兄子柏御立。
+现代文：《世家》上说，懿公在位九年，他哥哥的儿子柏御即位。
+English: "Sekiya" said that Shoko reigned for nine years, and his brother's son, Takashi, ascended the throne.
+
+古文：柏御，《世家》：即位十一年，叔父孝公称立。
+现代文：柏御，《世家》上说他在位十一年，他的叔父孝公称即位。
+English: As for Prince Takashi, "Seika" says that he reigned for eleven years, and his uncle, Prince Takashi, claimed the throne.
+
+古文：孝公，《世家》：即位二十七年，子惠公皇立。
+现代文：孝公，《世家》说他在位二十七年，他的儿子惠公皇即位。
+English: According to "Seika," he reigned for 27 years, and his son, Emperor Huigong, ascended to the throne.
+
+古文：惠公三十八年正月壬申朔旦冬至，《殷历》以为癸酉，距釐公七十六岁。
+现代文：惠公三十八年正月壬申初一天明冬至，《殷历》认为在癸酉，距僖公七十六年。
+English: On the first day of the first month of Jinshin in the 38th year of Huigong, the winter solstice was on the morning of the first day of the first day of the winter solstice. According to the Yin Calendar, the winter solstice was on the morning of the first day of the first day of the first day of the first day of the first day of the first day of the first day of the first day of the first day of the first day of the first day of the first day of the first day of the first day of the first day of the first day of the first day of the first day of the first day of the first day of the first day of the first
+
+古文：《世家》：惠公即位四十六年，子隐公息立。
+现代文：《世家》上说，惠公在位四十六年，他的儿子隐公息即位。
+English: "Sekiya" said that Emperor Huigong reigned for 46 years, and his son Emperor Xizong ascended to the throne.
+
+古文：凡伯禽至春秋，三百八十六年。
+现代文：从伯禽到春秋，共有三百八十六年。
+English: A total of three hundred and eighty-six years passed from the bird of paradise to spring and autumn.
+
+古文：春秋隐公，《春秋》：即位十一年，及桓公轨立。
+现代文：春秋隐公，《春秋》上说他在位十一年，直到桓公轨即位。
+English: Shunqiu was a recluse. "Shunqiu" says that he reigned for eleven years until Huan Gonglu ascended the throne.
+
+古文：此元年上距伐纣四百岁。
+现代文：隐公元年上距讨伐纣四百年。
+English: It's been nearly 400 years since the last crusade.
+
+古文：桓公，《春秋》：即位十八年，子庄公同立。
+现代文：桓公，《春秋》说他在位十八年，他的儿子庄公同即位。
+English: Prince Kan, "Spring and Autumn" says that he reigned for eighteen years, and his son Prince Zhuang ascended to the throne.
+
+古文：庄公，《春秋》：即位三十二年，子愍公启方立。
+现代文：庄公，《春秋》说他在位三十二年，他的儿子愍公启方即位。
+English: Zhuang Gong, "Spring and Autumn" said that he reigned for thirty-two years, and his son Zou Gong Qifang ascended the throne.
+
+古文：愍公，《春秋》：即位二年，及釐公申立。
+现代文：愍公，《春秋》说他在位两年，直到僖公申即位。
+English: Gong Gong, "Spring and Autumn" said that he reigned for two years, until Gong Gong ascended the throne.
+
+古文：釐公五年正月辛亥朔旦冬至，《殷历》以为壬子，距成公七十六岁。
+现代文：僖公五年正月辛亥初一天明冬至，《殷历》认为在壬子，此时距成公七十六年。
+English: According to the Yin Calendar, the winter solstice in the first day of the first month of Xinhai in the fifth year of Zenggong was in Renzi, which was seventy-six years after the birth of Zenggong.
+
+古文：是岁距上元十四万二千五百七十七岁，得孟统五十三章首。
+现代文：这一年距上元已十四万二干五百七十七年，到了孟统五十三章的开端。
+English: This year marks the beginning of the 53rd chapter of the Book of Deuteronomy.
+
+古文：故《传》曰： 五年春，王正月辛亥朔，日南至。 
+现代文：所以传说： 五年春王正月辛亥是朔日，太阳南至。 
+English: Therefore, the legend: In the fifth year of the Spring King, the first month of Xinhai is the New Year's Day, and the sun is at its southernmost.
+
+古文： 八月甲午，晋侯围上阳。 
+现代文： 八月甲午，晋侯包围了上阳。 
+English: On the afternoon of August 1st, Jin surrounded Shangyang.
+
+古文：童谣云： 丙子之辰，龙尾伏辰，服振振，取虢之旂。
+现代文：童谣说： 丙子的早晨，龙尾伏辰，军队上下服装一致，攻取虢国的旃地。
+English: The nursery rhyme says: In the morning of the third day of the third month, Dragon Tail Fuchen, the army's upper and lower clothing are the same, and it is time to conquer the country's land.
+
+古文：鹑之贲贲，天策，火中成军，虢公其奔。 
+现代文：鹑火星贲贲，天策焯焯，火中成军。号公逃亡。 
+English: 火星,天策,火中成軍.号公逃亡.
+
+古文：卜偃曰： 其九月十月之交乎？
+现代文：卜偃说： 九月十月能交吗？
+English: Bu Wei said: Can you deliver in September and October?
+
+古文：丙子旦，日在尾，月在策，鹑火中，必是时也。 
+现代文：丙子天明，太阳在尾，月在策，鹑火在中，一定是这个时候。 
+English: The sky is bright, the sun is setting, the moon is rising, the bonfire is in the middle, it must be this time.
+
+古文：冬十二月丙子灭虢。
+现代文：冬十二月丙子消灭了虢国。
+English: In the winter of December, He Zi annihilated Shandong Province.
+
+古文：言历者以夏时，故周十二月，夏十月也。
+现代文：说历的人用夏的时间，所以在周是十二月，在夏就是十月。
+English: People who tell the calendar use summer time, so it is December on Monday and October in the summer.
+
+古文：是岁，岁在大火。
+现代文：这一年，岁星在大火。
+English: This year, the year star is in the fire.
+
+古文：故《传》曰晋侯使寺人披伐蒲，重耳奔狄。
+现代文：所以传说晋侯派近侍披攻打蒲，重耳逃亡到狄。
+English: Therefore, it is said that the prince of Jin sent his close attendants to attack Pu, but they fled to Di.
+
+古文：董因曰： 君之行，岁在大火。 
+现代文：董因说： 君行的时候，岁星在大火。 
+English: Dong Ying said, "When you are on a trip, the stars are in a blazing fire.
+
+古文：后十二年，釐之十六岁，岁在寿星。
+现代文：十二年后，就是僖公十六年，岁星在寿星。
+English: Twelve years later, that is, in the sixteenth year of King Gong, the star of the year is in the birthday star.
+
+古文：故《传》曰：重耳处狄十二年而行，过卫五鹿，乞食于野人，野人举塊而与之。
+现代文：所以传说重耳在狄待了十二年后离开，经过卫五鹿，向农夫乞食，农夫就把土块递给了他。
+English: So legend has it that after twelve years of waiting, Chung-er left the village, passing through Weiwlu and begging from a farmer, who handed him a clod of earth.
+
+古文：子犯曰： 天赐也，后十二年，必获此土。
+现代文：子犯说： 这是上天赐给他的，十二年后，一定要取得这片土地。
+English: The son-in-law said: This was given to him by God. Twelve years later, he must acquire this land.
+
+古文：岁复于寿星，必获诸侯。 
+现代文：岁星再次到寿星，一定会俘虏诸侯。 
+English: When the year star returns to the birthday star, it will surely capture the princes.
+
+古文：后八岁，之二十四年也，岁在实沈，秦伯纳之。
+现代文：八年后，是僖公二十四年，岁星在实沈，秦伯收容了他。
+English: Eight years later, in the twenty-fourth year of his reign, Qin Bo took him in.
+
+古文：故《传》曰董因云： 君以辰出，而以参人，必获诸侯。 
+现代文：所以传说董因说： 君在辰时走，在参时进入，一定俘虏诸侯。 
+English: Therefore, legend has it that Dongying said, "If you leave at the hour of the hour, and enter at the time of the day, you are sure to capture princes."
+
+古文：《春秋》：釐公即位三十三年，子文公兴立。
+现代文：《春秋》上说，僖公在位三十三年后，他的儿子文公兴即位。
+English: "Spring and Autumn" said that his son, Wen Gongxing, ascended the throne after 33 years of his reign.
+
+古文：文公元年，距辛亥旦冬至二十九岁。
+现代文：文公元年，距辛亥朔天明冬至二十九年。
+English: In the year of Wen, it was 29 years from Xinhai Shuo Tianming winter solstice.
+
+古文：是岁闰余十三，正小雪，闰当在十一月后，而在三月，故《传》曰 非礼也 。
+现代文：这年闰余十三，正好是小雪，闰应该在十一月后，却在三月，所以传说： 不符合礼。 
+English: This year, the leap remaining thirteen, just a light snow, the leap should be after November, but in March, so the legend: it is not polite.
+
+古文：后五年，闰余十，是岁亡闰，而置闰。
+现代文：五年后，闰余十，这年没有闰，却设了闰。
+English: Five years later, with ten years left before the leap year, there was no leap year, but there was a leap year.
+
+古文：闰，所以正中朔也。
+现代文：闰，是用来纠正朔日的。
+English: Leap, is used to correct the sunrise.
+
+古文：亡闰而置闰，又不告朔，故《经》曰 闰月不告朔 ，言亡此月也。
+现代文：没有闰而设闰，又不颁布朔日，所以经说 闰月没有颁布朔 ，是说没有这个月。
+English: There is no leap, but there is a leap, and the New Year's Day is not promulgated, so when it is said that the leap month is not promulgated, it means that there is no this month.
+
+古文：《传》曰： 不告朔，非礼也。 
+现代文：传说： 不颁布朔日，是不符合礼的。 
+English: Legend: It is impolite not to announce the New Year's Day.
+
+古文：《春秋》：文公即位十八年，子宣公倭立。
+现代文：《春秋》说，文公在位十八年后，他的儿子宣公倭即位。
+English: "Spring and Autumn" said that after eighteen years of Wen Gong's reign, his son Xuan Gong Wa ascended the throne.
+
+古文：宣公，《春秋》：即位十八年，子成公黑肱立。
+现代文：宣公，《春秋》说他在位十八年后，他的儿子成公黑肱即位。
+English: According to the proclamation, "Spring and Autumn" said that after eighteen years of his reign, his son Chenggong Heihe ascended to the throne.
+
+古文：成公十二年正月庚寅朔旦冬至，《殷历》以为辛卯，距定公七年七十六岁。
+现代文：成公十二年正月庚寅朔日天明冬至，《殷历》认为在辛卯，距定公七年有七十六年。
+English: In the first month of the twelfth year of Chenggong, Geng Yin Shuo Day, the winter solstice dawned. "Yin Calendar" believed that in Xinwu, it was seventy-six years since the seventh year of Dinggong.
+
+古文：《春秋》：成公即位十八年，子襄公午立。
+现代文：《春秋》上说，成公在位十八年后，他的儿子襄公午即位。
+English: "Spring and Autumn" said that after eighteen years of Chenggong's reign, his son Xianggong took the throne.
+
+古文：襄公二十七年，距辛亥百九岁。
+现代文：襄公二十七年，距辛亥一百零九年。
+English: Twenty-seven years since Xiang Gong, 109 years since Xinhai.
+
+古文：九月乙亥朔，是建申之月也。
+现代文：九月乙亥是朔日，这是建申月。
+English: September 乙亥 is the new moon day, this is the new moon month.
+
+古文：鲁史书： 十二月乙亥朔，日有食之。 
+现代文：鲁国史书记载： 十二月乙亥是朔，出现日食。 
+English: Recorded in the annals of the history of the State of Lu: In December, Yihai is the new moon, and a solar eclipse occurs.
+
+古文：《传》曰： 冬十一月乙亥朔，日有食之，于是辰在申，司历过也，再失闰矣。 
+现代文：传说： 冬十一月乙亥是朔日，出现食，于是辰在申，这是掌管历法的人的过错，又一次失闰了。 
+English: Legend: In the winter of November, Yi Hai is the New Year's Day, there is food, so the hour is in Shen, this is the fault of the person in charge of the calendar, and the leap day is lost again.
+
+古文：言时实行以为十一月也，不察其建，不考之于天也。
+现代文：是说实际上认为时间已在十一月了，没有观察斗建所指，没有考察天象。
+English: That is to say, they actually thought that the time was already in November, and they did not observe what Dou Jian pointed out, and did not investigate the celestial objects.
+
+古文：二十八年距辛亥百一十岁，岁在星纪，故《经》曰： 春无冰。 
+现代文：襄公二十八年距辛亥有一百一十年，岁星在星纪，所以经说： 春天没有冰。 
+English: The 28th year of Xianggong is one hundred and ten years away from Xinhai, and the year star is in the astrology, so the sutra says: There is no ice in spring.
+
+古文：《传》曰： 岁在星纪，而淫于玄枵。 
+现代文：传说： 岁星在星纪，却错误地出现在玄枵。 
+English: Legend: The Year Star appears in the Astrology, but mistakenly appears in the Gematria.
+
+古文：三十年岁在訾。
+现代文：襄公三十年岁星在鲰訾。
+English: Thirty-year-old Prince Xiang is a rising star.
+
+古文：三十一年岁在降娄。
+现代文：三十一年岁星在降娄。
+English: The 31-year-old's star is waning.
+
+古文：是岁距辛亥百一十三年，二月有癸未，上距文公十一年会于承匡之岁夏正月甲子朔凡四百四十有五甲子，奇二十日，为日二万六千六百有六旬。
+现代文：这一年距辛亥有一百一十三年，二月癸未，距离文公十一年在承匡会盟这年夏正月甲子朔日共四百四十五甲子零二十天，有二万六千六百零六旬。
+English: In this year, it is one hundred and thirteen years since Xinhai, and February has not yet arrived. It is eleven years since Wen Gong, and in the summer of this year, there are four hundred and forty-five years and twenty days, and twenty-six thousand six hundred and sixty days.
+
+古文：故《传》曰：绛县老人曰： 臣生之岁，正月甲子朔，四百四十有五甲子矣。
+现代文：所以传说绛县老人讲： 臣出生的那年，正月甲子是朔，四百四十五甲子。
+English: Therefore, according to the legend, the old man of Jixian County said: In the year that the minister was born, the first month of the year was the new moon, and there were four hundred and forty-five children.
+
+古文：其季于今，三之一也。 
+现代文：其末到在，是六十的三分之一。
+English: And when he comes to the end, he is one-third of sixty.
+
+古文：师旷曰： 成子会于承匡之岁也，七十三年矣。 
+现代文：师旷说： 到郃成子会盟于承匡的这一年，有七十三年了。 
+English: Shimei said, "It has been seventy-three years since the founding of the Shinsengumi in Chengkuang.
+
+古文：史赵曰： 亥有二首六身，下二如身，则其日数也。 
+现代文：史赵说： 亥有二个头六个身，把亥字上面二画取下放在它的旁边，就是它的天数。 
+English: Shi Zhao said: The boar has two heads and six bodies. Take down the two pictures above the boar and put them next to it, which is the number of days.
+
+古文：士文伯曰： 然则二万六千六百有六旬也。 
+现代文：士文伯说： 那么就有二万六千六百零六旬。 
+English: Swinburne said: Then there are twenty-six thousand six hundred and sixty.
+
+古文：《春秋》：襄公即位三十一年，子昭公稠立。
+现代文：《春秋》说，襄公在位三十一年后，他的儿子昭公稠即位。
+English: "Spring and Autumn" said that after Xiang Gong reigned for 31 years, his son Zhaogongsu ascended to the throne.
+
+古文：昭公八年，岁在析木，十年，岁在颛顼之虚，玄枵也。
+现代文：昭公八年岁星在析木，十年岁星在颛顼之虚，即玄枵。
+English: Zhaogong's eight-year-old star is in the wood, and the ten-year-old star is in the void of the cocoon, that is, the cocoon.
+
+古文：十八年距辛亥百三十一岁，五月有丙子、戊寅、壬午，火始昏见，宋、卫、陈、郑火。
+现代文：昭公十八年距辛亥有一百三十一年，五月有丙子、戊寅、壬午，火星开始乱现，宋、卫、陈、郑有火灾。
+English: In the 18th year of Zhaogong, it was 131 years since Xinhai. In May, there were Cun Zi, Wu Yin, Ren Wu, Mars began to appear randomly, and Song, Wei, Chen, and Zheng had fires.
+
+古文：二十年春王正月，距辛亥百三十三岁，是辛亥后八章首也。
+现代文：昭公二十年春王正月，距辛亥有一百三十三年，这年为辛亥后八章首。
+English: In the first month of Chunwang in the 20th year of Zhaogong, it was 133 years since Xinhai, and this year was the first of the eight chapters after Xinhai.
+
+古文：正月己丑朔旦冬至，失闰。
+现代文：正月己丑朔天明冬至，没有闰。
+English: The first month of the year is the same as the winter solstice, with no leap.
+
+古文：故《传》曰： 二月己丑，日南至。 
+现代文：所以传说： 二月己丑，南至。 
+English: Hence the legend: February is ugly, even in the south.
+
+古文：三十二年，岁在星纪，距辛亥百四十五岁，盈一次矣。
+现代文：昭公三十二年，岁星在星纪，距辛亥有一百四十五年，满一次了。
+English: In the thirty-second year of Zhaogong, the year star is in the zodiac, and there are one hundred and forty-five years since Xinhai, which is a full cycle.
+
+古文：故《传》曰： 越得岁，吴伐之，必受其咎。 
+现代文：所以传说： 越国有岁星，吴国去攻打它，一定会受到惩罚。 
+English: So the legend goes: Vietnam has a lucky star, and if the State of Wu attacks it, it will be punished.
+
+古文：《春秋》：昭公即位三十二年，及定公宋立。
+现代文：《春秋》说，晅公在位三十二年，直到定公宋即位。
+English: "Spring and Autumn" said that Shao Gong reigned for thirty-two years, until Ding Gong Song ascended the throne.
+
+古文：定公七年，正月己巳朔旦冬至，《殷历》以为庚午，距元公七十六年。
+现代文：定公七年，正月己巳朔天明冬至，《殷历》认为在庚午，距五公有七十六年。
+English: According to the Yin calendar, the first month of the seventh year is the new moon, the winter solstice is the new day, and it is seventy-six years since the birth of the five kings.
+
+古文：《春秋》：定公即位十五年，子哀公蒋立。
+现代文：《春秋》说，定公在位十五年后，他的儿子哀公蒋即位。
+English: "Spring and Autumn" said that after Ding Gong reigned for fifteen years, his son Aigong Jiang ascended the throne.
+
+古文：哀公十二年冬十二月流火，非建戌之月也。
+现代文：哀公十二年冬十二月火星逐渐西降，不是建戌月。
+English: In the winter and December of the twelfth year of King Aiko, Mars gradually moved westward, but it was not a gibbous moon.
+
+古文：是月也螽，故《传》曰： 火伏而后蛰者毕，今火犹西流，司历过也。 《诗》曰： 七月流火。 
+现代文：这个月出现蝗盎，所以传说： 火星隐没后昆虫伏藏已完毕，现在火星还在西降，这是掌管历法的人的错误。 《诗》上说： 七月火星西降。 
+English: This month, the locusts appeared, so the legend: After the disappearance of Mars, the insects were hidden, and now Mars is still descending to the west, which is a mistake of the person in charge of the calendar.
+
+古文：《春秋》：哀公即位二十七年。
+现代文：《春秋》记载哀公在位二十七年。
+English: "Spring and Autumn" records the 27th year of Aiko's reign.
+
+古文：自《春秋》尽哀十四年，凡二百四十二年。
+现代文：从《春秋》到哀公十四年完，共二百四十二年。
+English: From "Spring and Autumn" to Aiko is 14 years, a total of 242 years.
+
+古文：六国《春秋》：哀公后十三年逊于邾，子悼公曼立，宁。
+现代文：六国，《春秋》记载哀公过后十三年在邾让位，他的儿子悼公曼即位，悼公曼即宁。
+English: In the Six Kingdoms, "Spring and Autumn," it is recorded that thirteen years after the death of Yigong, his son Yigongman abdicated, and his son Yigongman ascended to the throne.
+
+古文：悼公，《世家》：即位三十七年，子元公嘉立。
+现代文：悼公，《世家》记载他在位三十七年后，他的儿子元公嘉即位。
+English: In his eulogy, "Seika" records that thirty-seven years after he ascended the throne, his son, Yuan Gongjia, ascended the throne.
+
+古文：元公四年正月戊申朔旦冬至，《殷历》以为己酉，距康公七十六岁。
+现代文：元公四年正月戊申朔日天明冬至，《殷历》认为在己酉，距康公七十六年。
+English: According to the Yin Calendar, the winter solstice in the first month of the 4th year of the Yuan Dynasty was in the morning of the 7th day of the 3rd month of the 4th year of the Yuan Dynasty, which was 76 years after the death of Kang Gong.
+
+古文：元公，《世家》：即位二十一年，子穆公衍立，显。
+现代文：元公，《世家》说他在位二十一年后，他的儿子穆公衍即位，穆公衍就是显。
+English: Yuan Gong, "Sejia" said that after he had reigned for 21 years, his son Mu Gongyan ascended to the throne, Mu Gongyan was Xuan.
+
+古文：穆公，《世家》：即位三十三年，子恭公奋立。
+现代文：穆公，《世家》说他在位三十三年后，他的儿子恭公奋即位。
+English: Mu Gong, "Sejia" said that after he reigned for thirty-three years, his son Gong Gongfeng ascended to the throne.
+
+古文：恭公，《世家》：即位二十二年，子康公毛立。
+现代文：恭公，《世家》说他在位二十二年后，他儿子康公毛即位。
+English: After twenty-two years of his reign, his son Kang Gongmao ascended to the throne.
+
+古文：康公四年正月丁亥朔旦冬至，《殷历》以为戊子，距缗公七十六岁。
+现代文：康公四年正月丁亥朔日天明冬至，《殷历》认为在戊子，距缗公七十六年。
+English: According to the Yin Calendar, the winter solstice in the first month of the 4th year of King Kang's reign was in the morning of the 4th year of King Kang's reign, which was 76 years after King Gong's reign.
+
+古文：康公，《世家》：即位九年，子景公偃公。
+现代文：康公，《世家》说他在位九年，他的儿子景公偃即位。
+English: Kang Gong, "Sejia" said that he reigned for nine years, and his son Jing Gongjun ascended to the throne.
+
+古文：景公，《世家》：即位二十九年，子平公旅立。
+现代文：景公，《世家》说他在位二十九年，他的儿子平公旅继位。
+English: As for King Jing, "Sejia" said that he reigned for 29 years, and his son Ping Gong Liang succeeded to the throne.
+
+古文：平公，《世家》：即位二十年，子缗公贾立。
+现代文：乎公，《世家》说他在位二十年，他的儿子缗公买即位。
+English: As for Kukong, "Sejia" said that he had reigned for twenty years, and his son, Kukong, ascended to the throne.
+
+古文：缗公二十二年正月丙寅朔旦冬至，《殷历》以为丁卯，距楚元七十六岁。
+现代文：缗公二十二年正月丙寅朔日天明冬至，《殷历》认为在丁卯，距楚元七十六年。
+English: According to Yin Calendar, the winter solstice in the first month of the 22nd year of King Min was in Dingwu, 76 years after Chu Yuan.
+
+古文：缗公，《世家》：即位二十三年，子顷公仇立。
+现代文：缗公，《世家》说他在位二十三年，他儿子顷公譬继位。
+English: "Sekiya" said that he reigned for 23 years, and his son succeeded him.
+
+古文：顷公，《表》：十八年，秦昭王之五十一年也，秦始灭周。
+现代文：顷公，《表》上的十八年，也就是秦昭王的五十一年，秦才消灭了周。
+English: After all, it was only in the 18th year of the "table," that is, the 51st year of Qin Zhao Wang, that Qin eliminated Zhou.
+
+古文：周凡三十六王，八百六十七岁。
+现代文：周朝共有三十六个王，经过了八百六十七年。
+English: There were a total of 36 kings in the Zhou Dynasty, and 867 years have passed.
+
+古文：秦伯昭王，《本纪》：无天子五年。
+现代文：秦国霸主昭王，《史记。本纪》上没有天子五年。
+English: Zhao Wang, the overlord of Qin, had no son for five years.
+
+古文：孝文王，《本纪》：即位一年。
+现代文：孝文王，《本纪》说他在位一年。
+English: Prince Xiaowen, "this chronicle" says that he reigned for one year.
+
+古文：元年，楚考烈王灭鲁，顷公为家人，周灭后六国也。
+现代文：孝文王元年，楚考烈王消灭了鲁顷公，把他收为仆人，这是周灭亡后六年的事。
+English: In the first year of the reign of King Xiaowen, King Chukao Li wiped out King Lu He and took him as a servant. This was six years after the death of King Zhou.
+
+古文：庄襄王，《本纪》：即位三年。
+现代文：庄襄王，《本纪》说他在位三年。
+English: Zhuang Xiang Wang, "this chronicle" says that he reigned for three years.
+
+古文：始皇，《本纪》：即位三十七年。
+现代文：秦始皇，《本纪》说他在位三十七年。
+English: Qin Shihuang, "this chronicle" says he reigned for thirty-seven years.
+
+古文：二世，《本纪》：即位三年。
+现代文：秦二世，《本纪》说他在位三年。
+English: Qin II, "this chronicle" says that he reigned for three years.
+
+古文：凡秦伯五世，四十九岁。
+现代文：秦称霸共有五代，经过了四十九年。
+English: A total of five generations of the Qin dynasty ruled the country for 49 years.
+
+古文：汉高祖皇帝，著《纪》，伐秦继周。
+现代文：汉高祖皇帝，被记载进《纪》，他攻打秦国，继承周朝。
+English: Emperor Han Gaozu, recorded in the "Chronicles," attacked Qin and succeeded the Zhou Dynasty.
+
+古文：木生火，故为火德。
+现代文：木生火，所以是火德。
+English: Wood makes fire, so fire is virtue.
+
+古文：天下号曰 汉 。
+现代文：天下被称为汉。
+English: The country was called Han.
+
+古文：距上元年十四万三千二十五岁，岁在大棣之东井二十二度，鹑首之六度也。
+现代文：距上元年有十四万三千零二十五年，岁星在大棣的东井二十二度，鹑首的六度。
+English: One hundred forty-three thousand and twenty-five years have passed since the first year of the year, and the new year star is 22 degrees East of the Big Dipper and 6 degrees up from the Dagger.
+
+古文：故《汉志》曰：岁在大棣，名曰敦牂，太岁在午。
+现代文：所以《汉志》说岁星在大棣，叫敦烊，太岁在午。
+English: Therefore, "Han Zhi" said that the year star is in Dafu, called Dun Dun, and the lunar new year is in the afternoon.
+
+古文：八年十一月乙巳朔旦冬至，楚元三年也。
+现代文：八年十一月乙巳朔天明冬至，是楚五三年。
+English: In November of the eighth year, the winter solstice dawned. It was the 53rd year of Chu.
+
+古文：故《殷历》以为丙午，距元朔七十六岁。
+现代文：因此《殷历》认为在丙午，距元朔七十六年。
+English: Therefore, the "Yin Calendar" believes that it was in the afternoon of the third day of the third month, seventy-six years after the Yuan Shuo.
+
+古文：著《纪》，高帝即位十二年。
+现代文：《本纪》记载，直壶在位十二年。
+English: According to the "Historical Records," Tadakettle reigned for twelve years.
+
+古文：惠帝，著《纪》，即位七年。
+现代文：惠帝，《纪》记载在位七年。
+English: Hui Di, "Ji" records that he reigned for seven years.
+
+古文：高后，著《纪》，即位八年。
+现代文：高后，《纪》记载在位八年。
+English: After high school, "Ji" records that he reigned for eight years.
+
+古文：文帝，前十六年，后七年，著《纪》，即位二十三年。
+现代文：文帝，前十六年，后七年，《本纪》记载在位二十三年。
+English: Emperor Wen, 16 years before, 7 years after, "this chronicle" records his reign of 23 years.
+
+古文：景帝，前七年，中六年，后三年，著《纪》，即位十六年。
+现代文：景帝，前七年，中六年，后三年，《本纪》记载在位十六年。
+English: Emperor Jing, the first seven years, the middle six years, the last three years, "this chronicle" records sixteen years on the throne.
+
+古文：武帝建元、元光、元朔各六年。
+现代文：武帝建元、元光、元朔各六年。
+English: Emperor Wu Jianyuan, Yuan Guang and Yuan Shuo each served six years.
+
+古文：元朔六年十一月甲申朔旦冬至，《殷历》以为乙酉，距初元七十六岁。
+现代文：元朔六年十一月甲申朔天明冬至，《殷历》认为在乙酉，距初元七十六年。
+English: According to the Yin Calendar, the winter solstice in November of the first year of the sixth lunar month of the first lunar month of the first lunar month of the sixth lunar month of the first lunar month of the sixth lunar month of the first lunar month of the first lunar month of the first lunar month of the first lunar month of the first lunar month of the first lunar month of the first lunar month of the first lunar month of the first lunar month of the first lunar month of the first lunar month of the first lunar month of the first lunar month of the first lunar month of the first lunar month of the first lunar month of the first lunar month of the first lunar month of the first lunar month of the first lunar month of
+
+古文：元狩、元鼎、元封各六年。
+现代文：元狩、元鼎、元封各六年。
+English: Genkari, Gending, and Genpo lasted six years each.
+
+古文：汉历太初元年，距上元十四万三千一百二十七岁。
+现代文：汉历太初元年，距上元十四万三千一百二十七年。
+English: In the first year of the first month of the Han calendar, it was 143,127 years since the Yuan Dynasty.
+
+古文：前十一月甲子朔旦冬至，岁在星纪婺女六度，故《汉志》曰：岁名困敦，正月岁星出婺女。
+现代文：前十一月甲子朔日天明冬至，岁星在星纪婺女六度，所以《漠志》说岁星叫困敦，正月岁星出婺女。
+English: The winter solstice falls on the morning of the first day of November, and the New Year's Star rises six degrees in the sky. Therefore, the "Moshi" says that the New Year's Star is called "Shuidun" and the New Year's Star is called "Shuijie."
+
+古文：太初、天汉、太始、征和各四年，后二年，著《纪》，即位五十四年。
+现代文：太初、天汉、太始、征和各四年，后二年，《纪》记载在位五十四年。
+English: Taizhong, Tianhan, Taizhong, Zhehe lasted four years each, and the last two years. "Chronicle" records 54 years on the throne.
+
+古文：昭帝始元、元凤各六年，元平一年，著《纪》，即位十三年。
+现代文：昭帝始元、元凤各六年，元平一年，《纪》记载在位十三年。
+English: Emperor Zhao Shiyuan and Emperor Yuanfeng each reigned for six years, Emperor Yuanping for one year, and "Chronicle" records that he reigned for thirteen years.
+
+古文：宣帝本始、地节、元康、神爵、五凤、甘露各四年，黄龙一年，著《纪》，即位二十五年。
+现代文：宣查奎盘、迪个、五尘、迚虽、互凰、苴露各四年，黄龙一年，《纪》记载在位二十五年。
+English: Xuan Zhaoping reigned for four years, Quipan, Di, Wucheng, Jianye, Huaihuang and Jianlu for four years, Huanglong for one year, and "Ji" recorded that he reigned for 25 years.
+
+古文：元帝初元二年十一月癸亥朔旦冬至，《殷历》以为甲子，以为纪首。
+现代文：五童翅五二年十一月癸亥朔天明冬至，《殷历》认为在甲子，作为纪的开头。
+English: According to the Yin Calendar, the winter solstice in November of 52 AD was in the year of the Go-Tang-Wing, which was the beginning of the Ji.
+
+古文：是岁也，十月日食，非合辰之会，不得为纪首。
+现代文：这一年，十月日食，不是合辰的交会，不能作为纪首。
+English: This year, the October solar eclipse, is not a conjunction, and cannot serve as the beginning of a chronicle.
+
+古文：距建武七十六岁。
+现代文：距面生七十六年。
+English: It's been 76 years since I was born.
+
+古文：初元、永光、建昭各五年，竟宁一年，著《纪》，即位十六年。
+现代文：扭五、丞光、建堕各五年，童宁一年，《纪》记载在位十六年。
+English: Twisting five, Zheng Guang, Jian Pu five years each, Tong Ning one year, "Chronicle" records 16 years on the throne.
+
+古文：成帝建始、河平、阳朔、鸿嘉、永始、元延各四年，绥和二年，著《纪》，即位二十六年。
+现代文：成帝建始、河平、阳朔、鸿嘉、永始、元延各四年，绥和二年，《纪》记载在位二十六年。
+English: Emperor Jianshi, Heping, Yangshuo, Hongjia, Yongshi, and Yuan Yan were each four years old at the time of his enthronement, and the "Chronicle" records that he reigned for twenty-six years.
+
+古文：哀帝建平四年，元寿二年，著《纪》，即位六年。
+现代文：塞壶建垩四年，亘蠢二年，《纪》记载在位六年。
+English: Cai Jianjun reigned for four years, Guo Bu for two years, and Ji recorded that he reigned for six years.
+
+古文：平帝，著《纪》，即位元始五年，以宣帝玄孙婴为嗣，谓之孺子。
+现代文：芒童，《纪》记载在位五始五年，以宣壶玄孙塑坠为嗣子，称他为鳖￡。
+English: Meng Tong, "Ji" records the first five years of his reign, with Xuan Jiu's great-great-grandson Shuxuan as his heir, calling him the "greatest."
+
+古文：孺子，著《纪》，新都侯王莽居摄三年，王莽居摄，盗袭帝位，窃号曰 新室 。
+现代文：彊王，《纪》记载面昼噬王菱昼堡三年，王菱暂居皇帝之位，处理政务，又盗取了帝位，私自称号为新室。
+English: According to the records of "Ji" (Chronicle), Wang Ling ruled for three years. Wang Ling temporarily occupied the emperor's throne, dealt with government affairs, and stole the imperial throne. I called myself the new wife.
+
+古文：始建国五年，天凤六年，地皇三年，著《纪》，盗位十四年。
+现代文：始建国五年，天凤六年，地皇三年，《纪》记载他盗取帝位十四年。
+English: It was five years after the founding of the country, six years for Tianfeng, and three years for the earthly emperor. "Chronicle" records that he stole the imperial throne for fourteen years.
+
+古文：更始帝，著《纪》，以汉宗室灭王莽，即位二年。
+现代文：更始帝，《纪》记载他作为汉朝的宗室灭掉王莽，在位二年。
+English: The first emperor, "Ji" records that he, as the ancestor of the Han Dynasty, eliminated Wang Mang, and reigned for two years.
+
+古文：赤眉贼立宗室刘盆子，灭更始帝。
+现代文：赤眉军立宗室刘盆子，消灭了更始帝。
+English: The Red Eyebrows established Liu Bon Zi as the imperial consort and eliminated Emperor Genshi.
+
+古文：自汉元年讫更始二年，凡二百三十岁。
+现代文：从汉朝元年到更始二年止，共二百三十年。
+English: From the first year of the Han Dynasty to the beginning of the second year, a total of 230 years.
+
+古文：光武皇帝，著《纪》，以景帝后高祖九世孙受命中兴复汉，改元曰建武，岁在鹑尾之张度。
+现代文：光武皇帝，《纪》记载他以景帝的后代高祖九世孙受天命中兴光复汉室，改元为建武，岁星在鹑尾的张度。
+English: Emperor Guangwu, "Ji" records that he took Emperor Jing's descendant Gaozu, the ninth-generation grandson, as the divine appointment to restore the Han Dynasty, and changed the era to Jianwu, with the year star at the end of the year.
+
+古文：建武三十一年，中元二年，即位三十三年。
+现代文：建武三十一年，中元二年，在位三十三年。
+English: Jianwu 31 years old, 2 years old, 33 years on the throne.
+

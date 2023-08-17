@@ -1,0 +1,172 @@
+古文：黄帝问曰：少阴何以主肾？
+现代文：黄帝问道：足少阴经为什么主肾？
+English: The Yellow Emperor asked, "Why is the main kidney affected by the deficiency of yin in the feet?
+
+古文：肾何以主水？
+现代文：肾又为什么主水？
+English: Why does the main water of the kidney swell?
+
+古文：岐伯对曰：肾者，至阴也。至阴者，盛水也。
+现代文：岐伯回答说：肾属于至阴之脏，至阴属水，所以肾是主水的脏器。
+English: Qi Bo replied, "Kidneys belong to yin organs, and yin organs belong to water, so kidneys are the main water organs.
+
+古文：肺者，太阴也。
+现代文：肺属于手太阴经。
+English: The lungs belong to the palmar-pituitary system.
+
+古文：少阴者，冬脉也。
+现代文：肾脉属于足少阴经，是旺于冬令的经脉。
+English: The renal vein belongs to the minor yin meridian, and is the meridian that is active in winter.
+
+古文：故其本在肾，其末在肺，皆积水也。
+现代文：所以水之根本在肾，水之标末在肺，肺肾两脏都能积聚水液而为病。
+English: Therefore, the root of water is in the kidneys, and the end of water is in the lungs. Both the lungs and the kidneys can accumulate water and cause disease.
+
+古文：帝曰：肾何以能聚水而生病？
+现代文：黄帝问：肾为什么能积聚水液而生病？
+English: Huang Di asked: Why can the kidneys accumulate fluid and get sick?
+
+古文：岐伯曰：肾者，胃之关也，关门不利，故聚水而从其类也。
+现代文：岐伯说：肾是胃的门关，门关闭不利，水液就要停滞，相聚而生病了。
+English: Qi Bo said: "The kidney is the gate of the stomach. It is not good for the door to be closed. The fluid will stagnate and get sick.
+
+古文：上下溢于皮肤，故为胕肿。
+现代文：其水液在人体上下泛溢于皮肤，所以形成浮肿。
+English: Its fluid overflows the skin up and down the body, causing edema.
+
+古文：胕肿者，聚水而生病也。
+现代文：浮肿的成因，就是水液积聚而生的病。
+English: The cause of edema is a disease caused by the accumulation of fluid.
+
+古文：帝曰：诸水皆生于肾乎？
+现代文：黄帝问道：各种水病都是由于肾而生成的吗？
+English: Huang Di asked: Are all kinds of water diseases caused by the kidneys?
+
+古文：岐伯曰：肾者牝脏也。
+现代文：岐伯说：肾脏在下属阴。
+English: Qi Bo said: The kidney is subordinate to yin.
+
+古文：地气上者，属于肾，而生水液也，故曰至阴。
+现代文：凡是由下而上蒸腾的地方都属于肾，因气化而生成的水液，所以叫做 至阴 。
+English: All the places that transpire from the bottom up belong to the kidneys, and the liquid water produced by gasification is called yin.
+
+古文：勇而劳甚，则肾汗出，肾汗出逢于风，内不得入于脏腑，外不得越于皮肤，客于玄府，行于皮里，传为胕肿，本之于肾，名曰风水。
+现代文：呈勇力而劳动太过，则汗出于肾；出汗时遇到风邪，风邪从开泄之腠理侵入，汗孔骤闭，汗出不尽，向内不能入于脏腑，向外也不得排泄于皮肤，于是逗留在玄府之中，皮肤之内，最后形成浮肿病。此病之本在于肾，病名叫 风水 。
+English: If you are brave and work too hard, the sweat will come from the kidneys; when you sweat, you will encounter a cold, the cold will invade from the principle of excretion, the sweat pores will suddenly close, the sweat will not be exhausted, it cannot enter the internal organs, nor can it be excreted from the skin, so it will stay in the body, within the skin, and finally form an edematous disease. The root of this disease lies in the kidneys, the disease is called Fengshui.
+
+古文：所谓玄府者，汗空也。
+现代文：所谓玄府，就是汗毛孔。
+English: The so-called genpu are sweat pores.
+
+古文：帝曰：水俞五十七处者，是何主也？
+现代文：黄帝问道：治疗水病的腧穴有五十七个，它们属哪脏所主？
+English: The Yellow Emperor asked: There are fifty-seven anus for curing water sickness. Which organ is responsible for them?
+
+古文：岐伯曰：肾俞五十七穴，积阴之所聚也，水所从出入也。
+现代文：岐伯说：肾俞五十七个穴位，是阴气所积聚的地方，也是水液从此出入的地方。
+English: Qi Bo said, "The fifty-seven acupoints of the renal pelvis are the places where yin and yang are accumulated, and also the places where water and liquid come in and go out.
+
+古文：尻上五行，行五者，此肾俞。
+现代文：尾骨之上有五行，每行五个穴位，这些是肾的俞穴。
+English: Above the coccyx there are five rows of five acupoints, these are the sockets of the kidney.
+
+古文：故水病下为胕肿，大腹，上为喘呼不得卧者，标本俱病。
+现代文：所以水病表现在下部则为浮肿、腹部胀大，表现在上部为呼吸喘急、不能平卧，这是肺与肾标本同病。
+English: Therefore, the lower part of the water sickness is characterized by edema and abdominal distension, and the upper part is characterized by shortness of breath and inability to lie flat. This is the same disease as the lung and kidney specimens.
+
+古文：故肺为喘呼，肾为水肿，肺为逆不得卧，分为相输俱受者，水气之所留也。
+现代文：所以肺病表现为呼吸喘急，肾病表现为水肿，肺病还表现为气逆，不得平卧；肺病与肾病的表现各不相同，但二者之间相互输应、相互影响着。
+English: Therefore, lung disease is manifested by shortness of breath, kidney disease is manifested by edema, and lung disease is also manifested by gas inversion and must not lie flat; the manifestations of lung disease and kidney disease are different, but the two are interrelated and influence each other.
+
+古文：伏菟上各二行，行五者，此肾之街也。
+现代文：之所以肺、肾都发生了病变，是由于水气停留于两脏的缘故。伏兔上方各有两行，每行五个穴位这里是肾气循行的重要道路。
+English: The reason why the lungs and kidneys have developed lesions is due to the fact that the water vapor stays in the two viscera. There are two rows above the hare, with five points in each row. This is an important path for the kidney gas to travel along.
+
+古文：三阴之所交结于脚也。
+现代文：足三阴经交结在脚上。
+English: The three yin and yang of the foot are intertwined on the foot.
+
+古文：踝上各一行，行六者，此肾脉之下行也，名曰太冲。
+现代文：足内踝上方各有一行，每行六个穴位，这是肾的经脉下行于脚的通路，名叫太冲。
+English: Each foot has a row of six acupoints above the inner ankle. This is the passage of the kidney under the meridians in the foot, called the tachyon.
+
+古文：凡五十七穴者，皆脏之阴络，水之所客也。
+现代文：以上共五十七个穴位，都藏在阴经之中，也是水液容易停聚的地方。
+English: The above-mentioned total of fifty-seven points are all hidden in the yin and yang, and are also places where water and liquid can easily accumulate.
+
+古文：帝曰：春取络脉分肉，何也？
+现代文：黄帝问道：春天针刺，取络脉分肉之间，是什么道理？
+English: Huangdi asked: What is the reason for the needling in the spring and the separation of the vas deferens?
+
+古文：岐伯曰：春者木始治，肝气始生，肝气急，其风疾，经脉常深，其气少，不能深入，故取络脉分肉间。
+现代文：岐伯说：春天木气开始当令，在人体，肝气开始发生；肝气的特性是急躁，如变动的风一样迅疾，但是肝的经脉往往藏于深部，而风刚发生，尚不太剧烈，不能深入经脉，所以只要浅刺络脉分肉之间就行了。
+English: Qi Bo said: In the spring, the wood gas begins to be in charge, and in the human body, the liver gas begins to occur; the characteristic of the liver gas is impatience, as swift as the changing wind, but the liver meridians are often hidden in the deep, and the wind just occurred, is not too violent, can not penetrate into the meridians, so as long as the superficial spiny vascular meat between the line.
+
+古文：帝曰：夏取盛经分腠，何也？
+现代文：黄帝问道：夏天针刺，取盛经分腠之间，是什么道理？
+English: The Yellow Emperor asked, "What is the reason for the needling in summer, between the time of the lunar new year and the lunar new year?"
+
+古文：岐伯曰：夏者火始治，心气始长，脉瘦气弱，阳气留溢，热熏分腠，内至于经，故取盛经分腠。
+现代文：岐伯说：夏天火气开始当令，心气开始生长壮大；如果脉形瘦小而搏动气势较弱，是阳气充裕流溢于体表，热气熏蒸于分肉腠理，向内影响于经脉，所以针刺应当取盛经分腠。
+English: Qi Bo said: In summer, the fire begins to be in charge, and the qi begins to grow and grow; if the vein shape is thin and the pulsation momentum is weak, it is the yang that is abundant and overflows on the body surface, the hot air is fumigated in the meridians, and inwardly affects the meridians, so the acupuncture should be taken in the meridians.
+
+古文：绝肤而病去者，邪居浅也。
+现代文：针刺不要过深只要透过皮肤而病就可痊愈，是因为邪气居于浅表部位的缘故。
+English: Do not prick the needle too deeply, as long as the disease is through the skin, it can be cured, because the evil spirit lives in the superficial parts.
+
+古文：所谓盛经者，阳脉也。
+现代文：所谓盛经，是指丰满充足的阳脉。
+English: The so-called "shengjing" refers to the fullness of the yang vein.
+
+古文：帝曰：秋取经俞，何也？
+现代文：黄帝问道：秋天针刺，要取 经 穴和 输 穴，是什么道理？
+English: The Yellow Emperor asked, "What is the reason for acupuncture in the autumn, and the need to take acupuncture points and lose acupuncture points?"
+
+古文：岐伯曰：秋者金始治，肺将收杀，金将胜火，阳气在合，阴气初胜，湿气及体，阴气未盛，未能深入，故取俞以泻阴邪，取合以虚阳邪，阳气始衰，故取于合。
+现代文：岐伯说：秋气当令肺气开始收敛肃杀，金气渐旺逐步盛过衰退的火气，阳气在经脉的合穴，阴气初生，遇湿邪侵犯人体，但由于阴气未至太盛，不能助湿邪深入，所以针刺取经的 输 穴以泻阴湿之邪，取阳经的 合 穴以泻阳热之邪。由于阳气开始衰退而阴气未至太盛，所以不取 经 穴而取 合 穴。
+English: Qi Bo said: Autumn qi is when the lung qi begins to converge and suffocate, the fire qi gradually prevails over the declining fire qi, the yang qi is in the meridians of the meridians, the yin qi is born, and the wet evil invades the human body. However, since the yin qi is not too strong, it cannot help the wet evil to penetrate, so the acupuncture meridians are the evil of laxity and dampness, and the meridians are the evil of laxity and heat. Since the yang qi begins to decline and the yin qi is not too strong, the meridians are
+
+古文：帝曰：冬取井荥，何也？
+现代文：黄帝问道：冬天针刺，要取 井 穴和 荥 穴，是什么道理？
+English: The Yellow Emperor asked, "What is the reason for acupuncture in winter, and the need to take a well hole and an acupuncture hole?"
+
+古文：岐伯曰：冬者水始治，肾方闭，阳经衰少，阴气坚盛，巨阳伏沉，阳脉乃去，故取井以下阴逆，取荥以实阳气，故曰： 冬取井荥，春不鼽衄。 
+现代文：岐伯说：冬天水气开始当令，肾气开始闭藏，阳气已经衰少，阴气更加坚盛，太阳之气浮沉于下，阳脉也相随沉伏，所以针刺要取阳经的 井 穴以抑降其阴逆之气，取阴经的 荥 穴以充实不足之阳气。因此说： 冬取井荥，春不鼽衂。 
+English: Qibo said: In winter, the water and gas begin to be in charge, the kidney gas begins to close, the yang gas has declined, the yin gas is more solid, the sun's gas floats and sinks, and the yang vein also sinks with it. Therefore, acupuncture should take the well of the yang chant to suppress its negative and negative gas, and take the well of the yin chant to replenish the insufficient yang gas. Therefore, it is said: Take the well in winter, and do not take it in spring.
+
+古文：此之谓也。
+现代文：就是这个道理。
+English: This is exactly what is happening.
+
+古文：帝曰：夫子言治热病五十九俞，余论其意，未能领别其处，愿闻其处，因闻其意。
+现代文：黄帝道：先生说过治疗热病的五十九个腧穴，我已经知道其大概，但还不知道这些腧穴的部位，请告诉我它们的部位，并说明这些腧穴在治疗上的作用。
+English: Huang Di said: Sir said that there are fifty-nine acupoints in the treatment of fever. I already know the general outline, but I don't know the parts of these acupoints. Please tell me their parts and explain the role of these acupoints in the treatment.
+
+古文：岐伯曰：头上五行，行五者，以越诸阳之热逆也。大杼、膺俞、缺盆、背俞，此八者，以泻胷中之热也。
+现代文：岐伯说：头上有五行，每行五个穴位的上星、囟会、前顶、百会、后顶穴，次两旁的五处、承光、通天、络却、玉枕穴，又次两旁的头临泣、目窗、正营、承灵、脑空穴，共二十五穴，能泄越诸阳经上逆的热邪。大杼、膺窗、缺盆、背俞这八个穴位，可以泻除胸中的热邪。
+English: Qibo said, "There are five lines on the head, each line has five points: Shang Xing (上星), Xing Hui (会), Qian Ding (前顶), Bai Xing (百会) and Hou Ding (后頂穴), the five points on each side of the head are: Zheng Guang (承光), Tong Tian (通天) (通天) (通天) (通天) (通天) (通天) (連光) (通天) (通天) (通天) (通天) (通天) (通天) (通天) (通天) (通天) (通天) (通天)
+
+古文：气街、三里、巨虚上下廉，此八者，以泻胃中之热也。
+现代文：气冲、三里、上巨虚、下巨虚这八个穴位，可以泻出胃中的热邪。
+English: The eight acupoints of qi-chong, san-li, shang-guo-huang, and shang-guo-huang can expel the heat evil in the stomach.
+
+古文：云门、髃骨、委中、髓空，此八者，以泻四肢之热也。
+现代文：云门、肩髃、委中、髓空这八个穴位，可以泻出四肢的热邪。
+English: The eight acupoints of the pharynx, scapula, epiglottis, and medullary cavity can discharge the heat of the extremities.
+
+古文：五脏俞旁五，此十者，以泻五脏之热也。
+现代文：五脏的俞穴在脊椎的两旁共五个，左右共十穴，是泻五脏之热的腧穴。
+English: There are a total of five cavities in the five viscera on both sides of the spine, and a total of ten on the left and right, which are the hot cavities of the five viscera.
+
+古文：凡此五十九穴者，皆热之左右也。
+现代文：以上共五十九个穴位，都是治疗热病的腧穴。
+English: The above are a total of fifty-nine acupoints, all of which are acupoints for treating fever.
+
+古文：帝曰：人伤于寒而传为热，何也？
+现代文：黄帝说：人感受了寒邪反而会传变为热病，这是什么原因？
+English: The Yellow Emperor said, "When a person feels the cold, it will turn into a fever. What is the reason for this?"
+
+古文：岐伯曰：夫寒盛则生热也。
+现代文：岐伯说：寒气盛极，就会郁而发热。
+English: Qi Bo said: When the cold weather is at its peak, you will feel depressed and feverish.
+

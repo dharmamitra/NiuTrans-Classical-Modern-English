@@ -1,0 +1,48 @@
+古文：黄帝问于岐伯曰：水与肤胀、鼓胀、肠覃、石瘕、石水，何以别之？
+现代文：黄帝问岐伯道：水胀、肤胀、鼓胀、肠覃与石水等病症，如何进行鉴别呢？
+English: The Yellow Emperor asked Qibao Dao: How to distinguish the symptoms of bloating, skin bloating, flatulence, intestinal cramps and stone water?
+
+古文：岐伯曰：水始起也，目窠上微肿，如新卧起之状，其颈脉动，时咳，阴股间寒，足胫肿，腹乃大，其水已成矣。
+现代文：岐伯回答说：水胀发病之初，病人的眼睑微肿，好像刚睡醒时的样子，人迎脉搏动迅疾，经常咳嗽，大腿内侧感觉寒冷，脚和小腿浮肿，最后发展到腹部胀大，水胀病就形成了。
+English: Qi Bo replied: At the beginning of the onset of dropsy, the patient's eyelids were slightly swollen, as if they had just woken up, the person had a rapid pulse, often coughed, the inner thighs felt cold, the feet and lower legs were puffy, and finally developed to abdominal distension, and dropsy disease was formed.
+
+古文：以手按其腹，随手而起，如裹水之状，此其候也。黄帝曰：肤胀何以候之？
+现代文：用手按压病人腹部，放开手时，被按压的凹陷随手而起，就好像按在盛水的袋子上一样，这就是水胀病的特征。黄帝问：肤胀病怎样诊断呢?
+English: The patient's abdomen is pressed with the hand, and when the hand is released, the depressed depression rises with the hand, as if it were pressed on a bag containing water. This is the characteristic of the water bloating disease. Huang Di asked: How is the skin bloating disease diagnosed?
+
+古文：岐伯曰：肤胀者，寒气客于皮肤之间，然不坚，腹大，身尽肿，皮厚，按其腹窅而不起，腹色不变，此其候也。鼓胀何如？
+现代文：岐伯答道：肤胀病是因为寒邪侵入皮肤之间引起的，病人表现腹部胀大，用手叩击腹部，响如鼓声，中空而不坚实，腹部胀大，全身浮肿，皮肤厚，用手按压腹部，放开手时凹陷不能随手而起，腹部皮肤颜色没有变化，这就是肤胀病的特征。
+English: Qi Bo replied, "Bloating disease is caused by the cold invading the skin. The patient has a swollen abdomen. If you hit the abdomen with your hand, it will sound like a drum. It is hollow and not solid. The abdomen is swollen, the whole body is swollen, and the skin is thick. If you press the abdomen with your hand, when you let go of your hand, the depression will not rise with your hand. The skin color of the abdomen will not change. This is the characteristic of bloating disease."
+
+古文：岐伯曰：腹胀身皆大，大与肤胀等也，色苍黄，腹筋起，此其候也。
+现代文：黄帝问：鼓胀病的表现是什么样呢？岐伯答道：鼓胀病的腹部胀大和全身肿胀的表现与肤胀病相同。只是膨胀病的肤色青黄，腹部的青筋暴露，这就是鼓胀病的特征。
+English: Huang Di asked, "What are the symptoms of bulging disease?" Qi Bo replied, "The symptoms of bulging disease, such as abdominal distension and swelling of the whole body, are the same as those of skin bloating disease. However, the skin color of bulging disease is blue-yellow, and the blue tendons in the abdomen are exposed. This is the characteristic of bulging disease."
+
+古文：肠覃何如？
+现代文：黄帝问：肠覃的表现怎样呢？
+English: Huang Di asked: How is the performance of intestinal fistula?
+
+古文：岐伯曰：寒气客于肠外，与卫气相搏，气不得荣，因有所系，癖而内着，恶气乃起，瘜肉乃生。
+现代文：岐伯答道：寒邪侵袭肠体外面，与卫气相互搏结在一起，正气不能荣旺，因而有所系结，积聚成癖而附着于内，于是恶气乘机而起，息肉随之而生。
+English: Qi Bo replied, "Cold evil invades the outside of the intestine and fights with Wei qi. Zheng qi cannot flourish, so it is bound, accumulates into a habit and adheres to the inside. As a result, evil qi takes advantage of the opportunity to arise, and polyps are born.
+
+古文：其始生也，大如鸡卵，稍以益大，至其成，如怀子之状，久者离岁，按之则坚，推之则移，月事以时下，此其候也。
+现代文：肠覃病初期，腹部的肿块像鸡蛋那样大，随着疾病的发展，肿块也逐渐增大，完全形成时，腹部隆起好像怀孕一样，病程长的，可以历经数年。用手按压，肿块很坚硬，推之能够移动。月经仍旧按时来潮。这就是肠覃的特征。
+English: At the beginning of the disease, the lump in the abdomen is as large as an egg. As the disease progresses, the lump gradually increases in size. When fully formed, the abdominal bulge looks like pregnancy. The course of the disease is long and can last for several years. When pressed by hand, the lump is very hard and can be pushed to move. Menstruation still comes on time. This is the characteristic of intestinal fistula.
+
+古文：石瘕何如？
+现代文：黄帝问：石瘕的表现又是怎样的呢？
+English: Huang Di asked: What is the performance of the stalagmites?
+
+古文：岐伯曰：石瘕生于胞中，寒气客于子门，子门闭塞，气不得通，恶血当泻不泻，衄以留止，日以益大，状如怀子，月事不以时下，皆生于女子，可导而下。
+现代文：岐伯答道：石瘕病灶在子宫中，由于寒邪侵犯子宫口，使子宫口闭塞，气血不能流通，本应按时排泄的恶血不能排泄，以致凝结成块而滞留在子宫中，随时间而逐渐增大，腹部隆起也像怀孕一样，但是月经不能按时来潮。患这种病的都是女性，可以用通导攻下以祛除瘀血的方法治疗。
+English: Qi Bo replied: The stone warts are located in the uterus. Due to the cold evil invading the uterine orifice, the uterine orifice is blocked, the qi and blood cannot circulate, and the bad blood that should be excreted on time cannot be excreted. As a result, it condenses into a block and remains in the uterus, gradually increasing over time. The abdominal bulge is also like pregnancy, but menstruation cannot come on time. All women suffering from this disease can be treated by removing the pus and blood.
+
+古文：黄帝曰：肤胀、鼓胀可刺邪？
+现代文：黄帝问：肤胀和鼓胀病，可以运用针刺的方法治疗吗？
+English: Huang Di asked: Can skin swelling and bloating be treated with acupuncture?
+
+古文：岐伯曰：先泻其胀之血络，后调其经，刺去其血络也。
+现代文：岐伯答道：治疗这两种疾病，应首先用针刺泻除胀大的血络，然后再根据疾病的具体情况调理相应的经脉。
+English: Qi Bo replied: To treat these two diseases, you should first remove the swollen blood vessels with acupuncture, and then adjust the corresponding meridians according to the specific circumstances of the disease.
+

@@ -1,0 +1,216 @@
+古文：黄帝问曰：用针之服，必有法则焉，今何法何则？
+现代文：黄帝问道：用针的技术，必然有一定的方法准则，究竟有什么方法，什么准则呢？
+English: Huang Di asked: the technique of using needles must have a certain method standard. What method and standard does it have?
+
+古文：岐伯对曰：法天则地，合以天光。
+现代文：岐伯回答说：要效法于天地自然的变化，并结合日、月、星辰的运行规律。
+English: Qibo replied, "We should follow the natural changes of heaven and earth, and combine the movement of the sun, moon, and stars.
+
+古文：帝曰：愿卒闻之。
+现代文：黄帝道：请立即详尽解释一下。
+English: Huang Di said, "I hope you can tell me everything in detail."
+
+古文：岐伯曰：凡刺之法，必候日月星辰，四时八正之气，气定乃刺之。
+现代文：岐伯说：凡针刺之法，必须首先观察日月星辰的盈亏消长，以及四时八正的气候变化，熟练掌握之后方可进行针刺。
+English: Qibo said: For any method of acupuncture, it is necessary to first observe the growth and decline of the sun, moon and stars, as well as the climate change at four o'clock, and only after mastering it can acupuncture be performed.
+
+古文：是故天温日明，则人血淖液而卫气浮，故血易泻，气易行；天寒日阴，则人血凝泣而卫气沉。
+现代文：所以，气候温和，日色晴朗时，则人的血液运行流畅，而卫气充盈浮于肌表，血容易泻，气容易行；天气寒冷，日色阴霾时，则人的血液运行凝涩，而卫气沉潜于里。
+English: Therefore, when the climate is mild and the sun is bright, people's blood runs smoothly, while the atmosphere is full and floating on the skin surface, blood is easy to leak, and gas is easy to travel; when the weather is cold and the sun is gloomy, people's blood runs stiff, and the atmosphere is submerged.
+
+古文：月始生则血气始精，卫气始行；月郭满则血气实，肌肉坚；月郭空则肌肉减，经络虚，卫气去，形独居。
+现代文：月亮初生的时候，血气开始流利，卫气开始运行；月正圆的时候，则人体血气充实，肌肉坚实；月黑无光的时候，肌肉减弱，经络空虚，卫气衰减，形体独居。
+English: When the moon was first born, the blood gas began to flow smoothly, and the aether began to run; when the moon was full, the human body was full of blood gas and the muscles were solid; when the moon was dark, the muscles weakened, the meridians were empty, the aether decayed, and the body lived alone.
+
+古文：是以因天时而调血气也。
+现代文：所以要顺着天时而调治血气。
+English: Therefore, it is necessary to regulate the blood gas according to the time of day.
+
+古文：是以天寒无刺，天温无凝，月生无泻，月满无补，月郭空无治。
+现代文：因此天气寒冷，不要针刺；天气温和，不要迟疑；月亮初生的时候，不可用泻法；月亮圆满的时候，不可用补法；月黑无光的时候，不要针刺。
+English: Therefore, when the weather is cold, do not prick; when the weather is mild, do not hesitate; when the moon is new, do not use the method of laxation; when the moon is full, do not use the method of supplementation; when the moon is dark, do not prick.
+
+古文：是谓得时而调之。
+现代文：这就是所说的顺着天时而调治的法则。
+English: This is the so-called law of governing in accordance with the times.
+
+古文：因天之序，盛虚之时，移光定位，正立而待之。
+现代文：根据天体运行的秩序，月亮盈亏盛虚的变化，日晷测量的日影长短，确定四时八正之气以待治疗的时机。
+English: According to the order of the celestial bodies, the changes of the moon's waxing and waning, the length of the sun's shadow measured by the sundial, and the time to determine the correct time for treatment.
+
+古文：故曰：月生而泻，是谓藏虚。月满而补，血气扬溢，络有留血，命曰重实。月郭空而治，是谓乱经。
+现代文：所以说如果反其道而行之，月亮初生时而泻，就会使内脏虚弱；月正圆时而补，使血气充溢于表，以致络脉中血液留滞，这叫做 重实 ；月黑无光的时候用针刺，就会扰乱经气，叫做 乱经 。
+English: Therefore, if you do it the other way around, when the moon is first born, when it is waning, it will make the internal organs weak; when the moon is full, it will make the blood gas overflow on the surface, so that the blood remains in the veins, which is called heavy; when the moon is dark and there is no light, it will disturb the flow of qi with needles, which is called irregular menstruation.
+
+古文：阴阳相错，真邪不别，沉以留止，外虚内乱，淫邪乃起。
+现代文：阴阳相错，正气与邪气不分，使邪气反而深入，致卫外的阳气虚竭，内守的阴精紊乱，淫邪就要发生了。
+English: Yin and yang are intertwined, righteous and evil spirits are inseparable, so that the evil spirits are deepened, the yang spirits outside the gate are exhausted, the yin spirits inside the gate are disordered, and sexual evil is about to occur.
+
+古文：帝曰：星辰八正何候？
+现代文：黄帝道：星辰、八正怎样预测呢？
+English: Huang Di said: How are the stars and the eight directions predicted?
+
+古文：岐伯曰：星辰者，所以制日月之行也。
+现代文：岐伯说：观察星辰的方位，可以定出日月循行的度数。
+English: Qibo said: Observing the position of the stars, you can determine the degree of the sun and the moon.
+
+古文：八正者，所以候八风之虚邪，以时至者也。
+现代文：观察八节常气的交替，可以用它预测八方的邪气到来的时间。
+English: Observing the alternation of the eight seasons, it can be used to predict the time of the arrival of the evil spirits of the eight directions.
+
+古文：四时者，所以分春秋冬夏之气所在，以时调之也。
+现代文：观察四时，可以分别春夏秋冬的气候变化规律，并按照时序来调养身体。
+English: At four o'clock, you can observe the climate change patterns of spring, summer, autumn and winter, and adjust your body according to the time sequence.
+
+古文：八正之虚邪而避之勿犯也。
+现代文：对于八节的虚邪贼风，要避免受其侵犯。
+English: As for the eight-syllable false and evil thief wind, it is necessary to avoid being violated by it.
+
+古文：以身之虚而逢天之虚，两虚相感，其气至骨。
+现代文：假如，身体虚弱，再遭受自然界虚邪贼风的侵袭，两虚相互感应，邪气就可以侵犯筋骨，再深入一步，就可以伤害五脏。
+English: If the body is weak and is attacked by the evil wind of nature, and the two evils interact, the evil wind can invade the muscles and bones, and if it goes one step deeper, it can hurt the internal organs.
+
+古文：入则伤五脏，工候救之，弗能伤也。故曰： 天忌不可不知也。 
+现代文：医生懂得气候变化的规律，就能及时挽救病人，而不至于使病人受到严重伤害。所以说： 天时的宜忌，不可不知道。 
+English: Doctors who understand the laws of climate change can save patients in time, without causing serious harm to patients. Therefore, they say: it is not advisable not to know the weather.
+
+古文：帝曰：善。
+现代文：黄帝道：讲得好！
+English: Emperor Jinwu said, "Very good."
+
+古文：其法星辰者，余闻之矣，愿闻法往古者。
+现代文：关于取法于星辰的道理，我已经知道了，希望你讲讲怎样效法于前人？
+English: Regarding the principle of learning from the stars, I already know. I hope you can tell me how to learn from the predecessors?
+
+古文：岐伯曰：法往古者，先知《针经》也。
+现代文：岐伯说：要取法和运用前人的医术，先要懂得《针经》。
+English: Qi Bo said: To learn and apply the medical techniques of the predecessors, we must first understand the "Needle Sutra."
+
+古文：验于来今者，先知日之寒温，月之虚盛，以候气之浮沉，而调之于身，观其立有验也。
+现代文：要想把古人的经验验证于现在，必先要知道日之寒温，月之盈亏，四时气候的浮沉，而用以调治于病人，就可以看到这种方法是确实有效的。
+English: If you want to verify the experience of the ancients in the present, you must first know the cold temperature of the sun, the profit and loss of the moon, and the ups and downs of the four-hour climate. And when used to treat patients, you can see that this method is really effective.
+
+古文：观其冥冥者，言形气荣卫之不形于外，而工独知之。
+现代文：所谓观察疾病于未发之时，就是说荣卫气血的变化虽不显露于外，而医生却能懂得。
+English: The so-called observation of the disease before it occurs means that although the changes in Rong Wei's qi and blood are not obvious to the outside world, the doctor can understand them.
+
+古文：以日之寒温，月之虚盛，四时气之浮沉，参伍相合而调之，工常先见之，然而不形于外，故曰观于冥冥焉！
+现代文：从日之寒温，月之盈亏，四时气候之浮沉等，进行综合分析，做出判断，然后进行调治，医生对于疾病常有先见之明，虽然疾病并未显露于外，但是却能观察疾病于未发之时。
+English: From the cold temperature of the sun, the profit and loss of the moon, the ups and downs of the four-hour climate, etc., a comprehensive analysis is carried out, a judgment is made, and then treatment is adjusted. Doctors are often prescient about diseases. Although the disease is not exposed to the outside world, they can observe the disease before it occurs.
+
+古文：通于无穷者，可以传于后世也。
+现代文：能够运用这种方法，通达各种事理，他的经验就可以流传于后世。
+English: If he can use this method to solve various problems, his experience can be passed on to future generations.
+
+古文：是故工之所以异也。
+现代文：这是学识经验丰富的医生不同于一般人的地方。
+English: This is where the learned and experienced doctor differs from the average person.
+
+古文：然而不形见于外，故俱不能见也。
+现代文：然而当病情不显露在表面的时候，一般人都不容易发现。
+English: However, when the disease does not appear on the surface, it is not easy for the average person to find out.
+
+古文：视之无形，尝之无味，故谓冥冥，若神髣髴。
+现代文：看不到形迹，尝不出味道，所以疾病于未发之时，就像幽灵一般飘渺难以诊治。
+English: You can't see the signs, you can't taste it, so when the disease hasn't developed, it's like a ghost and it's difficult to diagnose and treat.
+
+古文：虚邪者，八正之虚邪气也；正邪者，身形若用力汗出，腠理开，逢虚风，其中人也微，故莫知其情，莫见其形。
+现代文：虚邪，就是四时八节的虚邪贼风；正邪，就是人在劳累时汗出，腠理开时而遭受虚风，正邪伤人轻微，没有明显的感觉，也无明显病状表现。
+English: False evil is the false evil of the four o'clock and eight o'clock; true evil is that people sweat when they are tired and suffer from false wind when they are ill. True evil hurts people slightly, with no obvious feeling and no obvious manifestation of the disease.
+
+古文：上工救其萌芽，必先见三部九候之气，尽调不败而救之，故曰上工。下工救其已成，救其已败。
+现代文：技术高明的医生治疗于疾病初起之时，必先判断三部九候之气，以调和于未败坏之时而进行早期治疗，所以称为 上工 。 下工 临诊，是要等疾病已经形成，甚或至于恶化阶段，才进行治疗。
+English: When a highly skilled doctor treats the disease at the initial stage, he must first judge the three parts of the nine seasons to reconcile and carry out early treatment when it has not deteriorated, so it is called the upper work, the lower work, and the outpatient clinic. It is necessary to wait for the disease to have formed, or even for the worsening stage, before treatment.
+
+古文：救其已成者，言不知三部九候之相失，因病而败之也。
+现代文：治疗要等到病成阶段，是因为不懂得三部九候的相得相失，致使疾病发展恶化了。
+English: Treatment should wait until the stage of disease formation, because it is not understood that the three parts of the nine phases are incompatible, resulting in the deterioration of disease development.
+
+古文：知其所在者，知诊三部九候之病脉处而治之，故曰守其门户焉。莫知其情，而见邪形也。
+现代文：要明了治疗的关键，必须从三部九候的病症脉象进行治疗，这就像看守门户一样的重要，虽然外表尚未见到病情，而医者已经知道疾病的形迹了。
+English: To understand the key to treatment, it is necessary to treat from the three-part nine-day disease pattern, which is as important as guarding the portal, although the appearance has not yet seen the disease, and the doctor already knows the signs of the disease.
+
+古文：帝曰：余闻补泻，未得其意。
+现代文：黄帝道；我听说：针刺有补泻二法，不懂得它的意义。
+English: Huang Di said, I heard that acupuncture has two methods of supplementation and purgation, but I don't understand its meaning.
+
+古文：岐伯曰：泻必用方。
+现代文：岐伯说：泻法必须掌握一个 方 字。
+English: Qi Bo said: "The laxity method must master a character.
+
+古文：方者，以气方盛也，以月方满也，以日方温也，以身方定也。以息方吸而内针，乃复候其方吸而转针，乃复候其方呼而徐引针，故曰泻必用方，其气而行焉。
+现代文：所谓 方 ，就是正气方盛，月亮方满，天气方温和，身心方稳定的时候，并且要在病人吸气的时候进针，再等到他吸气的时候转针，还要等他呼气的时候慢慢的拔出针来，所以说泻必用 方 ，才能发挥泻的作用，使邪气泻去而正气运行。
+English: The so-called way is when the qi is high, the moon is full, the weather is mild, and the body and mind are stable, and the needle should be inserted when the patient inhales, and then the needle should be rotated when he inhales, and the needle should be slowly pulled out when he exhales. Therefore, it is necessary to use the way to play the role of diarrhea in order to make the evil qi diarrhea go and the righteous qi run.
+
+古文：补必用员。
+现代文：补法必须掌握一个 圆 字。
+English: Complement must master a circled word.
+
+古文：员者，行也，行者，移也。
+现代文：所谓 圆 ，就是行气，行气，就是导移其气以至病所。
+English: The so-called "circle" is the movement of qi, the movement of qi is the conduction of its qi to the hospital.
+
+古文：刺必中其荣，复以吸排针也。
+现代文：刺必要中其腧穴，还要在病人吸气时拔针。
+English: It is necessary to puncture the puncture hole, and also to pull out the needle when the patient inhales.
+
+古文：故员与方，非针也。
+现代文：所谓 圆 与 方 ，并不是指针的形状。
+English: The so-called circle and square are not the shape of a pointer.
+
+古文：故养神者，必知形之肥瘦，荣卫血气之盛衰。
+现代文：一个技术高超有修养的医生，必须明了病人形体的肥瘦，营卫血气的盛衰。
+English: A highly skilled and cultured doctor must understand the shape of the patient's body, the rise and fall of blood and gas.
+
+古文：血气者，人之神，不可不谨养。
+现代文：因为血气是人之神的物质基础，不可不谨慎的保养。
+English: Because blood and qi are the material foundation of man's god, they must be carefully maintained.
+
+古文：帝曰：妙乎哉论也！
+现代文：黄帝道：多么奥妙的论述啊！
+English: Huang Di said: What a profound exposition!
+
+古文：合人形于阴阳四时，虚实之应，冥冥之期，其非夫子，孰能通之。
+现代文：把人身变化和阴阳四时虚实联系起来，这是非常微妙的结合，要不是先生，谁能够弄得懂呢！
+English: It is a very delicate combination to link the changes in a person's body with the yin and yang of reality and illusion. If it were not for you, who would be able to understand it?
+
+古文：然夫子数言形与神，何谓形？
+现代文：然而先生屡次说道形如神，究竟什么叫形呢？
+English: However, Mr. repeatedly said that the shape is like a god, what exactly is the shape?
+
+古文：何谓神？
+现代文：什么叫神呢？
+English: What is God?
+
+古文：愿卒闻之。
+现代文：请你详尽的讲一讲。
+English: Please tell us in detail.
+
+古文：岐伯曰：请言形。
+现代文：岐伯说：请让我先讲形。
+English: Qi Bo said, "Please let me speak first."
+
+古文：形乎形，目冥冥，问其所病，索之于经，慧然在前。
+现代文：所谓形，就是反映于外的体征，眼睛所能观察到的情况，此时再问明发病的原因，通过仔细诊察脉象的变化，则病情就清楚的摆在面前。
+English: The so-called shape is reflected in the external signs, the situation that can be observed by the eyes. At this time, the cause of the disease is clarified. By carefully examining the changes in the pulse, the condition is clearly in front of us.
+
+古文：按之不得，不知其情，故曰形。
+现代文：如果不通过接触病人的形体，就不能准确把握病人病情的，就叫做形。
+English: If it is not possible to accurately grasp the patient's condition without contacting the patient's body, it is called shape.
+
+古文：帝曰：何谓神？
+现代文：黄帝道：什么叫神呢？
+English: Huang Di said: What do you call God?
+
+古文：岐伯曰：请言神。
+现代文：岐伯说：请让我再讲神。
+English: Gibo said, "Please let me talk about God again."
+
+古文：神乎神，耳不闻，目明心开而志先，慧然独悟，口弗能言，俱视独见，适若昏，昭然独明，若风吹云，故曰神。
+现代文：所谓神，是非常微妙难测的感知，是耳朵听不到的，是通过明亮的眼睛和心灵的合一才能感知到的，心领神会的独自感悟，这不是言语所能表达清楚的，只能依靠个人的独自领会，犹如在黑暗之中观察一个东西，大家都还没有看到，只有达人能够独自率先发现，好像风吹云散一样通明，所以叫做神。
+English: The so-called God is a very subtle and difficult perception, which cannot be heard by the ear, but can only be perceived through the bright eyes and the unity of the soul, the unique perception of the heart to understand God. This is not something that can be expressed clearly in words, but can only rely on the individual's own understanding. It is like observing something in the dark that everyone has not yet seen, and only a skilled person can take the lead in discovering it alone. It is as clear as the wind blowing through the clouds, so it is called God.
+
+古文：三部九候为之原，九针之论不必存也。
+现代文：若以三部九候为之本原，就不必拘守九针的理论了。
+English: If you take the three parts of the nine seasons as the basis, you don't have to stick to the theory of nine steps.
+

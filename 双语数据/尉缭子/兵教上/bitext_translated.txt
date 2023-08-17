@@ -1,0 +1,120 @@
+古文：兵之教令，分营居陈，有非令而进退者，加犯教之罪。
+现代文：军队的教令规定，在分设营垒或布列阵势中，凡有不按照教令进退的，都给以违犯教令的处分。
+English: The army's edict stipulates that anyone who does not advance or retreat in accordance with the edict will be punished for violating the edict.
+
+古文：前行者，前行教之；后行者，后行教之；左行者，左行教之；右行者，右行教之。
+现代文：由后行的伍长教练。左行的士兵，由左行的伍长教练。右行的士兵，由右行的伍长教练。
+English: Corporal coach to the rear. Soldier to the left, Corporal coach to the left. Soldier to the right, Corporal coach to the right.
+
+古文：教举五人，其甲首有赏。
+现代文：教练好五个人，那个伍长应当受到奖励。
+English: That corporal should be rewarded for training five good men.
+
+古文：弗教，如犯教之罪。
+现代文：教练不好，就应受到违犯教令的惩罚。
+English: If the coach is not good, he should be punished for violating the instruction.
+
+古文：罗地者，自揭其伍。伍内互揭之，免其罪。
+现代文：因伤病不能参加教练的，自己先向伍内报告，伍内士兵为他作证，可以免受处罚。
+English: Those who are unable to participate in the training due to injury or illness should first report to the troop, and the soldiers in the troop can testify for him and can be exempted from punishment.
+
+古文：凡伍临陈，若一人有不进死于敌，则教者如犯法者之罪。
+现代文：凡是同伍的人临阵交锋，如有一人不向前与敌死战，则负责教练的伍长，应和犯法的人同罪。
+English: If anyone in the same company does not go forward to fight the enemy to the death, the company commander, who is responsible for the drill, shall be guilty of the same crime as the offender.
+
+古文：凡什保什，若亡一人，而九人不尽死于敌，则教者如犯法者之罪。
+现代文：什内的人互相联保，如有一人死亡，其余九人不尽力与敌死战，则负责教练的什长，应和犯法的人同罪。
+English: If one person dies and the remaining nine do not try their best to fight to the death, then the person in charge of the coach should be charged with the same crime as the person who broke the law.
+
+古文：自什己上至于裨将，有不若法者，则教者如犯法者之罪。
+现代文：自什长以上直到裨将，有不按教令行动的，则负责教练的各级官吏，应和犯法的人同罪。
+English: If any official at any level who is responsible for the coach does not act in accordance with the instruction from the head coach to the assistant coach, he or she shall be guilty of the same crime as the person who committed the crime.
+
+古文：凡明刑罚，正劝赏，必在乎兵教之法。
+现代文：凡是想做到刑罚严明，奖赏公平，必须在军队平时教练中贯彻实施。
+English: If you want to make the punishment severe and the reward fair, you must implement it in the army's peacetime training.
+
+古文：将异其旗，卒异其章。
+现代文：将吏使用不同的旗帜，士兵佩戴不同的徽章。
+English: The officers use different flags, the soldiers wear different badges.
+
+古文：左军章左肩，右军章右肩，中军章胸前，书其章曰： 某甲某士 。
+现代文：左军的徽章佩在左肩，右军的徽章佩在右肩，中军的徽章佩在胸前，并在微章上写明部别姓名。
+English: The badge of the left army is worn on the left shoulder, the badge of the right army is worn on the right shoulder, the badge of the Chinese army is worn on the chest, and the names of the departments are written on the microchapter.
+
+古文：前后章各五行，尊章置首上，其次差降之。
+现代文：此外，军队按照前后五行的顺序，佩戴五种不同颜色的微章，第一行把徽章戴在头上，其余各行依次降低佩戴的位置。
+English: In addition, the military will wear five microchips of different colors in the order of five rows, with the first row wearing the badge on the head, and the remaining rows wearing the badge in a lower position.
+
+古文：伍长教其四人，以板为鼓，以瓦为金，以竿为旗。
+现代文：伍长教练伍内四人，用木板代鼓，用瓦器代金，用竹竿代旗。
+English: There are four people in the coach, using wooden boards for drums, tiles for money, and bamboo poles for flags.
+
+古文：击鼓而进，低旗则趋，击金而退。麾而左之，麾而右之，金鼓俱击而坐。
+现代文：击鼓就前进，把旗放低就快跑，鸣金就后退，指挥向左就向左，指挥向右就向右，金鼓齐鸣就坐下。
+English: If you beat the drum, you move forward. If you lower the flag, you run fast. If you shout the gold, you retreat. If the conductor goes to the left, you go to the left. If the conductor goes to the right, you go to the right. If the golden drums are played in unison, you sit down.
+
+古文：伍长教成，合之什长。
+现代文：伍长教练好了，由什长集合教练。
+English: Corporal coach is ready, it's up to the sergeant to assemble the coach.
+
+古文：什长教成，合之卒长。
+现代文：什长教练好了，由卒长集合教练。
+English: It's time for the head coach to leave, and the assistant head coach to gather the coaches.
+
+古文：卒长教成，合之伯长。
+现代文：卒长教练好了，由伯长集合教练。
+English: The assistant coach is ready. The head coach will gather the coaches.
+
+古文：伯长教成，合之兵尉。
+现代文：伯长教练好了，由兵尉集合教练。
+English: It's time for the captain to coach. The lieutenant will gather the coaches.
+
+古文：兵尉教成，合之裨将。
+现代文：兵尉教练好了，由碑将集合教练。
+English: Lieutenant coach is ready, the coach will be assembled by the monument.
+
+古文：裨将教成，合之大将。
+现代文：裨将教练好了，由大将集合教练。
+English: It's time to bring in the trainer. The general will assemble the trainer.
+
+古文：大将教之，陈于中野，置大表三，百步而一。
+现代文：大将教练他们，在野外排成阵势，进行演习。
+English: The general coaches them, lines them up in the field, and conducts drills.
+
+古文：既陈，去表百步而决，百步而趋，百步而鹜。
+现代文：演习时树立三个大标竿，每隔百步树立一个。
+English: During the exercise, set up three large standard poles, and set up one every hundred paces.
+
+古文：习战以成其节，乃为之赏法。自尉吏而下，尽有旗。
+现代文：军队列阵完毕，在距第一个标竿百步时演习决斗，在距第二个标竿百步时演习快步前进，在距第三个标竿百步时演习跑步急进。
+English: After the troops have lined up, when they are 100 paces away from the first pole, they will practice dueling, when they are 100 paces away from the second pole, they will practice running fast, and when they are 100 paces away from the third pole, they will practice running fast.
+
+古文：战胜得旗者，各视其所得之爵，以明赏劝之心。
+现代文：反复演练使军队完全掌握各种要领，然后根据演练好坏进行赏罚。
+English: Repeated drills enable the army to fully grasp various essentials, and then reward and punish according to the quality of the drill.
+
+古文：战胜在乎立威，立威在乎戮力，戮力在乎正罚。正罚者，所以明赏也。
+现代文：敌军尉吏以下军官都有指挥旗，凡是战胜敌人获得敌人指挥旗的，应按旗帜所代表的官爵，给予相应的奖赏，以表明有功必赏的决心。战胜敌人在于能树立军威，树立军威在于使人同心协力，使人同心协力在于刑罚公正。
+English: All officers below the rank of lieutenant in the enemy army have a command flag. Anyone who defeats the enemy and obtains the enemy's command flag should be given a corresponding reward according to the rank represented by the flag, in order to show the determination to be rewarded. Victory over the enemy lies in being able to establish military prestige. To establish military prestige is to make people work together, and to make people work together is to punish justice.
+
+古文：令民背国门之限，决生死之分，教之死而不疑者，有以也。
+现代文：刑罚公正的目的，是为了突出奖赏的作用。要使士兵出国作战，在生死关头毫不犹豫地牺牲生命，靠的就是赏罚严明。
+English: The purpose of just punishment is to highlight the role of reward. In order to make soldiers go abroad to fight and sacrifice their lives without hesitation at the time of life and death, it is necessary to reward and punish severely.
+
+古文：令守者必固，战者必斗；奸谋不作，奸民不语；令行无变，兵行无猜；轻者若霆，奋敌若惊。
+现代文：要使防御的必能固守，进攻的必能备战，奸谋不会发生，奸人不敢造谣，命令贯彻不会走样，部队行动没有疑虑，轻装急进象雷电似的迅速，奋勇杀敌象惊马似的奔驰。
+English: It is necessary to ensure that the defense will be able to hold fast, the attack will be able to prepare for war, the treacherous plot will not occur, the traitor will not dare to fabricate rumors, the implementation of the order will not go awry, the troops will have no doubts, the light-weighted rush will be as fast as lightning, and the courage to kill the enemy will be as fast as a horse.
+
+古文：举功别德，明如白黑，令民从上令，如四肢应心也。
+现代文：提拔有功的人，表扬有德的人，功过是非黑白分明，这就能使士兵按照上级的命令行动。如象四肢听从头脑的指挥一样灵活了。
+English: The promotion of the meritorious, the praise of the virtuous, the distinction of merit from demerit, will enable the soldier to act in accordance with the orders of his superiors, as readily as the limbs obey the dictates of the head.
+
+古文：前军绝行乱陈，破坚如溃者，有以也。
+现代文：前锋部队，能够打乱敌人行列，突破敌人坚阵，就象大水决堤似的不可抵御，绝不是偶然的，这是军队训练有素的结果。
+English: It is no accident that the vanguard troops are able to disrupt the enemy's ranks and break through the enemy's entrenched positions. They are as irresistible as a torrent of water breaking through a dike. This is the result of the army's excellent training.
+
+古文：此之谓兵教，所以开封疆，守社稷，除患害，成武德也。
+现代文：训练这样一支军队，目的是为了开拓疆土，保卫国家，消除祸患，成就 武德 。
+English: The purpose of training such an army is to explore the territory, defend the country, eliminate the scourge, and achieve martial arts.
+

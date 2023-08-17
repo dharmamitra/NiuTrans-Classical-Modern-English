@@ -1,0 +1,76 @@
+古文：金、鼓、铃、旗，四者各有法。
+现代文：金鼓铃旗四种指挥工具各有各的用法。
+English: The four instruments of the Golden Drum, Bell and Banner have their own uses.
+
+古文：鼓之则进，重鼓则击。金之则止，重金则退。
+现代文：一次击鼓部队就前进，二次击鼓部队就冲击；一次鸣金部队就停止，第二次鸣金就代表马上退兵。
+English: A drumming troop will advance, a second drumming troop will attack; a gold-singing troop will stop, and a second gold-singing troop will immediately retreat.
+
+古文：铃，传令也。
+现代文：铃是用来传达命令的。
+English: The bell is used to convey orders.
+
+古文：旗，麾之左则左，麾之右则右。
+现代文：旗指向左边部队就向左，指向右边部队就向右。
+English: When the flag is pointed to the left, the troops move to the left, and when the flag is pointed to the right, the troops move to the right.
+
+古文：奇兵则反是。
+现代文：但使用奇兵时就应变换这些指挥信号。
+English: The command signals should be changed for the surprise troops.
+
+古文：一鼓一击而左，一鼓一击而右。
+现代文：有时鼓声一阵是令部队向左冲击的，有时鼓声一阵是令部队向右冲击的。
+English: Sometimes the sound of the drum causes the troops to rush to the left, and sometimes the sound of the drum causes the troops to rush to the right.
+
+古文：一步一鼓，步鼓也。十步一鼓，趋鼓也。音不绝，鹜鼓也。
+现代文：走一步敲一下鼓是慢步行进的鼓声，走十步敲一次鼓是快步行进的鼓声，鼓声不断是跑步行进的鼓声。
+English: Walking one step and beating the drum is the drumbeat of slow walking, walking ten steps and beating the drum once is the drumbeat of fast walking, and the drumbeat is constantly the drumbeat of running and walking.
+
+古文：商，将鼓也。角，帅鼓也。小鼓，伯鼓也。三鼓同，则将、帅、伯其心一也。
+现代文：发商音的鼓，是将使用的鼓；发角音的鼓，是帅使用的鼓；发音细小的鼓，是伯使用的鼓；三种鼓声同时响起，表示将、帅、伯意图一致。
+English: The drum with a business sound is the drum that will be used; the drum with a horn sound is the drum that Shuai will use; the drum with a small sound is the drum that Bo will use; three drums sound at the same time, indicating that the will, Shuai and Bo have the same intention.
+
+古文：奇兵则反是。
+现代文：对奇兵应改换这些指挥信号。
+English: The command signals should be changed for the surprise troops.
+
+古文：鼓失次者有诛，哗者有诛，不听金、鼓、铃、旗而动者有诛。
+现代文：鼓音混乱的处死，大声喧哗扰乱鼓音的处死，不听金鼓铃旗指挥而擅自行动的处死。
+English: Disorderly drumming is punishable by death, loud noise is punishable by death for disturbing the drumming, and disobeying the command of the golden drum, bell and flag is punishable by death.
+
+古文：百人而教战，教成，合之千人；千人教成，合之万人；万人教成，合之三军。
+现代文：首先以百人为单训练作战，训练完成后，再以千人为单位进行合练，千人训练完成后，以万人为单位进行合练，万人训练完成，就集合全军进行合练。
+English: First of all, a hundred people are trained to fight alone. After the training is completed, a thousand people are trained together. After the training of a thousand people is completed, a million people are trained together. After the training of a million people is completed, the whole army is gathered together for training.
+
+古文：三军之众，有分有合，为大战之法，教成，试之以阅。
+现代文：全军吏卒都应学会有时分散，有时集中这种大军作战的方法。全军训练完成后，通过校阅，以检查训练的效果。
+English: All officers and men should learn this method of large-scale military operations of sometimes dispersing and sometimes concentrating. After the training of the whole army is completed, it should be proofread to check the effect of the training.
+
+古文：方亦胜，圆亦胜，错邪亦胜，临险亦胜。
+现代文：有训练的军队方阵也能取胜，圆阵也能取胜，在错综复杂的地形作战也能取胜，在险要阻绝的地形作战也能取胜。
+English: A well-trained army can win in a square formation, can win in a circle formation, can win in a complicated terrain, and can win in a terrain that is on the verge of being cut off.
+
+古文：敌在山，缘而从之；敌在渊，没而从之。
+现代文：敌人在山上，就缘山进攻它。敌人在水上，就下水攻击他。
+English: When an enemy is on the mountain, come down against him on the brow of the mountain; and when he is in the water, come down against him in the water.
+
+古文：求敌若求亡子，从之无疑，故能败敌而制其命。
+现代文：攻打敌人要像找丢失的孩子一样迫切，毫不迟疑地追击，所以能打败敌人，致敌于死命。
+English: Attacking the enemy should be as urgent as looking for a lost child, without hesitation to pursue, so you can defeat the enemy and cause the enemy to die.
+
+古文：夫蚤决先，若计不先定，虑不蚤决，则进退不定，疑生必败。
+现代文：用兵必须提早定下决心，预先确定作战计划，如果计划不预先制定，决心不及早定下，就会进退不定，疑虑丛生，这样必然招致失败。
+English: The use of troops must be determined in advance and the battle plan must be determined in advance. If the plan is not made in advance and the determination is not made in advance, it will be uncertain and full of doubts, which will inevitably lead to failure.
+
+古文：故正兵贵先，奇兵贵后，或先或后，制敌者也。
+现代文：一般说未正兵应该先用，奇兵应该后用，但是哪个先用，哪个后用，都是为了战胜敌人。
+English: It is generally said that the inexperienced soldiers should be used first, and the extraordinary soldiers should be used later, but which one should be used first and which one should be used later, all in order to defeat the enemy.
+
+古文：世将不知法者，专命而行，先击而勇，无不败者也。
+现代文：一些庸将不懂得这种奇正变化的法则，一意孤行，以先击为勇，这就没有不失败的了。
+English: Some mediocre generals do not understand the law of this extraordinary positive change, and are determined to go their own way, daring to strike first. This will not fail.
+
+古文：其举有疑而不疑，其往有信而不信，其致有迟疾而不迟疾。是三者，战之累也。
+现代文：在出兵时，该考虑的不考虑；进军中，该有信心而又动摇；在战斗中，当快时不快，当慢时不慢，这三种都是对作战不利的。
+English: When sending out troops, it is best not to think about it; when marching into battle, it is best to have confidence and not to waver; in battle, it is best to be quick and not hesitant, and slow and not slow. These three are all unfavorable to combat.
+

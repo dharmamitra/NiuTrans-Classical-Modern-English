@@ -1,0 +1,72 @@
+古文：二十有五年春，陈侯使女叔来聘。
+现代文：二十五年春季，陈国派遣女叔来鲁国聘问。
+English: In the spring of the 25th year, Chen Guo sent his female uncle to Luo for an interview.
+
+古文：夏五月癸丑，卫侯朔卒。
+现代文：夏季五月癸丑日，卫惠公朔去世。
+English: In the summer of May, on the day of the Chinese New Year, Wei Huigong passed away.
+
+古文：六月辛未朔，日有食之。
+现代文：六月，辛未这一天是初一，发生了日食。
+English: In June, on the first day of the new year, a solar eclipse occurred.
+
+古文：鼓，用牲于社。
+现代文：鲁国民众敲打着鼓，用牛羊祭祀土地。
+English: They beat drums and sacrificed animals in the land temple.
+
+古文：伯姬归于杞。
+现代文：鲁国的伯姬出嫁到杞国。
+English: Lu's Baoji married into the Shao family.
+
+古文：秋，大水。
+现代文：秋季，发大水。
+English: In autumn, there is a lot of flooding.
+
+古文：鼓，用牲于社、于门。
+现代文：民众敲打着鼓，用牛羊祭祀土地神和城门门神。
+English: The people beat drums and sacrificed cattle and sheep to the god of the land and the god of the city gate.
+
+古文：冬，公子友如陈。
+现代文：冬季，公子友到陈国去。
+English: In winter, he went to Chen Province.
+
+古文：二十五年春，陈女叔来聘，始结陈好也。
+现代文：二十五年春季，陈国的女叔来鲁国聘问，这是开始和陈国友好。
+English: In the spring of the 25th year, Chen Guo's female uncle came to Russia for an interview. This was the beginning of the friendship with Chen Guo.
+
+古文：嘉之，故不名。
+现代文：《春秋》赞美这件事，所以不记载女叔的名字。
+English: "Spring and Autumn" praises this matter, so it does not record the name of the female uncle.
+
+古文：夏六月辛未朔，日有食之。
+现代文：夏季六月初一日，发生了日食。
+English: On the first day of June in the summer, there was a solar eclipse.
+
+古文：鼓，用牲于社，非常也。
+现代文：击鼓，用牺牲祭祀土地神庙，这是不合于常礼的。
+English: Drumming and sacrificing to the land temple are not part of the ritual.
+
+古文：唯正月之朔，慝未作，日有食之，于是乎用币于社，伐鼓于朝。
+现代文：只有夏历四月的初一，阴气没有发作，如果发生日食，才用玉帛祭祀土地之神，在朝廷之上击鼓。
+English: Only on the first day of the fourth month of the summer calendar, when the weather is not too gloomy, and in the event of a solar eclipse, is the god of the land worshipped with a tambourine, and drums are beaten above the imperial court.
+
+古文：秋，大水。鼓，用牲于社、于门，亦非常也。
+现代文：秋季，有大水，击鼓，用牺牲祭祀土地神庙和城门门神，也不合于常礼。
+English: In autumn, there is heavy rain, drums are beaten, and sacrifices are made to the gods of the land, the temple, and the city gate, which is also not in accordance with the rite.
+
+古文：凡天灾，有币无牲。
+现代文：凡是天灾，祭祀时只能用玉帛而不用牺牲。
+English: In the event of a natural disaster, only the jade bowl can be used during the ritual, and no sacrifice is required.
+
+古文：非日月之眚，不鼓。
+现代文：不是日食、月蚀，不击鼓。
+English: No solar eclipses, no lunar eclipses, no drumming.
+
+古文：晋士蒍使群公子尽杀游氏之族，乃城聚而处之。
+现代文：晋国的士蒍让公子们杀尽了游氏家族，于是在聚地筑城而让公子们去住。
+English: The Shih Tzu of Jin let the nobles kill the entire You family, so they built a city in the gathering place and let the nobles go to live.
+
+古文：冬，晋侯围聚，尽杀群公子。
+现代文：冬季，晋献公包围了聚城，把公子们全部杀光。
+English: In winter, the Jin Xian Gong besieged Jucheng and killed all the nobles.
+

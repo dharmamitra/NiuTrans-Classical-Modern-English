@@ -1,0 +1,348 @@
+古文：凡立朝廷，问有本纪。
+现代文：凡主持朝廷政事，进行调查要遵守一些根本原则。
+English: Anyone who presides over the affairs of state of the imperial court and conducts investigations must abide by a number of fundamental principles.
+
+古文：爵授有德，则大臣兴义。禄予有功，则士轻死节。
+现代文：爵位授给有德的人，大臣们就提倡行义；禄赏赐予有功的人，战士就不怕牺牲。
+English: When a title of nobility is bestowed on a virtuous person, the ministers will advocate the practice of righteousness; when a reward is given to a meritorious person, the soldiers will not be afraid of sacrifice.
+
+古文：上帅士以人之所戴，则上下和。授事以能，则人上功。
+现代文：君主任用人所爱戴的将领治兵，军中上下就团结和睦；按才能安排工作，人们就讲求功效。
+English: When the commander-in-chief uses the beloved generals to lead the troops, the middle and lower ranks of the army will be united and harmonious; when work is arranged according to ability, people will pay attention to efficiency.
+
+古文：审刑当罪，则人不易讼。无乱社稷宗庙则人有所宗。
+现代文：判处刑罚恰当其罪，人们就不轻易诉讼；社稷宗庙不被渎乱，人们就有信奉的中心。
+English: If the punishment is appropriate to the crime, people will not easily litigate; if the ancestral temple is not desecrated, people will have a center of worship.
+
+古文：毋遗老忘亲，则大臣不怨。举知人急，则众不乱。
+现代文：不遗忘老臣和宗亲，大臣就不会抱怨；充分了解人们的疾苦，民众就不会作乱。
+English: If you don't forget old ministers and relatives, ministers won't complain; if you fully understand people's suffering, people won't riot.
+
+古文：行此道也，国有常经，人知终始，此霸王之术也。
+现代文：执行这些准则，国家便有常规常法，人们也知道行动的规范，这是实现霸王之业的政策。
+English: By implementing these principles, the country will have a regular common law, and people will know the norms of action, which is the policy of realizing the overlord's cause.
+
+古文：然后问事：事先大功，政自小始。
+现代文：然后就进行调查，问事应先从大事开始，治理则要由小处入手。
+English: After that, an investigation will be carried out. The investigation should start from the major issues, and the governance should start from the minor issues.
+
+古文：问死事之孤其未有田宅者有乎？
+现代文：调查死于国事者的子孙，有无尚未得到田宅的？
+English: Investigating the descendants of those who died in state affairs, are there any who have not yet received a farmhouse?
+
+古文：问少壮而未胜甲兵者几何人？
+现代文：调查青壮年中未服兵役的有多少人？
+English: How many young and middle-aged men who have not served in the military are surveyed?
+
+古文：问死事之寡，其餼廪何如？
+现代文：调查死于国事者的遗寡，他们应领的口粮，供给情况如何？
+English: Investigate the widows of those who died in the service of the state, the rations they are entitled to, what is the supply situation?
+
+古文：问国之有功大者，何官之吏也？
+现代文：调查国内建立大功的人们，都是哪些部门的官吏？
+English: Which government officials are involved in the investigation of people who have made great achievements in the country?
+
+古文：问州之大夫也何里之士也。
+现代文：调查各州的大夫，都是什么地方的人？
+English: What kind of people are investigating doctors in every state?
+
+古文：今吏亦何以明之矣，问刑论有常以行，不可改也，今其事之久留也何若？
+现代文：现为官吏，是凭什么条件提拔的？调查：判案有常法可循，不能改变，现在却常期积压，为什么？
+English: If you are currently a government official, on what basis were you promoted? Investigation: There is a common law for judging cases, which cannot be changed, but now there is a constant backlog, why?
+
+古文：问五官有制度，官都有其常断。今事之稽也何待。
+现代文：调查：五官各有制度， 官都 也经常断事，现在却拖延事情不办，还等待什么？
+English: Investigation: Each of the five government agencies has its own system. The government agencies also often adjudicate cases, but now they are delaying things and not handling them. What are they waiting for?
+
+古文：问独夫寡妇孤寡疾病者几何人也？
+现代文：调查鳃夫、寡妇、孤穷、病人各有多少？
+English: How many widows, widowers, orphans, and the sick were surveyed?
+
+古文：问国之弃人何族之子弟也？
+现代文：调查国中因犯罪而被放逐的，都是哪个家族的子弟？
+English: The children of which family were exiled for crimes in the country under investigation?
+
+古文：问乡之良家其所牧养者几何人矣。
+现代文：调查乡中富户，奴役、收养的人有多少？
+English: Investigate the rich households in the village, how many people are enslaved and adopted?
+
+古文：问邑之贫人债而食者几何家？
+现代文：调查邑内穷人，依靠借债度日的有多少家？
+English: Investigate the poor in the village, how many families rely on borrowing to get by?
+
+古文：问理园容而食者几何家？
+现代文：调查依靠经营园圃为生的有多少家？
+English: How many households were surveyed that depend on gardening for their livelihood?
+
+古文：人之开田而耕者几何家？士之身耕者几何家？
+现代文：开荒种田的有多少家？士人亲自耕田的多少家？
+English: How many households are engaged in land reclamation and cultivation? How many households are cultivated by scholars themselves?
+
+古文：问乡之贫人何族之别也？
+现代文：调查乡中的贫人，是何族的后裔？
+English: Investigate the poor in the countryside, what ethnicity are they descended from?
+
+古文：问宗子之收昆弟者，以贫从昆弟者几何家？
+现代文：调查嫡长子收养兄弟者，或因贫而寄食于兄弟之家者，各多少？
+English: How many of you have investigated the case of a legitimate eldest son adopting a brother, or the case of a poor man living in a brother's house?
+
+古文：余子仕而有田邑，今入者几何人？
+现代文：余子，作官而有封地，现今仍在交税的，有多少人？
+English: How many people are there who were officials and had fiefdoms, and are still paying taxes?
+
+古文：子弟以孝闻于乡里者几何人？
+现代文：以孝行闻名于乡里的子弟，有多少人？
+English: How many children are there in the village who are known for their filial piety?
+
+古文：余子父母存，不养而出离者几何人？
+现代文：余子，父母健在，但无力赡养父母而自身出赘者，有多少人？
+English: How many people are still children, whose parents are alive, but who are unable to support their parents and who themselves commit crimes?
+
+古文：士之有田而不使者几何人？
+现代文：士人，有田禄而不服任使的，有多少人？
+English: How many clerks are there who receive a stipend but do not serve as envoys?
+
+古文：吏恶何事？
+现代文：他们厌恶什么工作？
+English: What kind of work do they hate?
+
+古文：士之有田而不耕者几何人？
+现代文：士人，有田产而不耕作的，有多少人？
+English: How many aristocrats have land but do not cultivate it?
+
+古文：身何事。
+现代文：他们从事什么工作？
+English: What kind of work do they do?
+
+古文：君臣有位而未有田者几何人？
+现代文：群臣之中，有爵位而无禄田的，多少人？
+English: How many of your vassals have knighthoods but no stipend?
+
+古文：外人之来从而未有田宅者几何家？
+现代文：外国人前来投奔而尚无田宅的，多少家？
+English: How many foreign families are there who have come to work and do not yet have a farmhouse?
+
+古文：国子弟之游于外者几何人？
+现代文：本国子弟出游别国的，多少人？
+English: How many children from your country travel to other countries?
+
+古文：贫士之受责于大夫者几何人？
+现代文：贫士向大夫借债的，有多少人？
+English: How many poor people are indebted to doctors?
+
+古文：官贱行书，身士以家臣自代者几何人？
+现代文：收养贱者经商，自身出外，职务由家臣代理的，有多少人？
+English: How many people are there who adopt low-born people to do business, go abroad themselves, and are represented by their vassals?
+
+古文：官承吏之无田餼而徒理事者几何人？
+现代文：低级官吏之中，没有田禄而白白干事的，多少人？
+English: How many low-ranking officials have no salary and become bureaucrats for nothing?
+
+古文：群臣有位事官大夫者几何人？
+现代文：群臣之中，有在官大夫家里兼职的，多少人？
+English: How many ministers have a part-time job in the family of a government official or doctor?
+
+古文：外人来游在大夫之家者几何人？
+现代文：外人来游本国，住在官大夫家里的，多少人？
+English: How many foreigners visit their home countries and live in the homes of government officials and doctors?
+
+古文：乡子弟力田为人率者几何人？
+现代文：乡中子弟，力田耕作，可以为人表率的，多少人？
+English: How many of the children in the village, who work in the fields, can serve as role models?
+
+古文：国子弟之无上事，衣食不节；率子弟不田弋猎者几何人？
+现代文：城市子弟中，身无常业，衣食奢侈，带着青年弃农打猎取乐的，有多少人？
+English: How many of the city's children have no regular job, live in luxury, and take young people to hunt for fun?
+
+古文：男女不整齐，乱乡子弟者有乎？
+现代文：男女不守规矩，影响乡中子弟胡作非为的，有没有？
+English: Are there men and women who do not follow the rules and influence the children in the village to do wrong?
+
+古文：问人之贷粟米，有别券者几何家？
+现代文：调查贷出粮食，握有借券的，有多少家？
+English: How many households have been investigated for lending grain and holding loan certificates?
+
+古文：问国之伏利其可应人之急者几何所也？
+现代文：调查国内尚未开发的资源，其中可以解决人之急需的，有哪几处？
+English: Investigate the untapped resources in the country, including those that can solve people's urgent needs, where are they?
+
+古文：人之所害于乡里者何物也？
+现代文：人们认为有害于乡里的，是哪些东西？
+English: What are the things that people think are bad for the countryside?
+
+古文：问士之有田宅身在陈列者几何人？
+现代文：调查拥有田宅而在军中服役的士，有多少人？
+English: How many people were involved in the investigation of the taxi driver who owned a farmhouse and served in the army?
+
+古文：余子之胜甲兵有行伍者几何人？
+现代文：余子当中，够当兵条件而有军籍的，多少人？
+English: Among the remaining children, how many are qualified to be soldiers and have a military record?
+
+古文：问男女有巧伎，能利备用者几何人？
+现代文：调查有技术的男女，能用在制造兵器方面的，多少人？
+English: How many are investigating men and women with skills that could be used in the manufacture of weapons?
+
+古文：处女操工事者几何人？
+现代文：能从事手工劳动的少女，有多少人？
+English: How many girls are there who can do manual labour?
+
+古文：冗国所开口而食者几何人？
+现代文：调查国内不耕而食的，有多少人？
+English: How many people are there in the survey who do not work for a living?
+
+古文：问一民有几年之食也？
+现代文：调查一个农民可以提供几个人的口粮？
+English: Investigate how many rations a farmer can provide?
+
+古文：问兵车之计几何乘也？
+现代文：调查兵车总数共多少乘？
+English: What is the total number of investigation vehicles?
+
+古文：牵家马軶家车者几何乘。
+现代文：其中用私马驾私车的多少乘？
+English: How many of them use private horses to drive private cars?
+
+古文：处士修行。足以教人，可使帅众莅百姓者几何人？
+现代文：未作官的士，道德高尚，足以教人，可使率领群众治理百姓的，有多少人？
+English: How many people are there who are not government officials, who have high morals, who are able to teach others, and who can lead the masses to govern the people?
+
+古文：士之急难可使者几何人？
+现代文：士人，国家急难时可供使用的，有多少人？
+English: How many of them are available for use in times of national emergency?
+
+古文：工之巧，出，足以利军伍，处，可以修城郭补守备者几何人？
+现代文：工匠，其技术水平可以战时协助军旅，平时维修城郭、补充守备者，有多少人？
+English: How many craftsmen, whose technical level can assist the military in wartime, repair the castle and supplement the defenders in peacetime?
+
+古文：城粟军粮其可以行几何年也。
+现代文：城市积粟与军粮，可以维持多少年？
+English: How many years can the city sustain the accumulation of poppies and army rations?
+
+古文：吏之急难可使者几何人？
+现代文：官吏，国家急难时可供调遣的，有多少人？
+English: How many government officials are available for deployment in times of national emergency?
+
+古文：大夫疏器甲兵、兵车、旌旗、鼓铙、帷幕、帅车之载、几何乘？
+现代文：大夫呈报的军器：甲胄、兵器、兵车、旌旗、鼓号、帐篷以及帅车的车盖有多少？
+English: How many pieces of military equipment did the doctor report: armor, weapons, chariots, flags, drums, tents, and car covers?
+
+古文：疏藏器弓弩之张、衣夹铗钩弦之造、戈戟之紧，其厉何若？
+现代文：所呈报的各项藏器：弓弩的套袋、剑矛的外鞘、钩弦的收藏器、戈裁的套衣，其磨损程度如何？
+English: What is the degree of wear and tear of the reported collection of bow and arrow cases, sword and spear sheaths, hook and string collectors, and Go cut jackets?
+
+古文：其宜修而不修者故何视？
+现代文：其中应修而未修的，应怎样查看？
+English: Which should be repaired and not repaired, how should I check?
+
+古文：而造修之官，出器处器之具，宜起而未起者何待？
+现代文：而制造、修理的馆舍，发放、储藏的处所，应建而未建的，还等待什么？
+English: But what is waiting for the buildings to be built and repaired, the places to be distributed and stored, which should be built but have not been built?
+
+古文：乡师车辎造修之具，其缮何若？
+现代文：乡、率修造战车和辐重车的设备，其修缮情况如何？
+English: What is the status of the repair of the equipment for the construction of chariots and heavy-duty vehicles in the townships and counties?
+
+古文：工尹伐材用，毋于三时，群材乃植，而造器定冬，完良备用必足。
+现代文：工尹砍伐木材，不可在春、夏、秋三季。各种木村长大才确定制造什么军器。冬天，完整良好的兵器必须造足。
+English: It is not allowed to cut wood in the spring, summer, and autumn. It is up to the various Kimura to determine what kind of military equipment to make. In winter, a complete and good weapon must be built.
+
+古文：人有余兵，诡陈之行，以慎国常。
+现代文：人们所有的剩余兵器，都要陈放在兵营，以严法纪。
+English: All the surplus weapons of the people must be displayed in the barracks, with strict discipline.
+
+古文：时简稽帅马牛之肥膌，其老而死者皆举之。
+现代文：要经常视察乡、率马牛的肥瘦，对其中衰老、死亡的，要有记录；放牧在山林湖泽的健壮牛马有多少？
+English: It is necessary to regularly inspect the fatness and thinness of the cattle in the township, and record the aging and death of them. How many robust cattle and horses are grazing in the mountains, forests and lakes?
+
+古文：其就山薮林泽食荐者几何，出入死生之会几何。若夫城郭之厚薄，沟壑之浅深，门闾之尊卑，宜修而不修者，上必几之。
+现代文：其卖出、购进、死亡、繁殖的总数有多少？至于城郭建筑的厚薄，护城河的浅深以及门楼的高低，宜修而未修的，朝廷必须向守备的军队进行稽查。
+English: As for the thickness of the castle buildings, the shallow depth of the moat and the height of the gate tower, which should be repaired but not repaired, the imperial court must inspect the guarding troops.
+
+古文：守备之伍，器物不失其具，淫雨而各有处藏。
+现代文：要使器物不缺收藏的设备，淫雨时有地方收藏。
+English: In order to ensure that there is no shortage of collection equipment, there is a place to collect when it rains.
+
+古文：问兵官之吏，国之豪士，其急难足以先后者几何人？
+现代文：调查带兵的官吏和豪杰之士，他们在国家危急时能够跟从君主赴难的，有多少人？
+English: How many officers and men of valor, who could follow the monarch in a time of national peril, were surveyed?
+
+古文：夫兵事者危物也，不时而胜，不义而得，未为福也。
+现代文：打仗，是危险的事情，侥幸取胜，不义而得，都未必是好事。
+English: To fight in war is a dangerous thing. To win by chance or unjustly is not necessarily a good thing.
+
+古文：失谋而败，国之危也。慎谋乃保国。
+现代文：不加谋虑而失败，国家就危险了，所以要慎重谋虑，才可以保住国家。
+English: If you fail without forethought, the country will be in danger, so you have to think carefully before you can save the country.
+
+古文：问所以教选人者何事？
+现代文：调查教练和选拔人材都采用哪些标准？
+English: What are the criteria for surveying coaches and selecting talent?
+
+古文：问执官都者，其位事几何年矣。
+现代文：调查各个担任官都职务的，都任职多少年了？
+English: Investigate how many years each person who holds a government post has been in office.
+
+古文：所辟草莱有益于家邑者几何矣？
+现代文：他们任内所开垦的荒地，使人们受益的有多大面积？
+English: How much of the wasteland reclaimed during their tenure has benefited the people?
+
+古文：所封表以益人之生利者何物也？
+现代文：他们所提的奏议，可以增加人们财利的有什么内容？
+English: What is the content of their proposal that can increase people's economic benefits?
+
+古文：所筑城郭修墙闭绝通道阨阙深防沟以益人之地守者何所也？
+现代文：他们建筑的城郭，修筑的墙垣，设置的路障，安设的门楼以及加深的护城河，有益于守卫国土的，共有哪些？
+English: What do they have in common, the walls they have built, the ramparts they have erected, the barricades they have set up, the gates they have set up, and the moats they have deepened, all of which are useful for the defense of the country?
+
+古文：所捕盗贼，除人害者几何矣？
+现代文：所捕盗贼，并消除人害的事情，有多少？
+English: How many thieves have been caught, and how many cases of human harm have been eliminated?
+
+古文：制地。君曰：理国之道，地德为首，君臣之礼，父子之亲，覆育万人，官府之藏，彊兵保国，城郭之险，外应四极，具取之地。
+现代文：关于如何掌握国土地利的问题，君主说：治国之道，应当以充分发挥土地的利益作为首要事务。君臣间的礼仪制度，父子间的亲情依附，也都应取决于国土收入，地德能覆盖化育万民。官府的储藏，用以增强军力保卫国家；城郭的险要，用以向外应付四方诸侯的来犯。
+English: Regarding the issue of how to grasp the benefits of the country's land, the monarch said: The way to govern the country should be to give full play to the interests of the land as the primary matter. The etiquette system between monarchs and ministers, and the attachment of kinship between fathers and sons, should also depend on the income of the land. Land morality can cover and nurture all the people. The government's reserves are used to strengthen the military and defend the country; the castle's supplies are used to deal with the intruders from the four directions.
+
+古文：而市者天地之财具也。
+现代文：都依靠土地产业。
+English: They all rely on the land industry.
+
+古文：而万人之所和而利也。正是道也。
+现代文：市场是天地间财物集中齐具陈列的场所，万民因入市交易而相互得利，也是地德之道的产物。
+English: The market is a place of concentrated display of property between heaven and earth. All people benefit from entering the market and trading with each other. It is also a product of local morality.
+
+古文：民荒无苛人，尽地之职，一保其国。
+现代文：百姓自治生业，施政不要操切急迫，他们就能各自努力，皆尽地利，自然人心齐一国家有保证。
+English: The people should live and work independently, and the government should not be in a hurry, they can make their own efforts, everyone should do their best, the natural people are united, and the country is guaranteed.
+
+古文：各主异位，毋使谗人乱普，而德营九军之亲。
+现代文：市场上货主各有其位，不要因邪人扰乱而替换各自职守，那么德泽将遍九州各国。
+English: Shippers have their own place in the market. Don't replace their respective duties due to the disturbance of evil-doers, then the deze will spread to all countries in Kyushu.
+
+古文：关者，诸侯之陬隧也。而外财之门户也。万人之道行也。
+现代文：关隘，是各诸侯国边界的通行要道，吸引国外财货资产进入的门户，百姓万民行走的必经之地。
+English: The pass was a key route along the borders of the various vassal states, a gateway for attracting foreign goods and assets, and a must-pass place for people to travel.
+
+古文：明道以重告之。征于关者，勿征于市，征于市者，勿征于关。虚车勿索，徒负勿入，以来远人。
+现代文：应当将关市之征的法令彰明于道路，并庄严郑重地反复告示：对于行商之人，只征收关卡税，入市则不再征税；对于铺肆商贾，只征收市场税，出入关卡则不再征税；空车经过者不索取关卡税，徒步负重入市交易者不收取市场税，用这些措施招徕他方远道商贾，齐国各条要道共同遵守。
+English: The laws and regulations on toll collection should be clearly displayed on the roads, and solemnly and solemnly repeatedly announced: for peddlers, only the toll tax will be levied, and there will be no tax on entering the market; for peddling merchants, only the market tax will be levied, and there will be no tax on entering and leaving the checkpoint; those who pass through empty cars will not request the toll tax, and those who enter the market on foot will not charge the market tax. These measures are used to attract other long-distance merchants, and all major roads in the country must comply with them.
+
+古文：十六道同身外事谨，则听其名，视其名，视其色，是其事，稽其德。
+现代文：亲自号召外事，做事要小心谨慎，要辨明外来者的名书身份，要察看他的形色神情，观察他的行事作为，稽查他的品德言行，再对照他的外表容貌。
+English: If you personally call for foreign affairs, you should be careful and prudent in doing things. You should identify the famous book identity of the foreigner, look at his facial features, observe his actions, examine his moral character, and then compare his appearance.
+
+古文：以观其外则，无敦于权人，以困貌德。
+现代文：这样就不会让貌似忠厚的奸人有机可乘。
+English: In this way, it will not be possible for a seemingly loyal traitor to take advantage of it.
+
+古文：国则不惑，行之职也。
+现代文：这样国事就不会陷于惑乱，这是掌管道路和外交事务者的职责。
+English: It is the duty of those in charge of roads and foreign affairs to ensure that the affairs of the country do not fall into disarray.
+
+古文：问于边吏曰：小利害信，小怒伤义，边信伤德，厚和构四国以顺貌德。
+现代文：告示边境官吏说：小利有害诚信和睦，小怒有伤仁行正义，应当敦厚谦让和睦交接周边国家，优厚对待四方宾客，这样就做到了外貌和内德的统一。
+English: The notice to the border officials said: Small profits are harmful to honesty and harmony, small anger is harmful to justice, and it is necessary to be generous and humble to make a harmonious handover to the surrounding countries and treat the guests from the four sides with kindness, thus achieving the unification of appearance and virtue.
+
+古文：后乡四极，令守法之官日行，度必明，无失经常。
+现代文：命令执法官吏说：执行法度必须严明，不要忽视常规常法的有效畅行。
+English: The order enforcement officials said: the implementation of the law must be strict, do not ignore the effective and smooth implementation of the regular law.
+

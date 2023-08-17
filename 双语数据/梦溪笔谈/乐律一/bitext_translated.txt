@@ -1,0 +1,972 @@
+古文：《周礼》： 凡乐，圜钟为宫，黄钟为角，太蔟为徵，姑洗为羽。
+现代文：《周礼》： 凡乐，圜钟为宫，黄钟为角，太蔟为徵，姑洗为羽。
+English: "Zhou Li" (Weekly Rituals): It's all fun and games. The cuckoo clock is the palace, the yellow bell is the horn, the great cormorant is the symbol, and the great cormorant is the feather.
+
+古文：若乐六变，则天神皆降，可得而礼矣。
+现代文：若乐六变，则天神皆降，可得而礼矣。
+English: If there are six changes in the music, then the gods will all fall down, and it will be good luck.
+
+古文：函钟为宫，太蔟为角，姑洗为徵，南吕为羽。
+现代文：函钟为宫，太蔟为角，姑洗为徵，南吕为羽。
+English: Hanzhong is the palace, Taishan is the corner, Guqi is the symbol, and Nanlu is the feather.
+
+古文：若乐八变，即地祇皆出，可得而礼矣。
+现代文：若乐八变，即地祇皆出，可得而礼矣。
+English: If there are eight changes in the music, everyone will come out, and it will be a success.
+
+古文：黄钟为宫，大吕为角，太蔟为徵，应钟为羽。
+现代文：黄钟为宫，大吕为角，太蔟为徵，应钟为羽。
+English: The yellow bell is the palace, the big bow is the horn, the big dragonfly is the symbol, and the bell is the feather.
+
+古文：若乐九变，则人鬼可得而礼矣。 
+现代文：若乐九变，则人鬼可得而礼矣。 
+English: If there are nine changes in music, then people and ghosts can get better and better.
+
+古文：凡声之高下，列为五等，以宫、商、角、徵、羽名之。
+现代文：按高低声分为五等，这五等各用宫、商、角、徵、羽来命名。
+English: According to the high and low voice, it is divided into five classes, and these five classes are named after the palace, merchant, horn, sign, and feather.
+
+古文：为之主者曰宫，次二曰商，次三曰角，次四曰徵，次五曰羽，此谓之序；名可易，序不可易。
+现代文：首先是宫，其次是商，再次是角，再次是徵，再次是羽，这就是次序。名可变，次序不可变。
+English: First comes the palace, then the merchant, then the horn, then the sign, then the feather. This is the order. The name may change, but the order remains the same.
+
+古文：圜钟为宫，则黄钟乃第五羽声也，今则谓之角，虽谓之角，名则易矣，其实第五之声，安能变哉？
+现代文：圜钟为宫，那么黄钟应是第五羽声，现在却称它为角声，虽称它为角声，名变了，其实质是第五羽声，怎能变呢？
+English: If the gong is the palace, then the yellow bell should be the fifth trumpet, but now it is called the horn, although it is called the horn, the name has changed, but its essence is the fifth trumpet, how can it change?
+
+古文：强谓之角而已。
+现代文：牵强地称它为角声罢了。
+English: It's a stretch to call it a horn section.
+
+古文：先王为乐之意，盖不如是也。
+现代文：远古的圣王制乐的本意大概不是这样。
+English: This was probably not the original intention of the ancient sage-king.
+
+古文：世之乐异乎郊庙之乐者，如圜钟为宫，则林钟角声也。乐有用林钟者，则变而用黄钟，此祀天神之音云耳，非谓能易羽以为角也。
+现代文：民间的音乐和郊庙的音乐差别在于，如果圜钟为宫，那么林钟为角声，乐中每逢有用林钟的地方就变成用黄钟，因为这是祭礼天神的音乐，所以如此，并不是说能把羽声变成角声。
+English: The difference between folk music and the music of suburban temples is that if the gong is the palace, then the forest bell is the horn sound, and whenever the forest bell is used in the music, it becomes the yellow bell, because this is the music of the festival of the gods, so this is not to say that it can turn the feather sound into a horn sound.
+
+古文：函钟为宫，则太蔟徵声也。乐有用太蔟者，则变而用姑洗，此求地祇之音云耳，非谓能易羽以为徵也。
+现代文：如果函钟为宫，那么太蔟为徵声，乐中每逢有用太蔟的地方就变成用姑洗，因为这是向地祇祈祷的音乐，所以如此，并不是说能把羽声变为徵声。
+English: If the clock is the palace, then the cymbals are the beacons. In music, whenever the cymbals are useful, they are used. Because this is the music of praying to the gods, this does not mean that the sound of the cymbals can be turned into beacons.
+
+古文：黄钟为宫，则南吕羽声也。乐有用南吕者，则变而用应钟，此求人鬼之音云耳，非谓能变均外音声以为羽也。
+现代文：如果黄钟为宫，那么南吕为羽声，乐中每逢有用南吕的地方就变成用应钟，这是向祖宗祈祷的音乐，所以如此，并不是说能把韵外的音声变为羽声。
+English: If the yellow bell is the palace, then Nan Lü is the feather sound. In music, whenever Nan Lü is useful, it becomes the answering bell. This is the music of praying to the ancestors, so this is not to say that the out-of-rhyme sound can be changed into feather sound.
+
+古文：应钟、黄钟，宫之变徵。文、武之出，不用二变声，所以在均外。
+现代文：应钟，是黄钟宫的变徵，周文王、周武王的时代不再用变徵、变宫两个变声，所以它们在韵外。
+English: Ying Zhong is the metamorphosis of Huang Zhong Gong. In the era of King Zhou Wen and King Zhou Wu, the metamorphosis and metamorphosis were no longer used, so they are outside the rhyme.
+
+古文：鬼神之情，当以类求之。
+现代文：鬼神在音乐上的喜好应当用一类的事情来推求。
+English: The preferences of ghosts and gods in music should be inferred using one type of thing.
+
+古文：朱弦越席，太羹明酒，所以交于冥莫者，异乎养道，此所以变其律也。
+现代文：朱弦、蒲席、太羹、新酒，这些用来沟通鬼神的东西都和人们生活中所使用的不一样，这就是为什么祭祀鬼神的音乐要变易它的乐声的缘故。
+English: The vermilion string, the cushion, the bean jam, the new wine, all of which are used to communicate with ghosts and gods, are different from those used in people's lives, which is why the music used to worship ghosts and gods should be changed into its musical sound.
+
+古文：声之不用商，先儒以谓恶杀声也。
+现代文：郊庙祭乐中不用商声，从前的学者认为是因为厌恶商声是杀声。
+English: Commercial calls are not used in the suburban temple festival music. Former scholars believed that it was because they detested commercial calls, which were the sounds of murder.
+
+古文：黄钟之太蔟，函钟之南吕，皆商也，是杀声未尝不用也，所以不用商者，商，中声也。
+现代文：实际上黄钟为宫时的太蔟，函钟为宫时的南吕，都是商声，因此未尝不用杀声，不用商声的原因，是因为商声是中声。
+English: In fact, Huang Zhong was Taiko when he was in the palace, and Hanzhong was Nanlu when he was in the palace, both were merchant voices. Therefore, they did not need to kill the voice, and the reason why they did not use merchant voices was because the merchant voice was the middle voice.
+
+古文：宫生徵、徵生商，商生羽，羽生角。故商为中声。
+现代文：宫生徵、徵生商，商生羽，羽生角，所以商为中声。
+English: Miyashozheng, shoshozheng, shoshoheng, shoshoheng, shoshozheng, shoshozheng, shoshozheng, so shosho is the middle voice.
+
+古文：降兴上下之神，虚其中声人声也。遗乎人声，所以致一于鬼神也。
+现代文：迎接天上地下的鬼神，把中声，即人声空出来，去掉人声是为了专一地向鬼神致敬。
+English: In order to welcome the ghosts and gods in heaven and on earth, the middle voice, that is, the human voice, was left out. The human voice was removed in order to pay tribute to the ghosts and gods.
+
+古文：宗庙之乐，宫为之先，其次角，又次徵，又次羽。
+现代文：宗庙的祭乐，宫排列最前，其次是角，再次是徵，再次是羽。
+English: In the ritual music of the ancestral temple, the palace ranks first, followed by the horn, then the sign, and then the feather.
+
+古文：宫、角、徵、羽相次者，人乐之叙也，故以之求人鬼。
+现代文：宫、角、徵、羽依次排列，这是人乐的顺序，所以用它来迎接祖宗。
+English: The palace, horns, feathers and wings are arranged in order, which is the order of human music, so it is used to greet the ancestors.
+
+古文：世乐之叙宫、商、角、徵、羽，此但无商耳，其余悉用，此人乐之叙也。
+现代文：民间的音乐以宫、商、角、徵、羽为序，相比之下，宗庙的祭乐只是没有商声而已，其余的乐声都用，这是人乐的顺序。
+English: Folk music follows the order of palace, merchants, horns, chants, and feathers. In contrast, the ancestral temple's festival music only lacks merchants' chants, but uses the rest of the music, which is the order of folk music.
+
+古文：何以知宫为先、其次角、又次徵、又次羽？
+现代文：怎么知道宫排在最前，其次是角，再次是徵，再次是羽？
+English: How do you know that the palace comes first, followed by the horn, then the sign, and then the feather?
+
+古文：以律吕次叙知之也。
+现代文：是根据律吕的次序知道的。
+English: It is known according to the order of the ryu.
+
+古文：黄钟最长，大吕次长，太蔟又次，应钟最短，此其叙也。
+现代文：黄钟最长，其次是大吕，再次是太蔟，应钟最短，这就是四声的顺序。
+English: The yellow bell is the longest, followed by the big lute, then the big gong, and the answering bell is the shortest. This is the sequence of the four tones.
+
+古文：圆丘方泽之乐，皆以角为先，其次徵，又次宫，又次羽。
+现代文：在圜丘、方泽祭礼天地时用的音乐，都应该将角排列在最前面，其次是徵，再后是宫，最后是羽。
+English: In the music of the Mengqiu and Fangze festivals, the horns should be arranged at the front, followed by the sign, then the palace, and finally the feathers.
+
+古文：始于角木，木生火，火生土，土生水。
+现代文：在五行中， 角 代表木，木生火，火生土，土生水。
+English: Among the five elements, the horn represents wood, wood gives birth to fire, fire to earth, and earth to water.
+
+古文：越金，不用商也。
+现代文：越过 金 ，因而不用 商 音。
+English: Go beyond the money, and therefore do not use commercials.
+
+古文：木、火、土、水相次者，天地之叙，故以之礼天地，五行之叙：木生火，火生土，土生金，金生水。此但不用金耳，其余悉用。
+现代文：木、火、土、水之间的顺序，因此，可以以它作为祭天的礼仪。五行的顺序是：木生火，火生土，土生金，金生水，这里不用 金 ，其他都用。
+English: The order of the five elements is: wood begets fire, fire begets earth, earth begets gold, and gold begets water. Gold is not used here, but all other elements are used.
+
+古文：此叙，天地之叙也。
+现代文：这一顺序就是天地的顺序。
+English: This order is the order of heaven and earth.
+
+古文：何以知其角为先、其次徵、又次宫、又次羽？
+现代文：怎么知道将角排列在最前面，其次排列徵，再次排列宫，最后排列羽呢？
+English: How do you know to arrange the horns first, then the arms, then the wings, and finally the feathers?
+
+古文：以律吕次叙之也。
+现代文：这是从律吕的顺序得知的。
+English: This is known from the order of the ryu.
+
+古文：黄钟最长，太蔟次长，圜钟又次，姑洗又次，函钟又次，南吕最短，此其叙也。
+现代文：在律吕中，黄钟最长，太蔟比黄钟短一些，圜钟又比太蔟短一些，姑洗又比圜钟短一些，函钟又比姑洗短一些，而南吕在律吕中最短，这就是律吕的顺序。
+English: In Lulü, the yellow bell is the longest, the small bell is shorter than the yellow bell, the small bell is shorter than the small bell, the small bell is shorter than the small bell, and the small bell is shorter than the small bell, while the small bell is the shortest in Lulü. This is the order of Lulü.
+
+古文：此四音之叙也。
+现代文：这是祭乐中四音的次序。
+English: This is the order of the four notes in the rite.
+
+古文：天之气始于子，故先以黄钟；天之功毕于三月，故终之以姑洗。
+现代文：天之气始于子，所以把黄钟放在前面；天之功完成于三月，所以把姑洗放在最后。
+English: The work of heaven begins in the spring, so the yellow bell is placed at the front; the work of heaven is completed in March, so the purification is placed at the end.
+
+古文：地之功见于正月，故先之以太蔟；毕于八月，故终之以南吕。
+现代文：地之功从正月开始显示，所以把太蔟放在最前面，完成于八月，所以把南吕放到最后。
+English: The earthworks began to show from the first month, so the Taiko was placed at the front, and it was completed in August, so the Nanlu was placed at the end.
+
+古文：幽阴之气，钟于北方，人之所终归，鬼之所藏也，故先之以黄钟，终之以应钟。
+现代文：幽阴之气，聚集于北方，这里是人最终的归宿，是鬼藏身的地方，劳以祭祖宗的音乐以黄钟开始，以应钟结束。
+English: The gloomy atmosphere gathers in the north. This is the final destination for people and the place where ghosts hide. The music of the ancestors begins with the yellow bell and ends with the bell.
+
+古文：此三乐之始终也。
+现代文：这是三大祭乐的开头和结尾。
+English: This is the beginning and the end of the three great festivals.
+
+古文：角者，物生之始也。
+现代文：角，是万物初生。徵，是万物成熟。
+English: Angle is the birth of all things, and sign is the maturity of all things.
+
+古文：徵者，物之成。
+现代文：羽，是万物蛰伏。
+English: Feathers are the source of all things.
+
+古文：羽者，物之终。天之气始于十一月，至于正月，万物萌动，地功见处，则天功之成也，故地以太蔟为角，天以太蔟为徵。
+现代文：天之气始于十一月，到了正月万物萌发、活动，地功开始显现的时候，天功就已经成熟了，所以地以太蔟为角，天以太蔟为徵。
+English: The breath of heaven began in November, and by the first month of the year, when all things had sprouted and were active, and the work of heaven began to appear, the work of heaven had already matured. Therefore, the earth ether is the angle, and the heaven ether is the symbol.
+
+古文：三月万物悉达，天功毕处，则地功之成也，故天以姑洗为羽，地以姑洗为徵。
+现代文：三月万物全都生长出来了，天功完毕的时候，地功就成熟了，所以天以姑洗为羽，地以姑洗为徵。
+English: In March, all things have grown, and when the heavenly work is completed, the earthly work will be mature. Therefore, the heavenly work is represented by the wings and the earthly work is represented by the wings.
+
+古文：八月生物尽成，地之功终焉，故南吕以为羽。
+现代文：八月万物全都成熟，这时地功祀天终结，所以南吕以为羽。
+English: In August, all things are ripe. At this time, the earth's work and worship of the heavens come to an end, so Nan Lv thought it was a feather.
+
+古文：圆丘乐虽以圜钟为宫，而曰 乃奏黄钟，以祀天神 ；方泽乐虽以函钟为宫，而曰 乃奏太蔟，以祭地祇 。
+现代文：祭天的圜丘乐虽以圜钟为宫，却说 乃奏黄钟，以祀天神 ；祭地的方泽乐虽以函钟为宫，却说 乃奏太蔟，以祭地祇 。
+English: Although the music of the sacred mountain of heaven is based on the gong, it is said that the yellow bell is played to worship the gods; although the music of the sacred land is based on the bell, it is said that the taiko is played to worship the gods.
+
+古文：盖圆丘之乐，始于黄钟；方泽之乐，始于太蔟也。
+现代文：大概因为圜丘之乐，始于黄钟；方泽之乐，始于太蔟。
+English: Probably because the music of Mengqiu began in Huangzhong; the music of Fangze began in Taiyuan.
+
+古文：天地之乐，止是世乐黄钟一均耳。以此黄钟一均，分为天地二乐。
+现代文：祭天地的音乐，只是世俗音乐中的黄钟一韵而已，把这一韵黄钟，分为天地二乐。
+English: The music dedicated to heaven and earth is just a rhyme of the yellow bell in secular music. This rhyme of the yellow bell is divided into heaven and earth and two music.
+
+古文：黄钟之均。黄钟为宫，太蔟为商，姑洗为角。林钟为方泽乐而已。唯圜钟一律，不在均内。
+现代文：黄钟之韵，黄钟为宫，太蔟为商，姑洗为角，林钟则用于方泽乐而已，唯有圜钟一律不在韵内。
+English: The rhyme of the yellow bell, the yellow bell is the palace, the cuckoo is the merchant, the cuckoo is the horn, the forest bell is only used for the music, but the cuckoo clock is not in the rhyme.
+
+古文：天功毕于三月，则宫声自合在徵之后、羽之前，正当用夹钟也。二乐何以专用黄钟一均？
+现代文：天功在三月完毕，那么宫声自然应当在徵之后、羽之前，正应当用夹钟，天地二乐何以专用黄钟一韵？
+English: If the heavenly work is completed in March, then the sound of the palace should naturally be after the feathering, before the feathering, and it should be used with a clamped bell. Why use a special yellow bell to rhyme heaven and earth?
+
+古文：盖黄钟正均也，乐之全体，非十一均之类也。
+现代文：大概黄钟是正韵，也含了全部乐声，和其他十一韵不一样。
+English: Presumably, Huang Zhong is a rhyme, and also contains all the music, unlike the other eleven rhymes.
+
+古文：故《汉志》： 自黄钟为宫，则皆以正声应，无有忽微。
+现代文：所以《汉书·律历志》说： 自黄钟为宫，那么都以正声应和，没有误差。
+English: Therefore, "Hanshu · Rulings and Calendars" said: Since the yellow bell is the palace, then all the positive tones correspond to each other, and there is no error.
+
+古文：他律虽当其月为宫，则和应之律有空积忽微，不得其正。
+现代文：其他律虽然在其所对应的月份为宫，然而应和之律会有误差或者没有相应的律与音阶对应，不能获得其正声。 
+English: Other rhythms, although in the corresponding month of the palace, but the corresponding rhythms will have errors or do not have the corresponding rhythms and scales, can not get its positive.
+
+古文：其均起十一月，终于八月，统一歳之事也。
+现代文：黄钟宫一韵开始于十一月，终结于八月，统摄一年的事情。
+English: The Huangzhong Palace rhyme began in November and ended in August, a one-year event.
+
+古文：他均则各主一月而已。 
+现代文：其他韵则各自主持所对应的一个月而已。
+English: The other rhymes were only performed for the corresponding month by their respective hosts.
+
+古文：古乐有下徵调，沈休文《宋书》曰： 下徵调法：林钟为宫，南吕为商。
+现代文：古乐有下徵调，沈约的《宋书》说： 下徵调法：林钟为宫，南吕为商。
+English: Ancient music had a down-tuning, and Shen Yao's "Song of Song" said: Down-tuning: Lin Zhong is the palace, Nan Lv is the merchant.
+
+古文：林钟本正声黄钟之徵变，谓之下徵调。 
+现代文：林钟以正声黄钟为变徵，就称为下徵调。 
+English: Lin Zhong uses the positive tone yellow bell as the modifier, which is called the downbeat.
+
+古文：马融《长笛赋》曰： 反商下徵，每各异善。 
+现代文：马融《长笛赋》说： 反商下徵，每各异善。 
+English: Ma Rong's "Flute Fu" said: Anti-business, anti-subsidy, each is different and good.
+
+古文：谓南吕本黄钟之羽，变为下徵之商，皆以黄钟为主而已。
+现代文：说的是南吕原本是黄钟的羽声，变为下徵调中的商声，都是以黄钟为主而已。
+English: What is said is that Nanlu was originally the sound of the feather of the yellow bell, but it became the commercial sound in the down-tuning, and it was all dominated by the yellow bell.
+
+古文：此天地相与之叙也。
+现代文：这是天地二乐互相更迭的次序。
+English: This is the sequence of the alternation of heaven and earth.
+
+古文：人鬼始于正北，成于东北，终于西北，萃于幽阴之地也。
+现代文：祭礼祖先的音乐始于正北，成于东北，终于西北，汇聚于幽阴之地。
+English: The music of the ancestors of the festival began in the north, developed in the northeast, and finally in the northwest, converging in a gloomy place.
+
+古文：始于十一月，而成于正月者，幽阴之魄，稍出于东方也。
+现代文：始于十一月而成于正月，是因为幽阴的魂魄，在东方渐渐显现。
+English: It began in November and became the first month of the year, because the ghost of the gloom gradually appeared in the East.
+
+古文：全处幽阴，则不与人接；稍出于东方，故人鬼可得而礼也；终则復归于幽阴，復其常也。
+现代文：如果完全处于幽阴之地，就不能与人交接；渐渐出现于东方，所以祖先才能被礼拜；祖先最终会回归于幽阴之地，恢复其常态。
+English: If it is completely in the shade, it cannot meet with people; it gradually appears in the east, so the ancestors can be worshiped; the ancestors will eventually return to the shade and resume their normal state.
+
+古文：唯羽声独远于他均者。世乐始于十一月，终于八月者，天地歳事之一终也。
+现代文：唯独羽声比其他韵音距要长，这是因为世俗之乐始于十一月，终于八月，是天地间时令的一个循环。
+English: Only the sound of the feathers is longer than the other rhymes. This is because secular music begins in November and ends in August. It is a cycle of the seasons between heaven and earth.
+
+古文：鬼道无穷，非若歳事之有卒，故尽十二律然后终，事先追远之道，厚之至也，此庙乐之始终也。
+现代文：鬼道无穷，不像时令是有尽头的，所以要穷尽十二律然后终结。侍奉祖先追怀先人的礼节，要极为忠厚，这是庙乐的开始和终结。
+English: Ghost paths are endless, unlike the seasons, which have an end. Therefore, it is necessary to exhaust the Twelve Precepts and then come to an end. It is necessary to be extremely loyal when serving ancestors and pursuing the etiquette of the ancestors. This is the beginning and end of temple music.
+
+古文：人鬼尽十二律为义，则始于黄钟，终于应钟，以宫、商、角、徵、羽为叙，则始于宫声，自当以黄钟为宫也。
+现代文：祖先之乐从道理上讲要穷尽十二律，则开始于黄钟，终结于应钟，以宫、商、角、徵、羽为序，那么始于宫声，自然应当以黄钟为宫。
+English: The music of the ancestors, in theory, should exhaust the twelve laws, starting with the yellow bell and ending with the answering bell, with the palace, merchants, horns, symbols, and feathers in order, then starting with the palace sound, it should naturally be the yellow bell as the palace.
+
+古文：天神始于黄钟，终于姑洗，以木、火、土、金、水为叙，则宫声当在太蔟徵之后，姑洗羽之前，则自当以圜钟为宫也。
+现代文：祭天神之乐始于黄钟，终于姑洗，以木、火、土、金、水为序，那么宫声应当在太蔟徵之后，姑洗羽之前，于是自然应当以圜钟为宫。
+English: The music of the festival of the gods begins with the yellow bell, and ends with the watering, in the order of wood, fire, earth, gold, and water, so the sound of the palace should be after the watering, before the watering of the feathers, so naturally the bell should be the palace.
+
+古文：地祇始于太蔟，终于南吕，以木、火、土、金、水为叙，则宫声当在姑洗徵之后，南吕羽之前，中间唯函钟当均，自当以函钟为宫也。
+现代文：祭地祇之乐始于太蔟，终于南吕，以木、火、土、金、水为序，那么宫声应当在姑洗徵之后，南吕羽之前，中间唯有函钟当韵，自然应当以函钟为宫。
+English: The music of the festival began in Taiyuan and ended in Nanlu, with wood, fire, earth, gold, and water as the order, so the sound of the palace should be after the baptism and before the Nanlu, with only the clock in the middle as the rhyme. Naturally, the clock should be the palace.
+
+古文：天神用圜钟之后，姑洗之前，唯有一律自然合用也。
+现代文：祭天神之乐的宫声在圜钟之后，姑洗之前，唯有一律自然合用。
+English: The sound of the heavenly harp, which is the music of the deities, is played after the bells and before the baptisms.
+
+古文：不曰夹钟，而曰圜钟者，以天体言之也。
+现代文：不称为夹钟而称为圜钟，是按天体来说的。
+English: Instead of being called a pendulum clock, it is called a pendulum clock, which is based on the celestial body.
+
+古文：不曰林钟，曰函钟者，以地道言之也。
+现代文：不称为林钟而称为函钟，是以地道来说的。
+English: It is not called Lin Clock, but rather Hanzhong Clock, referring to the tunnel.
+
+古文：黄钟无异名，人道也。
+现代文：黄钟没有别名，是因为人道。
+English: Huang Zhong doesn't have an alias because he's a humanitarian.
+
+古文：此三律为宫，次叙定理，非可以意凿也。
+现代文：这二律为宫，次序定理，是不可以随意穿凿附会的。
+English: These two laws are the palace, the order theorem, it is not allowed to arbitrarily wear a chisel and join.
+
+古文：圜钟六变，函钟八变，黄钟九变，同会于卯，卯者，昏明之交，所以交上下、通幽明、合人神，故天神、地祇、人鬼可得而礼也。
+现代文：圜钟六变，函钟八变，黄钟九变，同会集于卯，卯是黑夜和黎明的交汇点，所以能交上下、通幽明、合人神，所以天神、地祇、祖宗都能够在这个点上礼拜。
+English: Six changes of the cuckoo clock, eight changes of the clock, and nine changes of the yellow clock, all gather in U. U is the intersection of night and dawn, so it can pass up and down, pass through the dim light, and meet the gods, so the gods, the deities, and the ancestors can all worship at this point.
+
+古文：自辰以往常在昼，自寅以来常在夜，故卯为昏明之交，当其中间，昼夜夹之，故谓之夹钟。
+现代文：自辰时以后都是白昼，自寅时以后都是黑夜，所以卯时为昼夜的交汇点，是在它们的中间，白昼和黑夜夹着卯应对的音律，所以称为夹钟。
+English: Since the hour is followed by the day, and since the hour is followed by the night, so the U-hour is the meeting point of day and night. It is in the middle of them. Day and night are sandwiched by the rhythm of the U, so it is called a sandwich clock.
+
+古文：黄钟一变为林钟，再变为太蔟，三变南吕，四变姑洗，五变应钟，六变蕤宾，七变大吕，八变夷则，九变夹钟。
+现代文：黄钟一变为林钟，再变为太蔟，三变为南吕，四变为姑洗，五变为应钟，六变为蕤宾，七变为大吕，八变为夷则，九变为夹钟。
+English: The first yellow bell was changed into a forest bell, then into a cuckoo, the third into a southern lute, the fourth into a cuckoo, the fifth into an answering bell, the sixth into a cuckoo, the seventh into a large lute, the eighth into an eagle, and the ninth into a clasping bell.
+
+古文：函钟一变为太蔟，再变为南吕，三变姑洗，四变应钟，五变蕤宾，六变太吕，七变夷则，八变夹钟也。
+现代文：函钟一变为太蔟，再变为南吕，三变为姑洗，四变为应钟，五变为蕤宾，六变为太吕，七变为夷则，八变为夹钟。
+English: The first bell of the clock was changed to Taishan, the second to Nanlu, the third to Guba, the fourth to Yinglu, the fifth to Zhibin, the sixth to Tairu, the seventh to Yizhe, and the eighth to Jianlu.
+
+古文：圜钟一变为无射，再变为中吕，三变为黄钟清宫，四变合至林钟，林钟无清宫，至太蔟清官为四变；五变合至南吕，南吕无清宫，直至大吕清宫为五变；六变合至夷则，夷则无清宫，直至夹钟清宫为六变也。
+现代文：圜钟一变为无射，再变为中吕，三变为黄钟清宫，四变正好到林钟，林钟无清宫，至太蔟清宫为四变，五变正好到南吕，南吕无清宫，直至大吕清宫为五变，六变正好到夷则，夷则无清宫，直至夹钟清宫为六变。
+English: The first change of the Longjing Bell is no-shooting, then it changes to the Middle Lu, the third change is the Yellow Bell Qing Palace, the fourth change is just to the Lin Bell, the Lin Bell Qing Palace, to the Taishan Qing Palace is the fourth change, the fifth change is just to the South Lu, the South Lu Qing Palace, until the Great Lu Qing Palace is the fifth change, the sixth change is just to the Yizi, the Yizi Qing Palace, until the Bell Qing Palace is the sixth change.
+
+古文：十二律，黄钟、大吕、太蔟、夹钟四律有清宫，总谓之十六律。
+现代文：十二律，黄钟、大吕、太蔟、夹钟四律有清宫，总称为十六律。
+English: There are four types of bells: twelve-string, yellow bell, large lute, large gong, and double bell. They are collectively called sixteen-string bells.
+
+古文：自姑洗至应钟八律，皆无清宫，但处位而已。
+现代文：自姑洗至应钟八律，都无清宫，只是占个位置罢了。
+English: From the time of the purification of the nuns to the time of the eight laws, there was no Qing Palace, but it just occupied a position.
+
+古文：此皆天理不可易者。
+现代文：这些都是天理不可改动的。
+English: These are all immutable by nature.
+
+古文：古人以为难知，盖不深索之。
+现代文：古人认为难以理解，大概是没有深入地探索。
+English: The ancients thought it was difficult to understand, and probably did not explore it in depth.
+
+古文：听其声，求其义，考其序，无毫发可移，此所谓天理也。
+现代文：聆听其乐声，推求其义蕴，考察其顺序，没有丝毫可以改动，这正是所谓的天理啊。
+English: Listening to its music, seeking its meaning, examining its sequence, there is nothing that can be changed, this is the so-called heavenly law.
+
+古文：一者人鬼，以宫、商、角、徵、羽为序者；二者天神，三者地祇，比以木、火、土、金、水为序者；四者以黄钟一均分为天地二乐者；五者六变、八变、九变皆会于夹钟者。
+现代文：一是祭祖宗的音乐，以宫、商、角、徵、羽为序；二是祭天神的音乐；三是祭地祇的音乐，都以木、火、土、金、水为序；四是以黄钟一韵分为祭天和祭地两种音乐；五是六变、八变、九变都会聚于夹钟。
+English: First, the music of the ancestor, with the palace, merchants, horns, symbols, and feathers as the sequence; second, the music of the gods; third, the music of the gods, all with wood, fire, earth, gold, and water as the sequence; fourth, the yellow bell is divided into two kinds of music of the gods and the sacred places; fifth, the six changes, eight changes, and nine changes will all gather at the bell.
+
+古文：六吕：三曰钟，三曰吕。
+现代文：六吕：其中三个称钟，另外三个称为吕。
+English: Six lü: three of them are called bell, and the other three are called rü.
+
+古文：夹钟、林钟、应钟。太吕、中吕、南吕。
+现代文：夹钟、林钟、应钟，大吕、中吕、南吕。
+English: Zhi Zhong, Lin Zhong, Ying Zhong, Dalu, Zhonglu, Nanlu.
+
+古文：钟与吕常相间，常相对，六吕之间，復自有阴阳也。
+现代文：钟与吕总是相间隔，相互对应，六吕之间又区分出了阴阳。
+English: The bell and the lute are always spaced apart, corresponding to each other, and yin and yang are distinguished between the six lutes.
+
+古文：纳音之法：申、子、辰、巳、酉、丑为阳纪，寅、午、戌、亥、卯、未为阴纪。
+现代文：纳音的方法为，申、子、辰、巳、酉、丑为阳纪，寅、午、戌、亥、卯、未为阴纪。
+English: The method of Na sound is: Shin, Zi, Chun, Mei, Yao, and Ugly are Yang, and Tora, Bao, Yao, Hai, U, and Mi are Yin.
+
+古文：亥、卯、未，曰夹钟、林钟、应钟，阳中之阴也。
+现代文：亥、卯、未，分别为夹钟、林钟、应钟，是阴中之阴。
+English: Hai, wu, wei, respectively, are Jian Zhong, Lin Zhong, Ying Zhong, is the yin of the yin.
+
+古文：黄钟者，阳之所钟也；夹钟、林钟、应钟，阴之所钟也。
+现代文：黄钟，是阳之所钟；夹钟、林钟、应钟，是阴之所钟。
+English: The yellow bell is the bell of the sun; the pendulum bell, the forest bell, and the answering bell are the bells of the shade.
+
+古文：故皆谓之钟。
+现代文：所以都称为 钟 。
+English: That's why they're called "bells."
+
+古文：巳、酉、丑，太吕、中吕、南吕，阴中之阳也。
+现代文：巳、酉、丑分别为大吕、中吕、南吕，是阴中之阳。
+English: The snake, dragonfly and ugly caterpillar are respectively large, medium and small, and are the sun in the midst of the shadow.
+
+古文：吕，助也，能时出而助阳也，故皆谓之吕。
+现代文：吕，是 助 的意思，能时时出来帮助阳，所以都称为 吕 。
+English: Lv, is the meaning of help, can always come out to help Yang, so are called Lv.
+
+古文：《汉志》言数曰： 太极元气，函三为一。
+现代文：《汉书·律历志》谈历数时说： 初始时天地间的混沌之气，包含天、地、人三者而且把它们合而为一。
+English: The "Hanshu · Ruling Calendar" said about the calendar: At the beginning of time, the chaotic atmosphere between heaven and earth included heaven, earth, and people and combined them into one.
+
+古文：极，中也；元，始也。
+现代文：极，就是包罗万象；元，就是初始。
+English: The ultimate is the all-encompassing; the original is the initial.
+
+古文：行于十二辰，始动于子。
+现代文：在十二辰中运行，始动于子时。
+English: It starts from the ninth hour and runs through the twelfth hour.
+
+古文：参之于丑，得三。
+现代文：于丑时乘以三得到三。
+English: In the ugly time, the number of three times the number of hours is used to get three.
+
+古文：又参之于寅，得九。
+现代文：又在寅时乘三得到九。
+English: In addition, three times the number of ugly hours is used to multiply the number of black hours, resulting in nine.
+
+古文：又参之于卯，得二十七。 
+现代文：又在卯时乘三得到二十七。
+English: In addition, he used three times the number of hours to get twenty-seven.
+
+古文：历十二辰， 得十七万七千一百四十七。
+现代文：这样经过十二辰，得到十七万七千一百四十七。
+English: Thus, after twelve hours, we got 177,147.
+
+古文：此阴阳合德，气钟于子，化生万物者也。 
+现代文：这是因为阴阳合德，气聚集于子，从而化生了世间万物。 
+English: This is due to the yin and yang phase and the air sown at the time of the seed, which is used to create all things.
+
+古文：殊不知此乃求律吕长短体算立成法耳，别有何义？
+现代文：殊不知这只是推算律吕管长短的方法而已，哪里还有其他的意义呢？
+English: After all, this is just a method of calculating the length of the rhumb line. What other significance does it have?
+
+古文：为史者但见其数浩博，莫测所用，乃曰 此阴阳合德，化生万物者也。 
+现代文：写史书的人只看到了数字的庞大，却不知道它到底有什么用，于是说 这是阴阳合德，化生万物啊 。
+English: The people who write history books only see the huge numbers, but they don't know what use it really is, so they say that this is yin and yang, transforming all things.
+
+古文：尝有人于土中得一朽弊捣帛杵，不识，持归以示邻里。
+现代文：曾经有人在土地中找到一枚朽烂了的捣帛杵，他不认识，拿着回家展示给邻居们看。
+English: Someone once found a rotting horse mackerel in the land, which he did not recognise, and took it home to show it to his neighbours.
+
+古文：大小聚观，莫不怪愕，不知何物。
+现代文：邻里的大人小孩都围着来观看，都不知道它是个什么东西，没人不惊怪。
+English: Neighbors, both adults and children, gathered around to watch, not knowing what it was, and no one was surprised.
+
+古文：后有一书生过，见之曰： 此灵物也。
+现代文：后来有个书生经过，看见这个捣帛杵后说： 这是灵物。
+English: Later, a student passed by, saw the trick and said: "It's a spirit.
+
+古文：吾闻防风氏身长三丈，骨节专车。
+现代文：我听说防风氏身高三丈，他的一节骨头可以装满一辆车。
+English: I've heard that Mr. Fengbo is so tall that one of his bones can fill a car.
+
+古文：此防风氏胫骨也。 
+现代文：这是防风氏的胫骨。 
+English: This is the shinbone of Bozhou.
+
+古文：乡人皆喜，筑庙祭之，谓之 胫庙 。
+现代文：乡里人都很欢喜，修筑庙宇来祭祀它，并称这庙为 胫庙 。
+English: The villagers were overjoyed and built a temple to worship it, calling it the Dragonfly Temple.
+
+古文：班固此论，亦近乎 胫庙 也。
+现代文：班固的这些议论，也和 胫庙 相近。
+English: These arguments of Banggu are also similar to those of the Temple of Heaven.
+
+古文：吾闻《羯鼓录》序羯鼓之声云： 透空碎远，极异众乐。 
+现代文：我阅读《羯鼓录》，见书中叙述羯鼓的声音，说它 声破长空，穿透远方，特异于诸种乐器 。
+English: I read "Drum Record" and saw that the book described the sound of the gong drum, saying that it broke the sky, penetrated the distance, and was unique to all kinds of musical instruments.
+
+古文：唐羯鼓曲，今唯有邠州一父老能之，有《大合蝉》、《滴滴泉》之曲。
+现代文：唐代的羯鼓曲，如今只有邠州的一位老人能演奏，有《大合蝉》《滴滴泉》等曲名。
+English: Today, only an old man from Zhangzhou can play the Tang Dynasty gonggu music, with tunes such as "Big Cicadas" and "Drops of Spring."
+
+古文：余在鄜延时，尚闻其声。
+现代文：我在鄜延时，还听过他的演奏。
+English: When I was in Zhenyan, I also heard him play.
+
+古文：泾、原承受公事杨元孙因奏事回，有旨令召此人赴阙。
+现代文：泾、原承受公事杨元孙因为奏事入京，回来后传达朝廷谕旨，令召此人赴阙。
+English: , Yang Yangsun, who was originally in charge of public affairs, went to Beijing to report the matter, and after returning, he conveyed the imperial edict and ordered the person to go to the capital.
+
+古文：元孙至邠，而其人已死，羯鼓遗音遂绝。
+现代文：元孙到邠州，而其人已去世，羯鼓流传下来的音曲遂从此断绝。
+English: The founder's grandson went to Zhangzhou, but he passed away, and the music passed down by the gongs and drums was finally cut off.
+
+古文：今乐部中所有，但名存而已， 透空碎远 了无余迹。
+现代文：现在官府乐班中所存的羯鼓曲，只不过徒有其名而已，所谓 声破长空，穿透远方 ，已全无剩余的痕迹。
+English: Now, the gongs and drums music preserved in the government music class is nothing more than its name. The so-called sound breaking the sky, penetrating the distance, has no remaining traces.
+
+古文：唐明帝与李龟年论羯鼓云： 杖之弊者四柜。 用力如此，其为艺可知也。
+现代文：唐明皇与李龟年讨论羯鼓，曾说 鼓杖敲坏了的就有四柜 ，当时羯鼓的练习如此用力，其精湛的技艺也由此可见了。
+English: Tang Minghuang and Li Kuei discussed the gongs and drums, and once said that if the drumsticks were broken, there would be four coffers. At that time, the gongs and drums were practiced so hard that their superb skills could be seen.
+
+古文：唐之杖鼓，本谓之 两杖鼓 ，两头皆用杖。
+现代文：唐朝时期的杖鼓，本称 两杖鼓 ，两头都能用鼓槌敲击。
+English: Cane drums from the Tang Dynasty, originally known as two-cane drums, can be struck with a mallet on both ends.
+
+古文：今之杖鼓，一头以手拊之，则唐之 汉震第二鼓 也，明帝、宋开府皆善此鼓。
+现代文：现在的杖鼓，一头用鼓槌敲，另一头用手拍打，则是唐人所称的 汉震第二鼓 。唐明皇、宋开府宋璟都擅长两杖鼓。
+English: The present-day cane drum, which is struck with a drumstick on one end and hand-clapped on the other, is what the Chinese call the second drum of the Han dynasty. Emperor Ming of Tang and Emperor Song of Songkaifu were both good at the two-cane drum.
+
+古文：其曲多独奏，如鼓笛曲是也。
+现代文：两杖鼓演奏的曲子多是专用的，如与玉笛相配的鼓笛曲就是。
+English: Most of the pieces played by the two-stick drum are special, such as the drum and flute piece that goes with the tambourine.
+
+古文：今时杖鼓，常时只是打拍，鲜有专门独奏之妙。
+现代文：现在的杖鼓，通常只是用桌击打节拍，很少有专门独奏的妙用，旧时杖鼓曲也全都散失了。
+English: Today's cane drums are usually only used to beat the beat with a table, and are rarely used for special solos. All of the old cane drum music has also been lost.
+
+古文：古典悉皆散亡，顷年王师南征，得《黄帝炎》一曲于交趾，乃杖鼓曲也。 炎 或作 盐 。唐曲有《突厥盐》、《阿鹊盐》。施肩吾诗云： 颠狂楚客歌成雪，媚赖吴娘笑是盐。 盖当时语也。
+现代文：当年王师南征时，于交趾搜集到一曲《黄帝炎》，即是杖鼓曲。唐代杖鼓曲有《突厥盐》《阿鹊盐》，施肩吾的诗句说 颠狂楚客歌成雪，妩媚吴娘笑是盐 ，可见鼓曲称 盐 就是当时的用语。
+English: At the time of Wang Shi's expedition to the south, he collected a piece of "Yellow Emperor's Flame" at the junction, which is a stick drum song. The Tang Dynasty stick drum song has "Turk Salt" and "Grandmother Salt," and the verse of Shouldering My Shoulders says, "Crazy Chukka's song turns into snow, charming Wu Niang's smile is salt." It can be seen that the drum song called "salt" was the language at that time.
+
+古文：今杖鼓谱中有炎杖声。
+现代文：现在杖鼓谱子的标识符号中，还有 炎杖声 的名目。
+English: Now, among the symbols of the staff and drum musical notation, there is also the name of the flame sound of the staff.
+
+古文：边兵每得胜回，则连队抗声凯歌，乃古之遗音也。
+现代文：守卫边境的士兵每回得胜归来，就会连营结队地高唱凯歌，凯歌的曲调也是古时候遗留下来的曲调。
+English: Every time the soldiers guarding the border come back victorious, they will march in formation to sing high praise songs, the melody of which is also a melody left over from ancient times.
+
+古文：凯歌词甚多，皆市井鄙俚之语。
+现代文：凯歌的歌词有很多，用的都是市井街巷的俚俗语言。
+English: There are a lot of lyrics in Kaige, all of which use the vulgar language of the streets and alleys.
+
+古文：余在鄜延时，制数十曲，令士卒歌之，今粗记得数篇。
+现代文：我在鄜延的时候，也曾创作了几十首，让士卒歌唱，现在还粗略地记得几篇。
+English: When I was in Zhenyan, I also composed dozens of songs for the soldiers to sing, and I still remember a few of them roughly.
+
+古文：其一： 先取山西十二州，别分子将打衙头。
+现代文：其一： 先取山西十二州，别分子将打衙头。
+English: One: Take the twelve prefectures of Shanxi first, and the others will follow.
+
+古文：回看秦塞低如马，渐见黄河直北流。 
+现代文：回看秦塞低如马，渐见黄河直北流。 
+English: Looking back, the Qin River is as low as a horse. Gradually, the Yellow River flows straight north.
+
+古文：其二： 天威卷地过黄河，万里羌人尽汉歌。
+现代文：其二： 天威卷地过黄河，万里羌人尽汉歌。
+English: The second is that the Yellow River is crossed by the wind of heaven, and thousands of people sing Chinese songs.
+
+古文：莫堰横山倒流水，从教西去作恩波。 
+现代文：莫堰横山倒流水，从教西去作恩波。 
+English: The water flowing backwards from Mo Yan across the mountains goes from Jiaoxi to Enbo.
+
+古文：其三： 马尾胡琴随汉车，曲声犹自怨单于。
+现代文：其三： 马尾胡琴随汉车，曲声犹自怨单于。
+English: Third: The horse-tailed lyre accompanies the Chinese carriages, and the melody is a bit sad.
+
+古文：弯弓莫射云中雁，归雁如今不记书。 
+现代文：弯弓莫射云中雁，归雁如今不寄书。 
+English: The bow must not shoot the goose in the clouds, and the returning goose does not send a letter now.
+
+古文：其四： 旗队浑如锦绣堆，银装背嵬打回回。
+现代文：其四： 旗队浑如锦绣堆，银装背嵬打回回。
+English: The fourth: The flag team is like a heap of brocade, and the silver back ribbon is tied back.
+
+古文：先教净扫安西路，待向河源饮马来。 
+现代文：先教净扫安西路，待向河源饮马来。 
+English: Let's sweep the West An Road first, and wait for the horses to come to Heyuan.
+
+古文：其五： 灵武西凉不用围，蕃家总待纳王师。
+现代文：其五： 灵武西凉不用围，蕃家总待纳王师。
+English: The fifth: Lingwuxi Liangshan does not need to be surrounded, and the Xing family is always waiting for the king's teacher.
+
+古文：城中半是关西种，犹有当时轧吃根勿反。儿。 
+现代文：城中半是关西种，犹有当时轧吃儿。 
+English: Half of the city is of the Kansai variety, which was still eaten at that time.
+
+古文：《柘枝》旧曲，遍数极多，如《羯鼓录》所谓《浑脱解》之类，今无復此遍。
+现代文：柘枝旧时的曲目，章节非常多，比如《羯鼓录》中所说的 浑脱解 之类，今天的《柘枝》曲不再有这一类的遍数。
+English: There are many sections in the old repertoire, such as "Hundredfold" mentioned in the "Drum Record," but today's "Hundredfold" no longer has this kind of number of repetitions.
+
+古文：寇莱公好《柘枝舞》，会客必舞《柘枝》，每舞必尽日，时谓之 柘枝颠 。
+现代文：寇准喜好《柘枝》舞，与客人集会时必定要舞《柘枝》，况每一次跳舞都要跳一整天，当时的人称他为 柘枝颠 。
+English: Kojun liked the "Hanging Tree Branch" dance, and he always danced the "Hanging Tree Branch" when meeting with guests. In addition, he danced for a whole day every time he danced. People at the time called him "Hanging Tree Branch."
+
+古文：今凤翔有一老尼，犹是莱公时柘枝妓，云 当时《柘枝》，尚有数十遍。今日所舞《柘枝》，比当时十不得二三。 
+现代文：今天在凤翔有一个老尼姑，是寇准当年的《柘枝》妓，她说： 当时的《柘枝》曲还有几十遍，今日所舞的《柘枝》，和当时的相比，遍数不到十分之二三。 
+English: Today, there is an old nun in Fengxiang, who was a prostitute of "Hanging Branches" back in the day. She said, "Back then, there were dozens of "Hanging Branches" songs. Today, the number of "Hanging Branches" dances is less than two-thirds of what it was back then.
+
+古文：老尼尚能歌其曲，好事者往往传之。
+现代文：老尼姑还能歌当时的曲子，有闲情逸致的人往往传唱她的曲子。
+English: The old nun can still sing the songs of that time, and people who are idle often sing her songs.
+
+古文：古之善歌者有语，谓 当使声中无字，字中有声。 
+现代文：古时善于歌唱的人有种说法，就是歌唱应当做到 声中无字，字中有声 。
+English: In ancient times, people who were good at singing had a saying that singing should be done without words in the voice and with words in the voice.
+
+古文：凡曲，止是一声清浊高下如萦缕耳，字则有喉、唇、齿、舌等音不同。
+现代文：凡是曲调，只不过是清浊高下不同的一种曲折连贯的发声，有如缠绕的一缕丝线；而歌词的字，则有喉音、唇音、齿音、舌音等发音部位的不同。
+English: In general, a tune is nothing more than a zigzag coherent vocalization with different clearness and pitch, like a twisted strand of silk; while the words of the lyrics are different from the larynx, lips, teeth, and tongue.
+
+古文：当使字字举本皆轻圆，悉融入声中，令转换处无磊块，此谓 声中无字 ，古人谓之 如贯珠 ，今谓之 善过度 是也。
+现代文：歌唱时，应当使字字都发自本部位而能轻松圆润，完全融入曲调的发声中，令声音转换处没有郁结障碍，这叫作 声中无字 ，古人称这种唱法如同贯串圆珠，现在说的善于过渡也是指这一技巧。
+English: When singing, the words should be able to flow easily and smoothly from this part of the mouth, fully integrated into the vocalization of the tune, so that there is no blockage at the sound conversion point. This is called "no words in the voice." The ancients said that this singing method was like stringing beads. Now, "good at transition" also refers to this skill.
+
+古文：如宫声字而曲合用商声，则能转宫为商歌之，此 字中有声 也，善歌者谓之 内里声 。
+现代文：如宫声的字而曲调应该用商声，那就要能转换宫音而用商声把它唱出来，而这也就是 字中有声 ，善于歌唱的人称这样的发声是一种 内里声 。
+English: If the words of the palace sound and the melody should use the merchant's voice, then it is necessary to be able to convert the palace sound and sing it out with the merchant's voice, which is the sound in the word, and people who are good at singing call such a sound a kind of inner voice.
+
+古文：不善歌者，声无抑扬，谓之 念曲 ；声无含韫，谓之 叫曲。 
+现代文：不善于歌唱的人，声音没有适当的高低抑扬，那就叫 念曲 ；声音过于浅直而缺乏应有的内涵，那就成了 叫曲 。
+English: For those who are not good at singing, the voice does not have the appropriate high and low intonation, it is called chanting; the voice is too shallow and lacks the proper connotation, it becomes chanting.
+
+古文：古诗皆咏之，然后以声依咏以成曲，谓之 协律 。
+现代文：古代的诗歌都是可以吟咏的，然后依照吟咏时抑扬顿挫的韵律来谱成曲子，就叫做 协律 。
+English: All ancient poems can be sung, and then according to the rhythms of the cadences during the chanting to compose a piece of music, it is called "harmony."
+
+古文：其志安和，则以安和之声咏之；其志怨思，则以怨思之声咏之。
+现代文：当诗歌表达安逸平和的感情时，就用安逸平和的音调来吟咏；当诗歌表达哀怨幽愤的感情时，就用哀怨幽愤的音调来吟咏。
+English: When poems express feelings of ease and peace, they are sung in a tone of ease and peace; when poems express feelings of sorrow and anger, they are sung in a tone of sorrow and anger.
+
+古文：故治世之音安以乐，则诗与志、声与曲，莫不安且乐；乱世之音怨以怒，则诗与志、声与曲，莫不怨且怒。
+现代文：所以，太平时代的音乐安逸而欢乐，诗歌及其所表达的思想内容，音调和曲子所表达的思想情感，没有不安逸而欢乐的；动乱时代的音乐哀怨而幽愤，诗歌及其所表达的思想内容，音调和曲子所表达的思想情感，也就没有不哀怨幽愤的了。
+English: Therefore, the music of the Taiping era is comfortable and joyful, the poetry and the ideological content expressed by it, and the ideological emotions expressed by the tone and melody are not comfortable and joyful; the music of the turbulent era is sad and angry, and the poetry and the ideological content expressed by it, and the ideological emotions expressed by the tone and melody are not sad and angry.
+
+古文：此所以审音而知政也。
+现代文：这就是通过仔细考察音乐就可以知道政治情况的道理所在。
+English: This is the reason why the political situation can be known by careful examination of the music.
+
+古文：诗之外又有和声，则所谓 曲 也。
+现代文：诗之外又有所谓的和声，就叫做 曲 。
+English: If there are so-called harmonies in addition to the poem, it is called a song.
+
+古文：古乐府皆有声有词，连属书之。
+现代文：古代的乐府诗都既有和声又有词句，连起来写在一块儿。
+English: The ancient poems of the Lefu had both harmonies and words, and they were written together.
+
+古文：如曰贺贺贺、何何何之类，皆和声也。
+现代文：如 贺贺贺 、 何何何 之类，都是和声。
+English: For example, "hehehe," "hehehe" and the like are all harmonies.
+
+古文：今管弦之中缠声，亦其遗法也。
+现代文：如今演奏乐曲时的过门 缠声 ，也就是和声遗留下来的手法。
+English: Today, when playing music, the doorbell ringing, that is, the method left behind by the harmony.
+
+古文：唐人乃以词填入曲中，不复用和声。
+现代文：唐代人把词句填入乐曲中，于是不再使用和声了。
+English: The Tang Dynasty people filled the words into the music, so they no longer used harmony.
+
+古文：此格虽云自王涯始，然贞元、元和之间，为之者已多，亦有在涯之前者。
+现代文：这种方法虽说是从王涯开始的，不过在贞元、元和年间，用这种方法的人已经很多了，还有一些甚至是在王涯之前使用的。
+English: Although this method is said to have begun with Wang Ya, there were already many people using this method in the Zhenyuan, Yuan and He years, and some were even used before Wang Ya.
+
+古文：又小曲有 咸阳沽酒宝钗空 之句，云是李白所制，然李白集中有《清平乐》词四首，独欠是诗；而《花间集》所载 咸阳沽酒宝钗空 ，乃云是张泌所为。
+现代文：此外，小曲中有 咸阳沽酒宝钗空 的句子，相传是李白所作，但是在李白的诗集中只有《清平乐》词四首，唯独没有这首诗；而在《花间集》中虽记载有 咸阳沽酒宝钗空 的句子，却传是张泌所作。
+English: In addition, in the little song, there is a sentence "Xianyang, drinking wine, treasure, emptiness," which is said to have been written by Li Bai, but in Li Bai's poetry collection, there are only four "Qingping Music" words, but there is no such poem; and in the "Flower Collection," although there is a sentence "Xianyang, drinking wine, treasure, emptiness," it is said to have been written by Zhang Xiu.
+
+古文：莫知孰是也。
+现代文：这两种说法，也不知道到底哪一种是对的。
+English: It is not known which of these two statements is correct.
+
+古文：今声词相从，唯里巷间歌谣及《阳关》《捣练》之类，稍类旧俗。
+现代文：现今时代曲调和词意能够密切配合的，只有民间歌谣和《阳关三叠》《捣练子》一类的曲子，还比较接近于过去传统的格式。
+English: Nowadays, only folk songs and songs such as "Yangguan Sanjia" and "Bashun Zi" are close to the traditional format of the past.
+
+古文：然唐人填曲，多咏其曲名，所以哀乐与声尚相谐会。
+现代文：但是唐代人填曲时，大多是按照曲调名称的含义来填词的，所以所表达的悲哀、欢乐的情感与曲调还是配合得当的。
+English: However, when the Tang Dynasty people wrote music, they mostly wrote the words according to the meaning of the tune's name, so the sad and happy emotions expressed still fit well with the tune.
+
+古文：今人则不复知有声矣，哀声而歌乐词，乐声而歌怨词。
+现代文：现在的人却不再懂得曲调原本是有悲哀、欢乐之别的，所以往往用悲哀的曲调去吟唱欢乐的歌词，或者用欢乐的曲调去吟唱悲哀的歌词。
+English: People nowadays no longer understand that there is a difference between sad and happy tunes, so they often use sad tunes to sing happy lyrics, or use happy tunes to sing sad lyrics.
+
+古文：故语虽切而不能感动人情，由声与意不相谐故也。
+现代文：即使歌词所表达的思想内容和情感非常深切，也不能打动人，原因就在于曲调与歌词意义搭配得不够妥当。
+English: Even if the thought content and emotion expressed by the lyrics are very profound, they cannot move people, because the melody is not properly matched with the meaning of the lyrics.
+
+古文：唐《独异志》云： 唐承隋乱，乐簴散亡，独无徵音。
+现代文：唐代的《独异志》一书中说： 唐朝是在动乱的隋朝的基础上建立起来的，悬挂编磬的架子散失了，编磬里唯独少了一个徵音。
+English: The Tang Dynasty's "Dissimilarity" book said: The Tang Dynasty was established on the basis of the turbulent Sui Dynasty. The hanging braiding frame was lost, and the braiding frame was only missing one voice.
+
+古文：李嗣真密求得之。
+现代文：李嗣真很神秘地找到了它。
+English: Li Zhi really found it mysteriously.
+
+古文：闻弩营中砧声，求得丧车一铎，入振之于东南隅，果有应者。
+现代文：他听到了军营造弩作坊里的捶衣石发出的声音，便找来一只丧车上的大铃铛，跑到弩营东南角上去摇，铃声果然引起了回声。
+English: He heard the sound emitted by the crockery in the military camp's crockery workshop, so he found a large bell on the hearse and ran to the southeast corner of the camp to shake it. The bell did indeed cause an echo.
+
+古文：掘之，得石一段，裁为四具，以补乐簴之阙。 
+现代文：挖掘那地方，找到了一块石头，把它切割成四块，用来补齐了编磬架上缺失的徵音。 
+English: Excavating the site, he found a stone and cut it into four pieces, which he used to complete the missing inscription on the braiding frame.
+
+古文：此妄也。
+现代文：这是很荒谬的。
+English: It's ridiculous.
+
+古文：声在短长厚薄之间，故《考工记》： 磬氏为磬，已上则磨其旁，已下则磨其端。 
+现代文：磬的声音的高低取决于它的长短厚薄，所以《考工记》里讲： 做磬的人在制磬的时候，如果磬的音偏高了，就磨它的两边；如果磬的音偏低了，就磨它的两头。 
+English: The pitch of the cymbal depends on its length, thickness, and thickness, so the "An Examination of Work" says: When making a cymbal, if the sound of the cymbal is high, grind its sides; if the sound of the cymbal is low, grind its ends.
+
+古文：磨其毫末，则声随而变，岂有帛砧裁琢为磬，而尚存故声哉。
+现代文：磨去一点点，磬的音就会随之而发生变化，哪有把一块捣衣石切割打磨成四块以后，它依然还能保持原有声音的呢？
+English: Grind away a little bit, and the sound of the cymbals will change accordingly. After cutting and grinding a whetstone into four pieces, can it still maintain its original sound?
+
+古文：兼古乐宫、商无定声，随律命之，迭为宫、徵。
+现代文：再说在古代音乐中，宫和商音是没有固定音高的，是随着乐律的变化而定的，可以交替作为宫音、徵音。
+English: Furthermore, in ancient music, the palace and merchant tones do not have a fixed pitch, but are determined according to changes in the melody, and can be alternately used as palace tones and intonation.
+
+古文：嗣真必尝为新磬，好事者遂附益为之说。
+现代文：李嗣真肯定曾经做过新的磬，有些喜欢多事的人便牵强附会、添油加醋地编造出了上面的故事。
+English: Li Zizhen must have made a new bowl, and some people who like to do many things have fabricated the above story in a far-fetched way.
+
+古文：既云： 裁为四具 ，则是不独补徵声也。
+现代文：既然说把石砧分成了四块，就不会只用来补徵音了。
+English: Now that the stalagmite has been divided into four pieces, it won't just be used to make up the sound.
+
+古文：《国史纂异》云： 润州曾得王磬十二以献，张率更叩其一，曰： 晋某歳所造也。是歳闰月，造磬者法月数，当有十三，宜于黄钟东九尺掘，必得焉。 
+现代文：《国史异纂》一书中说： 镇江曾经从地下挖到十二只玉磬并献给了朝廷，掌管计时的率更官张某敲了一下其中的一只便说： 这是晋代某年所造的，那一年有闰月，造磬的人是依照月数制磬的，应当有十三只磬。可以在所发现的黄钟磬的东边九尺远的地方挖掘，一定会找到。 
+English: "The Compilation of National History" says: Zhenjiang once dug up twelve jade gongs from the ground and presented them to the imperial court. Zhang Mou, the official in charge of timekeeping, tapped one of them and said: This was made in a certain year of the Jin Dynasty. In that year there was a leap month. Those who made the gongs made them according to the number of months. There should be thirteen gongs. You can dig nine feet to the east of the discovered yellow bell gong and you will definitely find it.
+
+古文：从之，果如其言。 
+现代文：按照他的话去挖，果然像他讲的那样。 
+English: I dug according to his words and it turned out to be as he said.
+
+古文：此妄也。
+现代文：这是很荒唐的。
+English: It's ridiculous.
+
+古文：法月律为磬，当依节气，闰月自在其间，闰月无中气，岂当月律？
+现代文：依照月律来制造磬，应该按照节气，闺月已经包括在当中了，闰月是没有中气的，怎么能按照月律来造磬呢？
+English: According to the lunar rhythm to make the cocoon, it should be in accordance with the solar terms, the boudoir moon is already included in the middle, the leap month has no middle, how can the cocoon be made according to the lunar rhythm?
+
+古文：此懵然者为之也。
+现代文：这是不明事理的糊涂人的胡说八道。
+English: This is ill-informed, muddle-headed nonsense.
+
+古文：扣其一，安知其是晋某年所造？
+现代文：敲一下其中的一只磬，哪里就能知道它是晋代某年所制造的呢？
+English: If you knock on one of the cymbals, where can you find out that it was made in a certain year of the Jin Dynasty?
+
+古文：既沦陷在地中，岂暇復按方隅尺寸埋之？
+现代文：既然失落掩埋在泥土里，哪里还会有工夫按一定的方位和间隔距离去埋呢？
+English: Since the loss is buried in the dirt, where will there be time to bury it according to a certain position and distance?
+
+古文：此欺诞之甚也！
+现代文：这种自欺欺人的说法真是荒诞到了极点。
+English: This kind of self-deception is really absurd to the extreme.
+
+古文：《霓裳羽衣曲》。刘禹锡诗云： 三乡陌上望仙山，归作《霓裳羽衣曲》。 
+现代文：关于《霓裳羽衣曲》，刘禹锡的诗说： 三乡陌上望仙山，归作《霓裳羽衣曲》。 
+English: Regarding "The Song of the Feathered Robe," Liu Yuxi's poem said: "Three townships, a strange look at the Fairy Mountain, belong to "The Song of the Feathered Robe."
+
+古文：又王建诗云： 听风听水作《霓裳》。 
+现代文：又有王建的诗说： 听风听水作《霓裳》。 
+English: There is also a poem by Wang Jian that says, "Listening to the wind, listening to the water, one can make "Fancy Dress."
+
+古文：白乐天诗注云： 开元中，西凉府节度使杨敬述造。 
+现代文：白居易有首诗的注释说： 开元年间，西凉府节度使杨敬述作。 
+English: The commentary on Bai Juyi's poem said: During the first year of the year, the Xiliangfu Festival made Yang Jing recite the poem.
+
+古文：郑嵎《津阳门诗》注云： 叶法善尝引上入月宫，闻仙乐。及上归，但记其半，遂于笛中写之。
+现代文：郑嵎《津阳门》诗的注释说： 叶法善曾经引导皇上飞入月宫聆听仙乐，等回到人间时，皇上只记得其中的一半，于是就用笛子把它吹奏出来。
+English: The commentary on Zheng Yao's poem "Tsun Yang Men" says: Ye Fa Shan once guided the emperor to fly into the Moon Palace to listen to celestial music. When he returned to the human world, the emperor only remembered half of it, so he played it out with a flute.
+
+古文：会西凉府都督杨敬述进《婆罗门曲》，与其声调相符，遂以月中所闻为散序，用敬术所进为其腔，而名《霓裳羽衣曲》。 
+现代文：恰逢西凉府都督杨敬述进献《婆罗门曲》，与仙乐声调相符，于是就用月宫中所听到的为序曲，用杨敬述所进献的为曲子的主旋律，而且把曲子取名为《霓裳羽衣曲》。 
+English: It happened that Yang Jing, the governor of Xiliangfu, recited the prelude to the "Brahminsong," which matched the tone of the celestial music, so he used what he heard in the Moon Palace as the prelude, and used Yang Jing's recitation of the prelude as the main melody of the piece, and named the piece the "Dressed in Feathers" piece.
+
+古文：诸说各不同。
+现代文：各种说法各不相同。
+English: Accounts vary.
+
+古文：今蒲中逍遥楼楣上有唐人横书，类梵字，相传是《霓裳谱》，字训不通，莫知是非。
+现代文：今天蒲中逍遥楼的门楣上有唐朝人横着书写的文字，像是梵文，相传是《霓裳》的曲谱，由于不懂上面文字的意思，没人知道到底是不是。
+English: Today, on the lintel of the door of the Pu Zhong Shouyao Building, there are words written horizontally by the Tang Dynasty people, such as Sanskrit, which is said to be the music score of "Fancy Dress." Since no one understands the meaning of the above words, no one knows whether it is true or not.
+
+古文：或谓今燕部有《献仙音曲》，乃其遗声。然《霓裳》本谓之道调法曲，今《献仙音》乃小石调耳。
+现代文：又有人说今天燕部中有《献仙音曲》，是《霓裳羽衣曲》的遗声，然而《霓裳》原本被称为是道调法曲，今天的《献仙音》却是小石调，不知道哪种说法正确。
+English: It was also said that today's "Kenshien Onkyo" in the Yanbu section was the last sound of the "Kenshien Hagoromo," however, "Kenshien" was originally known as a Taoist melody, but today's "Kenshien Onkyo" is a small stone melody. I don't know which statement is correct.
+
+古文：未知孰是。《虞书》曰： 戛击鸣球，搏拊琴瑟以咏，祖考来格。 
+现代文：《虞书》说： 戛击鸣球，搏拊琴瑟以咏，祖考来格。 
+English: "The Book of the Goose" says: "Strike the cymbals, beat the harps with the cymbals, and the ancestors will come."
+
+古文：鸣球非可以戛击，和之至，咏之不足，有时而至于戛且击；琴瑟非可以搏拊，和之至，咏之不足，有时而至于搏且拊。
+现代文：鸣球原本不可以戛击，和谐到了极致，吟咏还不足以表达感情，有时候竟至于对鸣球又戛又击琴瑟原本不可以搏拊，和谐到了极致，吟咏还不足以表达感情，有时候竟至于对琴瑟又搏又拊。
+English: It was originally impossible to hit the cymbals, the harmony reached the extreme, the chanting was not enough to express feelings, sometimes it was actually impossible to fight the cymbals, the harmony reached the extreme, the chanting was not enough to express feelings, and sometimes it was even impossible to fight the cymbals, the harmony reached the extreme, the chanting was not enough to express feelings.
+
+古文：所谓手之、舞之、足之、蹈之，而不自知其然，和之至，则宜祖考之来格也。
+现代文：正所谓情不自禁地手舞足蹈而自己不觉得，和谐到了极致，自然祖先就会降临。
+English: Just as one cannot help but dance with one's hands and feet without feeling that the harmony has reached the extreme, the natural ancestors will come.
+
+古文：和之生于心，其可见者如此。
+现代文：和谐的情意产生于内心，表现出来就是这个样子。
+English: The feeling of harmony comes from within, and this is how it manifests itself.
+
+古文：后之为乐者，文备而实不足。乐师之志，主于中节奏、谐声律而已。
+现代文：后代的乐师，徒有完备的形式而缺乏充实的情感，乐师的心思，只专注在节奏准确、声律谐和而已。
+English: Subsequent generations of musicians, with only a complete form and lack of full emotion, the musician's mind, only focus on rhythmic accuracy, vocal harmony.
+
+古文：古之乐师，皆能通天下之志，故其哀乐成于心，然后宜于声，则必有形容以表之。
+现代文：古代的乐师都能与所处时代的情思相通，所以他们的哀乐产生于内心，然后用乐声来宣泄，而且必然有舞蹈来表现它们，所以乐声里有感情，乐声里有舞蹈。
+English: The ancient musicians were able to communicate with the feelings and thoughts of their times, so their melancholy arose from the heart, and then used music to vent, and there must be a dance to express them, so there are feelings in the music, and there is a dance in the music.
+
+古文：故乐有志，声有容，其所以感人深者，不独出于器而已。
+现代文：古代乐师的音乐之所以能感人至深，不只是因为乐器而已。
+English: The reason why the music of ancient musicians is so moving is not just because of the instruments.
+
+古文：《新五代史》书唐昭宗幸华州，登齐云楼，西北顾望京师，作《菩萨蛮》辞三章，其卒章曰： 野烟生碧树，陌上行人去。
+现代文：《新五代史》记载唐昭宗出奔华州时，曾登齐云楼，向西北回望京城，作《菩萨蛮》词三首，其中最后一首写道： 野烟生碧树，陌上行人去。
+English: "New Five Dynasties History" records that when Tang Zhaozong left for Huazhou, he ascended the Qiyun Tower, looked back at the capital from the northwest, and composed three poems of "Bodhisattva Barbarian," the last of which wrote: Wild smoke, green trees, strange pedestrians.
+
+古文：安得有英雄，迎归大内中？ 
+现代文：安得有英雄，迎归大内中？ 
+English: There is a hero in Ando, welcome to the university and junior high school?
+
+古文：今此辞墨本犹在陕州一佛寺中，纸札甚草草。
+现代文：现在这首词的手迹还在陕州一座佛寺中，纸张粗糙，字迹也很潦草。
+English: Now the manuscript of this poem is still in a Buddhist temple in Shaanxi, the paper is rough and the handwriting is very scrawled.
+
+古文：余顷年过陕，曾一见之，后人题跋多盈巨轴矣。
+现代文：我往年路过陕州时曾看到过一回，后人的题跋甚多，已写满了一大卷轴。
+English: When I passed through Shaanxi Province in previous years, I once saw a large scroll filled with questions for future generations.
+
+古文：世称善歌者皆曰 郢人 ，郢州至今有白雪楼。
+现代文：世人都称善于歌唱的人为 郢人 ，郢州至今还有白雪楼。
+English: The people of the world call those who are good at singing "Hanzhong people," and Zhangzhou still has the White Snow Tower.
+
+古文：此乃因宋玉问曰： 客有歌于郢中者，其始曰《下里巴人》，次为《阳阿薤露》，又为《阳春白雪》，引商刻羽，杂以流徵。 遂谓郢人善歌，殊不考其义。
+现代文：这是由宋玉《对楚王问》所说的 客有歌于郢中者 而来的，其文记载这位歌者始唱《下里巴人》，接着又唱《阳阿薤露》，然后又唱《阳春白雪》，以至 引唱商声，抑制羽声，杂入流变的徵声 ，世人遂因此而称郢人善歌，根本就没有考察宋玉这些话的真实含义。
+English: This comes from Song Yu's "Question to the King of Chu," who said that the guest has a song in the middle of the bowl. The text records that the singer began to sing "Lower Tibetans," then sang "Yang Ah Lu," and then sang "Yangchun White Snow," so as to lead the merchant's voice, suppress the feather sound, and mix it with the sound of the current. The world therefore called him a good song, and did not examine the true meaning of Song Yu's words at all.
+
+古文：其曰 客有歌于郢中者 ，则歌者非郢人也。其曰 《下里巴人》，国中属而和者数千人；《阳阿薤露》，和者数百人；《阳春白雪》，和者不过数十人；引商刻羽，杂以流徵，则和者不过数人而已。 以楚之故都，人物猥盛，而和者止于数人，则为不知歌甚矣。
+现代文：他说 客有歌于郢中者 ，那么歌者就是 客 而不是郢人；他说 客唱《下里巴人》，郢城中跟着唱和的有几千人；唱《阳阿薤露》，唱和的有几百人；唱《阳春白雪》，唱和的就不过几十人了；而到他引唱商声，抑制羽声，杂入流变的徵声，则唱和的就只剩几人而已 一一以楚国的故都，人物众多繁盛，而能唱和的只有几个人，那么郢人不懂歌唱真也过头了！
+English: He said that if a guest has a song in the middle of the chorus, then the singer is a guest and not a singer; he said that if a guest sings "Xiaoliba people," there are thousands of people in the city singing and singing; if a guest sings "Yang Ajilu," there are hundreds of people singing and singing; if a guest sings "Yangchun Baixue," there are only dozens of people singing and singing; and when he leads the merchant's voice, suppresses the sound of feathers, and mixes in the call of change, there are only a few people left singing and singing. With the capital of Chu, there are many prosperous people, but only
+
+古文：故玉以此自况，《阳春白雪》皆郢人所不能也。
+现代文：所以这文章不过是宋玉自称 曲高和寡 的一种比况。
+English: Therefore, this article is nothing more than a comparison of Song Yu's self-proclaimed high and low scores.
+
+古文：以其所不能者明其俗，岂非大误也？
+现代文：《阳春白雪》之曲，郢人所不能唱；以他们所不能唱的曲子作为代名词，称道他们有善歌的风俗，岂不是大错特错了吗？
+English: The song "Yangchun Baixue" cannot be sung by the people of Xian; is it not a big mistake to use a song that they cannot sing as a synonym to say that they have the custom of good songs?
+
+古文：《襄阳耆旧传》虽云： 楚有善歌者，歌《阳菱白露》、《朝日鱼丽》，和之者不过数人。 復无《阳春白雪》之名。
+现代文：《襄阳耆旧传》虽说 楚有善歌者，歌《阳菱白露》《朝日鱼丽》，和之者不过数人 ，而并没有《阳春白雪》的曲名。
+English: Although there are good singers in Chu, the song "Yangling Bai Lu" and "Asahi Yu Li" are only sung by a few people, and there is no "Yangchun Bai Xue" song title.
+
+古文：又今郢州，本谓之北郢，亦非古之楚都。
+现代文：再说，现在的郢州本来称为北郢，也不是最早的楚都。
+English: What's more, present-day Luzhou was originally called Beilun, and it was not the first capital of Chu.
+
+古文：或曰： 楚都在今宜城界中，有故墟尚在。 亦不然也。
+现代文：有人说楚都在今天的宜城境内，那里还有故址的遗迹存在，这看法也不对。
+English: Some people say that all of Chu is in the territory of today's Yicheng, where the remains of the former site still exist. This view is also incorrect.
+
+古文：此鄢也，非郢也。
+现代文：那地方是古代的鄢，而不是郢。
+English: That place is an ancient grove, not a moat.
+
+古文：据《左传》： 楚成王使籯宜申为商公，沿汉泝江，将入郢，王在渚宫下见之。 
+现代文：据《左传》记载，楚成王使斗宜申 为商公，沿汉泝江，将入郢；王在渚宫，下见之 。
+English: According to the "Zhuan" records, Chu Cheng Wang sent Du Yi Shen to be a merchant, along the Han River, he will enter the cocoon; the king is in the Nagisa Palace, see below.
+
+古文：沿汉至于夏口，然后泝江，则郢当在江上，不在汉上也。
+现代文：他先是沿着汉水来到夏口，然后溯长江而上，那么郢都应当在长江岸边，而不在汉水流域。
+English: He first came to Xiakou along the Han River, and then up the Yangtze River, so the rafts should be on the banks of the Yangtze River, but not in the Han River basin.
+
+古文：又在渚宫下见之，则渚宫盖在郢也。
+现代文：而且楚王先在渚宫，从渚宫下来见他，那么渚宫大概就在郢都。
+English: Moreover, King Chu was at Nagisa Palace first, and came down from Nagisa Palace to see him, so Nagisa Palace is probably in Shidu.
+
+古文：楚始都丹阳，在今枝江，文王迁郢，昭王迁都，皆在今江陵境中。
+现代文：楚国开始建都丹阳，在今天的枝江；至文王时迁都于郢，昭王时又迁都于都，都在今天的江陵境内。
+English: Chu began to build the capital Danyang, in today's Yangtze River; to the time of King Wen, the capital was moved to Handan, and to the time of King Zhao, the capital was moved to the capital, both in today's Jiangling.
+
+古文：杜预注《左传》云： 楚国，今南郡江陵县北纪南城也。 
+现代文：杜预注《左传》说： 楚国故都，就是现今南郡江陵县北的纪南城。 
+English: Du Yu annotated "Zhu Chuan" as saying: The ancient capital of Chu was Ji Nancheng, which is now the north of Jiangling County, Nan County.
+
+古文：谢灵运《邺中集》诗云： 南登宛郢城。 
+现代文：谢灵运《邺中集诗》说到： 南登宛郢城。 
+English: Xie Lingyun's "Poems from the Middle of the Yangtze River" said: Nan Dengwan Yucheng.
+
+古文：今江陵北十二里有纪南城，即古之郢都也，又谓之南郢。
+现代文：现在江陵以北十二里有纪南城，就是楚国的旧郢都，又称为南郢。
+English: There are now twelve cities north of Gangneung, including Ji Nancheng, the former capital of Chu, also known as Nancheng.
+
+古文：今太常钟镈，皆于甬本为纽，谓之旋虫，侧垂之。
+现代文：今天太常寺的钟镈都在甬的根部设有纽，称作旋虫，侧垂着。
+English: Today, the bell towers of Taejoji Temple all have a hinge, called a whorl, at the base of the belfry, which hangs over the side.
+
+古文：皇祐中，杭州西湖侧，发地得一古钟，匾而短，其枚长几半寸，大略制度如《凫氏》所载，唯甬乃中空，甬半以上差小，所谓衡者。
+现代文：皇祐年间，杭州西湖畔从地下发掘出一口古钟，扁而且短，钟乳的长度将近半寸，大体上样式如《考工记·凫氏》所记载的，唯独甬是中空的，甬的上半部稍小，是所谓的衡。
+English: During the reign of Emperor Yu, an ancient bell was excavated from the ground on the west bank of Hangzhou Lake. It was flat and short, with the bell's breast measuring nearly half an inch in length. The general style is the same as that recorded in the "Kaohsiung Chronicle" except that the gong is hollow and the upper half of the gong is slightly smaller, the so-called balance.
+
+古文：予细考其制，亦似有义。
+现代文：我仔细推敲它的式样，似乎也有它的道理。
+English: I have carefully considered its design and it seems to make sense.
+
+古文：甬所以中空者，疑钟縻自其中垂下，当衡甬之间，以横括挂之，横括疑所谓旋虫也。
+现代文：甬之所以中空，怀疑是因为悬挂乐钟的绳子要从那中间垂下来，到了衡、甬之间的地方，用横栝把钟縻挂住，横栝怀疑就是所谓的旋虫。
+English: The reason why the gong is hollow is suspected to be because the rope for hanging the musical bell has to hang down from the middle, to the place between the balance and the gong, and hang the bell with a crossbeam. The crossbeam is suspected to be the so-called whirling worm.
+
+古文：今考其名，竹筩之筩，文从竹、从甬，则甬仅乎空；甬半以上微小者，所以碍横括，以其横括所在也，则有横之义也。
+现代文：现今来考究它的各部件名称的含义，竹筩的 筩 ，从竹、从甬，那么甬有空的意思；甬的上半部稍小是为了能挂住横栝，因为横栝就在这个部位，所以甬的上半部又被称作 衡 。
+English: Nowadays, the meaning of the names of its various parts has been studied. The top of the bamboo pole, the stem of the bamboo pole, and the stem of the bamboo pole are empty. The upper half of the bamboo pole is slightly smaller in order to be able to hang the crossbar, because the crossbar is in this part, so the upper half of the bamboo pole is also called the balance.
+
+古文：其横括之形，似虫而可旋，疑所谓旋虫。
+现代文：古钟横栝的形状似虫而且可以旋转，怀疑横栝就是所谓的旋虫。
+English: The ancient bell's rim is shaped like a worm and can rotate. It is suspected that the rim is a so-called rotary worm.
+
+古文：以今之钟、镈校之，此衡甬中空，则犹小于甬者，乃欲碍横括，似有所因。
+现代文：以今天的钟镈来和它比较，这口古钟的衡、甬中空，衡比甬小是为了挂住横栝，似乎有它的道理。
+English: Comparing it with today's belfry, this ancient bell's balance and gong are hollow, and the balance is smaller than the gong in order to hang the cross gong. It seems to have its reason.
+
+古文：彼衡、甬俱实，则衡小于甬，似无所因。
+现代文：今天的钟衡、甬都是实心的，那么衡比甬小，似乎没有道理。
+English: Today's clocks, scales, and gongs are all solid, so it doesn't make sense that the scales are smaller than the gongs.
+
+古文：又以其括之横于其中也，则宜有衡义。实甬直上植之，而谓之衡者何义？
+现代文：古钟的衡因为有横栝横在其中，所以应该称为衡；今天钟的衡只是立在实心的甬上，并没有横栝横在其中，也称为衡有什么意义呢？
+English: The balance of an ancient clock should be called a balance because there is a crossbeam in the middle of it; the balance of today's clock only stands on a solid crossbeam, and there is no crossbeam in the middle, so what is the meaning of being called a balance?
+
+古文：又横括以其可旋而有虫形，或可谓之旋虫；今钟则实其纽不动，何缘得 旋 名？
+现代文：另外横栝因为可以旋转而且有虫的形状，或许可以称为旋虫；今天钟的纽是固定的不能转动，有什么理由称作旋虫呢？
+English: In addition, because the crosspiece can rotate and has the shape of a worm, it may be called a worm; today's clock's knot is fixed and cannot be rotated, what reason is there to call it a worm?
+
+古文：若以侧垂之，其钟可以掉荡旋转，则钟常不定，击者安能常当其燧？
+现代文：如果把它侧垂着，那口古钟就会摆动旋转，那么钟总是没法固定，击钟的人怎能总敲击在隧上呢？
+English: If you hang it sideways, the old bell will swing and spin, so the bell can never be fixed, how can the bell ringer always strike in the tunnel?
+
+古文：此皆可疑，未知孰是。
+现代文：这些都是疑点，不知道今天的钟对还是古钟对。
+English: These are doubts, not knowing whether today's clock is right or the ancient clock is right.
+
+古文：其钟今尚在钱塘，予群从家藏之。
+现代文：这口古钟今天还在钱塘，我的子侄家收藏着它。
+English: This ancient bell is still in Qiantang today. My nephew has it in his collection.
+
+古文：海州士人李慎言，尝梦至一处水殿中，观宫女戏球。山阳蔡绳为之传，叙其事甚详。
+现代文：海州有个士人叫李慎言，曾经在梦里到一个水殿里观看宫女的抛球游戏，山阳的蔡绳为这事作了篇传，把这事叙述得非常详细。
+English: There was a scholar in Haizhou named Li Shenyan, who once went to a hall of water in a dream to watch the ball-throwing game of a courtesan. Cai Zhen of Shanyang wrote a biography of this event, describing it in great detail.
+
+古文：有《抛球曲》十余阕，词皆清丽。
+现代文：有十几首《抛球曲》，辞藻清丽。
+English: There are more than a dozen pieces of "Ball Throwing Song" with beautiful lyrics.
+
+古文：今独记两阕： 侍燕黄昏晚未休，玉阶夜色月如流。
+现代文：今天只记得两首： 侍燕黄昏晚未休，玉阶夜色月如流。
+English: Today, I only remember two songs: 侍燕夕昏晚未休,玉阶夜色月如流.
+
+古文：朝来自觉承恩醉，笑倩旁人认绣球。 
+现代文：朝来自觉承恩醉，笑倩旁人认绣球。 
+English: In the morning, I was intoxicated with gratitude, and people around me smiled and recognized the embroidered ball.
+
+古文： 堪恨隋家几帝王，舞裀揉尽绣鸳鸯。
+现代文： 堪恨隋家几帝王，舞裀揉尽绣鸳鸯。
+English: Several emperors of the Sui Dynasty were hated, and embroidered embroidered embroidered embroidered embroidered embroidered.
+
+古文：如今重到抛球处，不是金炉旧日香。 
+现代文：如今重到抛球处，不是金炉旧日香。 
+English: Now it's back to throwing the ball, not the golden oldies.
+
+古文：琴虽用桐，然须多年木性都尽，声始发越。
+现代文：琴虽然用桐木制作，但必须是生长多年的桐木，到它的木材质性差不多都失去了，用以制作的琴的音声才能激扬清越。
+English: Although the qin is made of paulownia wood, it must be paulownia wood that has been growing for many years. By then, its wood quality has almost been lost, and the sound of the qin used to make it can only excite Qingyue.
+
+古文：予曾见唐初路氏琴，木皆枯朽，殆不胜指，而其声愈清。
+现代文：我曾见过唐朝初年的路氏琴，木质都枯朽了，看上去几乎都承受不了手指的弹拨，然而其音声更加清亮。
+English: I once saw a luthier's lute from the first year of the Tang Dynasty. The wood was rotten, and it looked as if it could hardly bear finger plucking. However, its sound was clearer.
+
+古文：又常见越人陶道真畜一张越琴，传云古冢中败棺杉木也，声极劲挺。
+现代文：又曾见到越人陶道真所收藏的一张越琴，相传是用古墓中出土的破烂棺材的杉木制作的，音声极为有力而挺拔。
+English: I have also seen a yueqin in the collection of the Yue people's Tao Zhen. According to legend, it was made of cedar wood from a tattered coffin unearthed in an ancient tomb. The sound is extremely powerful and upright.
+
+古文：吴僧智和有一琴，瑟瑟微碧，纹石为轸，制度音韵皆臻妙。
+现代文：吴地僧人智和有一张琴，瑟瑟呈霉绿色，用花纹石作弦柱，制作样式和音声韵律都达到美妙的程度。
+English: Zhihe, a monk from Wudi, has a qin with a mildewed green twang. The string is made of fancy stone, and the production style and phonetic rhythm are wonderful.
+
+古文：腹有李阳冰篆数十字，其略云： 南溟岛上得一木，加伽陀罗，纹如银屑，其坚如石，命工斲为此琴。 
+现代文：其腹部有李阳冰篆书的数十字，大略是说： 从南海的一座岛上得到一种木材，名叫伽陀罗，其纹理如同银子的碎屑，而坚硬得像石头，遂命工匠斫削加工为这张琴。 
+English: On its belly, there are several crosses of the Li Yang Bingxuan book, roughly saying: From an island in the South China Sea, a kind of wood called Gadara was obtained, its texture was like silver crumbs, and it was hard as stone, so it was ordered to be milled by craftsmen.
+
+古文：篆文甚古劲。
+现代文：篆文的书法甚为古朴而强劲。
+English: His calligraphy is very simple and strong.
+
+古文：琴材欲轻、松、脆、滑，谓之四善。
+现代文：制琴的材质，通常是希望它质量轻、质地疏松、材性脆而不绵软、纹理光滑，这叫做 四善 。
+English: As for the material of the harp, it is generally hoped that it is light in quality, loose in texture, brittle rather than soft, and smooth in texture, which is called the four virtues.
+
+古文：木坚如石，可以制琴，亦所未谕也。
+现代文：李阳冰所说的木质硬如石头，这样的材料也可以制琴，是让人有点闹不明白的。
+English: Li Yangbing said that wood is as hard as stone, and such materials can also be used to make harps, which is a bit confusing.
+
+古文：《投荒录》云： 琼管多乌樠、呿陀，皆奇木。 
+现代文：《投荒录》说： 琼州之地多有乌樠木、呿陀木，都是珍奇的树木。 
+English: "Desertification Record" said: In Qiongzhou, there are mostly ebony trees and acacia trees, all of which are rare trees.
+
+古文：疑 伽陀罗 即 呿陀 也。
+现代文：我怀疑伽陀罗木即是呿陀木。
+English: I doubt that the gadal tree is a gadal tree.
+

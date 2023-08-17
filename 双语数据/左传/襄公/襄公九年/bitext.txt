@@ -1,0 +1,440 @@
+古文：九年春，宋灾。
+现代文：九年春季，宋国发生火灾。
+English: In the spring of the ninth year, a fire broke out in Song.
+
+古文：夏，季孙宿如晋。
+现代文：夏季，季孙宿去到晋国。
+English: In the summer, Qisun stayed in Jin Province.
+
+古文：五月辛酉，夫人姜氏薨。
+现代文：五月辛酉日，夫人姜氏去世。
+English: On the last day of May, Mrs. Jiang passed away.
+
+古文：秋八月癸未，葬我小君穆姜。
+现代文：秋季八月癸未日，安葬我小君穆姜。
+English: On the last day of autumn in August, my little brother Mujang was buried.
+
+古文：冬，公会晋侯、宋公、卫侯、曹伯、莒子、邾子、滕子、薛伯、杞伯、小邾子、齐世子光伐郑。
+现代文：冬季，襄公与晋侯、宋公、卫侯、曹伯、莒子、邾子、滕子、薛伯、杞伯、小邾子、齐国世子光一起攻打郑国。
+English: In the winter, Prince Xiang together with Jin, Song, Wei, Cao, Zizi, Zizi, Tengzi, Xue, Zibo, Xiao Zizi, and the Heir of Qi attacked Zheng.
+
+古文：十有二月己亥，同盟于戏。
+现代文：十二月己亥日，在戏地结盟。
+English: In December, on the day of the Chinese New Year, they formed an alliance at the theatre.
+
+古文：楚子伐郑。
+现代文：楚国攻打郑国。
+English: Chu Zhuang Wang attacked Zheng Guo.
+
+古文：九年春，宋灾。
+现代文：九年春季，宋国发生火灾。
+English: In the spring of the ninth year, a fire broke out in Song.
+
+古文：乐喜为司城以为政。
+现代文：乐喜正做司城执掌政权，派伯氏管理街巷。
+English: Lok Siong is in charge of the government, while Paibo is in charge of the streets.
+
+古文：使伯氏司里，火所未至，彻小屋，涂大屋；陈畚挶，具绠缶，备水器；量轻重，蓄水潦，积土涂；巡丈城，缮守备，表火道。
+现代文：火没有到达的地方，拆除小屋，用泥土涂在大屋上，摆列盛土和运土的器具；具备汲水的绳索和瓦罐，准备盛水的器具，估量人力的大小、任务的轻重，储满水塘，堆积泥土，巡查城郭，修缮守卫工具，标明火的趋向。
+English: Where the fire did not reach, the huts were dismantled, the roofs were covered with earth, the earth-handling and earth-moving equipment was laid out; the ropes and earthenware jars were equipped with water, the water-handling equipment was prepared, the size of the manpower and the weight of the task were estimated, the reservoirs were filled, the earth was piled up, the city walls were inspected, the guard tools were repaired, and the fire direction was marked.
+
+古文：使华臣具正徒，令隧正纳郊保，奔火所。
+现代文：乐喜派华臣调集常备兵，华臣又命令隧正调集远郊城堡的士兵，奔赴火灾发生的地点。
+English: Lexi sent Watson to call up the standing army, and Watson ordered Tun Zheng to call up soldiers from the castle in the suburbs to rush to the site of the fire.
+
+古文：使华阅讨右官，官庀其司。
+现代文：派华阅主管右师，作为长官督促他的官属。
+English: He sent his right-hand man, who was in charge of Huayu, as the chief to urge his subordinates.
+
+古文：向戍讨左，亦如之。
+现代文：向戌主管左师，也如同华阅一样。
+English: Xiang Yu, head of the left division, is also the same as Huajing.
+
+古文：使乐遄庀刑器，亦如之。
+现代文：派乐遄准备刑具，也如同华阅一样。
+English: Pa Le Yao prepares the instruments of torture, just like Huayuan.
+
+古文：使皇郧命校正出马，工正出车，备甲兵，庀武守。使西鉏吾庀府守。
+现代文：派皇郧命令管马的人牵出马匹，工正推出战车，装备武器，守卫武器库，派西鉏吾保护国库。
+English: He sent the imperial eunuch to order the person in charge of the horses to lead out the horses, the workers were rolling out the chariots, equipping weapons, guarding the weapons depot, and sent Xi Jingwu to protect the national treasury.
+
+古文：令司宫、巷伯儆宫。
+现代文：西鉏吾命令司宫，巷伯在宫内警戒。
+English: Xi Xiangwu ordered the palace officials and courtiers to be alert inside the palace.
+
+古文：二师令四乡正敬享，祝宗用马于四墉，祀盘庚于西门之外。
+现代文：左师、右师命令四个乡正祭祀四乡的神灵，祝宗杀马来祭祀四城的神灵，在宋都西门外边祭祀盘庚。
+English: The Left Division and the Right Division ordered the four townships to sacrifice the deities of the four townships, Zhu Zong killed the horse to sacrifice the deities of the four cities, and sacrificed Pan Geng outside the west gate of the Song capital.
+
+古文：晋侯问于士弱曰： 吾闻之，宋灾，于是乎知有天道。
+现代文：晋悼公向士弱询问说： 我听说，宋国遭了火灾，从这里就知道了天道，为什么？ 
+English: Jin Muigong inquired to Shi Weak, "I heard that there was a fire in the Song Dynasty, and I learned about the heavenly way from here. Why?
+
+古文：何故？ 对曰： 古之火正，或食于心，或食于咮，以出内火。
+现代文：士弱回答说： 古代的火正，祭祀火星的时候或者用心宿陪祭，或者用柳宿陪祭，由于火星运行在这两个星宿中间。
+English: Shi Weak replied, "In ancient times, when the fire was in the right position, the sacrifice of Mars was either accompanied by the heart, or accompanied by the willow, because Mars moved between the two stars.
+
+古文：是故咮为鹑火，心为大火。
+现代文：所以柳宿就是鹑火星，心宿就是大火星。
+English: Therefore, Yanagi-juku is 火星, and Kokoro-juku is 大火星.
+
+古文：陶唐氏之火正阏伯居商丘，祀大火，而火纪时焉。
+现代文：陶唐氏的火正阏伯住在商丘，祭祀大火星，而用火星来确定时节。
+English: Tao Tang's Fire Dragon King lived in Shangqiu, worshipped the great Mars, and used Mars to determine the seasons.
+
+古文：相土因之，故商主大火。
+现代文：相土沿袭这个方法，所以商朝以大火星为祭祀的主星。
+English: Later, this practice was followed by other dynasties, so it is said that the Shang Dynasty used the Great Mars as the main star of the ritual.
+
+古文：商人阅其祸败之衅，必始于火，是以日知其有天道也。 公曰： 可必乎？ 
+现代文：商朝人观察他们祸乱失败的预兆，一定从火灾开始，因此在过去自以为掌握了天道。 晋悼公说： 靠得住吗？ 
+English: The Shang dynasty people observed that the omen of their disastrous failure must begin with a fire, so in the past they thought they had mastered the heavenly way. Jin Yue Gong said: Is it reliable?
+
+古文：对曰： 在道。
+现代文：士弱回答说： 在于有道或者无道。
+English: He replied: It is also a question of humanity.
+
+古文：国乱无象，不可知也。 
+现代文：国家动乱而上天不给预兆，这就不能预知了。 
+English: It is impossible to predict national upheaval without a sign from heaven.
+
+古文：夏，季武子如晋，报宣子之聘也。
+现代文：夏季，季武子去到晋国，这是由于回报范宣子的聘问。
+English: In the summer, Jiwuko went to Jin Province in return for Fan Xuanzi's offer.
+
+古文：穆姜薨于东宫。
+现代文：穆姜死在东宫里。
+English: Mu Jiang died in the East Palace.
+
+古文：始往而筮之，遇《艮》之八。史曰： 是谓《艮》之《随》。
+现代文：开始住进去的时候，占筮，得到《艮》变为八，太史说： 这叫做《艮》变为《随》。
+English: When he started to live in the house, he had a dream that he could get the number "" to turn into eight. Tai Shi said, "This is called "" turning into "随."
+
+古文：《随》，其出也。
+现代文：《随》，是出走的意思。
+English: "Sui" means to run away.
+
+古文：君必速出。 
+现代文：您一定要赶紧出去。 
+English: You must get out quickly.
+
+古文：姜曰： 亡。
+现代文：穆姜说： 不用出去！
+English: Mujang said, "No need to go out!
+
+古文：是於《周易》曰： 《随》，元、享、利，贞，无咎， 元，体之长也。享，嘉之会也。利，义之和也。贞，事之幹也。
+现代文：这卦象在《周易》里说 《随》，元、亨、利、贞，没有灾祸。 元，是躯体最高的地方；亨，是嘉礼中的主宾相会；利，是道义的总和；贞，是事情的本体。
+English: In "Zhou Yi," this story is like saying "Following," Yuan, Heng, Li, Zhen, there is no calamity. Yuan is the highest place of the body; Heng is the main guest meeting in the ceremony; Li is the sum of morality; Zhen is the essence of the matter.
+
+古文：体仁足以长人，嘉德足以合礼，利物足以和义，贞固足以幹事。
+现代文：体现了仁就足以领导别人，美好的德行足以协调礼仪，有利于万物足以总括道义，本体坚强足以办好事情。
+English: It embodies that benevolence is enough to lead others, beautiful virtue is enough to coordinate etiquette, beneficial to all things is enough to summarize morality, and the body is strong enough to do things well.
+
+古文：然故不可诬也，是以虽《随》无咎。
+现代文：这样，所以是不能欺骗的。因此虽然得到《随》卦而没有灾祸。
+English: In this way, it is impossible to deceive. Therefore, there is no calamity even if you obtain "Su" Gua.
+
+古文：今我妇人而与于乱。
+现代文：现在我作为女人而参与了动乱。
+English: Now, as a woman, I am part of the turmoil.
+
+古文：固在下位而有不仁，不可谓元。
+现代文：本来地位低下而又没有仁德，不能说是元。
+English: The original status is low and there is no benevolence, it cannot be said to be Yuan.
+
+古文：不靖国家，不可谓亨。
+现代文：使国家不安定，不能说是亨。
+English: To make the country unstable cannot be said to be a success.
+
+古文：作而害身，不可谓利。
+现代文：做了事情而害自身，不能说是利。
+English: If you do something to harm yourself, it can't be said to be a benefit.
+
+古文：弃位而姣，不可谓贞。
+现代文：丢弃寡妇的地位而修饰爱美，不能说是贞。
+English: A woman who abandons her status as a widow and embellishes her beauty cannot be called chaste.
+
+古文：有四德者，《随》而无咎。
+现代文：具有上面四种德行的，得到《随》卦才可以没有灾祸。
+English: If you have the above four virtues, you can get "Sui" only without disaster.
+
+古文：我皆无之，岂《随》也哉？
+现代文：而我都没有，难道合于《随》卦卦辞吗？
+English: And I don't have any. Is it consistent with the "following" discourse?
+
+古文：我则取恶，能无咎乎？
+现代文：我挑取邪恶，能够没有灾祸吗？
+English: Shall I choose the evil, and not choose the good?
+
+古文：必死于此，弗得出矣。 
+现代文：一定死在这里，不能出去了。 
+English: He must have died here, he can't get out.
+
+古文：秦景公使士雃乞师于楚，将以伐晋，楚子许之。子囊曰： 不可。
+现代文：秦景公派遣士雃向楚国请求出兵，准备进攻晋国，楚共王答应了。子囊说： 不行。
+English: Qin Jinggong sent his envoy to Chu to request the dispatch of troops to prepare for an attack on Jin, and the king of Chu consented. Zizou said, "No."
+
+古文：当今吾不能与晋争。
+现代文：目前我们不能和晋国争夺。
+English: At the moment, we can't compete with Jin.
+
+古文：晋君类能而使之，举不失选，官不易方。
+现代文：晋国国君按人的能力之大小而使用他们，举拔人才不失去能胜任的人，任命官员不改变原则。
+English: The sovereign of Jin used people according to their ability, promoted talents without losing competent people, and appointed officials without changing the principle.
+
+古文：其卿让于善，其大夫不失守，其士竞于教，其庶人力于农穑。商工皂隶，不知迁业。
+现代文：他的卿把职位让给善人，他的大夫不失职守，他的士努力于教育百姓，他的庶人致力于农事，商贾技工和贱役不想改变职业。
+English: His nobles give up their posts to good men, his doctors do not fail in their duties, his chauffeurs strive to educate the people, his commoners devote themselves to agriculture, and the merchants, artisans, and menial laborers do not want to change their occupations.
+
+古文：韩厥老矣，知罃禀焉以为政。
+现代文：韩厥告老退休，知罃继承他而执政。
+English: Han Jue announced his retirement, and Zhisheng succeeded him in power.
+
+古文：范匄少于中行偃而上之，使佐中军。
+现代文：范匄比中行偃年轻而在中行偃之上，让他辅佐中军。
+English: Fan Ye was younger than Zhong Xingye, but he was above Zhong Xingye, so he assisted the Chinese army.
+
+古文：韩起少于栾黡，而栾黡、士鲂上之，使佐上军。
+现代文：韩起比栾黡年轻，而栾黡、士鲂使他在自己之上，让他辅佐上军。
+English: Han Qi was younger than Zou, but Zou and Shi Zou put him above themselves and let him assist Zou in the army.
+
+古文：魏绛多功，以赵武为贤而为之佐。
+现代文：魏绛的功劳很多，却认为赵武贤能而甘愿做他的辅佐。
+English: Wei Wei has done a lot of work, but he thinks that Zhao Wu Xian is capable and willing to be his assistant.
+
+古文：君明臣忠，上让下竞。
+现代文：国君明察，臣下忠诚，上面谦让，下面尽力。
+English: The sovereign sees clearly, the vassal is loyal, the superior is humble, and the inferior does his best.
+
+古文：当是时也。晋不可敌，事之而后可。
+现代文：在这个时候，晋国不能抵挡，事奉他们才行。
+English: At this time, Jin can not resist, only serve them.
+
+古文：君其图之！ 
+现代文：君王还是考虑一下！ 
+English: I hope you will give it some thought.
+
+古文：王曰： 吾既许之矣。虽不及晋，必将出师。 
+现代文：楚共王说： 我已经答应他们了，虽然比不上晋国，一定要出兵。 
+English: The Communist King of Chu said: I have already promised them that although I am not as good as Jin, I must send troops.
+
+古文：秋，楚子师于武城以为秦援。
+现代文：秋季，楚共王驻军在武城，以作为秦国的后援。
+English: In the autumn, the Chu king stationed troops in Wucheng to act as the back-up of Qin.
+
+古文：秦人侵晋，晋饑，弗能报也。
+现代文：秦国人侵袭晋国。晋国正遭受饥荒，不能反击。
+English: The Qin invaded Jin, which was starving and unable to fight back.
+
+古文：冬十月，诸侯伐郑。
+现代文：冬季，十月，诸侯进攻郑国。
+English: In winter, in October, the princes attacked Zheng.
+
+古文：庚午，季武子、齐崔杼、宋皇郧从荀罃、士匄门于鄟门。
+现代文：十月十一日，季武子、齐国的崔杼、宋国的皇郧跟荀罃、士匄进攻鄟门。
+English: On October 11th, Ji Wuzi, Cui Yao of Qi and Wang Yao, He Yao and Shi Yao of Song attacked Qimen.
+
+古文：卫北宫括、曹人、邾人从荀偃、韩起门于师之梁。滕人、薛人从栾黡、士鲂门于北门。杞人、郳人从赵武、魏绛斩行栗。
+现代文：卫国的北宫括、曹国人、邾国人跟随荀偃、韩起进攻师之梁门，滕国人、薛国人跟随栾黡、士鲂进攻北门，杞国人、郳国人跟随赵武、魏绛砍伐路边的栗树。
+English: The defenders of the Northern Palace, the people of Cao, and the people of Yao followed Yao, and the attackers of Hanqi attacked Liangmen, the people of Teng, and the people of Xue followed Yao, and the soldiers attacked the Northern Gate, and the people of Yao, and the people of Yao followed Zhao Wu, and the people of Wei and Yao cut down the chestnut trees along the road.
+
+古文：甲戌，师于氾，令于诸侯曰： 修器备，盛餱粮，归老幼，居疾于虎牢，肆眚，围郑。 
+现代文：十五日，军队驻扎在汜水边上，于是传令诸侯说： 修理作战工具，备好干粮，送回老的小的，让有病的人住在虎牢，赦免错误，包围郑国。 
+English: On the fifteenth day, the army was stationed on the edge of Surabaya, so they sent a message to the princes saying: repair the war tools, prepare dry food, send back the old ones, let the sick people live in the tiger prison, pardon the mistakes, and surround Zheng.
+
+古文：郑人恐，乃行成。
+现代文：郑国人害怕，就派人求和。
+English: The people of Zheng were afraid, so they sent someone to sue for peace.
+
+古文：中行献子曰： 遂围之，以待楚人之救也而与之战。
+现代文：荀偃说： 对郑国实际包围，以等待楚国人救援，和他们作战。
+English: Zhai said: Zheng is actually surrounded, so we should wait for the rescue of the Chu people and fight with them.
+
+古文：不然，无成。 
+现代文：不这样，就没有真正的讲和。 
+English: Otherwise, there will be no real peace talks.
+
+古文：知武子曰： 许之盟而还师，以敝楚人。
+现代文：知罃说： 答应他们结盟然后退兵，用这样的办法引诱楚国人进攻郑国，使楚国人疲劳。
+English: Zhisheng said: Promise them an alliance and then withdraw, use this method to lure the Chu people to attack Zheng, and make the Chu people tired.
+
+古文：吾三分四军，与诸侯之锐以逆来者。于我未病，楚不能矣，犹愈于战。
+现代文：我们把四军分为三部分，加上诸侯的精锐部队，以迎击前来的军队，对我们来说并不困乏，而楚军就不能持久了。这样，还是比打仗好。
+English: We have divided the four armies into three parts, plus the elite troops of the lords, to meet the approaching army. For us, it is not difficult, but the Chu army cannot last. In this way, it is still better than fighting.
+
+古文：暴骨以逞，不可以争。
+现代文：暴露白骨以图一时之快，不能用这样的办法和敌人争胜。
+English: You can't win a battle with the enemy by exposing your bones.
+
+古文：大劳未艾，君子劳心，小人劳力，先王之制也。 
+现代文：很大的疲劳还没有停止，君子用智，小人用力，这是先王的训示。 
+English: The great fatigue has not yet stopped, the gentleman uses wisdom, the villain uses force, this is the instruction of the former king.
+
+古文：诸侯皆不欲战，乃许郑成。
+现代文：诸侯都不想打仗，于是就允许郑国讲和。
+English: The lords did not want to fight, so they allowed Zheng to make peace.
+
+古文：十一月己亥，同盟于戏，郑服也。
+现代文：十一月初十日，一起在戏地结盟，这是由于郑国顺服了。
+English: On the 10th day of the first month of November, they made an alliance together in the theater, which was due to Zheng Guo's obedience.
+
+古文：将盟，郑六卿公子騑、公子发、公子嘉、公孙辄、公孙虿、公孙舍之及其大夫、门子皆从郑伯。
+现代文：准备结盟，郑国的六卿公子騑、公子发、公子嘉、公孙辄、公孙虿、公孙舍之以及他们的大夫、卿的嫡子，都跟随郑简公赴会。
+English: In preparation for the alliance, the six nobles of Zheng, Gongzifang, Gongzifang, Gongzijia, Gongsunqian, Gongsunqian, Gongsunxie, as well as their doctors and the legitimate sons of the nobles, all followed Zheng Jiangong to the meeting.
+
+古文：晋士庄子为载书，曰： 自今日既盟之后，郑国而不唯晋命是听，而或有异志者，有如此盟。 
+现代文：晋国的士庄子制作盟书，说： 从今天已经盟誓以后，郑国如果对晋国不唯命是听或者有别的想法，就像这份盟书所记载的一样。 
+English: Zhuangzi, a scholar of Jin, produced the alliance document and said: "From today, after the oath has been sworn, if Zheng obeys Jin's orders or has other ideas, it will be as recorded in this alliance document.
+
+古文：公子趋进曰： 天祸郑国，使介居二大国之间。
+现代文：公子騑快步走上前，说： 上天降祸郑国，让我国夹于两个大国之间。
+English: The young man stepped forward quickly and said, "May heaven bring disaster to Zheng, and let our country be sandwiched between the two great nations."
+
+古文：大国不加德音而乱以要之，使其鬼神不获歆其禋祀，其民人不获享其土利，夫妇辛苦垫隘，无所厎告。
+现代文：大国不赐给我们友好的话语，反而发动战乱以要挟我们结盟，让我们的鬼神不能得到祭祀，百姓不能享受土地上的出产，男人女人都辛苦瘦弱，没有地方可以诉说。
+English: The great powers do not give us friendly words, but on the contrary unleash wars to blackmail us into alliances, so that our ghosts and gods cannot be sacrificed, the people cannot enjoy the produce of the land, men and women are hard-working and weak, and there is no place to tell.
+
+古文：自今日既盟之后，郑国而不唯有礼与强可以庇民者是从，而敢有异志者，亦如之。 荀偃曰： 改载书。 
+现代文：从今天已经盟誓以后，郑国如果不服从既合于礼仪而且有强大力量来保护我们的国家，反而敢有其他想法，也像这份盟书所记载的一样。 荀偃说： 修改这篇盟辞！ 
+English: After today's oath, if Zheng Guo does not obey the oath, which is in accordance with etiquette and has a strong power to protect our country, he will dare to have other ideas, as well as the one recorded in this covenant.
+
+古文：公孙舍之曰： 昭大神，要言焉。
+现代文：公孙舍之说： 已经把盟约报告神灵了。
+English: His great-grandson Shezhi said, "I have already reported the covenant to the gods."
+
+古文：若可改也，大国亦可叛也。 
+现代文：如果可以修改，大国也可以背叛了。 
+English: If it can be amended, the great powers can also be betrayed.
+
+古文：知武子谓献子曰： 我实不德，而要人以盟，岂礼也哉！
+现代文：知罃对荀偃说： 我们实在不合于道德，反而用盟约来要挟别人，这难道合于礼仪吗？
+English: Zhisheng said to Yao: We are really not in line with morality, but instead use covenants to blackmail others. Is this in line with etiquette?
+
+古文：非礼，何以主盟？
+现代文：不合礼仪，用什么主持盟会？
+English: It's not proper etiquette. What do you use to preside over a league meeting?
+
+古文：姑盟而退，修德息师而来，终必获郑，何必今日？
+现代文：姑且结盟而退兵，修养德行、休整军队然后再来，最终必然得到郑国，何必一定在今天？
+English: Even if we were to make an alliance and retire, cultivate virtue, rest and reorganize the army, and then come back, we would inevitably get Zhengzhou in the end. Why must it be today?
+
+古文：我之不德，民将弃我，岂唯郑？
+现代文：我们不合于道德，百姓将会丢弃我们，岂只是郑国？
+English: We are immoral, the people will abandon us, is it just Zheng Guo?
+
+古文：若能休和，远人将至，何恃于郑？ 
+现代文：如果能够休养民力和睦民心，远方的人将会来顺服，有什么要依靠郑国呢？ 
+English: If the people's strength and goodwill can be restored, people from far away will come to obey. What is there to rely on Zheng Guo?
+
+古文：乃盟而还。
+现代文：于是就结盟然后回国。
+English: So they made a pact and returned home.
+
+古文：晋人不得志于郑，以诸侯复伐之。
+现代文：晋国人不能随心所欲号令郑国，便带领诸侯再次进攻郑国。
+English: The Jin people could not do whatever they wanted to Zheng, so they led the princes to attack Zheng again.
+
+古文：十二月癸亥，门其三门。闰月戊寅，济于阴阪，侵郑。
+现代文：十二月初五日，攻击郑国的三面城门，十二月二十日在阴阪渡河，侵袭郑国。
+English: On the 5th day of the 12th month, they attacked the three gates of Zheng. On the 20th day of the 12th month, they crossed the river in Yinhan and invaded Zheng.
+
+古文：次于阴口而还。
+现代文：驻扎在阴口然后回去。
+English: Stationed in Yingkou and then went back.
+
+古文：子孔曰： 晋师可击也，师老而劳，且有归志，必大克之。 子展曰： 不可。 
+现代文：子孔说： 晋军可以攻击，军队长久在外边因而疲劳，只想回去。必然可以胜他们。 子展说： 不行。 
+English: Zi Kong said, "The Jin army can attack, but the army is tired from being away for a long time and just wants to go back. We can definitely defeat them." Zi Zhan said, "No."
+
+古文：送晋侯。晋侯以公宴于河上，问公年，季武子对曰： 会于沙随之岁，寡君以生。 
+现代文：鲁襄公送晋悼公，晋悼公为襄公在黄河边上设宴，问起襄公的年龄。季武子回答说： 在沙随会见的那一年，寡君出生。 
+English: Lu Xianggong gave a gift to Jin Lai Gong. Jin Lai Gong held a banquet for Xianggong on the edge of the Yellow River and asked Xianggong's age. Ji Wuzi replied: "In the year that I met Shazhu, you were born.
+
+古文：晋侯曰： 十二年矣！是谓一终，一星终也。
+现代文：晋悼公说： 十二年了，这叫做一终，这是岁星运行一圈的终止。
+English: Jin Weikong said, "It's been twelve years, which is called one ending, which is the termination of one cycle of the year star.
+
+古文：国君十五而生子。冠而生子，礼也。君可以冠矣！
+现代文：国君十五岁而生孩子，举行冠礼以后生孩子，这是合于礼仪的，您可以举行冠礼了。
+English: It is proper etiquette for the sovereign to have a child at the age of fifteen, and to have a child after the coronation ceremony. You may now hold the coronation ceremony.
+
+古文：大夫盍为冠具？ 
+现代文：大夫何不准备举行冠礼的用具？ 
+English: Why doesn't the doctor prepare the equipment for the coronation?
+
+古文：武子曰： 君冠：必以祼享之礼行之，以金石之乐节之，以先君之祧处之。
+现代文：季武子回答说： 国君举行冠礼，一定要请补饮酒的仪节作为序幕，用钟磬的音乐表示节度，在先君的宗庙里才能举行。
+English: Jiwuko replied, "When the crowning ceremony is held by the sovereign, it must be preceded by the ceremony of drinking alcohol, and the music of the gong can be used to indicate the ceremony. It can only be held in the ancestral temple of the former sovereign.
+
+古文：今寡君在行，未可具也。请及兄弟之国而假备焉！ 
+现代文：现在寡君正在路上，不能具备各种冠礼工具，请在到达兄弟国家以后借用这些设备。 晋悼公说： 好。 
+English: Now that you are on your way, you cannot have all kinds of crowning tools, please borrow these equipment after arriving in the brotherly country. Jin Yue Gong said: Good.
+
+古文：晋侯曰： 诺。 公还及卫，冠于成公之庙，假钟磬焉，礼也。
+现代文：襄公回国，到达卫国，在卫成公庙里举行冠礼，借用了钟磬，这是合于礼的。
+English: When Prince Xiang returned to China and arrived in the defense of the country, he held a coronation ceremony in the Wei Chenggong Temple and borrowed the bell, which was appropriate.
+
+古文：楚子伐郑，子驷将及楚平。子孔、子曰： 与大国盟，口血未乾而背之，可乎？ 
+现代文：楚共王进攻郑国，子驷打算和楚国讲和，子孔、子蟜说： 和大国结盟，嘴里的血没有干就违背了它，行吗？ 
+English: The Communist King of Chu attacked Zheng, and Zixuan planned to make peace with Chu. Zikong and Zixuan said, "When you make an alliance with a big country, you have to break it before the blood dries from your mouth, okay?"
+
+古文：子驷、子展曰： 吾盟固云： 唯强是从。 今楚师至，晋不我救，则楚强矣。
+现代文：子驷、子展说： 我们的盟誓本来就说 唯有跟从强大的国家 ，现在楚国军来到，晋国不救援我国，那么楚国就是强大的国家了。
+English: Zixuan and Zizhan said, "Our oath originally said, 'Only follow a powerful country,' but now that the Chu National Army has come, if Jin does not rescue our country, then Chu is a powerful country."
+
+古文：盟誓之言，岂敢背之。
+现代文：盟誓的话，难道敢违背？
+English: If you swear an oath, do you dare break it?
+
+古文：且要盟无质，神弗临也，所临唯信。
+现代文：而且在要挟之下举行的盟誓没有诚信可言，神灵不会降临，神灵所降临的只是有诚信的盟会。
+English: Moreover, oaths made under duress have no integrity to speak of. The gods will not descend. What the gods will descend to is only the alliance that has integrity.
+
+古文：信者，言之瑞也，善之主也，是故临之。
+现代文：信，是言语的凭证，善良的主体，所以神灵降临。
+English: Faith is the evidence of words, the subject of goodness, so the gods descend.
+
+古文：明神不蠲要盟，背之可也。 
+现代文：明察一切的神灵认为在要挟下举行的盟会不洁净，违背它是可以的。 
+English: The all-seeing deities deem the coven, held under duress, to be unclean, and it is permissible to violate it.
+
+古文：乃及楚平。
+现代文：于是郑国就和楚国讲和。
+English: As a result, Zheng made peace with Chu.
+
+古文：公子罢戎入盟，同盟于中分。
+现代文：公子罢戎进入郑国结盟，一起在中分盟誓。
+English: The two princes entered into an alliance in Zheng and swore an oath together in Zhongdian.
+
+古文：楚庄夫人卒，王未能定郑而归。
+现代文：楚庄王夫人死，楚共王没有能安定郑国就回国了。
+English: The wife of the King of Chu Zhuang died, and the King of Chu and the Communists did not succeed in stabilizing Zheng and returned to China.
+
+古文：晋侯归，谋所以息民。
+现代文：晋悼公回国，计议让百姓休养生息的办法。
+English: It was suggested that the dead should return to the country and the people should be allowed to rest and recuperate.
+
+古文：魏绛请施舍，输积聚以贷。
+现代文：魏绛请求赐予恩惠，把积聚的财物拿出来借给百姓。
+English: Wei Wei asked for a favor, and took out his accumulated wealth to lend to the people.
+
+古文：自公以下，苟有积者，尽出之。
+现代文：从晋侯以下，如果有积聚的财物，全都拿了出来。
+English: If there was any accumulated wealth from the time of Jin and below, it was all taken out.
+
+古文：国无滞积，亦无困人。公无禁利，亦无贪民。
+现代文：国内没有不流通的财物，也没有困乏的百姓；公家不禁止百姓牟利，也没有贪婪的百姓。
+English: There are no non-circulating assets in the country, and there are no poor people; the public sector does not prohibit people from making profits, and there are no greedy people.
+
+古文：祈以币更，宾以特牲。器用不作，车服从给。
+现代文：祈祷用财币代替牺牲，招待宾客只用一种牲畜，新的器物不添制，车马服饰只要够用就行了。
+English: Pray to use money instead of sacrifice, invite guests to use only one kind of livestock, do not add new utensils, as long as the chariot and horse costumes are enough.
+
+古文：行人期年，国乃有节。
+现代文：这些措施推行一年，国家才有了法度。
+English: These measures have been in place for a year, and the country only now has legislation in place.
+
+古文：三驾而楚不能与争。
+现代文：三次出兵而楚国不能和晋国争夺。
+English: Chu sent troops three times, but could not compete with Jin.
+

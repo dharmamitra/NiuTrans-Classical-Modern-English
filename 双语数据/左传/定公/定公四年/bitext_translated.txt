@@ -1,0 +1,576 @@
+古文：四年春，王二月癸巳，陈侯吴卒。
+现代文：思念春季，周历二月癸巳日，陈侯去世。
+English: Thinking of spring, Chen Hou passed away on the third day of the second lunar month.
+
+古文：三月，公会刘子、晋侯、宋公、蔡侯、卫侯、陈子、郑伯、许男、曹伯、莒子、邾子、顿子、胡子、滕子、薛伯、杞伯、小邾子、齐国夏于召陵，侵楚。
+现代文：三月，定公与刘子、晋侯、宋公、蔡侯、卫侯、陈子、郑伯、许男、曹伯、莒子、邾子、顿子、胡子、滕子、薛伯、杞伯、小邾子、齐国夏在召陵会见，一起攻打楚国。
+English: In March, Ding Gong met with Liu Zi, Jin Hou, Song Gong, Cai Hou, Wei Hou, Chen Zi, Zheng Bo, Xu Nong, Cao Bo, Zang Zi, Zang Zi, Tong Zi, Hu Zi, Teng Zi, Xue Bo, Zang Bo, Xiao Zang Zi, and Qi Guoxia at Zhaoling, and together they attacked Chu.
+
+古文：夏四月庚辰，蔡公孙姓帅师灭沈，以沈子嘉归，杀之。
+现代文：夏季四月庚辰日，蔡国的公孙姓率领军队灭掉沈国，将沈国国君拘捕回国，然后杀了他。
+English: In the summer of April, on the day of Gengchen, Cai Guo's great-grandson led an army to destroy Shen Guo, arrested Shen Guo Guo Jun back to China, and then killed him.
+
+古文：五月，公及诸侯盟于皋鼬。
+现代文：五月，定公与各诸侯在皋鼬结盟。
+English: In May, Sadagong made an alliance with various lords in Yunnan.
+
+古文：杞伯成卒于会。
+现代文：杞伯成在盟会上去世。
+English: Zou Boxing died at the league meeting.
+
+古文：六月，葬陈惠公。
+现代文：六月，安葬陈惠公。
+English: In June, Chen Huigong was buried.
+
+古文：许迁于容城。
+现代文：许国将国都迁到容城。
+English: Xu Guo moved the capital to Yongcheng.
+
+古文：秋七月，公至自会。
+现代文：秋季七月，定公从盟会的地方回来。
+English: In the autumn of July, Dingong returned from the place of the alliance.
+
+古文：刘卷卒。
+现代文：刘卷去世。
+English: Liu Zhen passed away.
+
+古文：葬杞悼公。
+现代文：安葬杞悼公。
+English: A peaceful burial and public mourning will follow.
+
+古文：楚人围蔡。
+现代文：楚国军队包围蔡国。
+English: The troops of Chu surrounded Cai.
+
+古文：晋士鞅、卫孔圉帅师伐鲜虞。
+现代文：晋国的士鞅、卫孔圉率领军队攻打鲜虞。
+English: Jin's Shisheng and Wei Kongjun led the army to attack the fresh danger.
+
+古文：葬刘文公。
+现代文：安葬刘文公。
+English: Liu Wengong was buried peacefully.
+
+古文：冬十有一月庚午，蔡侯以吴子及楚人战于柏举，楚师败绩。
+现代文：冬季十一月庚午日，蔡侯、吴子领兵与楚国军队在柏举交战，楚国战败。
+English: On the afternoon of the second day of winter in November, Cai Hou and Wu Zi, the leaders of the army, fought with the army of the State of Chu in Baoji, and the State of Chu was defeated.
+
+古文：楚囊瓦出奔郑。
+现代文：楚国的囊瓦逃到了郑国。
+English: The sacks of bricks and mortar from Chu fled to Zheng.
+
+古文：庚辰，吴入郢。
+现代文：庚辰日，吴国进入郢地。
+English: On the day of Geng Chen, the State of Wu entered the Land of Reclamation.
+
+古文：四年春三月，刘文公合诸侯于召陵，谋伐楚也。
+现代文：四年春季，三月，刘文公在召陵会合诸侯，这是为了策划进攻楚国。
+English: In the spring of the fourth year, in March, Liu Wengong convened a meeting of lords at the imperial mausoleum in order to plan an attack on Chu.
+
+古文：晋荀寅求货于蔡侯，弗得。言于范献子曰： 国家方危，诸侯方贰，将以袭敌，不亦难乎。
+现代文：晋国的荀寅向蔡侯求取财货，没有得到，就对范献子说： 国家正在危急之时，诸侯正怀有二心，准备在这种情况下袭击敌人，不也是很困难吗！
+English: Zhang Ying of Jin Province asked Cai Hou for money and goods, and when he did not get it, he said to Fan Xianzi: When the country is in a critical situation, the princes are harboring double-mindedness, and preparing to attack the enemy in this situation, is not it also very difficult?
+
+古文：水潦方降，疾疟方起，中山不服，弃盟取怨，无损于楚，而失中山，不如辞蔡侯。
+现代文：大雨正在下着，疟疾正在流行，中山不臣服，抛弃盟约而招来怨恨，对楚国没有什么损害，反而失去了中山，不如辞谢蔡侯。
+English: Heavy rain is falling, malaria is prevalent, Zhongshan is not submissive, abandoning the covenant and causing resentment, there is no damage to Chu, but lost Zhongshan, it is better to resign Cai Hou.
+
+古文：吾自方城以来，楚未可以得志，祇取勤焉。 
+现代文：我们自从方城那次战役以来，到现在还不见得能在楚国得志，只不过是劳兵伤财。 
+English: Since the battle of Fangcheng, we have not yet been able to win glory in the State of Chu. All we have done is toil and suffer.
+
+古文：乃辞蔡侯。
+现代文：于是就辞谢了蔡侯。
+English: As a result, Cai Hou resigned.
+
+古文：晋人假羽旄于郑，郑人与之。
+现代文：晋国人向郑国借用装饰旌旗的羽毛，郑国人给了他们。
+English: The Jin people borrowed the feathers used to decorate the banner from the Zheng people, and the Zheng people gave them the feathers.
+
+古文：明日，或旆以会。晋于是乎失诸侯。
+现代文：第二天，把羽毛装饰在旗杆顶上去参加会，晋国就因此失掉了诸侯的拥护。
+English: The next day, the feathers were decorated on the top of the flagpole to participate in the meeting, and Jin lost the support of the princes.
+
+古文：将会，卫子行敬子言于灵公曰： 会同难，啧有烦言，莫之治也。
+现代文：将要举行会见，卫国的子行敬子对卫灵公说： 朝会难得达到预期的目的，有分歧又争论不休，就不好办了。
+English: A meeting is to be held, and the son of the country's defense, Xing Keizi, said to Wei Linggong: It is difficult for the morning meeting to achieve the expected purpose. If there are disagreements and disputes, it will be difficult to do.
+
+古文：其使祝佗从。 公曰： 善。 
+现代文：是不是让祝佗跟随与会？ 卫灵公说： 好。 
+English: Wasn't Zhu Xi allowed to attend the meeting? Wei Ling Gong said: Good.
+
+古文：乃使子鱼。
+现代文：就派祝佗跟着去。
+English: He sent Zhu Xi to follow.
+
+古文：子鱼辞曰： 臣展四体，以率旧职，犹惧不给而烦刑书，若又共二，徼大罪也。
+现代文：祝佗辞谢，说： 下臣竭力从事工作，以继承先人的职位，尚且恐怕完不成任务而得到罪过，如果又从事第二种职务，就会获得大罪了。
+English: Congratulating him on his resignation, he said, "A subordinate minister who works hard to inherit the position of his predecessors, and is afraid that he will not be able to complete the task, will receive a sin, and if he engages in the second kind of duty, he will receive a great sin.
+
+古文：且夫祝，社稷之常隶也。
+现代文：况且太祝这职务，是土地神和五谷神经常使唤的小臣。
+English: What's more, Taishu, who held this position, was a minor minister who was often called upon by the gods of the land and grain.
+
+古文：社稷不动，祝不出竟，官之制也。
+现代文：土地神和五谷神不出动，太祝不出国境，这是官制规定的。
+English: The land god and the grain god do not move, and there are no national borders, which is stipulated by the official system.
+
+古文：君以军行，祓社衅鼓，祝奉以从，于是乎出竟。
+现代文：君王率领军队出征，祭祀神庙杀牲衅鼓，太祝奉社主跟随出国境。
+English: The king led the army to go to war, sacrificed the temple, killed the sacrificial drums, and followed the leader of the community out of the country.
+
+古文：若嘉好之事，君行师从，卿行旅从，臣无事焉。 公曰： 行也。 
+现代文：如果是朝会一类的好事，国君出去有一师人马跟随，卿出去有一旅人马跟随，下臣是没有事情的。 卫灵公说： 去吧！ 
+English: If it is a good thing like the Imperial Court Council, the sovereign will go out with a team of people to follow him, the lord will go out with a team of people to follow him, and the vassal will have nothing to do.
+
+古文：及皋鼬，将长蔡于卫。
+现代文：到达皋鼬，准备把蔡国安排在卫国前面歃血。
+English: Arriving in Kunming, they prepared to arrange for Cai Guo to bleed to death in front of the imperial palace.
+
+古文：卫侯使祝佗私于苌弘曰： 闻诸道路，不知信否？若闻蔡将先卫，信乎？ 
+现代文：卫灵公派祝佗私下对苌弘说： 在道路上听到，不知是否确实，听说把蔡国安排在卫国之前歃血，确实吗？ 
+English: Zhu Xi, a member of the Wei Ling Gong faction, privately said to Yan Hong: I heard it on the road, I don't know if it is true, I heard that Cai Guo was arranged to shed blood before the defense of the country, is it true?
+
+古文：苌弘曰： 信。
+现代文：苌弘说： 确实。
+English: Takehiro said, "It's true.
+
+古文：蔡叔，康叔之兄也，先卫，不亦可乎？ 
+现代文：蔡叔，是康叔的兄长，把位次排在卫国之前，不也是可以的吗？ 
+English: Uncle Cai is the elder brother of Uncle Kang. Isn't it possible to put the ranking before the defense of the country?
+
+古文：子鱼曰： 以先王观之，则尚德也。
+现代文：祝佗说： 用先王的标准来看，是尊重德行的。
+English: Zhu Xi said: Judging by the standards of the former king, it is respect for virtue.
+
+古文：昔武王克商，成王定之，选建明德，以藩屏周。
+现代文：从前武王战胜商朝，成王平定天下，选择有明德的人分封，把他们作为保卫周朝的藩篱屏障。
+English: Once upon a time, King Wu defeated the Shang Dynasty, King Cheng ruled the world, and selected people with wisdom and virtue to be assigned to different territories, using them as a barrier to protect the Zhou Dynasty.
+
+古文：故周公相王室，以尹天下，于周为睦。
+现代文：所以周公辅佐王室，以治理天下，诸侯也和周朝和睦相处。
+English: Therefore, Zhou Gongfu assisted the royal family to govern the world, and the princes also lived in harmony with the Zhou Dynasty.
+
+古文：分鲁公以大路、大旂，夏后氏之璜，封父之繁弱，殷民六族，条氏、徐氏、萧氏、索氏、长勺氏、尾勺氏，使帅其宗氏，辑其分族，将其类醜，以法则周公，用即命于周。
+现代文：分赐给鲁公大路、大旂，夏后氏的璜玉，封父的良弓，还有殷朝的六个家族条氏、徐氏、萧氏、索氏、长勺氏、尾勺氏，让他们率领本宗各氏族，集合其余的小宗族，统治六族的奴隶，来服从周公的法制，由此归附周朝听取命令。
+English: It was given to Lukong DaLu, Daxu, XiaGou's ZongYu, FengFu's LiangYu, as well as the six families of the Yin Dynasty, namely, the Jiao, Xu, Xiao, Suo, ChangZhao and OuZhao clans, so that they could lead the clans of their own families, gather the remaining small clans, and rule the slaves of the six clans to obey the legal system of Zhou Gong, and thus be attached to the Zhou Dynasty to listen to orders.
+
+古文：是使之职事于鲁，以昭周公之明德。
+现代文：这是让他为鲁国执行职务，以宣扬周公的明德。
+English: This is to allow him to perform his duties for the country of Lu, in order to promote Zhou Gong's bright virtue.
+
+古文：分之土田陪敦，祝、宗、卜、史，备物典策，官司彝器。因商奄之民，命以伯禽，而封于少皞之虚。分康叔以大路、少帛、茷、旃旌、大吕，殷民七族，陶氏、施氏、繁氏、锜氏、樊氏、饑氏、终葵氏，封畛土略，自武父以南，及圃田之北竟，取于有阎之土，以共王职。
+现代文：分赐给鲁国附庸小国，太祝、宗人、太卜、太史，服用器物、典籍简册、百官彝器，安抚商奄的百姓，用《伯禽》来告诫他们，而封在少皞的故城，分赐给康叔大路、少白、綪茷、旃旌、大吕，还有殷朝的七个家族，陶氏、施氏、繁氏、锜氏、樊氏、饥氏、终葵氏，封疆边界，从武父以南到达圃田北界，从有阎氏那里取得了土地，以执行王室任命的职务。
+English: It was given to Lu's vassal small states, Taizhu, Zonren, Taib, Taishi, to take utensils, classic books, and government officials' utensils, to appease the people of the merchants, and to use "Bird" to warn them, and sealed in the old city of Shao'an, it was given to Kangshu DaLu, ShaoBai, Zou, Zou, Dalu, and the seven families of the Yin Dynasty, Tao, Shi, Shang, Zou, Zou, Hung, and ZhouKou, to seal the border, from south of Wuchang to the northern border of Putian,
+
+古文：取于相土之东都，以会王之东蒐。
+现代文：取得了相土的东都，以协助天子在东方巡视。
+English: He obtained the eastern capital of Sodato in order to assist the heavenly son in his inspection tour in the east.
+
+古文：耼季授土，陶叔授民，命以《康诰》，而封于殷虚，皆启以商政，疆以周索。
+现代文：聃季授予土地，陶叔授予百姓，用《康诰》来告诫他，而封在殷朝的故城。
+English: Xing Ji awarded the land, Uncle Tao awarded the people, warned him with "Kang Xi," and sealed him in the old city of the Yin Dynasty.
+
+古文：分唐叔以大路、密须之鼓、阙巩、沽洗，怀姓九宗，职官五正。命以《唐诰》，而封于夏虚，启以夏政，疆以戎索。
+现代文：鲁公和康叔都沿用商朝的政事，而按照周朝的制度来划定疆土。分赐给唐叔大路、密须的鼓、阙巩的甲、沽洗，还有怀姓的九个宗族，五正的职官，用《唐诰》来告诫他，而封在夏朝的故城。
+English: Lu Gong and Kang Shu both followed the politics of the Shang Dynasty and delineated the territory according to the system of the Zhou Dynasty. Tang Shu DaLu, Misu no Tsuzumi, Su Gong no Jia, Shu Qi, as well as nine clans with surnames, and five high-ranking officials, warned him with "Tang Shu" and sealed him in the old city of the Xia Dynasty.
+
+古文：三者皆叔也，而有令德，故昭之以分物。
+现代文：唐叔沿用夏朝的政事，用戎人的制度来划定疆土。这三个人都是天子的兄弟而有美好的德行，所以用分赐东西来为他们宣扬德行。
+English: Uncle Tang continued to use the political affairs of the Xia Dynasty and the system of eunuchs to delineate the territory. These three men were brothers of the Son of Heaven and had good virtues, so he used the gifts to promote virtues for them.
+
+古文：不然，文、武、成、康之伯犹多，而不获是分也，唯不尚年也。
+现代文：不这样，文王、武王、成王、康王的兄长还很多，而没有得到这些赐予，就因为不是崇尚年龄。
+English: Otherwise, there are many brothers of King Wen, King Wu, King Cheng and King Kang, but they did not receive these gifts because they did not respect age.
+
+古文：管蔡启商，惎间王室。
+现代文：管叔、蔡叔引诱商人，策划侵犯王室。
+English: Uncle Guan and Uncle Cai seduced merchants and plotted to invade the royal family.
+
+古文：王于是乎杀管叔而蔡蔡叔，以车七乘，徒七十人。
+现代文：天子因此杀了管叔而放逐蔡叔，给了蔡叔七辆车子，七十个奴隶。
+English: As a result, Heaven's Son killed Uncle Guan and exiled Uncle Cai, and gave Uncle Cai seven cars and seventy slaves.
+
+古文：其子蔡仲，改行帅德，周公举之，以为己卿士。
+现代文：蔡叔的儿子蔡仲改恶从善，周公提拔他，让他作为自己的卿士。
+English: Uncle Cai's son, Cai Zhong, changed evil for good. Zhou Gong promoted him and made him one of his nobles.
+
+古文：见诸王而命之以蔡，其命书云： 王曰，胡，无若尔考之违王命也。 
+现代文：让他拜见天子，天子命令他做了蔡侯。任命书说： 天子说：胡，不要像你父亲那样违背天子的命令！ 
+English: Let him pay homage to the Son of Heaven, and the Son of Heaven ordered him to become Cai Hou. The appointment letter said: The Son of Heaven said: Hu, don't disobey the Son of Heaven's order like your father did!
+
+古文：若之何其使蔡先卫也？
+现代文：怎么能让蔡国在卫国之前歃血呢？
+English: How can Cai Guo be made to bleed to death before defending the country?
+
+古文：武王之母弟八人，周公为大宰，康叔为司寇，耼季为司空，五叔无官，岂尚年哉！
+现代文：武王的同母兄弟八个人，周公做太宰，康叔做司寇，聃季做司空，其余五个叔父没有官职，难道是以年龄为主吗？
+English: There are eight brothers of the same mother of King Wu. Zhou Gong is Dazai, Kang Uncle is Scor, Xing Ji is Siku, and the remaining five uncles do not have official positions. Is it mainly due to age?
+
+古文：曹，文之昭也；晋，武之穆也。
+现代文：曹国，是文王的后代。晋国，是武王的后代。
+English: Cao was a descendant of King Wen, and Jin was a descendant of King Wu.
+
+古文：曹为伯甸，非尚年也。
+现代文：曹国以伯爵作为甸服，并不是由于尊崇年龄。
+English: Cao's use of the count as a ceremonial robe was not due to respect for age.
+
+古文：今将尚之，是反先王也。
+现代文：现在要尊崇它，这就是违反先王的遗制。
+English: To honor it now is to violate the legacy of the former king.
+
+古文：晋文公为践土之盟，卫成公不在，夷叔，其母弟也，犹先蔡。
+现代文：晋文公召集践土的盟会，卫成公不在场，夷叔，是他的同母兄弟，尚且列在蔡国之前。
+English: Jin Wenkong convened the earth-moving alliance, Wei Chenggong was not present, and Uncle Yi, his brother by the same mother, was listed before Cai Guo.
+
+古文：其载书云： 王若曰：晋重、鲁申、卫武、蔡甲午、郑捷、齐潘、宋王臣、莒期。 
+现代文：盟书说： 天子说：晋国的重、鲁国的申、卫国的武、蔡国的甲午、郑国的捷、齐国的潘、宋国的王臣、莒国的期。 
+English: The alliance said: The heavenly son said: The period of the heavy of Jin, the heavy of Lu, the heavy of Shu, the heavy of Wei, the heavy of Cai, the heavy of Jia, the heavy of Zheng, the heavy of Qi, the heavy of Song, the heavy of Jian, the heavy of Jian, the heavy of Lu, the heavy of Shen, the heavy of Lu, the heavy of Shen, the heavy of Shen, the heavy of Shen, the heavy of Shen, the heavy of Shen, the heavy of Shen, the heavy of Shen, the heavy of Shen, the heavy of Jin, the heavy of Jin, the heavy of Jin, the heavy of Shen, the
+
+古文：藏在周府，可覆视也。
+现代文：藏在成周的府库里，这是可以查看的。
+English: Hidden in Cheng Zhou's treasury, it can be viewed.
+
+古文：吾子欲复文、武之略，而不正其德，将如之何？ 
+现代文：您想要恢复文王、武王的法度，而不端正自己的德行，您准备怎么办？ 
+English: You want to restore the law of King Wen and King Wu, but not correct your own virtue, what are you going to do?
+
+古文：苌弘说，告刘子，与范献子谋之，乃长卫侯于盟。
+现代文：苌弘很高兴，告诉了刘子，和范献子商量这件事，在结盟时就让卫侯在蔡侯之前歃血。
+English: Yan Hong was very happy, told Liu Zi, discussed the matter with Fan Xianzi, and let Wei Hou draw blood before Cai Hou when they allied.
+
+古文：反自召陵，郑子大叔未至而卒。
+现代文：从召陵回国，郑国的子太叔没有回到国内就死了。
+English: After returning from the mausoleum, Zheng Guo's great-uncle died without returning to the country.
+
+古文：晋赵简子为之临，甚哀，曰： 黄父之会，夫子语我九言，曰： 无始乱，无怙富，无恃宠，无违同，无敖礼，无骄能，无复怒，无谋非德，无犯非义。  
+现代文：晋国的赵简子吊丧号哭，很悲哀，说： 黄父那次会见，他老人家对我说了九句话，说： 不要发动祸乱，不要凭借富有，不要仗恃宠信，不要违背共同的意愿，不要傲视有礼的人，不要自负有才能，不要为同一事情再次发怒，不要谋划不合道德的事，不要触犯不合正义的事。  
+English: Zhao Jianzi from Jin Province wept bitterly and was very sad, saying, "At that meeting with Father Huang, the old man said nine things to me, saying, 'Don't cause disasters, don't rely on wealth, don't rely on favors, don't go against the common will, don't look down on polite people, don't be conceited and talented, don't get angry again for the same thing, don't plan immoral things, and don't violate unjust things.
+
+古文：沈人不会于召陵，晋人使蔡伐之。
+现代文：沈国人不参加在召陵的会见，晋国人让蔡国人进攻沈国。
+English: The people of Shen did not attend the meeting in Zhaoling, and the people of Jin let the people of Cai attack Shen.
+
+古文：夏，蔡灭沈。
+现代文：夏季，蔡国灭亡了沈国。
+English: In the summer, Cai Guo was defeated by Shen Guo.
+
+古文：秋，楚为沈故，围蔡。
+现代文：秋季，楚国由于沈国被灭亡的缘故，包围了蔡国。
+English: In autumn, Chu surrounded Cai as a result of the fall of Shen.
+
+古文：伍员为吴行人以谋楚。
+现代文：伍员作为吴国的外交官，在策划对付楚国。
+English: As a diplomat from the State of Wu, the soldier is plotting against the State of Chu.
+
+古文：楚之杀郤宛也，伯氏之族出。
+现代文：当楚国杀死郤宛的时候，伯氏的族人逃往国外。
+English: When Chu killed Xuanwan, members of the Bo clan fled abroad.
+
+古文：伯州犁之孙嚭，为吴大宰以谋楚。
+现代文：伯州犁的孙子伯嚭担任了吴国的宰相，也在策划对付楚国。
+English: Bozhong's grandson, Bozhong, became the prime minister of the State of Wu and was also plotting against the State of Chu.
+
+古文：楚自昭王即位，无岁不有吴师。蔡侯因之，以其子乾与其大夫之子为质于吴。
+现代文：楚国自从昭王即位以后，没有一年不和吴国交战，蔡昭侯仗着这个，把他的儿了乾和一个大夫的儿子放在吴国作为人质。
+English: Since the enthronement of King Zhao, there has not been a single year in which the State of Chu has not been at war with the State of Wu. Cai Zhao Hou took advantage of this and took his son and a doctor's son as hostages in the State of Wu.
+
+古文：冬，蔡侯、吴子、唐侯伐楚。
+现代文：冬季，蔡昭侯、吴王阖庐、唐成公联合发兵进攻楚国。
+English: In the winter, Cai Zhaohou, Wu Wangtao, and Tang Chenggong jointly sent troops to attack Chu.
+
+古文：舍舟于淮汭，自豫章与楚夹汉。
+现代文：他们把船停在淮河边上，从豫章进发，和楚军隔着汉水对峙。
+English: They stopped the boat on the edge of the Huai River and started from Yuzhang to confront the Chu army across the Han River.
+
+古文：左司马戌谓子常曰： 子沿汉而与之上下，我悉方城外以毁其舟，还塞大隧、直辕、冥阨。
+现代文：楚国司马沈尹戌对子常说： 您沿着汉水和他们上下周旋，我带领方城山之外的全部人马来毁掉他们的船只，回来时再堵塞大隧、直辕、冥阨。
+English: Shen Yunyuan, the Sima of the State of Chu, often said to his son: You go up and down along the Han River and circle around them, I will lead all the people and horses outside Fangcheng Mountain to destroy their ships, and when I return, I will block the tunnel, the straight pier, and the dead pier.
+
+古文：子济汉而伐之，我自后击之，必大败之。 
+现代文：这时，您渡过汉水而进攻，我从后面夹击，必定把他们打得大败。 
+English: At this time, you crossed the Han River and attacked, I attacked from behind, and I must have defeated them.
+
+古文：既谋而行。
+现代文：商量完了就出发。
+English: Once the discussion is over, let's go.
+
+古文：武城黑谓子常曰： 吴用木也，我用革也，不可久也。不如速战。 
+现代文：楚国武城黑对子常说： 吴国人用木头制的战车，我们用皮革蒙的战车，天雨不能持久，不如速战速决。 
+English: The black couple of Wucheng in Chu often said: Wu people use wooden chariots, we use leather-covered chariots. The rain can't last, so it's better to fight quickly.
+
+古文：史皇谓子常： 楚人恶子而好司马，若司马毁吴舟于淮，塞城口而入，是独克吴也。
+现代文：史皇对子常说： 楚国人讨厌您而喜欢司马。如果沈司马在淮河边上毁掉了吴国的船，堵塞了城口而回来，这是他一个人独享战胜吴军的功劳。
+English: Shi Wang often said to his son: The people of Chu hate you and love Sima. If Shen Sima destroyed the ships of Wu on the edge of the Huai River, blocked the entrance to the city and came back, this was his sole achievement in defeating the Wu army.
+
+古文：子必速战，不然不免。 
+现代文：您一定要速战速决。不这样，就不能免于祸难。 
+English: You must act quickly. Otherwise, you will not be able to avoid disaster.
+
+古文：乃济汉而陈，自小别至于大别。
+现代文：于是就渡过汉水摆开阵势。从小别山直到大别山。
+English: So they crossed the Han River and set up their positions, from the Small Mountain to the Big Mountain.
+
+古文：三战，子常知不可，欲奔。
+现代文：同吴军打了三仗，子常知道不行，想逃走。
+English: He fought three wars with the Wu army, but he always knew it was no good and wanted to run away.
+
+古文：史皇曰： 安求其事，难而逃之，将何所入？
+现代文：史皇说： 平平安安，您争着当权；国家有了祸难就逃避，你打算到哪里去？
+English: Shi Huang said: Peace and safety, you are vying for power; the country has a disaster and escapes, where do you plan to go?
+
+古文：子必死之，初罪必尽说。 
+现代文：您一定要拼命打这一仗，以前的罪过必然可以全部免除。 
+English: You must fight this battle with all your might, and all your past sins will be absolved.
+
+古文：十一月庚午，二师陈于柏举。
+现代文：十一月十八日，吴、楚两军在柏举摆开阵势。
+English: On November 18, the two armies of Wu and Chu took up positions in Baiji.
+
+古文：阖庐之弟夫槩王，晨请于阖庐曰： 楚瓦不仁，其臣莫有死志，先伐之，其卒必奔。
+现代文：吴王阖庐的弟弟夫槩王早晨请示阖庐说： 楚国的令尹囊瓦不仁，他的部下没有死战的决心。
+English: In the morning, Wu Wangyao's younger brother, Fu Wangyao, asked for a sign, saying, "The order of the State of Chu from Yin Cangwa is not benevolent. His subordinates do not have the determination to fight to the death.
+
+古文：而后大师继之，必克。 
+现代文：我们抢先进攻，他们的士兵必定奔逃，然后大部队跟上去，必然得胜。 
+English: We will attack first, their soldiers will flee, and then a large force will follow, and they will be victorious.
+
+古文：弗许。
+现代文：阖庐不答应。
+English: Yan Le still did not agree.
+
+古文：夫槩王曰： 所谓臣义而行，不待命者，其此之谓也。
+现代文：夫概王说： 所谓 臣下合于道义就去做，不必等待命令 ，说的就是这个吧！
+English: Her husband, the king, said: "The so-called moral duty of a subject is to do it without waiting for an order, that's what I'm talking about!"
+
+古文：今日我死，楚可入也。 
+现代文：今天我拼命作战，就可以攻进郢都了。 
+English: Today, if I fight hard, I will be able to invade Shantou.
+
+古文：以其属五千，先击子常之卒。子常之卒奔，楚师乱，吴师大败之。
+现代文：于是，夫槩王带着他的部下五千人，抢先攻打子常的队伍，子常的士兵奔逃，楚军乱了阵脚，吴军大败楚军。
+English: As a result, King Hushen, with five thousand of his subordinates, preemptively attacked Zizang's army. Zizang's soldiers fled, the Chu army lost its footing, and the Wu army defeated the Chu army.
+
+古文：子常奔郑。
+现代文：子常逃亡到郑国。
+English: His son often fled to Zheng.
+
+古文：史皇以其乘广死。
+现代文：史皇带着子常的兵车战死。
+English: Emperor Shi died in battle with his son's chariot.
+
+古文：吴从楚师，及清发，将击之。
+现代文：吴军追赶楚军，到达清发，准备发动攻击。
+English: The Wu army chased the Chu army, reached Qingfa, and prepared to launch an attack.
+
+古文：夫槩王曰： 困兽犹斗，况人乎？
+现代文：夫槩王说： 被围困的野兽还要争斗一番，何况人呢？
+English: King Fuchan said, "Beasts under siege will fight to the bitter end, let alone humans."
+
+古文：若知不免而致死，必败我。
+现代文：如果明知不免一死而同我们拼命决战，必定会打败我们。
+English: If they fight a desperate battle with us, knowing that death is inevitable, they will surely defeat us.
+
+古文：若使先济者知免，后者慕之，蔑有鬥心矣。
+现代文：如果让先渡过河的楚军知道一过河就可以逃脱，后边的人羡慕先渡河的，楚军就没有斗志了。
+English: If the Chu army that crossed the river first knew that they could escape once they crossed the river, and the people behind them envied those who crossed the river first, the Chu army would have no fighting spirit.
+
+古文：半济而后可击也。 
+现代文：渡过一半才可以攻击。 
+English: You can't attack until you're halfway across.
+
+古文：从之。又败之。
+现代文：照这样做，又一次打败楚军。
+English: In doing so, he defeated the Chu army once again.
+
+古文：楚人为食，吴人及之，奔食而从之。
+现代文：楚军做饭，吴军又赶到了，楚军奔逃。
+English: The Chu army was cooking, the Wu army arrived again, and the Chu army fled.
+
+古文：败诸雍澨，五战及郢。
+现代文：吴军吃完楚军做的饭，又继续追击，在雍澨打败了楚军。
+English: After the Wu army finished eating the meal made by the Chu army, they continued to pursue and defeated the Chu army in Yongle.
+
+古文：己卯，楚子取其妹季芈畀我以出，涉雎。
+现代文：经过五次战斗，吴军到达楚国的郢都。十一月二十八日，楚王带了他妹妹季羋畀我逃出郢都，徒步渡过睢水。
+English: After five battles, the Wu army reached the capital city of Chu. On November 28th, King Chu took his sister Ji Yulong and I to escape from the capital city, crossing the Surabaya River on foot.
+
+古文：鍼尹固与王同舟，王使执燧象以奔吴师。
+现代文：鍼尹固和楚王同船，楚昭王让鍼尹固迫使尾巴上点火的大象冲入吴军中。
+English: Acupuncture Yin Gu and King Chu were in the same boat. King Chu Zhao let Acupuncture Yin Gu force the elephant with its tail on fire to rush into the Wu army.
+
+古文：庚辰，吴入郢，以班处宫。
+现代文：二十九日，吴军进入郢都，按照上下次序分别住在楚国宫室里。
+English: On the 29th, the Wu army entered Shidu and lived in the rooms of the Chu State Palace in the following order.
+
+古文：子山处令尹之宫，夫槩王欲攻之，惧而去之，夫槩王入之。
+现代文：吴王阖庐的儿子子山住进了令尹府，夫槩王想要攻打他，子山害怕，离开了，夫槩王就住进了令尹府。
+English: Zishan, the son of King Wu, lived in Lingyin's palace. King Fu Rong wanted to attack him, but Zishan was afraid and left. King Fu Rong then lived in Lingyin's palace.
+
+古文：左司马戌及息而还，败吴师于雍澨，伤。
+现代文：左司马沈尹戌到达息地就往回退兵，在雍澨打败吴军，负了伤。
+English: When Zosima Shen Yinjun arrived at his home, he went back to retreat, defeated the Wu army in Yongle, and was wounded.
+
+古文：初，司马臣阖庐，故耻为禽焉。谓其臣曰： 谁能免吾首？ 吴句卑曰： 臣贱，可乎？ 
+现代文：当初，左司马曾经做过阖庐的臣下，所以把被吴军俘虏看成羞耻，对他的部下说： 谁能够不让吴国人得到我的脑袋？ 吴国人句卑说： 下臣卑贱，可以担当这任务吗？ 
+English: At first, Zuo Sima had been a lowly vassal, so he regarded it as a shame to be captured by the Wu army, and said to his subordinates: Who can prevent the Wu people from getting my head? The Wu people said: The vassal is lowly, can you take on this task?
+
+古文：司马曰： 我实失子，可哉。 
+现代文：司马说： 我过去竟然没重视您，您行啊！ 
+English: Sima said: I didn't pay attention to you in the past, you can do it!
+
+古文：三战皆伤，曰： 吾不可用也已。 
+现代文：司马三次战斗都负了伤，说： 我不中用了。 
+English: Sima was wounded three times in battle and said, "I'm no good.
+
+古文：句卑布裳，刭而裹之，藏其身，而以其首免。
+现代文：句卑展开裙子，割下沈司马的脑袋包裹起来，藏好尸体，便带着沈尹戌的头逃走了。
+English: Guanbei unfolded her skirt, cut off Shen Sima's head, wrapped it up, hid the body, and then fled with Shen Yinlu's head.
+
+古文：楚子涉雎济江，入于云中。
+现代文：楚昭王渡过睢水，渡过长江，进入云梦泽。
+English: Chu Zhao Wang crossed the Surabaya River, crossed the Yangtze River, and entered the clouds.
+
+古文：王寝，盗攻之，以戈击王。王孙由于以背受之，中肩。
+现代文：楚昭王在睡觉，强盗加以袭击，用戈刺击楚昭王，王孙由于用背去挡，击中了肩膀。
+English: Chu Zhao Wang was sleeping. The robber attacked him and stabbed him with a goad. Wang Sun hit his shoulder because he was using his back to block the attack.
+
+古文：王奔郧，钟建负季芈以从，由于徐苏而从。
+现代文：楚昭王逃到郧地，钟建背着季羋跟随着。王孙由于慢慢苏醒过来以后，也跟上去。
+English: Chu Zhao Wang fled to Handan, and Zhong Jian followed with Ji Yao on his back. After Wang Sun slowly woke up, he also followed.
+
+古文：郧公辛之弟怀将弑王，曰： 平王杀吾父，我杀其子，不亦可乎！ 
+现代文：郧公辛的弟弟怀准备杀死楚昭王，说： 平王杀了我父亲，我杀死他的儿子，不也是应该的吗？ 
+English: Yu Gongxin's younger brother Huai prepared to kill King Chu Zhao, saying: King Ping killed my father, I killed his son, isn't that what I should do?
+
+古文：辛曰： 君讨臣，谁敢仇之？
+现代文：辛说： 国君讨伐臣下，谁敢仇恨他？
+English: Xin said, "If the sovereign fights his vassals, who would dare to hate him?"
+
+古文：君命，天也，若死天命，将谁仇？
+现代文：国君的命令，代表上天的意志。如果死于天意，您还要仇恨谁？
+English: The order of the sovereign represents the will of heaven. If you die by God's will, whom will you still hate?
+
+古文：《诗》曰： 柔亦不茹，刚亦不吐。
+现代文：《诗》说， 软的不吞下，硬的不吐掉。
+English: "Poetry" says, soft does not swallow, hard does not spit out.
+
+古文：不侮矜寡，不畏强御。 唯仁者能之。
+现代文：不欺鳏寡，不畏强暴 ，这只有仁爱的人才能这样。
+English: He who does not oppress his neighbor, nor does he fear violence, is a man of mercy.
+
+古文：违强陵弱，非勇也。乘人之约，非仁也。灭宗废祀，非孝也。动无令名，非知也。
+现代文：逃避强暴，欺凌弱小，这不是勇；乘人之危，这不是仁；灭亡宗族，废弃祭祀，这不是孝；举动没有正当的名义，这不是明智。
+English: To flee from violence, to bully the weak and small, is not brave; to take advantage of human danger, is not benevolent; to destroy the clan, to abandon sacrifice, is not filial; to act without a legitimate name, is not wise.
+
+古文：必犯是，余将杀女。 
+现代文：你要是一定这样做，我就先杀死你。 
+English: If you do, I'll kill you first.
+
+古文：鬥辛与其弟巢以王奔随。
+现代文：鬬辛就和他的弟弟巢护卫着楚昭王逃亡到随国。
+English: Yan Xin and his younger brother Xing escorted Chu Zhao Wang to Sui Province.
+
+古文：吴人从之，谓随人曰： 周之子孙在汉川者，楚实尽之。
+现代文：吴国人追赶楚昭王，吴王派人对随国国君说： 周朝的子孙封在汉水一带的，楚国全都灭了他们。
+English: The people of Wu chased after King Chu Zhao, and the King of Wu sent a messenger to Sui Guo Guojun, saying, "If the descendants of the Zhou Dynasty are sealed in the Hanshui area, the State of Chu will exterminate them all."
+
+古文：天诱其衷，致罚于楚，而君又窜之，周室何罪？
+现代文：上天的意志，降罚于楚国，而您又把楚君藏匿起来。周室有什么罪？
+English: According to the will of heaven, the punishment was reduced to the state of Chu, and you hid Chu Jun. What is the crime of the Zhou family?
+
+古文：君若顾报周室，施及寡人，以奖天衷，君之惠也。
+现代文：您如果报答周室的恩惠，波及于寡人，来完成天意，这是您的恩惠，汉水北边的土地，您就可以享有。 
+English: If you repay the favor of the Zhou family, affecting a few people, to fulfill the will of heaven, this is your favor, the land north of the Han River, you can enjoy.
+
+古文：汉阳之田，君实有之。 
+现代文：楚王住在随国宫殿的北面，吴军在随国宫殿的南面。
+English: King Chu lived on the north side of the Suiguo Palace, and the Wu Army was on the south side of the Suiguo Palace.
+
+古文：楚子在公宫之北，吴人在其南。子期似王，逃王而己为王，曰： 以我与之，王必免。 
+现代文：子期长得像楚昭王，他逃到楚昭王那里，穿上楚昭王的服饰，说： 把我交给吴军，君王一定可以脱险。 
+English: His son looked like King Chu Zhao. He fled to King Chu Zhao, put on King Chu Zhao's clothes, and said, "Hand me over to the Wu army, and the king will definitely be able to escape."
+
+古文：随人卜与之，不吉。乃辞吴曰： 以随之辟小而密迩于楚，楚实存之，世有盟誓，至于今未改。
+现代文：随国人为交出子期占卜吉凶，不吉利，就辞谢吴国说： 以随国的偏僻狭小而紧挨着楚国，楚国确实保全了我们。随、楚世世代代都有盟誓，到今天没有改变。
+English: Sui and Chu have sworn oaths for generations, and they have not changed to this day. Wu Guo said, "Since Sui and Chu are small and close to each other, Chu has really protected us.
+
+古文：若难而弃之，何以事君？
+现代文：如果有了危难而抛弃他们，又怎么能事奉君王？
+English: How can you serve a king if you abandon them in the face of danger?
+
+古文：执事之患，不唯一人。若鸠楚竟，敢不听命。 
+现代文：执事所担心的并不在于昭王这一个人，如果对楚国境内加以安抚，我国怎敢不听您的命令？ 
+English: It is not King Zhaowang that the deacon is worried about. If you pacify the territory of Chu, how dare our country not listen to your orders?
+
+古文：吴人乃退。
+现代文：吴军就撤退了。
+English: The Wu army then retreated.
+
+古文：鑪金初宦于子期氏，实与随人要言。
+现代文：鑢金当初在子期氏那里做家臣，曾经和随国人有过约定不要把楚昭王交给吴国人。
+English: At the beginning, Bao Jin was a vassal of the Ziguo clan, and he had an agreement with the Sui people not to hand over King Chu Zhao to the Wu people.
+
+古文：王使见，辞曰： 不敢以约为利。 
+现代文：楚昭王让他进见随君订盟，他辞谢，说： 不敢因为君王处于困难而谋求私利。 
+English: King Chu Zhao invited him to visit him and sign an alliance with him, but he declined, saying, "I dare not seek personal gain because the king is in difficulty."
+
+古文：王割子期之心，以与随人盟。
+现代文：楚昭王割破子期的胸口和随国人盟誓。
+English: Chu Zhao Wang cut the chest of his son and swore with his countrymen.
+
+古文：初，伍员与申包胥友。
+现代文：当初，伍员和申包胥是朋友。
+English: At first, the soldier and Shen Baozhen were friends.
+
+古文：其亡也，谓申包胥曰： 我必复楚国。 
+现代文：伍员逃亡的时候，对申包胥说： 我一定要颠覆楚国。 
+English: When the soldier fled, he said to Shen Baojun, "I must subvert the state of Chu."
+
+古文：申包胥曰： 勉之。
+现代文：申包胥说： 尽力干吧！
+English: Shen Baozhen said: Do your best!
+
+古文：子能复之，我必能兴之。 
+现代文：您能颠覆楚国，我一定能复兴楚国。 
+English: If you can subvert the state of Chu, I will surely be able to revive it.
+
+古文：及昭王在随，申包胥如秦乞师，曰： 吴为封豕长蛇，以荐食上国。
+现代文：等到楚昭王在随国避难，申包胥就到秦国去请求出兵，说： 吴国就是大猪、长蛇，一再吞食中原国家，为害从楚国开始。
+English: When King Chu Zhao took refuge in Sui Province, Shen Baojun went to Qin Province to request the dispatch of troops, saying: "Wu Province is a big pig, a long snake, repeatedly devouring the Central Plains countries, starting with Chu Province.
+
+古文：虐始于楚，寡君失守社稷，越在草莽。使下臣告急曰，夷德无厌，若邻于君，疆埸之患也。
+现代文：寡君失守国家，远在杂草丛林之中，使下臣报告急难，说： 夷人的本性是贪得无厌，如果吴国成为君王的邻国，这是边境的祸患。
+English: The tyrant lost control of the country, far away in the jungle of weeds, and made his vassal report an emergency, saying: "The nature of the barbarian is insatiable greed. If Wu becomes the king's neighbor, this is a border disaster.
+
+古文：逮吴之未定，君其取分焉。
+现代文：乘着吴国没有安定下来，君王可以平分楚国。
+English: Taking advantage of the fact that the state of Wu has not settled down, the monarch can equally divide the state of Chu.
+
+古文：若楚之遂亡，君之土也。
+现代文：如果楚国就此灭亡，那就是君王的土地了。
+English: If the state of Chu were to perish as a result, that would be the land of the king.
+
+古文：若以君灵抚之，世以事君。 
+现代文：如果仰仗君王的威福派兵镇抚楚国，楚国将世世代代事奉君王。  
+English: If Weifu, who trusted the king, sent soldiers to subdue Chu, Chu would serve the king for generations to come.
+
+古文：秦伯使辞焉，曰： 寡人闻命矣，子姑就馆，将图而告。 
+现代文：秦哀公辞谢申包胥，说： 我知道您的意见了，您姑且到宾馆休息，我们要商量一下再答复您。 
+English: Qin Ai said: I know your opinion, please go to the hotel to rest, we will discuss and then reply to you.
+
+古文：对曰： 寡君越在草莽，未获所伏。下臣何敢即安？ 
+现代文：申包胥回答说： 寡君逃亡到杂草丛林之中，还没有得到安身的地方，下臣哪敢去休息呢？ 
+English: Shen Baojun replied: If a widower has fled into the weeds and has not yet found a place to rest, how can a subordinate dare to rest?
+
+古文：立依于庭墙而哭，日夜不绝声，勺饮不入口，七日。
+现代文：申包胥靠着院墙站着嚎陶大哭，日夜哭声不断，七天不喝一口水。
+English: Shen Baozhen stood against the courtyard wall and wept loudly, crying day and night, and did not drink a sip of water for seven days.
+
+古文：秦哀公为之赋《无衣》，九顿首而坐。
+现代文：秦哀公大为感动，赋了《无衣》这首诗。
+English: Qin Aigong was greatly moved and wrote the poem "Without Clothes."
+
+古文：秦师乃出。
+现代文：秦军于是出动。
+English: The Qin army then moved out.
+

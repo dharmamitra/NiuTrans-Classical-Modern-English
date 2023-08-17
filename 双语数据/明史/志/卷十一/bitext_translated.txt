@@ -1,0 +1,1276 @@
+古文：◎历五
+现代文：历五
+English: The fifth day of the lunar calendar
+
+古文：大统历法三上
+现代文：大统历法三上
+English: The third generation of the grand unified calendar
+
+古文：大统推步，悉本《授时》，惟去消长而已。
+现代文：《大统历》的推算，都来源于《授时历》，只是删去了岁实的消长而已。
+English: The calculations of the "Great General Calendar" are all derived from the "Giving Calendar," except that the year-to-year variation has been deleted.
+
+古文：然《通轨》诸捷法，实为布算所须，其间次序，亦有与《历经》微别者。
+现代文：然而《大统历通轨》各种简捷的方法，确实是运算所必需的，书中的次序，也有与《历经》小有差别的。
+English: However, the various simple methods of the "Great General Calendar" are indeed necessary for the operation, and the order in the book is also slightly different from that of the "Annals."
+
+古文：如气朔发敛，《授时》原分二章，今古合为一。
+现代文：如气朔和发敛，《授时历》原来分焉二章，现在合并为一。
+English: Like a breath of fresh air, the "Giving Calendar" was originally divided into two chapters, and now it has been merged into one.
+
+古文：《授时》盈缩差在日躔，迟疾差在月离，定朔、经朔离为二处。
+现代文：《授时历》盈缩差在日躔即太阳运行部分，迟疾差在月离即月亮运行部分，定朔、经朔分为两处。
+English: In the "Giving of Time Calendar," the difference between waxing and waning is in the rising sun, that is, the part of the sun's movement, and the difference between waning and setting is in the part of the moon's movement, that is, the part of the moon's movement.
+
+古文：今则经朔后，即求定朔，于用殊便。
+现代文：现在是经朔以后，就求走朔，对于使用特别方便。
+English: Now that it is after the new moon, it is very convenient to use.
+
+古文：其目七：曰气朔，曰日躔，曰月离，曰中星，曰交食，曰五星，曰四余。
+现代文：推算的纲目有七项：气朔，日躔，月离，中星，交食，五星，四余。步气朔
+English: There are seven items in the program of calculation: qing shuo, sun shuo, moon shuo, mid-star, conjunction, five-star, four-plus.
+
+古文：▲步气朔洪武十七年甲子岁为元。
+现代文：洪武十七年甲子年为历元。
+English: The seventeenth year of Hongwu, the Year of the Horse, marks the beginning of the era.
+
+古文：岁周三百六十五万二千四百二十五分，实测无消长。
+现代文：上距元至元辛巳年一百零四年。岁周：三百六十五万二千四百二十五分，实测没有消长。
+English: The upper distance from the original to the original is 104 years. Age: three million six hundred and fifty thousand two thousand four hundred and twenty-five minutes, the actual measurement did not decrease.
+
+古文：半之为岁周，四分之为气象限，二十四分之为气策。
+现代文：折半是半岁周，四分之一是气象限，二十四分之一是气策。
+English: Half is the half-year, a quarter is the meteorological limit, and a twenty-fourth is the air policy.
+
+古文：日周一万。
+现代文：日周：一万。
+English: Weekdays: ten thousand.
+
+古文：气应五十五万零三百七十五分。
+现代文：即一百刻。一刻一百分，一分一百秒，秒以下微、纤，都按一百依次分解。气应：五十五万零三百七十五分。
+English: That is, one hundred koku. One hour, one hundred minutes, one minute, one hundred seconds, one second, one minute, one second, one minute, one minute, one minute, one minute, one minute, one minute, one minute, one minute, one minute, one minute, one minute, one minute, one minute, one minute, one minute, one minute, one minute, one minute, one minute, one minute, one minute, one minute, one minute, one minute, one minute, one minute, one minute, one minute, one minute, one minute, one minute, one minute, one minute, one minute, one minute, one minute, one minute, one minute, one minute,
+
+古文：置距算一百零四，求得中积三亿七千六百一十九万九千七百七十五分，加辛巳气应五十五万零六百分，得通积三亿七千六百七十五万零三百七十五分，满纪法六十去之，余为《大统》气应。
+现代文：据相距的年数一百零四，求得中积即其问积累的时间是三亿七千六百一十九万九千七百七十五分，加辛巳年的气应五十五万零六百分，得总积时敷三亿七千六百七十五万零三百七十五分，满纪法六十去掉，余数就是《大统历》气应。
+English: According to the number of years that are 104 years apart, the average product, that is, the accumulated time, is 376,199,775 minutes. If the year is added, the accumulated time is 550,600 minutes, and the total accumulated time is 376,753,775 minutes. If the number of years is subtracted from 60, the remaining number is the accumulated time according to the "Great General Calendar."
+
+古文：开应一十八万二千零百七十零分一十八秒。
+现代文：开应：十八万二千零七十分一十八秒。
+English: Response time: one hundred and eighty-two thousand seven hundred and eighteen seconds.
+
+古文：置中积，加辛巳闰应二十零万二千零五十分，得闰积三亿七千六百四十零万一千八百二十五分，满朔实去之，余为《大统》闰应。
+现代文：将中积加辛巳年闰应二十万二千零五十分，得闰积三亿七千六百四十万一千八百二十五分，满朔实就减去，余数就是《大统历》闰应。
+English: Subtract the middle product plus the leap year of cinnamon and acacia, which should be 220,000 and 50 minutes, from the result, which should be 376,400,000 and 1,825 minutes, and subtract the result. The remaining number is the leap year of the "Great Unified Calendar."
+
+古文：转应二十零万九千六百九十零分。
+现代文：转应：二十万九千六百九十分。
+English: Forwarding: up to two hundred and nine thousand six hundred and ninety minutes.
+
+古文：置中积，加辛巳转应一十三万零二百零五分，共得三亿七千六百三十二万九千九百八十分，满转终去之，余为《大统》转应。
+现代文：将中积加辛巳年的转应十三万零二百零五分，共得三亿七千六百三十二万九千九百八十分，满转就去掉，余数就是《大统历》的转应。
+English: The conversion of the middle product plus the year of Yin and Yang into 130,200.5 points totals 376,332,999.8 points. Once the conversion is complete, it is removed, and the remaining number is the conversion of the "Grand Unified Calendar."
+
+古文：交应一十一万五千一百零五分零八秒。
+现代文：交应：十一万五千一百零五分零八秒。
+English: Handshake: one hundred and fifteen thousand one hundred and five minutes and eight seconds.
+
+古文：置中积加辛巳交应二十六万零三百八十八分，共得三亿七千六百四十六万零一百六十三分，满交终去之，余为《大统》交应。
+现代文：将中积加辛巳年交应二十六万零三百八十八分，共得三亿七千六百四十六万零一百六十三分，满交终就去掉，余数就是《大统历》交应。
+English: The middle product plus cinnamon year corresponded to 260,388 minutes, for a total of 376,463,063 minutes. Once the correspondence was complete, it was removed, and the remaining number corresponded to the "Great Unified Calendar."
+
+古文：按《授时历》既成之后，闰转交三应数，旋有改定，故《元志》、《历经》闰应二十零万一千八百五十分，而《通轨》载闰应二十零万二千零五十分，实加二百分，是当时经朔改早二刻也。
+现代文：按《授时历》完成以后，闰应转应交应三个应数，马上就有改动，所以《元史，历志》、《历经》闰应为二十万一千八百五十分，而《大统历通轨》记载闰应二十万二千零五十分，实际上增加了二百分，是因为当时经朔改早了二刻。
+English: According to the "Gift of Time Calendar," after the completion of the leap, the leap should be transferred to the three corresponding numbers, and there will be changes immediately. Therefore, the leap of the "Original History, Calendar" and "Lijiang" should be two hundred and eighteen thousand eight hundred and fifty minutes, and the leap recorded in the "Grand Unified Calendar Track" should be two hundred and twenty thousand and fifty minutes. In fact, it increased by two hundred, because at that time, it was two minutes earlier.
+
+古文：《历经》转应一十三万一千九百零四分，《通轨》载转应一十三万零二百零五分，实减一千六百九十九分，是入转改迟一十七刻弱也。
+现代文：《历经》转应十三万一千九百零四分，《大通历通轨》记载转应十三万零二百零五分，实际上碱去了一千六百九十九分，是因为入转改迟了十七刻弱。
+English: "Lingjing" was converted to 131,904 minutes, and the record of "Great General Calendar" was converted to 130,205 minutes. In fact, the alkali went to 1,699 minutes, because the change was 17 minutes late.
+
+古文：《历经》交应二十六万零一百八十七分八十六秒，《通轨》交应二十六万零三百八十八分，实加二百分一十四秒，是正交改早二刻强也。
+现代文：《历经》交应二十六万零一百八十七分八十六秒，《大统历通轨》交应是二十六万零三百八十八分，寅际上增加了二百分十四秒，是因为正交改早了二刻强。
+English: "Lingjing" should cross at 260,187 minutes and 86 seconds, and "Great General Calendar" should cross at 260,388 minutes, with an increase of 214 seconds in the intercalary period, because the orthogonal time was changed to two hours earlier.
+
+古文：或以《通轨》辛巳三应，与《元志》互异，目为元统所定，非也。
+现代文：有人将《大统历通轨》辛巳年三应与《元史，历志》的相互差异，看作是元统确定的，不对。
+English: Some people regard the mutual differences between the "Grand Unification Calendar" and the "Original History Calendar" as determined by the Yuan Dynasty, but this is not correct.
+
+古文：夫改宪必由测验，即当具详始末，何反追改《授时历》，自没其勤乎？
+现代文：大凡改动历法必须经过测量检验，也就应当详知其始末，为什么要返回去追改《授时历》，自己湮没自己的辛勤操劳呢？
+English: Greatly changing the calendar must go through measurement and inspection, and it should know its beginning and end in detail. Why go back to revise the "Giving Calendar" and waste your own hard work?
+
+古文：是故《通轨》所述者，乃《授时》续定之数，而《历经》所存，则其未定之初藁也。
+现代文：所以《大统历通轨》所记述的，是根据《授时历》继续考定的敷据，而《历经》所保存的，则是未定的初稿。
+English: Therefore, what is recorded in the "Great General Calendar" is the basis for the continuation of the examination according to the "Giving Calendar," while what is preserved in the "History" is the undecided first draft.
+
+古文：通余五万二千四百二十五分。
+现代文：通余：五万二千四百二十五分。
+English: Remaining: 52,425 points.
+
+古文：朔策二十九万五千三百零五分九十三秒，一名朔宝。
+现代文：朔望月长度：二十九万五千三百零五分九十三秒，一名朔寅。
+English: The length of the new moon: 295,300.05 minutes and 93 seconds, a new moon.
+
+古文：半之为望策，一名交望。
+现代文：折半为望策，又名交望。
+English: Folding in half is a strategy of hope, also known as mutual hope.
+
+古文：又半之为弦策。
+现代文：又折半为弦策。
+English: Another fold and a half for the strings.
+
+古文：通闰一十零万八千七百五十三分八十四秒。
+现代文：通闰：十万八千七百五十三分八十四秒。
+English: Total elapsed time: 108,753 minutes 84 seconds.
+
+古文：月闰九千零百六十二分八十二秒。
+现代文：月闰：九干零六十二分八十二秒。
+English: Leap month: nine months and sixty-two minutes and eighty-two seconds.
+
+古文：闰限一十八万六千五百五十二分零九秒。
+现代文：闰限：十八万六千五百五十二分零九秒。
+English: Leap limit: one hundred and eighty-six thousand five hundred and fifty-two minutes and nine seconds.
+
+古文：一名闰准。
+现代文：又名闰准。
+English: Also known as a leap second.
+
+古文：盈初缩末限八十八万九千零百九十二分二十五秒。
+现代文：盈初缩末限：八十八万九千零九十二分二十五秒。
+English: The limit of initial contraction of earnings: 8,899,092.25 seconds.
+
+古文：缩初盈末限九十三万七千一百二十零分二十五秒。
+现代文：缩初盈末限：九十三万七千一百二十分二十五秒。
+English: The limit of contraction at the beginning and at the end: nine hundred thirty-seven thousand one hundred and twenty-five seconds.
+
+古文：转终二十七万五千五百四十六分，半之为转中。
+现代文：转终：二十七万五千五百四十六分，折半为转中。
+English: Completed transfer: 275,546 points, half of which are transferable.
+
+古文：朔转差一万九千七百五十九分九十三秒。
+现代文：朔转差：一万九千七百五十九分九十三秒。
+English: Lap difference: 19,759.93 seconds.
+
+古文：日转限一十二限二十。
+现代文：日转限：十二限二十。
+English: Daily turnover limit: twenty for the twelfth period.
+
+古文：转中限一百六十八限零八三零六零。
+现代文：转中限：一百六十八限零八三零六零。
+English: Mid-term transfer limit: from the 168th term to the 083060th.
+
+古文：以日转限乘转中。
+现代文：以日转限乘以转中。
+English: Multiply the daily speed limit by the average speed.
+
+古文：一名限总。
+现代文：又名限总。
+English: Also known as the total limit.
+
+古文：朔转限二十四限一零七一一四六。
+现代文：朔转限：二十四限一零七一一四六。
+English: New Year's Eve transfer deadline: the 24th period is 1071146
+
+古文：以日转限乘朔转差。
+现代文：以日转限乘以朔转差。
+English: Multiply the daily turnover limit by the monthly turnover difference.
+
+古文：弦转限九十零限零六八三零八六五。
+现代文：弦转限：九十限零六八三零八六五。
+English: Chord progression limit: 90th period 06830865.
+
+古文：以日转限乘弦策。
+现代文：以日转限乘以弦策。
+English: Multiply the daily rotation limit by the chord.
+
+古文：一名限策。
+现代文：又名限策。
+English: Also known as restrictive measures.
+
+古文：交终二十七万二千一百二十二分二十四秒。
+现代文：交终：二十七万二千一百二十二分二十四秒。
+English: End of transfer: 272,012.24 seconds.
+
+古文：朔交差二万三千一百八十三分六十九秒。
+现代文：朔交差：二万三千一百八十三分六十九秒。
+English: Yangshuo intersection: 23,183 minutes and 69 seconds.
+
+古文：气盈二千一百八十四分三十七秒五十微。
+现代文：气盈：二千一百八十四分三十七秒五十微。
+English: Qi Ying: 2,184 minutes, 37 seconds and 50 microseconds.
+
+古文：朔虚四千六百九十四分零七秒。
+现代文：朔虚：四千六百九十四分零七秒。
+English: Shuo Kyo: 4,694 minutes and 7 seconds.
+
+古文：没限七千八百一十五分六十二秒五十微。
+现代文：汝限：七千八百一十五分六十二秒五十微。
+English: Your time limit: seven thousand, eight hundred and fifteen minutes, sixty-two and a half seconds.
+
+古文：盈策九万六千六百九十五分二十八秒。
+现代文：盈策：九万六千六百九十五分二十八秒。
+English: Yingze: Ninety-six thousand six hundred ninety-five minutes and twenty-eight seconds.
+
+古文：虚策二万九千一百零四分二十二秒。
+现代文：虚策：二万九千一百零四分二十二秒。
+English: False: 29,104.22 seconds.
+
+古文：土王策三万零四百三十六分八十七秒五十微。
+现代文：土王策：三万零四百三十六分八十七秒五十。
+English: Tsuchio-seki: 30,436 minutes and 87.50 seconds.
+
+古文：宿策一万五千三百零五分九十三秒。
+现代文：宿策：一万五千三百零五分九十三秒。
+English: Shusaku: 15,305.93 seconds.
+
+古文：纪法六十万。
+现代文：纪法：六十万。
+English: Discipline: six hundred thousand.
+
+古文：推天正冬至置距洪武甲子积年减一，以岁周乘之为中积，加气应为通积，满纪法去之，至不满之数，为天正冬至。
+现代文：即旬周六十日。推算天正冬至：将洪武甲子年以来的积年减一，乘以岁周就是中积，加气应就是通积，满纪法六十就去掉，直到不足纪法的数目，就是天正冬至。
+English: It is Saturday, the 10th day of the lunar month. The calculation of the winter solstice: subtract one from the number of years since Hongwu Jiazi, multiply by the number of years is the middle product, add gas should be the total product, remove the number of full calendars sixty, until the number of insufficient calendars, that is, the winter solstice.
+
+古文：以万为日，命甲子算外，为冬至日辰。
+现代文：以一万焉一日，按规定在六十甲子整数外，就是冬至的日辰。
+English: According to the regulations, the day of the winter solstice is the day when the number of ten thousand is less than the integer of sixty kanzi.
+
+古文：累加通余，即得次年天正冬至。
+现代文：逐次加上通余，就是下一年的天正冬至。
+English: If you add the remainder successively, it will be the next year's winter solstice.
+
+古文：推天正闰余置中积，加闰应，满朔策去之，至不满之数，为天正闰余。
+现代文：推算天正闰余：将中积加上闰应，满朔望月长度就去掉，直到不满一月时长的数目，就是天正闰余。
+English: Calculate the intercalary day: add the middle product to the intercalary day, remove the length of the new moon, until the number of months is less than the length of the month, that is, the intercalary day.
+
+古文：累加通闰，即得次年天正闰余。
+现代文：累加通闰，就得到次年天正闰余。
+English: If you add up all the intercalary days, you will get the remainder of the intercalary days for the next year.
+
+古文：推天正经朔置冬至，减闰余，遇不及减，加纪法减之，为天正经朔。
+现代文：推算天正经朔：将冬至时数碱去闰余，如果不够减，加纪法再减，余数就是天正经朔。
+English: The calculation of the solar time: the winter solstice time is subtracted from the surplus, and if it is not enough, it is subtracted by adding the discipline method, and the remaining number is the solar time.
+
+古文：无闰加五十四万三六七一一六。
+现代文：如果没有闰余，就加五十四万三六七一一六。
+English: If there is no remainder, add five hundred and forty-three thousand, six hundred and seventy-one.
+
+古文：十二朔策纪法。
+现代文：十二个朔望月畏减去纪法。
+English: 12 x x x x x x x x x x x x x x
+
+古文：有闰，加二十三万八九七七零九。
+现代文：有闰余，加二十三万八九七七零九。
+English: With a margin of error, add 238,977,709.
+
+古文：十三朔实去纪法。
+现代文：十三个朔望月畏碱去纪法。
+English: Thirteen new moons and moonshine to discipline the law.
+
+古文：满纪法仍去之，即得次年天正经朔视天正闰余在闰限已上，其年有闰月。
+现代文：满纪法仍然去掉，就得到第二年的天正经朔。如天正闰余在闰限以上，这一年就有闰月。
+English: If the Manchurian calendar is still removed, the next year's Tensho calendar will be obtained. If the Tensho intercalary period is more than the intercalary period, there will be a leap month in this year.
+
+古文：推天正盈缩置半岁周，内减其年闰余全分，余为所求天正缩历。
+现代文：推算天正盈缩：将半岁周减去这年的闰余全分，余数就是所求的天芷缩历。
+English: Estimation of the solar eclipse: subtract half a year from the leap year, and the remaining number is the desired solar eclipse.
+
+古文：如径求次年者，于天正缩历内减通闰，即得。
+现代文：如果直接求下一年的，在天正宿历内碱去通闰，就得到了。
+English: If you directly ask for the next year, in the Gregorian calendar, the alkali goes through, you get it.
+
+古文：减后，视在一百五十三日零九已下者，复加朔实，为次年天正缩历。
+现代文：藏后在一百五十三日零九以下的，再加朔望月长度，就是下一年的天正缩历。
+English: If it is less than one hundred and fifty-three days and nine minutes, plus the length of the new moon, it is the next year's solar calendar.
+
+古文：推天正迟疾置中积，加转应，减去其年闰余全分，余满转终去之，即天正入转。
+现代文：推算天正迟疾：将中积加转应碱去这年的闰余全分，余数满了转终就去掉，就是天正的入转。
+English: Estimation of Tianzheng delay: add the intermediate product to the transfer base to remove the year's surplus, and remove the surplus when it is full, that is, Tianzheng's entry.
+
+古文：视在转中已下为疾历，已上去之为迟历。
+现代文：如在转中以下是疾历，在转中以上是迟历。
+English: If it is below the middle of the transfer, it is a disease record, and if it is above the middle of the transfer, it is a delayed record.
+
+古文：如径求次年者，加二十三万七一一九一六，十二转差之积。
+现代文：如果直接求下一年的，加二十三万七一一九一六，十二个转差的积。
+English: If you directly calculate the next year, add 237111916 to get the product of twelve differences.
+
+古文：经闰再加转差，皆满转终去之，迟疾各仍其旧。
+现代文：经闰再加转差，都满了转终就去掉，迟历和疾历仍和先前一样。
+English: After the leap and the difference, they are all removed when they are full, and the delayed and sick leave are still the same as before.
+
+古文：若满转中去之，为迟疾相代。
+现代文：如满转中而去掉，就是迟历和疾历相互替代。
+English: If it is removed in the middle of the full turn, it is a mutual replacement of the late calendar and the disease calendar.
+
+古文：推天正入交置中积，减闰余，加交应，满交终去之，即天正入交凡日。
+现代文：推算天正入交：将中积减去闰余，加上交应，满了交终就去掉，就是天正入交泛日。
+English: Estimation of the date of accession: subtract the surplus from the product, add the date of accession, and remove the date of accession when it is full, that is, the date of accession of the Pan-Japan.
+
+古文：如径求次年者，加六千零八十二分零四秒，经闰加二万九千二百六十五分七十三秒，十三交差内去交终。
+现代文：如果直接求下一年的，加六千零八十二分零四秒，十二交差碱去交终。经闰加二万九千二百六十五分七十三秒，十三交差减去交终。
+English: If you directly ask for the next year, add six thousand eight hundred and two minutes and four seconds, twelve crossing bases to the end of the intersection. After the leap, add twenty-nine thousand two hundred and sixty-five minutes and seventy-three seconds, thirteen crossing minus the end of the intersection.
+
+古文：皆满交终仍去之，即得。
+现代文：都满了交终仍然去掉，就得到了。
+English: They were all full, and when I finally removed them, I got them.
+
+古文：推各月经朔及弦望置天正经朔策，满纪法去之，即得正月经朔。
+现代文：推算各月经朔及弦望：将天正经朔，加二倍朔望月长，满纪法就去掉，就得到正月经朔。
+English: Calculate the meridian and meridian of each month: take the celestial meridian and add twice the meridian and the length of the month, and then remove the Manx calendar and get the meridian of the first month.
+
+古文：以弦策累加之，去纪法，即得弦望及次朔。
+现代文：用弦策逐次相加，去掉纪法，就得到弦望和次朔。
+English: Add the chord measures one by one, remove the scale, and you will get the chord scale and the second scale.
+
+古文：推各恒气置天正冬至，加三气策，满纪法去之，即得立春恒日。
+现代文：推算各恒气：将天正冬至加上三倍气长，满纪法就去掉，就得到立春的恒日。
+English: Calculation of the constants: add the date of the winter solstice to three times the length of the year, remove the Manchu calendar, and get the date of the first day of spring.
+
+古文：以气策累加之，去纪法，即得二十四气恒日。
+现代文：用气长逐次相加，去掉纪法，就得到二十四气的恒日。
+English: Using the successive addition of the length of qi and eliminating the law of discipline, a constant day of 24 qi is obtained.
+
+古文：推闰在何月置朔策，以有闰之年之闰余减之，余为实，以月闰为法而一，得数命起天正次月算外，即得所闰之月。
+现代文：推算闰日在哪一月：将朔望月长减去有闰的年份的闰余，余数作为被除数，用月闰与之相除，得敷在规定起算月下一个月数之外的，就是应该有闰日的月份。
+English: To calculate the leap day in which month: subtract the intercalary month length from the intercalary year, take the remainder as the divisor, and divide it by the intercalary month. If it is outside the number of months following the specified starting month, it is the month that should have a leap day.
+
+古文：闰有进退，仍以定朔无中气为定。
+现代文：闰月有进退，仍然按定朔没有中气来确定闰月。
+English: The intercalary month advances and retreats, and the intercalary month is still determined according to the fixed calendar with no midpoint.
+
+古文：如减余不及月闰，或仅及一月闰者，为闰在年前。
+现代文：如果减后的余数不够月闲除，或者祇够一个月闰的，闰月就在年前。
+English: If the remainder of the decrease is not enough for a monthly idle division, or only enough for a leap month, the leap month is in the previous year.
+
+古文：推各月盈缩历置天正缩历，加二朔策，去半岁周，即得正月经朔下盈历。
+现代文：推算各月盈缩历：将天正缩历加二倍朔望月长，减去半岁周，就得到正月经朔之下的盈历。
+English: Calculate the waxing and waning of each month: add twice the length of the Gregorian calendar and subtract half a year to get the waxing and waning of the first month under the Gregorian calendar.
+
+古文：累加弦策，各得弦望及次朔，如满半岁周去之交缩，满半周又去之即复交盈。
+现代文：逐次加上弦策，就得到各弦望及次朔，如果满半岁周去掉，就进入缩历，满半岁周又去掉，就又恢复为盈历。
+English: If the chord measures are added successively, the chord watch and the second new moon will be obtained. If the half-yearly week is removed, it will enter the reduced calendar. If the half-yearly week is removed, it will return to the surplus calendar.
+
+古文：推初末限视盈历在盈初缩末限已下，缩历在缩初盈末限已下，各为初。
+现代文：推算初末限：比照盈历在盈初缩末限数以下，缩历在缩韧盈末限数以下，就是初。
+English: The initial limit of calculation: the reference yang yang is below the initial limit of contraction of yang yang, and the initial limit of contraction of yang yang is below the final limit of contraction of yang yang, which is the initial limit.
+
+古文：已上用减半岁周为末。
+现代文：在限敷以上用它减去半岁周就是末。
+English: If you use it above the limit and subtract half a year, it's the end.
+
+古文：推盈缩差置初末历小余，以立成内所有盈缩加之乘之为实，日周一万为法除之，得娄数以加其下盈缩积，即盈缩差。
+现代文：推算盈缩差：将初末历的小余用数据表中的盈缩加分相乘作为被除数，用日周一万作为除数与之相除，得数再加它下面的盈缩积，就是盈缩差。
+English: Calculating the surplus and deficit: the small surplus of the beginning and end of the calendar is multiplied by the surplus and deficit plus points in the data table as the divisor, divided by the daily 10,000 as the divisor, and the resulting number is added to the surplus and deficit product below it, which is the surplus and deficit.
+
+古文：推各月迟疾历置天正经朔迟疾历，加二转差，得正月经朔下迟疾历。
+现代文：推算各月的迟疾历：将天正经朔迟疾历加二倍转差，得到正月经朔下的迟疾历。
+English: Calculate the delayed calendar of each month: add the delayed calendar of the first day of the month to the delayed calendar of the second day of the month, and get the delayed calendar of the first day of the month.
+
+古文：累加弦策，得弦望及次朔，皆满转中去之，为迟疾相代。
+现代文：逐次加上弦策，得到弦望和次朔，都是满转中就去掉，就是迟和疾相互替代。
+English: If you add chord measures one after another, you will get chord scale and second scale, which will be removed in full rotation, that is, delay and disease will replace each other.
+
+古文：推迟疾限各置迟次历，以日转限乘之，即得限数。
+现代文：推算迟疾限：将迟疾历各用日转限相乘，就得到限数。
+English: Calculate the delay limit: Multiply the daily limit of each delay calendar to get the limit.
+
+古文：以弦转限累加之，满转中限去之，即各弦望及次朔限。
+现代文：用弦转限逐次相加，满转中限就去掉，就是各弦望及次朔的限数。
+English: With the string limit added successively, the full mid-turn limit is removed, which is the limit of each string lookup and next lookup.
+
+古文：如径求次月，以朔转限加之，亦满转中去之，即得。
+现代文：如果直接求下一月，用朔转限与之相加，也是满转中就去掉，就得到了。
+English: If you directly ask for the next month, add it with the new moon limit, and remove it when it is full, you will get it.
+
+古文：求迟疾差置迟疾历，以立成日率减之，余以其下损益分乘之为实，八百二十分为法除之，得数以加其下迟疾积，即迟疾差。
+现代文：另一种方法：比较数据表中的日率，有与迟疾历相近而较小的用来相减，余数在八百二十以下的，就是所求的限敷。推算迟疾差：将迟疾历与数据表中的日率相减，如不够减，就退位。余数乘以它下面的损益分作为被除数，用八百二十分作为除数与之相除，得数再加它下面的迟疾积，就是迟疾差。
+English: Another method: compare the daily rate in the data table, there are similar to the delayed calendar and smaller used to reduce, the remaining number below eight hundred and twenty is the desired limit. Calculate the delay difference: reduce the delayed calendar to the daily rate in the data table, if it is not reduced enough, it is abdicated. Multiply the remaining number by the loss and gain below it as the divisor, and divide it by eight hundred and twenty ten as the divisor, and add the resulting number to the delay product below it, which is the delay difference.
+
+古文：推加减差视经朔弦望下所得盈缩差、迟疾差，以盈遇迟、缩遇疾为同相并，盈遇疾、缩遇迟为异相较，各以八百二十分乘之为实，再以迟疾限行度内减去八百于二十分，为定限度为法，法除实为加减差。
+现代文：推算加减差：将经朔弦望下的盈缩差、迟疾差，以盈遇到迟、缩遇到疾为同相加，盈遇到疾、缩遇到迟为异相减，各乘以八百二十分作为被除数，再在迟疾限行度内碱去八百二十分作为定限度作除数，两敷相除就是加减差。
+English: Calculation of addition and subtraction: the addition and subtraction of the ying and shrinkage of the yang and shrinkage of the yang and shrinkage of the yang and shrinkage of the yang and shrinkage of the yang and shrinkage of the yang and shrinkage of the yang and shrinkage of the yang and shrinkage of the yang and shrinkage of the yang and shrinkage of the yang and shrinkage of the yang and shrinkage of the yang and shrinkage of the yang and shrinkage of the yang and shrinkage of the yang and
+
+古文：盈迟为加，缩疾为减，异名相较者，盈多疾为加，疾多于盈为减，缩多於迟减，迟多於缩加。
+现代文：盈和迟相加，缩和疾相减，不同的项目相碱的，盈多于疾相加，疾多于盈相减，缩多于迟相减，迟多于缩相加。
+English: Ying and lagging add, shrinkage and disease reduce, different items of alkaline, gain more than disease add, disease more than gain reduce, shrinkage more than lagging reduce, lagging more than shrinkage add.
+
+古文：推定朔望各置经朔弦望，以加减差加减之，即为定日。
+现代文：推算定朔弦望：将经朔弦望，各用加减差相加减，就是定日。
+English: Estimation of the fixed Gregorian calendar: add and subtract the difference with the addition and subtraction of the Gregorian calendar, which is the fixed date.
+
+古文：视定朔干名，与后朔同者月大，不同者月小，内无中气者为闰月。
+现代文：看定朔的天干，与后一朔相同的月大，不同的月小，中间没有中气的是闰月。
+English: If you look at the celestial stem of the new moon, the moon is the same size as the previous new moon, but different sizes. The moon with no middle is the intercalary moon.
+
+古文：其弦望在立成相同日日出分已下者，则退一日命之。
+现代文：弦望在数据表中相同日日出介以下的，就退后一天确定。
+English: If the forecast in the data table is less than or equal to the forecast for the same day, it will be determined one day later.
+
+古文：推各月入交置天正经朔入交凡日加二交差，得正月经朔下入交凡日。
+现代文：推算各月入交：将天正经朔入交泛日加上二倍交差，得到正月经朔下的入交泛日。
+English: Estimation of monthly incoming trade: add the date of the first day of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the
+
+古文：累加交望，满交终去之，即得各月下入交凡日。
+现代文：逐次加上交望，满交终就减去，就得到各月下的入交泛日。
+English: Gradually add the expected turnover, subtract the final turnover, and get the monthly turnover for the next day.
+
+古文：径求次月，加交差即得。
+现代文：直接求下一月，加交差就得到了。
+English: Ask directly for the next month, and you'll get an extra crossing.
+
+古文：推土王用事置谷雨、大暑、霜降、大寒恒气日，减土王策，如不及减，加纪法减之，即各得土王用事日。
+现代文：推算土王用事：将谷雨、大暑、霜降、大寒恒气日，诚去土王策，如果不够碱，加纪法再减，就得到土王用事的日子。
+English: Calculation of the day of the king of the soil: the day of the rain, the heat, the frost, the cold and the constant atmosphere, the day of the king of the soil, if there is not enough alkaline, add discipline and then reduce, you will get the day of the king of the soil.
+
+古文：推发敛加时各置所推定朔弦望及恒气之小余，以十二乘之，满万为时，命起子正。
+现代文：推算发敛加时：将所推算的定朔弦望及恒气的小余，乘以十二，满一万就是一个时辰，按规定从子时后段算起。
+English: Calculate and add time: Multiply the small remainder of the calculated fixed sapphire and constant gas by twelve, and the full ten thousand is one hour, according to the regulations from the sub-time period.
+
+古文：满五千，又进一时，命起子初。
+现代文：如满五千，也进一个时辰，按规定从子时前段算起。
+English: If it reaches five thousand, it will also enter one hour, and according to regulations, it will be counted from the first half of the hour.
+
+古文：算外得时不满者，以一千二百除之为刻，命起初刻。
+现代文：整数之外不满一个时辰的，除以一千二百为刻，按规定从初刻算起。
+English: If the whole number is less than one hour, divide it by twelve hundred and start counting from the first hour.
+
+古文：初正时之刻，皆以初一二三四为好，于算外命之。
+现代文：每个时辰前后两段的刻敷，都以初一二三四为次序，在整数外确定。
+English: The inscriptions of the first two paragraphs before and after each hour are in the order of the first one, second two, and third four, and are determined outside the integer.
+
+古文：按古因及《授时》，皆以发敛为一章。
+现代文：其中第四刻是零敷，只是一刻的三分之一，三个时辰的零敷就合成一刻，以凄足十二时一百刻的数目。
+English: The fourth hour is a fragment, just one third of an hour, and the fragments of three hours make up one hour, which is an amazing number of one hundred and twelve hours.
+
+古文：发敛去者，日道发南敛北之细数也，而加时附焉，则又所以纪发敛之辰刻，故曰发敛加时也。
+现代文：按古历及《授时历》，都将发敛列为一章。所谓发敛，是说太阳运行往返的详细数据，而时间的增加也附在里面，就又用来记往返的时刻，所以叫发敛加时。
+English: According to the ancient calendar and the "Giving of Time Calendar," the astringency is listed as a chapter. The so-called astringency is the detailed data of the sun's rotation and return, and the increase in time is also attached to it, and it is also used to record the time of the round trip, so it is called astringency plus time.
+
+古文：《大统》取其便算，故合发敛与气朔共为一章，或以乘除疏发敛，非其质矣。
+现代文：《大统历》采取便于推算的方式，所以合并发敛和气朔为一章，有人用乘除来解释发敛，没有说到它的实质。
+English: The "Great General Calendar" adopts a method that is easy to calculate, so the combination of astringent and astringent is a chapter. Some people use multiplication and division to explain astringency, but do not talk about its essence.
+
+古文：推盈日视恒气小余，在没限已上，为有盈之气。
+现代文：推算盈日：看恒气的小余，在没限以上，是有盈余时刻的气。
+English: Calculate the surplus day: look at the small surplus of constant gas, and if it is more than unlimited, it is the gas with surplus time.
+
+古文：置策余一万零一四五六二五，以十五日除气策。
+现代文：将策余一万零一四五六二五，用十五日除气策。
+English: The remaining balance of the policy is 10,145,662.5, and it will take 15 days to deflate the policy.
+
+古文：以有盈之气小余减之，余以六十八分六六以气盈除十五日。
+现代文：用有盈余的气的小余减去它，余数乘以六十八分六六，用气盈除以十五日。
+English: Subtract it with the small surplus of surplus gas, multiply the remaining number by sixty-eight point sixty-six, and divide the surplus gas by fifteen days.
+
+古文：乘之，得数以加恒气大余，满纪法去之，命甲子算外，得盈日。
+现代文：得数加上恒气大余，满纪法就减去，按规定在六十甲子整数外，就得到盈日。
+English: If the number of points is greater than or equal to the number of breaths, it will be deducted according to the Manchu Law. If the number of points is less than the number of breaths, it will be deducted according to the Manchu Law. If the number of points is less than the number of breaths, it will be deducted according to the Manchu Law.
+
+古文：求盈日及分秒，以盈策加之，又去纪法，即得。
+现代文：求次盈。将盈日及分秒，加上盈策，又碱去纪法，就得到了。
+English: Ask for the next winning. Add the winning day and minute and second, plus the winning strategy, and the alkali-eliminating method, and you get it.
+
+古文：推虚日视经朔小余在朔虚已下，为有虚之朔。
+现代文：推算虚日：看经朔小余在朔虚以下，就是有虚日的朔。
+English: Calculating the imaginary date: if the yang yang is lower than the yang yang, it is the yang yang with the imaginary date.
+
+古文：置有虚之朔小余，以六十三分九一以朔虚除三十日。
+现代文：将有虚日的朔的小余，乘以六十三分九一，用朔虚除以三十日。
+English: Multiply the small remainder of the new moon with an imaginary day by sixty-three point nine one, and divide the new moon with an imaginary day by thirty.
+
+古文：乘之，得数以加经朔大余，满纪法去之，命甲子算外为虚日。
+现代文：得数加上经朔大余，满纪法就减去，按规定在六十甲子整数外就是虚日。
+English: If the number of points is added to the number of years remaining, it will be subtracted according to the Manchu Law. According to the regulations, if the number of points is less than the number of years remaining, it is a false day.
+
+古文：求次虚。
+现代文：求次虚。
+English: Ask for the next best thing.
+
+古文：置日及分秒，以虚策加之，又去纪法，即得。
+现代文：将虚日及分秒，加上虚策，又碱去纪法，就得到了。
+English: Add the imaginary day and minute and second, the imaginary strategy, and the alkali-eliminating method, and you get it.
+
+古文：推直宿置通积，以气应加中积。
+现代文：推算直宿：将通积，以气应减中积。
+English: Calculation of direct accommodation: reduce the total volume to the gas volume.
+
+古文：减闰应，以宿会二十八万累去之，馀命起翼宿算外，得天正经朔直宿。
+现代文：减闰虑，用宿会二十八万逐次减去，余数按规定从翼宿数外算起就得到天正经朔直宿。
+English: For the purpose of subtraction, the sum of 280,000 was subtracted successively, and the remaining number was obtained by subtracting the number of wings from the number of wings according to the regulations.
+
+古文：置天正经宿直宿，加两宿策，为正月经朔直宿。
+现代文：将天正经朔直宿，加上两倍宿策，就是正月经朔直宿。
+English: If you add the first day of the month to the first day of the month, you get the first day of the month and the second day of the month.
+
+古文：以宿策累加，得各月经朔直宿。
+现代文：用宿策逐次相加，就得到各月经朔直宿。
+English: With successive addition of accommodation measures, it is obtained that each month has a new direct accommodation.
+
+古文：再以各月朔下加减差加减之，为定朔直宿。
+现代文：再用各月朔下的加减差加或碱，就是定朔直宿。
+English: The addition or subtraction of each new moon and the addition or subtraction of alkali are used to determine the new moon.
+
+古文：▲步日躔
+现代文：步日躔
+English: 步日
+
+古文：周天三百六十五度二十五分七十五秒，半之为半周天，又半之为象限。
+现代文：周天：三百六十五度二十五分七十五秒，折半为半周天，又折半为象限。
+English: Zhou Tian: up to three hundred and sixty-five degrees, twenty-five minutes and seventy-five seconds, half of which is half of Zhou Tian, and half of which is a quadrant.
+
+古文：岁差一分五十秒。
+现代文：岁差：一分五十秒。
+English: Precession: one minute and fifty seconds.
+
+古文：周应三百一十五度一十分七十五秒。
+现代文：周应：三百一十五度十分七十五秒。
+English: Zhou Ying: Three hundred and fifteen degrees and seventy-five seconds.
+
+古文：按此系至元辛巳之周应，乃自虚七度至箕十之度数也。
+现代文：按这是元至元辛巳年的周应，是从虚宿七度到箕宿十度的度数。
+English: According to this, this is the weekly response from the Yuan to the Yuan Xinsi year, and it is the number of degrees from the false lodging seven degrees to the false lodging ten degrees.
+
+古文：洪武甲子相距一百四年，岁差已退天五十四分五十秒，而周应仍用旧数，殆传习之误耳。
+现代文：洪武甲子相隔了一百零四年，岁差已后退了一度五十四分五十秒，但周应仍用老数字，大概是传授的错误吧。
+English: Hongwu Jiazi was separated by 104 years, and the precession has retreated one degree 54 minutes and 50 seconds, but Zhou Ying still used the old numbers, probably a mistake in teaching.
+
+古文：推天正冬至日躔赤道宿次置中积，加周应，应减距历元甲子以来岁差。
+现代文：推算天正冬至太阳运行在赤道的宿次：将中积，加周应，应该减去从历法起点甲子年以来的岁差。
+English: Calculate the precession of the equator at the time of the winter solstice: subtract the precession of the equator from the starting point of the calendar.
+
+古文：满周天去之，不尽，起虚七度，依各宿次去之，即冬至加时赤道日度。
+现代文：满一周天就减去，没有减完的，从虚宿七度起，依照各宿的次序减去，就是冬至加时在赤道上的度数。
+English: A full week of days is subtracted, and if the subtractions are not completed, they are subtracted from the imaginary seven degrees, in accordance with the order of each house, which is the number of degrees of winter solstice extra time on the equator.
+
+古文：如求次年，累减岁差，即得。
+现代文：如果求下一年，再减岁差，就得到了。
+English: If you ask for the next year and reduce the difference, you will get it.
+
+古文：推天正冬至日躔黄道宿次置冬至加时赤道日度，以至后赤道积度减之，余以黄道率乘之。
+现代文：推算天正冬至太阳运行在黄道上的宿次：将冬至加时在赤道上的度数，与冬至后赤道的积度相减，余数乘以黄道率。
+English: To calculate the number of hours the sun spends in the ecliptic during the winter solstice: subtract the number of hours the sun spends at the equator during the winter solstice from the number of hours the sun spends at the equator after the winter solstice, and multiply the remaining number by the ecliptic ratio.
+
+古文：如赤道率而一，得数以加黄道积度，即冬至加时黄道日度。
+现代文：再除以赤道率，得敷加黄道积度，就是冬至加时在黄道的度数。
+English: Divided by the equatorial rate, we can add the ecliptic integral, which is the number of degrees of the winter solstice in the ecliptic.
+
+古文：黄赤道积度及度率，俱见《法原》。
+现代文：黄道赤道积度及度率，都见于《历法原理》。
+English: The ecliptic-equatorial integrand and exponent are described in the "Calendar Principle."
+
+古文：推定象限度以冬至加时赤道日度，与冬至加时黄道日度相减，为黄赤道差。
+现代文：推算定象限度：以冬至加时的赤道度数，舆冬至加时黄道度数相减，就是黄道赤道差。
+English: Estimation of the fixed image limit: the equatorial degree of the winter solstice plus time increases, and the ecliptic degree of the winter solstice plus time decreases, which is the ecliptic-equatorial difference.
+
+古文：以本年黄赤道差，与次年黄赤道相减，余以四而一，加入气象限内，为定象限度。
+现代文：以本年的黄道赤道差，与下一年的黄道赤道差相减，余数除以四，加入气象限内，就是定象限度。
+English: Take this year's zodiacal equatorial difference, subtract it from the next year's zodiacal equatorial difference, divide the remaining number by four, and add it to the meteorological limit, which is the fixed image limit.
+
+古文：推四正定气日置所推冬至分，即为冬正定气，加盈初缩末限，满纪法去之，余为人正定气。
+现代文：推算四正定气日：所推算的年份的冬至分，就是冬正定气。加上盈初缩末限，满纪法就减去，余数就是春正定气。
+English: Estimation of the date of the four equinoxes: the winter solstice of the year being estimated is the winter equinox. Add the end of the contraction at the beginning of the year, subtract the Manchu calendar, and the remaining number is the spring equinox.
+
+古文：加缩初盈末限，去纪法，余为秋正定气。
+现代文：加缩初盈末限，减去纪法，余数就是夏正定气。
+English: Add and subtract the initial and final yields, subtract the chronological method, and the remaining number is the Xia Zhengding Qi.
+
+古文：加缩初盈末限，去纪法，余为次年冬正定气。
+现代文：加缩初盈末限，减去纪法，余数就是秋正定气。
+English: Adding and subtracting the initial and final earnings, subtracting the discipline, and the remaining number is the autumn positive momentum.
+
+古文：推四正相距日以前正定气大余，减次正定气大余，加六十日，得相距日。
+现代文：加上盈初缩末限，减去纪法，余数就是下一年的冬正定气。推算四正相距的日敷：以前一个正定气的大余，减下一个正定气的大余，加六十日，就得到相距的日数。
+English: Add the limit of contraction at the beginning of the year, subtract the chronological method, and the remaining number is the next year's winter equinox. Calculate the four equinoxes: subtract the remainder of the previous equinox, subtract the remainder of the next equinox, and add 60 days to get the number of days.
+
+古文：如次正气不及减者，加六十日减之，再加六十日，为相距日。
+现代文：如果次正定气大不够减，就加六十日再减，再加六十日，就是相距的日数。
+English: If the second positive concentration is not large enough to reduce, add sixty days to increase and then reduce, and then add sixty days, which is the number of days apart.
+
+古文：推四正加时黄道积度置冬至加时黄道日度，累加定象限，各得四正加时黄道积度。
+现代文：推算四正加时在黄道的积度：将冬至加时的黄道度数，逐次加上定象限度，就得到四正加时的黄道积度。
+English: Calculating the degree of integration of the four-square-hour increment in the ecliptic: the degree of integration of the four-square-hour increment in the ecliptic is obtained by adding the number of degrees of the winter solstice increment in the ecliptic and the limit of the fixed image.
+
+古文：推四正加时减分置四正定气小余，以其初日行度乘之，如日周而一，为各正加时减分。
+现代文：推算四正加时减分：将四正定气的小余，乘以它们的初日行度，除以日周，就是各正加时的减分。
+English: Calculating the four positive time addition and subtraction: multiplying the small remainder of the four positive time constants by their first day degree, and dividing by the day week, is the subtraction of each positive time addition.
+
+古文：冬正行一度零五一零八五。
+现代文：冬正行一度零五一零八五。
+English: The winter solstice once occurred in 051085.
+
+古文：春正距夏正九十三日者，行零度九九九七零三，距九十四日者行一度。
+现代文：春正距夏正九十三日时，行零点九九九七零三度，距九十四时行一度。
+English: The spring equinox is 93 days before the summer equinox, and it is exactly one degree from the 94th hour.
+
+古文：夏正行零度九五一五一六。
+现代文：夏正行零点九五一五一六度。
+English: At the summer solstice, it is 9:51.516 degrees.
+
+古文：秋正距冬正八十八日者，行一度零零零五零五，距八十九日者行一度。
+现代文：秋正距冬正八十八日时，行一度零零零五零五，距八十九日时行一度。
+English: The autumn equinox is one hour before the 88th day of the winter equinox, and the date is one hour after the 89th day of the winter equinox.
+
+古文：推四正夜半积度置四正加时黄道积芭，减去其加时减分，即得。
+现代文：推算四正夜半积度：将四正加时的黄道积度，减去各自的加时减分，就得到了。
+English: Calculating the quadrature of the zodiac: subtract the respective fractions from the quadrature of the ecliptic, and the result is obtained.
+
+古文：推四正夜半黄道宿次置四正夜半黄道积度，满黄道宿度去之，即得。
+现代文：推算四正夜半黄道宿次：取四正夜半黄道积度，满黄道宿度就减去，就得到了。
+English: Calculate the position of the zodiac in the midnight of the 4th day of the 4th month: Take the midnight of the 4th day of the 4th month, subtract the position of the zodiac in the midnight of the 4th day of the 4th month, and get the result.
+
+古文：推四正夜半相距度置次正夜半黄道积度，以前正夜半黄道积度减之，余为两正相距度，遇不及减者，加周天减之。
+现代文：推算四正夜半相距度：将后一正的夜半黄道积度，减去前一正的夜半黄道积度，余数为雨正的相距度，遇到不够减的，加上周天再减。
+English: Calculate the degree of separation between the four equinoxes: subtract the degree of the ecliptic of the second equinox from the degree of the ecliptic of the first equinox. The remaining number is the degree of separation of the equinoxes. If there is not enough reduction, add the days of the week and then reduce.
+
+古文：推四正行度加减日差双相距度与相距日下行积度相减，余如相距日而一，为日差。
+现代文：推算四正行度加减日差：以相距度舆相距日下的行积度相减，余数用相距日数相除，就是日差。
+English: Calculate the daily difference between the four positive degrees of separation: subtract the degrees of separation from the degrees of separation from the degrees of separation from the degrees of separation from the degrees of separation from the degrees of separation from the degrees of separation, and divide the remainder by the number of days of separation, which is the daily difference.
+
+古文：从相距度人减去行积度者为加，从积度内减去相距度者为减。
+现代文：从相距度中减去行积度的是加，从行积度中减去相距度的是减。
+English: Subtracting the row integration from the row integration is addition, and subtracting the row integration from the row integration is subtraction.
+
+古文：秋正距冬至，冬至距春正八十八日，行积度九十度四零零九，八十九日行积度九十一度四零一四。
+现代文：秋正距冬至，冬至距春正八十八日，行积度为九十度四零零九，八十九日行积度为九十一度四零一四。
+English: The autumnal equinox is 88 days away from the winter solstice, and the winter solstice is 88 days away from the vernal equinox.
+
+古文：春正距夏至，夏至距秋秋正九十三日，行积度九十度五九九零，九十四日行积十五九八七。
+现代文：春正距夏至，夏至距秋正九十三日，行积度为九十度五九九零，九十四日行积度焉九十一度玉九八七。
+English: The vernal equinox is 93 days away from the summer solstice, and the summer solstice is 93 days away from the autumnal equinox. The degree of integration is 90°5990°, and the degree of integration of the 94th day is 91°987°.
+
+古文：推每日夜度置四正后每日行度，在立成。
+现代文：推算每日夜半的日度：将四正后每日的行度，在数据表中。
+English: Calculate the date of the daily midnight: the date of the day after the four equinox, in the data table.
+
+古文：以日差加减之，为每日行定度。
+现代文：用日差加或减，就是每日的行定度。
+English: Add or subtract the daily difference to get the daily rate.
+
+古文：置四正夜半日度，以行定度每日加之，满黄道宿度去之，即每日夜半日度。
+现代文：将四正的夜半日度，用行定度每日相加，满黄道宿度就减去，就是每日夜半的日度。
+English: If we add up the four regular half-days of the night, and subtract the full zodiac half-day, we will get the daily half-day of the night.
+
+古文：黄道十二次宿度
+现代文：黄道十二次宿度
+English: The Zodiac's 12 Zodiacal Signs
+
+古文：危十二度六四九一，入娵訾，辰在亥。
+现代文：危十二度六四九一，入娵訾，辰在亥。
+English: The 12th day of the 12th month in the year 6491 is the first day of the 12th lunar month.
+
+古文：奎一度七三六二，入降娄，辰在戍。
+现代文：奎一度七三六二，入降娄，辰在戍。
+English: Kui once seven three sixty-two, into the drop, 辰 in the.
+
+古文：奎度四五六，入大梁，辰在酉。
+现代文：奎度四五六，入大梁，辰在酉。
+English: Kuidu is forty-five and six, into the beam, the crane is in the cocoon.
+
+古文：胃三七度七四五六，入大梁，辰在酉。
+现代文：胃三七度七四五六，入大梁，辰在酉。
+English: Stomach three seven degrees seven four five six, into the beam, the crane in the cocoon.
+
+古文：毕六度八八零五，入实沈，辰在申。
+现代文：毕六度八八零五，入实沈，辰在申。
+English: After the 6th day of the 8th month of the 8th year of the 8th month of the 8th year of the 8th year of the 8th year of the 8th year of the 8th year of the 8th year of the 8th year of the 8th year of the 8th year of the 8th year of the 8th year of the 8th year of the 8th year of the 8th year of the 8th year of the 8th year of the 8th year of the 8th year of the 8th year of the 8th year of the 8th year of the 8th year of the 8th year of the 9th year of the 9th year of the 9
+
+古文：井八度三四九四，入鹑首，辰在未。
+现代文：井八度三四九四，入鹑首，辰在未。
+English: Well eight degrees three forty-nine four, into the dagger, the hour is not yet.
+
+古文：柳三度八六八零，入鹑火，辰在午。
+现代文：柳三度八六八零，入鹑火，辰在午。
+English: Willow three times eight six eight, into the bonfire, the hour in the afternoon.
+
+古文：张十五度二六零六，入鹑尾，辰在巳。
+现代文：张十五度二六零六，入鹑尾，辰在巳。
+English: Zhang 15 degrees in 2066, into Shanwei, the time is now.
+
+古文：轸十度零七九七，入寿星，辰在辰。
+现代文：轸十度零七九七，入寿星，辰在辰。
+English: On the 10th day of the 10th month of the 10th year of the 10th month of the 10th year of the 10th year of the 10th year of the 10th year of the 10th year of the 10th year of the 10th year of the 10th year of the 10th year of the 10th year of the 10th year of the 10th year of the 10th year of the 10th year of the 10th year of the 10th year of the 10th year of the 10th year of the 10th year of the 10th year of the 10th year of the 10th year of the 10th year of the 10th year of the 10th year of the 10
+
+古文：氐一度一四五二，入大火，辰在卯。
+现代文：氐一度一四五二，入大火，辰在卯。
+English: Once upon a time, in 1452, there was a great fire.
+
+古文：尾三度一一五，入析木，辰在寅。
+现代文：尾三度一一五，入析木，辰在寅。
+English: At the end of the third day, it was 11:15 a.m. and the sun was setting in the east.
+
+古文：斗三度七六八五，入星纪，辰在丑。
+现代文：斗三度七六八五，入星纪，辰在丑。
+English: Dou three times seven six eight five, into the star era, the time is ugly.
+
+古文：女二度零六三八，入玄枵，辰在子。
+现代文：女二度零六三八，入玄枵，辰在子。
+English: Female, born in 638, entered the imperial court, and had a child.
+
+古文：推日躔黄道入十二次时刻置入次宿度，以入次日夜，以入次日夜半日度减之，余以日周乘之，一分作百分。
+现代文：推算太阳运行在黄道入十二次的时刻：将入次的宿度，和入次日的夜半日度相减，余数乘以日周，一分作一百分。
+English: Calculate the time of the sun's movement at the 12th eclipse of the ecliptic: subtract the precession of the eclipse, and the half-day of the night of the next day, and multiply the remaining number by the day and week, one point for one hundred.
+
+古文：为实。
+现代文：作焉被除数。
+English: It is a divisible number.
+
+古文：以入次日夜半日度，与明日夜半日度相减，余为法。
+现代文：以入次日的夜半日度，与第二天的夜半日度相减，余数作为除数。
+English: Take the half-day of the night of the next day and subtract it from the half-day of the night of the next day, and take the remainder as a divisor.
+
+古文：实如法而一，各数，以发敛加时求之，即入次时刻。
+现代文：两敷相除，得数再用发敛加时相求，就是入次的时刻。
+English: The moment of entering the second grade is when the two grades are divided, and the number of points obtained is multiplied by the time required.
+
+古文：▲步月离
+现代文：步月离
+English: Step by step
+
+古文：月平行度一十三度三十六分八十七秒半。
+现代文：月平行度：十三度三十六分八十七秒半。
+English: Lunar parallelism: 13 degrees 36 minutes 87 and a half.
+
+古文：周限三百三十六、半之为中限，又半之为初限。
+现代文：周限：三百三十六，折半为中限，又折半为初限。
+English: Perimeter: three hundred and thirty-six, half of which is the middle limit, and half of which is the initial limit.
+
+古文：限平行度零九分六十二秒。
+现代文：限平行度：一度零九分六十二秒。
+English: Parallelism limit: once every 99 minutes and 62 seconds.
+
+古文：太阳限行八分二十秒。
+现代文：太阳限行：八分二十秒。
+English: Solar time limit: eight minutes and twenty seconds.
+
+古文：上弦九十一度三十一发四十三秒太。
+现代文：上弦：九十一度三十一分四十三秒又四分之
+English: Ninety-one minutes, thirty-one minutes, forty-three seconds and a quarter
+
+古文：望一百八十二度六十二分八十七秒半。
+现代文：望：一百八十二度六十二分八十七秒半。
+English: Outlook: One hundred eighty-two degrees, sixty-two minutes, eighty-seven and a half seconds.
+
+古文：下弦二百七十三度九十四分三十一秒少。
+现代文：下弦：二百七十三度九十四分三十一秒又四分之一。
+English: Low: Two hundred and seventy-three degrees ninety-four minutes thirty-one seconds and a quarter.
+
+古文：交终度三百六十三度七十九分三十四秒一九六。
+现代文：交终度：三百六十三度七十九分三十四秒一九六。
+English: The final time was 363 degrees, 79 minutes and 34 seconds in 1966.
+
+古文：朔平行度三百九十四度七八七一一五一六八七五。
+现代文：朔平行度：三百九十四度七八七一一五一六八七五。
+English: New York parallels: up to three hundred ninety-four degrees seven hundred eighty-seven one hundred fifty-six one hundred eighty-seven five.
+
+古文：推朔后平交日置交终分，风气朔历。
+现代文：推算朔后平交日：将交终分，见气朔历。
+English: After calculating the new moon, the day of the even-numbered exchange: the final score will be exchanged, see the qi new moon calendar.
+
+古文：减天正经朔交凡分，为朔后平交日。
+现代文：减去天正经朔交泛分，就是朔后平交日。
+English: Subtracting the intercalary day and the intercalary day, it is the intercalary day after the intercalary day.
+
+古文：如推次月，累减交差二日三一八六九，得次月朔平交日。
+现代文：如果推算下一月，减去二日的交差三一八三六九，就得到下一月朔后平交日。
+English: If we extrapolate the next month and subtract the intersection of the second day, March 18,369, we get the next month's new year's day.
+
+古文：不及减交差者，加交终减之，其交又在本月，为重交月朔后平交日。
+现代文：不够减交差的，加交终再碱，其交日又在本月，就是重交月朔后平交日。
+English: If it is not enough to reduce the crossing, add the final crossing and repeat the base, the delivery date is also in this month, that is, the flat delivery date after the new moon.
+
+古文：推平交入转迟疾历置经朔迟疾历，加入朔后平交日为平交入转。
+现代文：每年必然有重交的月份。推算平交入转迟疾历：将经朔迟疾历，加上朔后平交日就是平交入转。
+English: Every year, there is bound to be a month of re-entry. Calculation of the flat entry into the delayed calendar: the delayed calendar will be passed, and the flat entry date after the new calendar will be the flat entry.
+
+古文：在转中已下，其迟疾与经朔同，已上减去转中疾交迟，迟交疾。
+现代文：如在转中以下，迟疾与经朔相同，在转中以上，减去转中就是疾交迟和迟交疾。
+English: If it is below the middle of the turn, the delayed disease is the same as that of the new moon. If it is above the middle of the turn, but less than the middle of the turn, it is the delayed disease and the delayed disease.
+
+古文：如推次月，累减交转差三千四百二十三分七六，即得。
+现代文：如果推算下一月，逐次减去交转差三千四百二十三分七六，交差内减转差敷。
+English: If we extrapolate to the next month, subtracting the interchanges and transfers three thousand four hundred twenty-three point seventy-six, and subtracting the interchanges and transfers within the intersections.
+
+古文：如不及减，加转中减之，亦迟疾相代。
+现代文：就得到了。如果不够减，加转中再碱，也是迟疾相互替代。
+English: If it is not enough to reduce, add more and more alkali in the transformation, it is also a delay in replacing each other.
+
+古文：推平交入限迟疾差置平交入转迟疾历，依步气朔内，推迟疾差，那得。
+现代文：推算平交入限迟疾差：将平交入转迟疾历，在推得的气朔内，推算迟疾限殿迟疾差，就得到了。
+English: Estimating the difference between the delay time and the delay time limit: the delay time and the delay time limit are calculated within the estimated range.
+
+古文：推平交加减定差置平交入限迟疾差，双日率八百二十分乘之，以所入迟疾限下行度而一，即得。
+现代文：推算平交加减定差：将平交入限迟疾差，乘以日率八百二十分，用所入的迟疾限下行度相除，就得到了。
+English: To calculate the difference between the level crossing and the lower limit: multiply the difference between the level crossing and the lower limit by the daily rate of eight hundred and twenty minutes, and divide it by the degree of the lower limit.
+
+古文：在迟为加，在疾为减。
+现代文：在迟限用加，在疾限用减。
+English: Add to the delay limit and subtract from the disease limit.
+
+古文：推经朔加时积置经朔盈缩历，在盈历即为加时中积，在缩历加半岁周。
+现代文：推算经朔加时中积：看经朔盈缩历，见步气朔一节。在盈历内即是加暗中积，在缩历内加上半岁周。
+English: Calculate the meridian-plus-time mean product: look at the meridian-plus-shrinking calendar, see the section on the meridian-plus-shrinking calendar. In the meridian-plus-shrinking calendar, it is the darkening mean product, and in the shrinking calendar, add half a year.
+
+古文：如推次月，累加朔策，满岁周去之，即各朔加时中积，命日为度。
+现代文：如果推算下一月，逐次加上朔策，满岁周就减去，就是各朔的加时中积，将日改为度。
+English: If you extrapolate the next month, successively add the leap month and subtract the full year, it is the product of the extra time of each leap month, and change the day to degree.
+
+古文：推正交距冬至加时黄道积度及宿次置朔后平交日，以月平行乘之为距后度，加以经朔加时中积，为各月正交距冬至加时黄道积度。
+现代文：如果一月内有二次相交，后交就加上前交经朔加时中积。推算正交距冬至加时的黄道积度殿宿次：将朔后的平交日，用月平行度与之相乘作为距后度，加上经朔加时中积，就是各月正交距冬至加时的黄道积度。
+English: If there is a second conjunction in a month, the second conjunction is added to the middle product of the preceding conjunction plus the new moon. To calculate the ecliptic product of the orthogonal distance from the winter solstice plus time, the zodiacal product of the zodiacal product of the zodiacal product of the zodiacal product of the winter solstice and the winter solstice is calculated by multiplying the day of the post-solar conjunction with the lunar parallel by the lunar parallel and adding the middle product of the post-solar conjunction plus time, which is the ecliptic product of the orthogonal distance from the winter solstice plus time.
+
+古文：加冬至加时黄道日度，以黄道积度钤减之，至不满宿次，即正交月离。
+现代文：加上冬至加时的黄道日度，见太阳匡行一节。用黄道积度表与之相减，直到不满一个宿次，就是正交时月亮的度数。
+English: In addition to the ecliptic day of the winter solstice, see the section of the solar meridian. Use the ecliptic integral table to reduce it until it is less than one degree, which is the degree of the moon when it is orthogonal.
+
+古文：如推次月，累减月平交朔差一度四六三一零二。
+现代文：如果推算下一月，逐次碱去月平交朔差一度四六三一零二。
+English: If you extrapolate to the next month, the difference between the successive base and the previous month's level is 463,102.
+
+古文：遇重交月，同次朔。
+现代文：遇到重交月，与下一朔相同。
+English: When it encounters a new moon, it is the same as the next new moon.
+
+古文：后仿此。
+现代文：后面仿照此处。
+English: Follow the example here.
+
+古文：▲黄道积度钤
+现代文：黄道积度钤
+English: Zodiacal Calculus
+
+古文：推正交日辰时刻置朔后症交日，加经朔，去纪法，以平交定差加减之，其日命甲子算外，小余依发敛加时求之，即得正交日辰时刻。
+现代文：推算正交日辰时刻：将朔后平交日，加上经朔，减去纪法，用平交定差相加或相减，其日数在规定的六十甲子整数之外，小余依照发敛加时推求，就得到正交日辰时刻。
+English: Calculation of the orthogonal date and time: the orthogonal date and time is obtained by adding the new moon day after the new moon day, adding the new moon day, subtracting the calendar day, adding or subtracting the fixed difference with the orthogonal, the number of days is in addition to the specified sixty-one integer, and subtracting the time according to the convergence.
+
+古文：如推次月，累加交终，满纪去之。
+现代文：如果推算下一月，逐次加上交终，满纪法就减去。
+English: If you extrapolate the next month, add the end of the shift successively, and subtract the full discipline method.
+
+古文：如遇重交，再加交终。推四正赤道宿次置冬至赤道日度，以气象限累加之，满赤道积度去之，为四正加时赤道日度。
+现代文：如果遇到重交，推算四正在赤道的宿次：将冬至的赤道日度，逐次加上气象限，满赤道积度就减去，就是四正加时的赤道日度。
+English: If you encounter a re-crossing, calculate the number of equatorial days in the equator: add the equatorial day of the winter solstice to the meteorological limit one by one, and subtract the full equatorial integral degree, that is, the equatorial day of the four positive time.
+
+古文：▲赤道积度钤
+现代文：赤道积度钤
+English: Equatorial integral
+
+古文：推正交黄道在二至后初末限置正交距冬至加时黄道积度，在半岁周已下为冬至后，已上减去半岁周，余为夏至后。
+现代文：推算正交黄道在冬至夏至后的初末限：看正交距冬至加时的黄道积度，在半岁周以下的为冬至以后，半岁周以上的减去半岁周，余数为夏至以后。
+English: Calculate the beginning of the end of the orthogonal ecliptic after the winter solstice and summer solstice: look at the ecliptic integral of the time between the winter solstice and the winter solstice. If it is less than half a year, it is after the winter solstice. If it is more than half a year, it is less than half a year, and the remaining number is after the summer solstice.
+
+古文：又视二至后度分，在气象限已下为初限，已上用减半岁周，余为末限。
+现代文：又看冬至夏至后的度数，在气象限以下的就是初限，以上的减去半岁周，余数就是末限。
+English: Also, look at the number of degrees after the winter solstice and summer solstice. Below the meteorological limit is the initial limit, the above minus half a year, and the remaining number is the final limit.
+
+古文：推次月者，若本月初限，则累减月平交朔差，余为次月初限。
+现代文：推算下一月的，如果本月是初限，就逐次碱去月平交朔差，余数就是下一月的初限。
+English: When calculating the next month, if this month is the initial limit, the base is successively reduced to the monthly average, and the remainder is the initial limit of the next month.
+
+古文：不及减者，反减月平交朔差，余为次月末限。
+现代文：不够减的，反过来用月平交朔差来碱，余数就是下一月的末限。
+English: If it is not enough to reduce, in turn, the monthly intercalary difference is used as the base, and the remaining number is the limit of the next month.
+
+古文：若本月末限则累加月平交朔差，为次月天限，至满气象限，以减半岁周，余为次月初限。
+现代文：如果本月是末限，就逐次加上月平交朔差，就是下一月的末限，如果满了气象限，就减去半岁周，余数就是下一月的初限。
+English: If it is the end of this month, it is the end of the next month to add the difference between the new moon and the new moon. If the meteorological limit is full, it is subtracted from the half-year, and the remaining number is the beginning of the next month.
+
+古文：推定差度置初末限，以象极总差一分六零五五零八乘之，即为定差度。
+现代文：推算定差度：将初末限乘以象极总差一分六零五五零八，就是定差度。
+English: Estimation of the fixed difference: Multiply the initial limit by the total image difference of one minute sixty-five hundred and eight, which is the fixed difference.
+
+古文：如推次月初限则累减，末限则累加，俱以极平差二十三分四九零二加减之。
+现代文：象极总差，是以象隈除以极差，其数字应该是十六分零五四四二。如果推算下一月的初限就逐次减去，末限就逐次相加，都按极平差二十三分四九零二加或减。
+English: The total difference between the two extremes is the difference between the two extremes, which is calculated by dividing the total difference between the two extremes by the total difference between the two extremes, and the figure should be 16.05442. If the first limit of the next month is calculated, it will be subtracted successively, and the last limit will be added successively, and both will be added or subtracted according to the extreme difference of 23.4902.
+
+古文：推距差度置极差十四度六六，减去定差度，即得。
+现代文：极平差，是用月平交朔差，乘以象极总差，其敷字应该是二十三分五零四九。推算距差度：将极差十四度六六，减去定差度，就得到了。
+English: The extreme parity is calculated by multiplying the difference between the lunar equinox and the new moon by the total imaginary extreme difference, which should be 23.549. Calculated distance difference: subtract the fixed difference from the extreme difference of 14.66.
+
+古文：求次月，以极平差加减之。
+现代文：求下一月，用极平差与之加或减。
+English: Find the next month and add or subtract from it using the extreme parity.
+
+古文：推定限度置定差度，以定极总差一分六三七一零七乘之，所得视正交在冬至后为减，夏至后为加，皆置九十八度加减之，即得。
+现代文：初限相加，末限相减。推算定限度：将定差度乘以定极总差一分六三七一零七，定极总差是用极差除以二十四度，其数字应该是一度六三七一零七。得敷看正交在冬至后的减，在夏至后的加，都加或减九十八度，就得到了。
+English: Add the initial limit and subtract the final limit. Estimate the fixed limit: multiply the fixed difference by the total fixed extreme difference of one point six hundred and thirty seven hundred and seven. The total fixed extreme difference is divided by the extreme difference by twenty-four degrees, and the figure should be one point six hundred and thirty seven hundred and seven. It is necessary to look at the decrease of the orthogonal after the winter solstice and the increase after the summer solstice, and add or subtract ninety-eight degrees, and get it.
+
+古文：推月道与赤道正交宿度正交在冬至后，置春正赤道积度，以距差度初限加末限减之，在夏至后，置秋正赤道积度，以距差初限减末限加之。
+现代文：推算月道与赤道的正交宿度：正交在冬至后的，将春正赤道积度，减去距差度初限加末限的和。在夏至以后的，将秋正赤道积度，加上距差度初限减末限的和。
+English: Calculate the orthogonal inclination of the lunar orbit and the equator: after the winter solstice, the spring equatorial inclination, minus the initial limit of the distance difference, plus the final limit. After the summer solstice, the autumn equatorial inclination, plus the initial limit of the distance difference, minus the final limit.
+
+古文：得数，满赤道积度钤去之，即得。
+现代文：得数满赤道积度表数目的就减去，就得到了。
+English: The result is obtained by subtracting the number of full equatorial integral tables.
+
+古文：推月道与赤道正交后积度并入初末限视月道与赤道正交所入某宿次，即置本宿赤道全度，减去月道与赤道正交宿度，差为正后积度。
+现代文：推算月道与赤道正交后的积度及入初末限：根据月道与赤道正交所入的某个宿次，就将本宿的赤道全度，减去月道与赤道的正交宿度，余数就是正交后的积度。
+English: Calculate the integral degree and the initial entry limit after the lunar orbit and the equator are orthogonal: according to a certain time when the lunar orbit and the equator are orthogonal, subtract the total degree of the equator of the main lodge from the orthogonal degree of the lunar orbit and the equator, and the remainder is the integral degree after the orthogonal.
+
+古文：以赤道各宿全度累中之，满气象限去之，为半交后。
+现代文：将赤道各宿的赤道全度逐次相加，满气象限就碱去，就是半交后。
+English: Add the full degrees of the equator of the equatorial lodges one by one, and go to the base when the meteorological limit is full, that is, after half-crossing.
+
+古文：又满去之，为中交后。
+现代文：又满气象限而减去，是中交后。
+English: It was also reduced due to weather conditions, which occurred after the signing of the Sino-foreign diplomatic relations.
+
+古文：再满去之，为半交后。
+现代文：再满再减，是半交后。
+English: Full and then reduced is after the half-way point.
+
+古文：视各交积度，在半象限以焉为初限，以上覆减象限，余为末限。
+现代文：看各交积度，在半象限以下的是初限，在半象限以上的再碱象限，余数就是末限。
+English: Looking at the degrees of intersection, below the half-quadrant is the initial limit, above the half-quadrant is the re-base quadrant, and the remainder is the terminal limit.
+
+古文：推定差置每交定限度，与初末限相乘，得数，千约之为度，即得。
+现代文：推算定差：将每交的定限度，与初末限相减相乘，得数除以一千定焉度，就得到了。
+English: Estimate the fixed difference: Multiply the fixed limit of each turn by the initial and final limits, and divide the result by one thousand degrees of freedom.
+
+古文：推月道定积度及宿次置月道与赤道各交后每宿积度，以定差加减之，为各交月道积度。
+现代文：正交、中交后为加，半交后为减。推算月道定积度及宿次：将月道与赤道各交后每宿的积度，舆定差相加或相减，就是各交月道的积度。
+English: Calculation of the Moon's path integral and the number of stays: the integral of each stay after the intersection of the Moon's path with the equator, plus or minus the difference of opinion, is the integral of each intersection of the Moon's path.
+
+古文：加月道与赤道正交定宿度，共为正交后宿度。
+现代文：加上月道与赤道的正交定宿度，就是正交后宿度。
+English: In addition to the fixed orthogonal inclination of the lunar orbit and the equator, it is the post-orthogonal inclination.
+
+古文：以前宿定积度减之，即得各交月道宿次。
+现代文：用前一宿的定积度与之相减，就得到各交月道的宿次。
+English: Using the previous night's degree of integration and subtracting from it, the number of nights spent in each of the intersecting lunar orbits is obtained.
+
+古文：▲活象限例
+现代文：活象限例
+English: Live quadrant example
+
+古文：置正交后宿次，加前交后半交末宿定积度。为活象限。
+现代文：活象限例将正交后的宿次，加前交后半交末宿的定积度，就是活象限。
+English: An example of a live quadrant would be the resultant of the resultant of the orthogonal, plus the definite integral of the resultant of the anterior, posterior, semi-perpendicular, and terminal, which is a live quadrant.
+
+古文：如正交后宿次度少，加前交不及数，却置正交后宿次加气象限即是。
+现代文：如果正交后宿次度数少，加上前交相差的度数，退一宿取正交后的宿次再加上气象限就是了。
+English: If the number of stays after the orthogonal is small, plus the difference in the number of stays before the orthogonal, one stay after the orthogonal plus the meteorological limit is enough.
+
+古文：如遇换交之月，置正交后宿次，以前交前半交末宿定积度加之，为换交活象限。
+现代文：如果遇到换交的月份，用前交前半交末宿的定积度相加，就是换交的活象限。
+English: If you encounter the month of the exchange, use the front half of the front half of the exchange to add the fixed integral degree of the end of the exchange, which is the live quadrant of the exchange.
+
+古文：假如前交正交是轸，后交正交是角，其前交欠一轸。
+现代文：假如前交正交是干宿，后交正交是角宿，前交就欠一个斡宿的宿度。
+English: If the anterior orthodontic junction is a dry lodging, and the posterior orthodontic junction is a corner lodging, the anterior orthodontic junction will owe a good accommodation.
+
+古文：求活象限者，置正交后宿次，不从翼下取定积度加之，仍于轸下取定积度也。
+现代文：求活象限时，正交后的宿次，不从翼宿下取定积度相交，仍然在干宿下取定积度。
+English: When looking for the active quadrant, after the orthogonal stay, do not take the integral from the wing stay under the intersection, still take the integral under the dry stay.
+
+古文：又如前交、正交是轸，后交、正交是翼，其前交多一翼。
+现代文：又如前交正交是干宿，后交正交是翼宿，前交就多一个翼宿的宿度。
+English: Another example is that the anterior orthodontic junction is a dry lodging, the posterior orthodontic junction is a wing lodging, and the anterior orthodontic junction is one more wing lodging.
+
+古文：求活象限者，置正交后宿次，不从翼下取定积度加之，仍于张下取定积度也。
+现代文：求活象限时，正交后的宿次，不从翼宿下取定积度相加，仍然在张宿下取定积度。
+English: When looking for the active quadrant, after the orthogonal stay, the integral degree is not added from the wing stay, but the integral degree is still taken under the open stay.
+
+古文：推相距日置定上弦大余，减去定朔大余，即得。
+现代文：推算相距日：将定上弦大余，减去定朔大余，就得到了。
+English: Calculate the distance day: set the upper limit and subtract the lower limit to get the result.
+
+古文：上弦至望，望至下弦，下弦至朔仿此。
+现代文：从上弦到望，望到下弦，下弦到朔与此相仿。
+English: From the first string to the middle, the middle to the last string, and the last string to the crescendo is similar.
+
+古文：不及减者，加纪法减之。
+现代文：不够减的，加纪法相减。
+English: If the reduction is not enough, discipline will be increased and the penalty will be reduced.
+
+古文：推定朔弦望入盈历及盈缩定差置各月朔弦望入盈缩历，以朔弦望加减差加减之，并在步气朔内。
+现代文：推算定朔弦望入盈缩历及盈缩定差：将各月朔弦望的入盈缩历，用朔弦望加诚差相加或相减，都在推算气朔一节中。
+English: Estimating the fixed-length look-through period and the fixed-length difference: adding or subtracting the fixed-length look-through period and the fixed-length difference between the fixed-length look-through period and the fixed-length difference between the fixed-length look-through period and the fixed-length difference.
+
+古文：为定盈缩历。
+现代文：就是定盈缩历。
+English: That is, the fixed profit contraction period.
+
+古文：视盈历在盈初限下为盈初已上用减半岁周，余为盈末限。
+现代文：盈历在盈初限以下是盈初限，在以上用半、岁周相减，余数就是盈末限。
+English: The yang calendar below the yang initial limit is the yang initial limit, and the above uses half, the age is decreasing, and the remaining number is the yang final limit.
+
+古文：缩历在缩初限已下为缩初限，已上用减半岁周，余为缩末限。
+现代文：缩历在缩初限以下为缩初限，在以上用半岁周相减，余数就是缩末限。
+English: The abbreviated calendar below the initial limit is the initial limit, and the above is reduced by half a year, and the remaining number is the final limit.
+
+古文：依步气朔内求盈缩差，为盈缩定差。
+现代文：依照推算气朔一节内的方法求盈缩差，就是盈缩定差。
+English: According to the method of calculating the shrinkage of earnings in one section, it is the fixed difference of earnings and shrinkage.
+
+古文：推定朔弦望加时中积置定盈缩历，如是盈历在朔，便为加时中积，在上弦加气象限，在望加半岁周，在下弦加三象限。
+现代文：推算定朔弦望加时中积：根据定盈缩历，如是盈历在朔，就是加时中积，在上弦加气象限，在望加半岁周，在下弦加三象限。
+English: Extrapolation of the added time product of the fixed meridian: According to the fixed meridian, if the meridian is at the new moon, it is the added time product, adding the meteorological limit at the upper meridian, the half-year at the meridian, and the three quadrants at the lower meridian.
+
+古文：如是缩历在朔，加半岁周。在上弦加三象限，在望便为加时中积，在下弦加气象限，加后满周天去之。
+现代文：如是缩历在朔，加半岁周，在上弦加三象限，在望就是加时中积，在下弦加气象限，加后满周天就碱去。
+English: For example, if the abbreviated calendar is at the new moon, add half a year, add three quadrants to the first chord, add time to the middle product, add a meteorological limit to the second chord, and then add a full week.
+
+古文：推黄朔弦望加时中定积度置定朔弦望加时中积，以其下盈缩定差盈加缩之，即得。
+现代文：推算黄道加时定积度：将定朔弦望加时中积，用它下面的盈缩定差，盈相加，缩相减，就得到了。
+English: Calculation of the zodiac's time-adjusted integration degree: add the time-adjusted middle product of the fixed point of the compass and the fixed point of the fixed point of the fixed point of the compass, and use the fixed difference, the addition of the addition, and the subtraction of the contraction below it to get it.
+
+古文：推赤道加时积度及宿次置黄道加时定积度，在周天象限已下为至后，已上去之为分后，满两象限去之为至后，满三象限去之为分后。
+现代文：推算赤道加时定积度及宿次：取黄道加时定积度，在周天一象限以下为至后，一彖限以上减去为分后，满两象限碱去为至后，满三象限碱去为分后。
+English: Calculation of the equatorial time-adjusted integral degree and the order of stay: take the zodiac time-adjusted integral degree as the maximum, and in the week and day below one quadrant is the last to arrive, more than one power limit is subtracted as the last to arrive, more than two quadrant bases are subtracted as the last to arrive, more than three quadrant bases are subtracted as the last to arrive.
+
+古文：置分至后黄道积度，以立成内分至后积度减之，余以其下赤道度率乘之，如黄道度率而一，得数加入分至后积度，次以所去象限合之，为赤道加时定积度。
+现代文：将分至后的黄道积度，用数据表内分至后的积度与之相减，余数用它下面的赤道度率相乘，除以黄道度率，得敷加入分至后积度，然后舆减去的象限相加，就是赤道加时定积度。
+English: Divide the ecliptic integral after the decimal point by the integral after the decimal point in the data table, multiply the remainder by the equatorial rate below it, divide by the ecliptic rate, add the integral after the decimal point, and then add the quadrant subtracted by the decimal point, which is the equatorial time-determined integral.
+
+古文：置赤度加时定积度，加入天正冬至加时赤道日度，满赤道积度钤去之，得定朔弦望赤道加时宿次。
+现代文：将赤道加时定积度，加上天正冬至加时赤道日度，满赤道积度表数目的就减去，就得到了定朔弦望赤道加时宿次。
+English: Add the equatorial time integral and the equatorial day of the midwinter solstice, subtract the number of full equatorial integral tables, and get the equatorial time integral.
+
+古文：推正半合交后积度置定朔弦望加时赤道宿次，视朔弦望在何交后，正半、中半。
+现代文：推算正半中交后积度：取定朔弦望加时赤道宿次，根据朔弦望在什么交后，正半交，中半交。
+English: Calculation of the integration after the mid-square of the mid-square: take the mid-square of the mid-square of the mid-square of the mid-square of the mid-square of the mid-square of the mid-square of the mid-square.
+
+古文：即以交生积度，在朔望加时赤道宿前一宿者加之，即为正半中交后积度，满气象限去之，为正半中换交。
+现代文：就以什么交后的稹度，在朔望加时赤道宿的前一宿相加，就是正半中交后积度。满气象限碱去，就是正半中换交。
+English: According to the degree of turbidity after the exchange, the sum of the previous night of the equatorial lodging at the beginning of the extra time is the degree after the exchange in the middle of the day. If the meteorological limit is exceeded, it is the exchange in the middle of the day.
+
+古文：推初末限视正半中交后积度，在半象已下为初限，已上覆减气象限，余为末限。
+现代文：推算初末限：看正半中交后积度，在半象限以下的就是初限，以上的减去气象限，余数就是末限。
+English: Estimation of the initial limit: look at the positive half of the intersection after the integration, below the half-quadrant is the initial limit, the above minus the meteorological limit, the remaining number is the final limit.
+
+古文：推月道与赤道定差置其交定限度，与初末限相减相乘，所得，千约之为度，即定差。
+现代文：推算月道与赤道定差：将所求交的定限度，与初末限相减或相乘，得敷除以一千为度，就是定差。
+English: Calculate the fixed difference between the lunar orbit and the equator: subtract or multiply the fixed limit of the requested intersection with the initial and final limits, and divide by one thousand degrees, which is the fixed difference.
+
+古文：在正交、中交为加。在半交为减。
+现代文：在正交、中交为加差，在半交为减差。
+English: At the orthogonal and intermediate crossings, the difference is increased, and at the half-crossing, the difference is decreased.
+
+古文：推定朔弦望加时月道宿次置定朔弦望加时月道定积度，取交后月道定积度，取交后月道定积度，在所置罕前一宿者减之，即得。
+现代文：推算正半中交加时月道定积度：将正半中交后积度，与定差相加或相减，就是朔弦望加时月道定积度。推算定朔弦望加时月道宿次：将定朔弦望加时月道定积度，取交后月道定积度，在所处的宿位的前一宿减去，就得到了。
+English: Calculation of the fixed integration of the lunar path during the extra time after the mid-solar conjunction: the fixed integration after the mid-solar conjunction is added to or subtracted from the fixed difference, which is the fixed integration of the lunar path during the extra time after the solstice. Calculation of the fixed integration of the lunar path during the extra time after the solstice: the fixed integration of the lunar path during the extra time after the solstice is subtracted from the previous night of the accommodation.
+
+古文：遇转交则前积度多，所置积度少为不及减。
+现代文：遇到转交，前面的积度就多，所处位置的积度少不够减。
+English: In the event of a pass, there is more integration in front, and the integration of the position is not reduced enough.
+
+古文：从半转正，加其交活象限减之。
+现代文：从半交转正交，加这一交的活象限再减。
+English: From semicircle to orthogonal, add the active quadrant of this intersection and then reduce.
+
+古文：从正转半，从半转中，从中转半，皆加气象限减之。
+现代文：从正交转半交，从半交转中交，从中交转半交，都加气象限再减。
+English: From the orthogonal to the semicircular, from the semicircular to the intermediate, and from the intermediate to the semicircular, the meteorological limits are added and then reduced.
+
+古文：推夜半入转日置经朔弦望迟疾历，以定朔弦望加减差加减之。
+现代文：推算夜半入转日：将经朔弦望迟疾历，用定朔弦望加减差与之相加或相减。
+English: Estimation of midnight into the next day: add or subtract the result of adding and subtracting the result of adding and subtracting the result of adding and subtracting the result of adding and subtracting the result of adding and subtracting the result of adding and subtracting the result of adding and subtracting the result of adding and subtracting.
+
+古文：大疾历，便为定朔弦望加时入转日。
+现代文：在疾历，就是定朔弦望加时入转日。
+English: In the lunar calendar, it is the day of the leap year.
+
+古文：在迟历，用加转中置定朔弦望加时入转日，以定朔弦望小余减之，为夜半入转日，遇入转日少不及减者，加转终减之。
+现代文：在迟历，用加转中置定朔弦望加时入转日，减去定朔弦望小余，就是夜半入转日。遇到入转日少不够减的，加转再诚。
+English: In the Gregorian calendar, in the addition and subtraction of the day of the month, the day of the month of the addition and subtraction of the day of the addition and subtraction of the day of the addition and subtraction of the day of the addition and subtraction of the day of the addition and subtraction of the day of the addition and subtraction of the day of the addition and subtraction of the day of the addition and subtraction of the day of the addition and subtraction of the day of the addition and subtraction of the day of the addition and subtraction of the day of the addition and subtraction of the day of the addition
+
+古文：推加时入转度置定朔弦望小余，去秒，取夜半入转日下转定度乘之，万约之为分，即得。
+现代文：推算加时入转度：将定朔弦望的小余，舍去秒数，取夜半入转日之下的转定度与之相乘，除以一万定为分，就得到了。
+English: Extrapolation of the time-in-turn ratio: Take the small remainder of the time-in-turn ratio, subtract the number of seconds, take the time-in-turn ratio of the time-in-turn ratio of the time-in-turn ratio of the time-in-turn ratio of the time-in-turn ratio of the time-in-turn ratio of the time-in-turn ratio of the time-in-turn ratio of the time-in-turn ratio of the time-in-turn ratio of the time-in-turn ratio.
+
+古文：▲迟疾转定度钤
+现代文：迟疾转定度钤
+English: Delayed disease transition rate
+
+古文：推定朔弦望夜半入转积度及宿次置定朔弦望加时月道定积度，减去加时入转度，为夜半积度。
+现代文：推算定朔弦望夜半入转积度及宿次：将定朔弦望加时月道定积度，减去加时入转度，就是夜半积度。
+English: Estimating the integration degree of the fixed-square-hour watch at midnight and the time of stay: the fixed-square-hour watch and the fixed-time moon path integration degree, minus the time-added turn degree, is the half-night integration degree.
+
+古文：如朔弦望加时定积度初换交，则不及减，半正相接，用活象限，正半、中半相接，用气象限加之，然后减加时入转度，则正者为后年，后年为中，中为前半，前半为正。
+现代文：如果朔弦望加时定积度由初换焉交，就不够减，半正相接，用活象限，正和半、中和半相接，加气象限，然后减加时入转度，那么正为后半，后半为中，中为前半，前半焉正。
+English: If the Schrödinger's equation of time constant integral is interchanged from the first to the second, it is not enough to subtract the first half, the first half is positive, the second half is negative, the first half is positive, the first half is negative, and the second half is positive.
+
+古文：置朔弦望夜半月道定积度，依推定朔弦望加时月道宿次法减之，为夜半宿次。
+现代文：将朔弦望夜半月道定积度，依照推算定朔弦望加时月道宿次的方法相减，就是夜半宿次。
+English: The method of subtracting the fixed integral degree of the zodiacal observation of the evening half-moon path from the extra time of the zodiacal observation of the evening half-moon path according to the calculation is the night half-moon path.
+
+古文：推晨昏入转日及转度置夜半入转日，以定盈缩历检立成日下晨分加之，为晨入转日置其日晨分，取夜半入转日下转定度乘之，万约为分，为晨转度。
+现代文：推算晨昏入转日及转度：将夜半入转日，用定盈缩历查检数据表中本日下的晨分相加，就是晨入转日。满转终碱去。将本日的晨分，取夜半入转日下的转定度相乘，除以一万定单位为分，就是晨转度。
+English: Calculate the time of day and the degree of rotation of the morning twilight: add the morning minutes of today and the next day in the fixed-point-shrinking-period inspection data table to calculate the time of day and the degree of rotation of the morning twilight. Take the morning minutes of today, multiply the degree of rotation of the night twilight and the next day, and divide it by 10,000 units, which is the morning degree of rotation.
+
+古文：如求昏转日转度，依法检日下昏分，即得。
+现代文：如求昏转日的转度，按方法检索日下的昏分，就得到了。
+English: If you want to find the degree of dizziness on the day of fainting, you can get it by retrieving the dizziness point of the sun.
+
+古文：推晨昏转积度及宿次置朔弦望夜半月道定积度，加晨转度，为晨转积度。
+现代文：推算晨昏转积度及宿次：将朔弦望夜半月道定积度，加上晨转度，就是晨转积度。
+English: Calculate the morning twilight phase and the time of stay: add the morning twilight phase to the fixed phase of looking at the waxing gibbous and waning gibbous. This is the morning transition phase.
+
+古文：如求昏转积度，则加昏转度，满气象限去之，则换交。
+现代文：如求昏转积度，就加昏转度，满气象限碱击，就换交。
+English: If the dizziness integral is required, the dizziness integral is added, and if the meteorological limit is reached, the exchange is made.
+
+古文：置晨转积度，依前法减之，为晨分宿次。置昏转积度，依法减之，为昏分宿次。
+现代文：如推算夜半积度的时候，因朔弦望加时定积不够减转度，就用半正相接，而加活象限相减的，现在又换成正交，就用活象限相减。将晨转积度，依照前面的方法相减，就是晨分宿次。将昏转积度，按方法相减，就是昏分宿次。
+English: For example, when calculating the half-hour of the night, because the fixed product of the added time of the bowstring and the watch is not enough to reduce the degree of rotation, the semi-positive is used, and the active quadrant is reduced, and now it is changed to the orthogonal, and the active quadrant is reduced. The morning conversion, reduced according to the previous method, is the morning quarter. The dusk conversion, reduced according to the method, is the dusk quarter.
+
+古文：推相距度朔与上弦相距，上弦与望相距，用昏转积度。
+现代文：推算相距度：朔与上弦相距，上弦与望相距，用昏转积度。
+English: Estimated distance: the distance between the stem and the upper string, the distance between the upper string and the stem, and the dizziness integral.
+
+古文：望与下弦相距，下弦与朔相距，用晨转积度。
+现代文：望与下弦相距，下弦与朔相距，用晨转积度。
+English: Look at the distance between the lower string and the lower string, and the distance between the lower string and the new string.
+
+古文：置后段晨昏转积度，视与前段同交者，竟以前段晨昏转积度减之，余为相距度。
+现代文：将后段的晨昏转积度，与前段比较同交的，直接用前段晨昏转积度相减，余数就是相距度。
+English: If the morning drowsiness index of the latter section is intersected with that of the former section, the former section's morning drowsiness index is directly used to subtract the latter's morning drowsiness index, and the remainder is the distance index.
+
+古文：若后段与前段接两交者，从正入半，从半入中，从中入半，加气象限。
+现代文：如果后段与前段两段相交的，从正入半，从半入中，从中入半，都加气象限。
+English: If the back section intersects with the two sections of the front section, the weather limit is added from the front half, from the middle half, and from the middle half.
+
+古文：从半入正，加活象限。
+现代文：从半入正，加活象限。
+English: From the middle to the front, activate the quadrant.
+
+古文：然后以前段晨昏转积度减之。
+现代文：然后用前段晨昏转积度相减。
+English: Then use the previous section to subtract the degree of morning drowsiness.
+
+古文：若后段与前段接三交者，其内无从半入正，则加二气象限，其内有从半入正，则加一活象限，一气象限，以前段晨昏转积度减之。
+现代文：如果后段与前段连接三交的，其中没有从半入正的，就加二气象限，其中有从半入正的，就加一活象限，一气象限，用前段晨昏转积度相减。
+English: If the posterior segment is connected to the anterior segment by three intersections, and no one of them is from half to positive, add two meteorological limits, and if one of them is from half to positive, add one live quadrant, one meteorological limit, and use the anterior segment to reduce the morning and evening transformation degree.
+
+古文：推转定积度置晨昏入转日，以前段减后段，不及减者，加二十八日减之，为晨昏相距日。
+现代文：推算转定积度：将晨昏入转日，朔至弦，弦至望，用昏。
+English: Calculate the transposition integral: convert the morning drowsiness into the day, the new moon to the chord, the chord to the hope, and use the drowsiness.
+
+古文：从前段下，于钤内验晨昏相距日同者，取其转定积度。
+现代文：望至弦，弦至朔，用晨。用前段碱后段，不够碱的，加二十八日再减，就是晨昏相距日。从前段下，在表内检索晨昏相距日相同的，取用它的转定积度。
+English: Look to the chord, the chord to the new moon, use the morning. Use the front section of the alkali to the back section, not enough alkali, add 28 days and then subtract, that is, the morning twilight distance day. From the front section, search the same morning twilight distance day in the table, and use its transformation integral.
+
+古文：若朔弦望相距日少晨昏相距日一日者，则于晨昏相距日同者，取其转积度，减去转定极差一十四度七一五四，余为前段至后段转定积度。
+现代文：如果朔弦望相距日少于晨昏相距日一日的，就在表中晨昏相距日相同的地方，取用它的转积度，碱去转定极差十四度七一五四，余数就是前段至后段的转定积度。
+English: If the intercalary day is less than the intercalary day by one day, then in the place in the table where the intercalary day is the same as the intercalary day, take its index of transformation. The alkali is used to determine the extreme difference of fourteen degrees seven hundred and fifty-four, and the remainder is the index of transformation from the previous paragraph to the last paragraph.
+
+古文：▲转定积度钤
+现代文：转定积度钤
+English: Transformation product
+
+古文：推加减差以相距度与转定积度相减为实，以其朔弦望相距目为法除之，所得视相距度多为加差，少为减差。
+现代文：推算加减差：以相距度与转定积度相减的差作为被除数，用朔弦望相距日作为除数与之相除，得敷比相距度多的就是加差，少的就是减差。
+English: Extrapolation and subtraction: take the difference between the distance degree and the reduction of the transformation integral as the divisor, and divide it by the diagonal distance day as the divisor. If the difference is greater than the distance degree, it is the addition, and if it is less, it is the subtraction.
+
+古文：推每日太阴行定度置朔弦望晨昏入转日，视迟疾转定度钤日下转定度，累日以加减差加减之，至所距日而止，即得。
+现代文：推算每日月亮的行定度：根据朔弦望晨昏入转日，在迟疾转定度表中取该日的转定度，逐日用加减差相加或相减，到所求的一日为止，就得到了。
+English: Calculate the degree of the daily moon: according to the morning twilight, take the degree of the day in the latency conversion table, and add or subtract the difference from day to day until the desired day is obtained.
+
+古文：推每日月离晨昏宿次置朔弦望晨昏宿次，以每日太阴行度加之，满月道宿次减之，即得。
+现代文：推算每日月亮运行的晨昏宿次：将朔弦望的晨昏宿次，加上每日的月亮行度，满月道宿次减去，就得到了。
+English: Calculate the morning twilight cycle of the daily moon movement: add the morning twilight cycle of the new moon, the daily moon movement, and subtract the full moon cycle, and get it.
+
+古文：▲赤道十二宫界宿次
+现代文：赤道十二宫界宿次
+English: The Equatorial Zodiac
+
+古文：推月与赤道正交后宫界积度视月道与赤道正交后，各宿积度宫界，某宿次在后，即以加之，便为某宫正交后宫界积度。
+现代文：推算月道与赤道正交后的宫界积度：根据月道与赤道正交后各宿的积度宫界，某宿位次在后的，就加上，就是某宫之下正交后的宫界积度。
+English: Calculating the square of the Moon's orbit after the Moon's orbit is orthogonal to the equator: According to the square of the Moon's orbit after the Moon's orbit is orthogonal to the equator, the square of the Moon's orbit after a certain position is added, which is the square of the Moon's orbit under a certain position.
+
+古文：求次宫者，累加宫率二十度四三八一，满气象限去之，各得某宫下半产交后宫界积度。
+现代文：求下一宫，逐次加上宫率三十度四三八一，满气象限减去，就得到各宫之下半交、中交后的宫界积度。
+English: Find the next palace, successively add the palace rate of thirty degrees four hundred and thirty-eight, and subtract the full meteorological limit, to obtain the palace boundary product of the lower half of each palace and the middle of each palace.
+
+古文：推宫界定积度视宫界度在半象限已下为初限，已上覆减气象限，余为末限。
+现代文：推算宫界定积度：宫界积度在半象限以下的为初限，以上的减去气象限，余数为末限。
+English: Estimation of the palace boundary integral: the palace boundary integral is the initial limit if it is less than the half-quadrant, the above minus the meteorological limit, and the remaining number is the final limit.
+
+古文：置某交定限度，与初末限相减、相乘，所得，千约之为度，在正交、中交为加差，在半交为减差。
+现代文：将某交的定限度，舆初末限相减相乘，得敷除以千就是度，在正交、中交是加差，在半交是减差。
+English: If the fixed limit of a certain intersection and the initial and final limits are subtracted and multiplied, the result divided by one thousand is the degree. In the case of orthogonal and intermediate intersections, it is an increase, and in the case of half-intersections, it is a decrease.
+
+古文：置宫界正半中交后积度，以定差加减之，为宫界定积度。
+现代文：将宫界正半中交后积度，减去定差，就是宫界定积度。
+English: If you subtract the square root of the midpoint of the uterus from the square root of the midpoint of the uterus, the result is the uterus-defining integral.
+
+古文：推宫界宿次置宫界定积度，于月道内取其在所置前一宿者减之之不及减者，加气象限减之。
+现代文：推算宫界宿次：根据宫界定积度，在月道内取在它前一位的宿次与之相减，不够减的，加气象限相减。
+English: Estimation of the intercalary period: According to the intercalary period defined by the palace, the intercalary period that takes the first place in the lunar path is reduced, and if it is not reduced enough, it is reduced by adding the meteorological limit.
+
+古文：推每月每日下交宫时刻置每月宫界宿次，减入交宫日下月离晨昏宿次。
+现代文：推算每月每日之下的交宫时刻：将每月的宫界宿次，减去入交宫日的月亮晨昏宿次。
+English: Calculate the intercalary period of each month: subtract the intercalary period of each month from the intercalary period of the moon on the first day of the intercalary period.
+
+古文：如不及减者，加宫界宿次前宿减之，余以日周乘之，以其日太阴行定度而一，得数，又视定盈缩历取立成日下晨昏分加之。
+现代文：如不够减，加宫界宿次前一宿次度数相减，余数乘以日周，除以本日的月亮行定度，得数又根据定盈缩历取数据表本日下的晨昏分相加。
+English: If it is not enough, subtract the power of the previous night from the power of the next night, multiply the remaining number by the day of the week, divide it by the fixed degree of today's moon, and add the result according to the fixed-gain-shrinking-period data table of today's morning twilight.
+
+古文：如满日周交宫在次日，不满在本日，依发敛推之，即交宫时刻。
+现代文：晨加晨分，昏加昏分。如果满日周交宫在次日，不满日周在本日，依照发敛推算，就是交宫时刻。
+English: Morning plus morning, drowsiness plus drowsiness. If the full day of the week is on the next day, and the day of the week is on this day, it is the time of the palace.
+
+古文：▲步中星
+现代文：步中星
+English: Star in the step
+
+古文：推每日夜半赤道置推到每日夜半黄道，见日躔。
+现代文：推算每日夜半赤道：将推算到的每日夜半的黄道度，见太阳运行一节。
+English: Calculate the daily midnight equator: To calculate the daily midnight ecliptic degree, see the solar cycle section.
+
+古文：依法以黄道积度减之，余如黄道率而一，以加赤道积度。
+现代文：按法则与黄道积庋相减，余数除以黄道率，再加赤道积度。
+English: According to the law, it is subtracted from the ecliptic ecliptic, and the remaining number is divided by the ecliptic ratio, and then the equatorial integral is added.
+
+古文：又以天正科至赤道加之，如在春正后，再加一象限，夏至后加半周天，秋正后加三象限，为每日夜半赤道积度。
+现代文：又加上天正冬至的赤道度，如在春正之后，再加一象限，夏至后加半周天，秋正后加三象限，就是每日夜半的赤道积度。
+English: Add the equatorial degree of the winter solstice, for example, after the vernal equinox, add one quadrant, after the summer solstice add half a day, and after the autumnal equinox add three quadrants, that is, the equatorial degree of the daily midnight.
+
+古文：推夜半赤道宿度置夜半赤道度，以赤道宿度挨次减之，为本日夜半赤道宿度。
+现代文：推算夜半赤道宿度：取夜半赤道积度，用赤道宿度依次相减，就是本日夜半的赤道宿度。
+English: Calculate the midnight equatorial latitude: Take the midnight equatorial latitude and subtract it from the equatorial latitude. This is the midnight equatorial latitude today.
+
+古文：推晨距度及更差度置立成内每日晨分，以三百六十六度二十五分七十五秒乘之为实，如日周而一，为晨距度。
+现代文：推算晨距度及更差度：将数据表中每日的晨分，乘以三百六十六度二十五分七十五秒作为被除数，除以日周，就是晨距度。
+English: Calculate the morning distance and the difference: multiply the daily morning minutes in the data table by three hundred and sixty-six degrees, twenty-five minutes and seventy-five seconds as the divisor, and divide by the day and week, which is the morning distance.
+
+古文：倍晨距度，以五除之，为更差度。
+现代文：晨距度加倍，除以五，就是更差度。
+English: Doubling the distance in the morning, divided by five, is a greater difference.
+
+古文：推每日夜半中星置推到每日夜半赤道宿度，加半周天，即夜半中唾积度。
+现代文：推算每日夜半中星：将推算到的每日夜半赤道宿度，加半周天，就是夜半中星积度。
+English: Estimation of the daily midnight star: the estimated daily midnight equatorial latitude, plus half of the circumference of the sky, is the midnight star integration.
+
+古文：以赤道度挨次减之，为夜半中星宿度。
+现代文：用赤道宿度依次相减，就是夜半中星宿度。
+English: Using the declination of the equator, it is the declination of the stars in the middle of the night.
+
+古文：推昏旦中星置夜半中星积度，减晨距度，为昏中星积度。
+现代文：推算昏旦中星：将夜半中星积度，减晨距度，就是昏中星积度。
+English: Estimation of the faint star: the star integration in the middle of the night, minus the morning distance, is the faint star integration.
+
+古文：以更差度累加之，为遂更及旦中星积度。
+现代文：用更差度逐次相加，就是每更及旦的中星积度。
+English: With more differences added successively, it is the neutron star integration of each additional dan.
+
+古文：俱满赤道宿度去之，即得。
+现代文：都满了赤道宿度，减去，就得到了。
+English: They are all full of equatorial stagnation. Subtract, and you get.
+
+古文：以晨分五之一，加们为更率。
+现代文：以晨分的五分之一，加倍就是更率。
+English: At one-fifth of a morning point, doubling is a better rate.
+
+古文：更率五而一为点率。
+现代文：更率的五分之一就是点率。
+English: One-fifth of the conversion rate is the point rate.
+
+古文：凡昏分，即一更一点，累加更率为各更。
+现代文：凡是昏分，就是一更一点，逐次加上更率就是各更。
+English: Whenever there is a fainting, it is a little more, and adding the rate of increase one by one is a little more.
+
+古文：凡交更即为一点，累加点率为各点。
+现代文：凡是交更就是一黠，逐次加上点率就是各点。
+English: Every conversion is a point, and every point is a point when the point rate is added successively.
+

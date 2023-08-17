@@ -1,0 +1,132 @@
+古文：地理之书，古人有《飞鸟图》，不知何人所为。
+现代文：地理书籍中，记载古人有一种 飞鸟图 ，不知是什么人制作的。
+English: In geography books, it is recorded that the ancients had a "flying bird chart," made by who knows who.
+
+古文：所谓 飞鸟 者，谓虽有四至里数，皆是循路步之，道路迂直而不常，既列为图，则里步无缘相应，故按图别量径直四至，如空中鸟飞直达，更无山川回屈之差。
+现代文：所谓 飞鸟 ，指的是过去的地理书虽记有四至的里数，而都是沿着相互间的道路步测的，由于道路的曲直没有常规，在绘制成地图以后，里数和步测就无法一致，所以就按地图另为量度四至的直线距离，如空中鸟飞直达，这样的直线距离也就不会再有因为山川阻隔与道路曲直所造成的里数上的误差。
+English: The so-called "flying bird" refers to the fact that in the past, although geography books recorded the number of four-to-miles, they were all measured along the road between each other. Since the curvature of the road was not standard, after the map was made, the number of miles and the step measurement could not be consistent, so the map was used to measure the straight line distance of four-to-miles. If the bird flew straight up, such a straight line distance would no longer have the error in the number of miles caused by the mountain and river barrier and the curvature of the road.
+
+古文：余尝为《守令图》，虽以二寸折百里为分率，又立準望、牙融、傍验、高下、方斜、迂直七法，以取鸟飞之数。
+现代文：我曾制作《守令图》，虽以二寸折算百里为比例，而又测定方位、边界和道里，并以地形高下、方向斜正、道路曲直为验证，凡用七种方法，以推求各地间的直线距离。
+English: I once made a "Guarding Order Map." Although it is based on the ratio of two inches to one hundred miles, it also measures the orientation, boundaries and roads, and uses seven methods to calculate the straight line distance between various places, with the topography height, direction oblique, and road curvature as verification.
+
+古文：图成，得方隅远近之实，始可施此法，分四至、八到为二十四至，以十二支、甲乙丙丁庚辛壬癸八干、乾坤艮巽四卦名之。
+现代文：地图绘成后，天下郡县的方位和远近皆得其真实情况，于是施用飞鸟法，细分四至八到为二十四至，并以十二地支、甲、乙、丙、丁、庚、辛、壬、癸八个天干名和乾、坤、艮、巽四个卦名为二十四至的名称。
+English: After the map was drawn, the positions and distances of counties and counties in the world were all given their true situations. Therefore, the bird method was applied to subdivide four to eight into twenty-four, and the names of twenty-four were named after the twelve branches, A, B, C, D, G, C, R, and K, and the four trigrams, K, K, K, and K.
+
+古文：使后世图虽亡，得予此书，按二十四至以布郡县，立可成图，毫发无差矣。
+现代文：即使后世郡县地图亡佚了，只要得到我这套飞鸟图，按二十四至在上面填布郡邑，马上就可以绘制出新图，丝毫不会有差错。
+English: Even if the county map of future generations is lost, as long as you get my set of bird maps, press 24 to fill in the county above, you can immediately draw a new map, there will be no error.
+
+古文：以磁石磨针锋，则锐处常指南；亦有指北者，恐石性亦不同。
+现代文：用磁石磨针尖，则针尖的一端常常指向南方。也有指向北方的，恐怕是磁石的性质有所不同。
+English: When sharpening a needle tip with a magnet, one end of the needle tip often points to the south. It can also point to the north, probably because the nature of the magnet is different.
+
+古文：如夏至鹿角解、冬至麋角解，南北相反，理应有异，未深考耳。
+现代文：如夏至季节鹿角就脱落，麋鹿的角却在冬至季节脱落。南北方向是相反的，按说磁石磨过的针尖指南或指北应该有不同的道理，只是人们未曾深加研究而已。
+English: For example, deer antlers fall off during the summer solstice, but elk antlers fall off during the winter solstice. The north-south direction is opposite, and it is said that there should be a different reason for the needle-sharpened needle guide or pointing north, but people have not studied it deeply.
+
+古文：吴人嗜河豚鱼，有遇毒者，往往杀人，可为深戒。
+现代文：江浙一带的人嗜好吃河豚鱼，有中毒的，往往死人，应该深以为戒。
+English: People around Jiangsu and Zhejiang have a penchant for eating puffer fish. If it is poisoned, it is often fatal, and should be avoided at all costs.
+
+古文：据《本草》： 河豚味甘温，无毒，补虚，去湿气，理腰脚。 
+现代文：据《本草》记载： 河豚鱼，味甜而温和，无毒，能够补虚弱，去湿气，治脚病和腰病。 
+English: According to the "Hengcao" records: puffer fish, sweet and mild, non-toxic, can make up for weakness, remove moisture, cure foot disease and lumbar disease.
+
+古文：《本草》所载河豚，乃今之鱼，亦谓之鮠五回反。
+现代文：因《本草》有这样的说法，人们就相信了，以为河豚无毒，食之不疑，这是个大误解。
+English: Because "Heng Cao" has such a saying, people believe it, thinking that fugu is non-toxic and safe to eat, which is a big misunderstanding.
+
+古文：鱼，非人所嗜者，江浙间谓之回鱼者是也。
+现代文：《本草》所记载的河豚，指的是今天的鱼，也称鮠鱼，江、浙间称为回鱼的就是这种鱼，并不是人们所嗜好的河豚。
+English: The pufferfish recorded in "Hengcao" refers to today's fish, also known as sturgeon. It is this fish that is known as backfish in Jiangsu and Zhejiang. It is not the pufferfish that people are fond of.
+
+古文：吴人所食河豚有毒，本名侯夷鱼。
+现代文：江、浙人所吃的河豚是有毒的，本名侯夷鱼。
+English: The pufferfish eaten by people in Jiangsu and Zhejiang is poisonous. Its real name is Houyi fish.
+
+古文：《本草注》引《日华子》云： 河豚有毒，以芦根及橄榄等解之。
+现代文：《本草注》引《日华子》说： 河豚，有毒，用芦根及橄榄等可以解其毒。
+English: "Hengso Note" quoted "Nichiazi" as saying: "Pufferfish, poisonous, can be detoxified with aloe vera root and olives.
+
+古文：肝有大毒。
+现代文：其肝有大毒。
+English: Its liver is highly poisonous.
+
+古文：又为鱼、吹肚鱼。 
+现代文：又称为鱼、吹肚鱼。 
+English: Also known as fish, blowfish.
+
+古文：此乃是侯夷鱼，或曰胡夷鱼，非《本草》所载河豚也。引以为注，大误矣。
+现代文：这是说的侯夷鱼，或叫胡夷鱼，不是《本草》所记载的河豚，引《本草》为此作注释就大错特错了。
+English: This is to say that the Houyi fish, or the Hui fish, is not the puffer fish recorded in the "Hengcao," and it is a big mistake to quote the "Hengcao" for this purpose.
+
+古文：《日华子》称： 又名鱼。 此却非也，盖差互解之耳。
+现代文：《日华子》说这种鱼又称鱼，这却是不对的，大抵是一种相互混用的解释。
+English: "Nihon Chako" said that this kind of fish is also called fish, but this is not correct, it is mostly a mixed interpretation.
+
+古文：规鱼浙东人所呼，又有生海中者，腹上有刺，名海规。
+现代文：把这种鱼叫做规鱼，是浙东人的称呼；又有生于海中的一种鱼，腹上有刺，叫做海规。
+English: This kind of fish is called gauge fish, which is the name of the people in eastern Zhejiang; there is also a kind of fish born in the sea, with spines on its belly, called gauge fish.
+
+古文：吹肚鱼南人通言之，以其腹胀如吹也。
+现代文：叫它吹肚鱼，是南方人笼统的称呼，因为它腹部能膨胀，就像吹起来的一样。
+English: To call it a blowfish is a general term used by people in the south, because its belly can expand as if it were being blown up.
+
+古文：南人捕河豚法：截流为栅，待群鱼大下之时，小拔去栅，使随流而下，日莫猥至，自相排蹙，或触栅，则怒而腹鼓，浮于水上，渔人乃接取之。
+现代文：南方人捕河豚的方法，是在河流上横着设置栅栏，等到成群的鱼大批游下来时，稍微提起栅栏，使鱼群随流而下，黄昏时候鱼越来越多，自相排挤，或触栅即发怒，而腹部胀鼓鼓地浮上水面，渔人就在下面接捞上来。
+English: The method used by southerners to catch fugu is to set up a fence across the river. When a large group of fish swims down, the fence is raised slightly so that the fish follow the current. At dusk, more and more fish crowd together, or they get angry when they touch the fence, and their bellies rise to the surface, and the fishermen catch them from below.
+
+古文：扬州在唐时最为富盛，旧城南北十五里一百一十步，东西七里三十步，可纪者有二十四桥。
+现代文：扬州在唐代时最为繁荣富庶，老城南北长十五里一百一十步，东西长七里三十步，可以记录下来的桥有二十四座。
+English: Yangzhou was at its most prosperous and affluent during the Tang Dynasty. The length of the old city from north to south is 15 miles and 110 paces, and from east to west is 7 miles and 30 paces. There are 24 bridges that can be recorded.
+
+古文：最西浊河茶园桥，次东大明桥，今大明寺前。
+现代文：最西面的是浊河上的茶园桥，往东是大明桥。进入西水门有九曲桥。
+English: The westernmost is the Tea Garden Bridge on the Wei River, and to the east is the Daming Bridge. Entering the West Water Gate, there is a nine-curve bridge.
+
+古文：利园桥，出南水门有万歳桥，今存。
+现代文：再往东正对官衙的南门，有下马桥，还有东边的作坊桥。
+English: Further east is the south gate of Guanzhang, with the Lower Horse Bridge and the Workshop Bridge to the east.
+
+古文：青园桥，自驿桥北河流东出，有参佐桥，今开元寺前。次东水门，今有新桥，非古迹也。东出有山光桥。
+现代文：在桥东河流转向南面，有洗马桥，往南有南桥。再向南有阿师桥、周家桥、小市桥、广济桥、新桥、开明桥、顾家桥、通泗桥、太平桥、利园桥。出南水门有万岁桥、青园桥。在驿桥北面河流从东流出，有参佐桥。再向东是东水门，向东出去有山光桥。
+English: At the east side of the bridge, the river turns to the south, there is the Shima Bridge, and to the south there is the Nanqiao Bridge. Further south, there is the Ashi Bridge, the Zhoujia Bridge, the Small City Bridge, the Guangji Bridge, the New Bridge, the Kaiming Bridge, the Gujia Bridge, the Tonglu Bridge, the Taiping Bridge, and the Li Yuan Bridge. At the south exit of the water gate, there is the Wanlian Bridge and the Qingyuan Bridge. At the north side of the Tonglu Bridge, the river flows out from the east, there is the Sansa Bridge. Further east is the East Water
+
+古文：见在今山光寺前。又自衙门下马桥直南有北三桥，中三桥，南三桥，号 九桥 ，不通船，不在二十四桥之数，皆在今州城西门之外。
+现代文：还有，从官府门前的下马桥一直向南，有北三桥、中三桥、南三桥，号称九桥，不通船只，不包括在二十四桥的数目之内，它们都在如今的扬州城西门外边。
+English: Also, from the lower horse bridge in front of the government office to the south, there are three bridges in the north, three bridges in the middle, and three bridges in the south, known as nine bridges, which do not allow ships to pass and are not included in the number of twenty-four bridges. They are all outside the west gate of Yangzhou City.
+
+古文：黄镮，即今之朱藤也，天下皆有。
+现代文：黄镮，也就是现在人们所说的朱藤，各地都有。
+English: Yellow wisteria, also known as red wisteria, can be found all over the country.
+
+古文：叶如槐，其花穗悬，紫色，如葛花。
+现代文：它的叶子像槐树叶，花成穗状挂在枝条上，紫色，像葛藤的花。
+English: Its leaves are like eucalyptus leaves, the flowers are spikes hanging on the branches, purple, like kudzu flowers.
+
+古文：可作菜食，火不熟亦有小毒。
+现代文：可以用来做菜，如果烧得不透，也会有微毒。
+English: It can be used for cooking, and if it is not thoroughly cooked, it will also have micro-poison.
+
+古文：京师人家园圃中作大架种之，谓之紫藤花者是也。
+现代文：京城人家的庭院花园里，常常搭起高大的架子来栽种黄镮，叫做 紫藤花 的就是这种，它的果实像皂荚。
+English: In the courtyard gardens of people in Beijing, tall shelves are often set up to grow asters. This is the type of asters called wisteria flowers, and its fruits are like soap suds.
+
+古文：实如皂荚，《蜀都赋》所谓 青珠黄镮 者，黄镮即此藤之根也。
+现代文：《蜀都赋》中所说的 青珠黄镮 ，那黄镮指的就是这种藤的根。
+English: In "Shu Du Fu," the "beautiful pearl" refers to the root of this wisteria.
+
+古文：古今皆种以为亭槛之饰。
+现代文：古今都有人栽种这种植物用作亭台栏架的装饰。
+English: From ancient times to the present, people have grown this plant to decorate the railings of pavilions.
+
+古文：今人采其茎，于槐榦上接之，伪为矮槐。
+现代文：现在还有人截取它的枝干嫁接在槐树干上，假作矮槐树。
+English: There are still people who cut off its branches and graft them onto eucalyptus trunks, pretending to be dwarf eucalyptus.
+
+古文：其根入药用，能吐人。
+现代文：它的根可以入药，有让人呕吐的功用。
+English: Its root can be used medicinally and has the effect of making people vomit.
+

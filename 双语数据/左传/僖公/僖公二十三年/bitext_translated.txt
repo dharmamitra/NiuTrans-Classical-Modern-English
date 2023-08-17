@@ -1,0 +1,384 @@
+古文：二十有三年春，齐侯伐宋，围缗。
+现代文：二十三年春季，齐孝公攻打宋国，围困缗地。
+English: In the spring of 23rd, Qi Xiaogong attacked Song and besieged Handan.
+
+古文：夏五月庚寅，宋公兹父卒。
+现代文：夏季五月庚寅日，宋襄公死去世。
+English: In the summer of May, on the day of Geng Yin, Song Xianggong died.
+
+古文：秋，楚人伐陈。
+现代文：秋季，楚国攻打陈国。
+English: In autumn, Chu attacked Chen.
+
+古文：冬十有一月，杞子卒。
+现代文：冬季十一月，杞成公去世。
+English: In the winter of November, Gong Chenggong passed away.
+
+古文：二十三年春，齐侯伐宋，围缗，以讨其不与盟于齐也。
+现代文：二十三年春季，齐孝公发兵进攻宋国，包围缗地，讨伐宋国不到齐国参加会盟。
+English: In the spring of 23rd, Qi Xiaogong sent troops to attack Song, encircle Shantian, and fight Song before Qi joined the alliance.
+
+古文：夏五月，宋襄公卒，伤于泓故也。
+现代文：夏季，五月，宋襄公死，这是在泓地战役中受伤的缘故。
+English: In the summer, in May, Song Xianggong died as a result of being wounded in the Battle of Fengtian.
+
+古文：秋，楚成得臣帅师伐陈，讨其贰于宋也。
+现代文：秋季，楚国的成得臣领兵进攻陈国，讨伐陈国倾向宋国。
+English: In the autumn, Chengde's vassals from Chu attacked Chen, while Song's vassals attacked Chen.
+
+古文：遂取焦、夷，城顿而还。
+现代文：于是占领了焦、夷两地，在顿地筑城后回国。
+English: As a result, he occupied the two provinces of Jiao and Yi, and returned to China after building a city in Tong.
+
+古文：子文以为之功，使为令尹。
+现代文：子文把这些作为他的功劳，让他做令尹。
+English: Ziwen took this as his credit and let him do the rest.
+
+古文：叔伯曰： 子若国何？ 
+现代文：叔伯说： 您打算把国家怎么办？ 
+English: My uncle said: What are you going to do with the country?
+
+古文：对曰： 吾以靖国也。
+现代文：子文回答说： 我是用这个来安定国家的。
+English: Ziwen replied, "I am using this to stabilize the country."
+
+古文：夫有大功而无贵仕，其人能靖者与，有几？ 
+现代文：有了大功而不居高位，这样的人能够安定国家的有几个？ 
+English: How many people can stabilize the country with great achievements without holding high positions?
+
+古文：九月，晋惠公卒。
+现代文：九月，晋惠公死了。
+English: In September, Jin Huigong died.
+
+古文：怀公命无从亡人。
+现代文：怀公即位，命令臣民不准跟随逃亡在外的人。
+English: Prince Huai ascended the throne and ordered his subjects not to follow the fugitives.
+
+古文：期，期而不至，无赦。
+现代文：规定了期限，不回来的不赦免。
+English: A time limit has been set, and those who do not return will not be pardoned.
+
+古文：狐突之子毛及偃从重耳在秦，弗召。
+现代文：狐突的儿子毛和偃跟随重耳在秦国，不肯召他们回国。
+English: Foxtrot's sons, Mao and Zou, followed Jie Er in Qin and refused to call them back.
+
+古文：冬，怀公执狐突曰： 子来则免。 
+现代文：怀公抓住狐突，说： 儿子回来就赦免。 
+English: Huai Gong grabbed Foxtrot and said, "My son will be pardoned when he returns."
+
+古文：对曰： 子之能仕，父教之忠，古之制也。
+现代文：狐突回答说： 当儿子能够做官，父亲教他懂得忠诚的道理，这是古代的制度。
+English: Foxtrot replied: When a son is able to become an official, the father teaches him to understand the principle of loyalty. This is an ancient system.
+
+古文：策名委质，贰乃辟也。
+现代文：名字写在简策上，给主子送了进见的礼物，如果三心二意就是罪过。
+English: It is a sin to be half-hearted when one's name is written on a map and one has given a gift of insight to one's master.
+
+古文：今臣之子名在重耳，有年数矣。若又召之，教之贰也。
+现代文：现在下臣的儿子，名字在重耳那里已经有年头了，如果又召他回来，这是教他三心二意。
+English: Now the vassal's son, whose name has been in heavy ears for years, if he is called back, it is to teach him half-heartedness.
+
+古文：父教子贰，何以事君？
+现代文：父亲教儿子三心二意，用什么来事奉国君？
+English: A father teaches his half-hearted son how to serve the sovereign.
+
+古文：刑之不滥，君之明也，臣之愿也。
+现代文：刑罚的不滥用，这是君主的贤明，下臣的愿望。
+English: It is the wisdom of the sovereign, and the desire of his vassals, that punishments should not be abused.
+
+古文：淫刑以逞，谁则无罪？
+现代文：滥用刑罚以图快意，谁能没有罪？
+English: Who can be innocent of the abuse of punishment for the sake of pleasure?
+
+古文：臣闻命矣。 
+现代文：下臣知道您的意思了。 
+English: I'm just following orders.
+
+古文：乃杀之。
+现代文：晋怀公于是杀了狐突。
+English: Then he killed him.
+
+古文：卜偃称疾不出，曰： 《周书》有之： 乃大明服。 
+现代文：卜偃推说有病不出门，说： 《周书》上有这样的话： 君主伟大贤明臣民然后顺服。 
+English: Bu Xun deduced that she did not go out when she was ill, saying, "There is a saying in the Zhou Shu: The sovereign is great, the subjects are wise, and then they obey.
+
+古文：己则不明而杀人以逞，不亦难乎？
+现代文：自己如果不贤明，反而杀人以图快意，不也很难办事吗？
+English: If you are not wise, but kill people for fun, isn't it hard to do things?
+
+古文：民不见德而唯戮是闻，其何后之有？ 
+现代文：百姓看不到德行，反而只听到杀戮，哪里还能有什么后代？ 
+English: The people do not see virtue, but only hear killing, where can there be any future generations?
+
+古文：十一月，杞成公卒。
+现代文：十一月，杞成公去世。
+English: In November, Zou Chenggong passed away.
+
+古文：书曰 子 。杞，夷也。
+现代文：《春秋》记载称 子 ，因为杞是夷人。
+English: "Spring and Autumn" records that he was called Zi, because he was a barbarian.
+
+古文：不书名，未同盟也。
+现代文：不记载名字，是没有和鲁国结过盟的缘故。
+English: The names are not recorded due to the fact that there was no alliance with Russia.
+
+古文：凡诸侯同盟，死则赴以名，礼也。
+现代文：凡是同盟的诸侯，死后就在讣告上写上名字，这是合于礼的。
+English: It is proper for allied lords to have their names written in obituaries after their death.
+
+古文：赴以名则亦书之，不然则否，辟不敏也。
+现代文：讣告上写上名字，《春秋》就加以记载，否则就不记载，这是为了避免弄不清楚而误记。
+English: Write the name on the obituary, "Spring and Autumn" will be recorded, otherwise it will not be recorded, this is to avoid confusion and misremembering.
+
+古文：晋公子重耳之及于难也，晋人伐诸蒲城。
+现代文：晋公子重耳遭到祸难的时候，晋献公的军队在蒲城攻打他。
+English: When Prince Jinshong suffered a calamity, the army of Prince Jinshong attacked him in Putuo.
+
+古文：蒲城人欲战，重耳不可，曰： 保君父之命而享其生禄，于是乎得人。
+现代文：蒲城人想要迎战，重耳不肯，说： 仰仗着国君父亲的恩宠而享有奉养自己的俸禄，因此才得到百姓的拥护。
+English: The people of Pucheng wanted to go to war, but they turned a deaf ear, saying, "It is thanks to the grace of the sovereign's father that I have the salary to support myself, and that is why I have the people's support."
+
+古文：有人而校，罪莫大焉。
+现代文：有百姓的拥护而反抗，没有比这再大的罪过了。
+English: There is no greater sin than to rebel with the support of the people.
+
+古文：吾其奔也。 
+现代文：我还是逃亡吧。 
+English: I might as well run away.
+
+古文：遂奔狄。从者狐偃、赵衰、颠颉、魏武子、司空季子。
+现代文：于是就逃亡到狄人那里，跟随的有狐偃、赵衰、颠颉、魏武子、司空季子。
+English: So he fled to the Di people, followed by Foxtrot, Zhao Zhen, Bumps, Wei Wuzi, and Siku Qizi.
+
+古文：狄人伐啬咎如，获其二女：叔隗、季隗，纳诸公子。
+现代文：狄人攻打廧咎如，俘虏了他两个女儿叔隗、季隗，送给公子。
+English: Di attacked Gui Ru, and captured his two daughters, Shuxuan and Ji Ying, and gave them to Gongzi.
+
+古文：公子取季隗，生伯鯈、叔刘；以叔隗妻赵衰，生盾。
+现代文：公子娶了季隗，生了伯儵、叔刘。把叔隗嫁给赵衰，生了盾。
+English: The prince married Ji Yao and gave birth to Bo Yao and Uncle Liu. He married Uncle Yao to Zhao Zhen and gave birth to Dun.
+
+古文：将適齐，谓季隗曰： 待我二十五年，不来而后嫁。 
+现代文：公子要到齐国去，对季隗说： 等我二十五年，不回来再改嫁。 
+English: When he was about to leave for Qi Province, he said to Ji Yao, "I won't come back to remarry until I've been married for 25 years."
+
+古文：对曰： 我二十五年矣，又如是而嫁，则就木焉。
+现代文：季隗回答说： 我已经二十五岁了，又再过二十五年改嫁，我就要进棺材了。我等您。 
+English: Ji Ye replied, "I am already twenty-five years old, and after another twenty-five years of remarriage, I will be in a coffin. I am waiting for you."
+
+古文：请待子。 处狄十二年而行。
+现代文：公子在狄一共住了十二年，然后离开。
+English: He lived in Diyu for a total of twelve years, and then left.
+
+古文：过卫，卫文公不礼焉。
+现代文：经过卫国，卫文公不以礼来待他。
+English: After the defense of the country, Emperor Wei did not treat him with courtesy.
+
+古文：出于五鹿，乞食于野人，野人与之块，公子怒，欲鞭之。子犯曰： 天赐也。 
+现代文：乡下人给他一块泥土。公子发怒，要鞭打他。子犯说： 这是上天赐与的啊！ 
+English: The countryman gave him a piece of dirt. The nobleman was so angry that he wanted to whip him. The delinquent said, "This was given to me by God!"
+
+古文：稽首，受而载之。
+现代文：公子叩着头接受，把泥土装上车子。
+English: The boy tapped his head in acceptance and loaded the dirt onto the cart.
+
+古文：及齐，齐桓公妻之，有马二十乘，公子安之。
+现代文：重耳到达齐国，齐桓公也给他娶妻，有马八十匹。公子安于齐国的生活。
+English: He arrived in Qi with a heavy burden, and Prince Qi Huan also gave him a wife and eighty horses. The prince was content with his life in Qi.
+
+古文：从者以为不可。将行，谋于桑下。
+现代文：跟随的人认为这样不行，准备离去，在桑树下商量。
+English: His followers thought this was unacceptable and prepared to leave to discuss the matter under the mulberry tree.
+
+古文：蚕妾在其上，以告姜氏。
+现代文：养蚕的侍妾正好在树上听到，把这事告诉姜氏。
+English: A concubine who raised silkworms happened to hear it in the trees and told Mr. Jiang about it.
+
+古文：姜氏杀之，而谓公子曰： 子有四方之志，其闻之者，吾杀之矣。 
+现代文：姜氏杀了她，告诉公子说： 您有远大的志向，听到的人，我已经杀了。 
+English: Mr. Jiang killed her and told the prince, "You have lofty aspirations. Anyone who hears that, I have already killed."
+
+古文：公子曰： 无之。 
+现代文：公子说： 没有这回事。 
+English: He said, "There is no such thing."
+
+古文：姜曰： 行也。
+现代文：姜氏说： 走吧！
+English: Mr. Jiang said: Let's go!
+
+古文：怀与安，实败名。 
+现代文：留恋妻子和贪图安逸，实在会有损前途。 
+English: To be attached to one's wife and to be greedy for comfort will really damage one's future.
+
+古文：公子不可，姜与子犯谋，醉而遣之。
+现代文：公子不肯。姜氏和子犯商量，灌醉了公子，然后打发他走。
+English: Mr. Jiang and his son-in-law discussed the matter, got him drunk, and then let him go.
+
+古文：醒，以戈逐子犯。
+现代文：公子酒醒，拿起长戈追逐子犯。
+English: The young man sobered up, picked up his crossbow and chased his son-in-law.
+
+古文：及曹，曹共公闻其骈胁，欲观其裸。
+现代文：重耳到达曹国，曹共公听说他的肋骨排比很密，似乎并成一整块，想从他裸体中看个真相。
+English: Reaching Cao's kingdom, Cao Conggong heard that his ribs were so dense that they seemed to have fused together, and he wanted to see the truth from his naked body.
+
+古文：浴，薄而观之。
+现代文：乘重耳洗澡，他就在帘子外观看。
+English: He watched from behind a curtain as he showered.
+
+古文：僖负羁之妻曰： 吾观晋公子之从者，皆足以相国。
+现代文：僖负羁的妻子对负羁说： 我看晋公子的随从人员，都足以辅助国家。
+English: His wife said to him, "I think that all of Prince Jin's attendants are enough to help the country.
+
+古文：若以相，夫子必反其国。
+现代文：如果用他们作辅助，晋公子必定能回晋国做国君。
+English: If they are used as an auxiliary, Jin Gongzi will certainly be able to return to Jin to become the sovereign.
+
+古文：反其国，必得志于诸侯。
+现代文：回到晋国，肯定在诸侯中称霸。
+English: When he returned to Jin, he was sure to dominate among the lords.
+
+古文：得志于诸侯而诛无礼，曹其首也。
+现代文：在诸侯中称霸而惩罚对他无礼的国家，曹国就是第一个。
+English: Cao Guo was the first to punish a country that was disrespectful to him by dominating among the lords.
+
+古文：子盍蚤自贰焉。 
+现代文：您何不早一点向他表示好感呢！ 
+English: Why didn't you tell him you liked him sooner?
+
+古文：乃馈盘飱，寘璧焉。
+现代文：僖负羁于是就向晋公子馈送一盘食品，里边藏着璧玉。
+English: So, he fed a plate of food to Jin Gongzi, with the gems hidden inside.
+
+古文：公子受飱反璧。
+现代文：公子接受食品，退回璧玉。
+English: The prince accepted the food and returned the gems.
+
+古文：及宋，宋襄公赠之以马二十乘。
+现代文：重耳到达宋国，宋襄公把马八十匹送给他。
+English: Chong Er arrived in Song, and Song Xiang Gong gave him eighty horses.
+
+古文：及郑，郑文公亦不礼焉。
+现代文：重耳到达郑国，郑文公也不加礼遇。
+English: The heavy ears arrived in Zheng Guo, and Zheng Wen Gong did not add any courtesy.
+
+古文：叔詹谏曰： 臣闻天之所启，人弗及也。
+现代文：叔詹劝谏说： 臣听说上天所赞助的人，别人就赶不上了。
+English: Uncle Zhan advised Zou saying, "The minister heard that those who are sponsored by Heaven cannot be overtaken by others.
+
+古文：晋公子有三焉，天其或者将建诸，君其礼焉。
+现代文：晋公子具有三条，上天或者将要立他为国君吧，您最好还是以礼相待。
+English: Prince Jin has three qualities. Heaven may be about to make him the ruler of the country, so you'd better treat him with courtesy.
+
+古文：男女同姓，其生不蕃。
+现代文：父母同姓，子孙不能昌盛。
+English: If parents have the same surname, their children cannot prosper.
+
+古文：晋公子，姬出也，而至于今，一也。
+现代文：晋公子是姬姓女子生的，所以能活到今天，这是一。
+English: The fact that Prince Jin was born to a woman with the surname Hime, and that he is able to live to this day, is one thing.
+
+古文：离外之患，而天不靖晋国，殆将启之，二也。
+现代文：经受逃亡在外的忧患，而上天使晋国不安定，大概是将要赞助他了，这是二。
+English: Suffering from the sorrow of fleeing abroad, while the upper angel Jin Guo is unstable, is probably going to sponsor him, this is two.
+
+古文：有三士足以上人，而从之，三也。
+现代文：有三个人足以居于别人之上，却一直跟随着他，这是三。
+English: There are three people who are good enough to be above everyone else, but they keep following him. That's three.
+
+古文：晋、郑同侪，其过子弟，固将礼焉，况天之所启乎？ 
+现代文：晋国和郑国地位平等，他们的子弟路过还应当以礼相待，何况是上天所赞助的呢？ 
+English: Jin and Zheng are equal in status, and their children should treat each other with courtesy when they pass by. How much more so when they are sponsored by Heaven?
+
+古文：弗听。
+现代文：郑文公没有听叔詹的劝谏。
+English: He did not listen to the words of the crown prince.
+
+古文：及楚，楚子飨之，曰： 公子若反晋国，则何以报不穀？ 
+现代文：重耳到达楚国，楚成王设宴会招待他，说： 公子如果回到晋国，用什么报答我？ 
+English: When he arrived in the State of Chu, King Chu Cheng held a banquet to invite him, saying, "If my lord returns to the State of Jin, what will he reward me with?
+
+古文：对曰： 子女玉帛则君有之，羽毛齿革则君地生焉。
+现代文：公子回答说： 子、女、玉、帛都是君王所拥有的，鸟羽、皮毛、象牙、犀革都是君王土地上所生长的。
+English: The prince answered, "The king owns the son, the daughter, the jewels, and the scepter. The feathers, the fur, the ivory, and the rhinoceros hide are all grown on the king's land.
+
+古文：其波及晋国者，君之馀也，其何以报君？ 
+现代文：那些波及晋国的，已经是君王剩馀的了，我能用什么来报答君王呢？ 
+English: Those who have affected Jin are already the remnants of the king. What can I use to repay the king?
+
+古文：曰： 虽然，何以报我？ 
+现代文：楚成王说： 尽管这样，究竟用什么报答我？ 
+English: Chu Cheng Wang said: In spite of this, what exactly will you reward me with?
+
+古文：对曰： 若以君之灵，得反晋国，晋、楚治兵，遇于中原，其辟君三舍。
+现代文：公子回答说： 如果托君王的福，能够回到晋国，一旦晋、楚两国演习军事，在中原相遇，那就后退九十里。
+English: The prince replied: "If I can return to Jin with the king's blessing, I will retreat ninety miles as soon as Jin and Chu conduct military exercises and meet in the Central Plains.
+
+古文：若不获命，其左执鞭弭，右属櫜鞬，以与君周旋。 
+现代文：如果还得不到君王的宽大，那就左手执鞭执弓，右边挂着弓袋箭袋，跟君王较量一下。 
+English: If you still don't understand me, then I'll have to carry a whip and a bow in my left hand, and a bow and arrow case in my right, and accompany your king in battle.
+
+古文：子玉请杀之。
+现代文：子玉请求楚王杀掉他。
+English: Cody asked King Chu to kill him.
+
+古文：楚子曰： 晋公子广而俭，文而有礼。
+现代文：楚成王说： 晋公子志向远大而生活俭约，文辞华美而合乎礼仪。
+English: Chu Cheng Wang said: Jin Gongzi is ambitious and lives frugally, and his words are beautiful and in line with etiquette.
+
+古文：其从者肃而宽，忠而能力。
+现代文：他的随从严肃而宽大，忠诚又有能力。
+English: His retinue is serious and generous, loyal and capable.
+
+古文：晋侯无亲，外内恶之。
+现代文：晋侯没有亲近的人，国内国外都讨厌他。
+English: Jin Hou had no close friends, and he was hated both at home and abroad.
+
+古文：吾闻姬姓，唐叔之后，其后衰者也，其将由晋公子乎。
+现代文：我听说姬姓是唐叔后代，将会最后衰亡，这恐怕是从晋公子为君以后的缘故吧！
+English: I heard that Hsieh surname is a descendant of Uncle Tang, and will eventually decline and die. I'm afraid this is because of the influence of Prince Jin.
+
+古文：天将兴之，谁能废之！
+现代文：上天将要使他兴起，谁能够废掉他？
+English: Heaven will raise him up, who can abolish him?
+
+古文：违天必有大咎。 
+现代文：违背上天，必然有大灾。 
+English: If you disobey God, there will be a catastrophe.
+
+古文：乃送诸秦。
+现代文：于是就把他送回秦国。
+English: So they sent him back to Qin.
+
+古文：秦伯纳女五人，怀嬴与焉，奉匜沃盥，既而挥之。
+现代文：秦穆公送给重耳五个女子，怀嬴也在内。怀嬴捧着盛水的器皿伺候重耳洗脸，重耳挥手示意，让她离开。
+English: Qin Mukong gave the five women with heavy ears, including Huai Yao. Huai Yao, holding a water container, waited for heavy ears to wash her face, and waved to heavy ears to let her leave.
+
+古文：怒曰： 秦、晋匹也，何以卑我！ 
+现代文：怀嬴很生气，说： 秦、晋两国地位平等，为什么轻视我？ 
+English: Huai Rong was very angry and said, "Qin and Jin are equal in status, why do you despise me?
+
+古文：公子惧，降服而囚。
+现代文：公子害怕，脱去上衣自囚表示谢罪。
+English: The young man was afraid and took off his shirt to show his remorse.
+
+古文：他日，公享之。子犯曰： 吾不如衰之文也。请使衰从。 
+现代文：有一天，秦穆公设宴席招待重耳，子犯说： 我不如赵衰那样有文采，请您让赵衰跟随赴宴。 
+English: One day, Qin Mu publicly held a banquet to invite heavy ears, and the child criminal said: I am not as literary as Zhao Zhen, please let Zhao Zhen go to the banquet.
+
+古文：公子赋《河水》，公赋《六月》。
+现代文：公子在宴会上赋《河水》这首诗，秦穆公赋《六月》这首诗。
+English: At the banquet, Kimiko recited the poem "River Water" and Qin Mu Gong recited the poem "June."
+
+古文：赵衰曰： 重耳拜赐。 
+现代文：赵衰说： 重耳拜谢恩赐！ 
+English: Zhao Zhen said, "Pay close attention to the blessing!
+
+古文：公子降拜稽首，公降一级而辞焉。
+现代文：公子退到阶下，拜，叩头，秦穆公走下一级台阶辞谢。
+English: The boy retreated to the bottom of the steps, bowed and prostrated, and Qin Mu walked down the steps to bow.
+
+古文：衰曰： 君称所以佐天子者命重耳，重耳敢不拜。 
+现代文：赵衰说： 君王把所以辅助天子的事命令重耳，重耳岂敢不拜？ 
+English: Zhao Zhen said: The king ordered the matter of assisting the heavenly son to be listened to with a heavy ear. Would a heavy ear dare not bow?
+

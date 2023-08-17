@@ -1,0 +1,100 @@
+古文：元年春，王正月。
+现代文：元年春季，周历正月。
+English: In the spring of the first year, the first month of the lunar calendar, nothing happened.
+
+古文：齐师、宋师、曹师次于聂北，救邢。
+现代文：齐国、宋国、曹国的军队驻扎在聂北，援救邢国。
+English: The armies of the states of Qi, Song and Cao were stationed in the north of Min to help Min.
+
+古文：夏六月，邢迁于夷仪。
+现代文：夏季六月，邢国将都城迁至夷仪。
+English: In the summer of June, the capital of Min Province was moved to Yiyi.
+
+古文：齐师、宋师、曹师城邢。
+现代文：齐国、宋国、曹国的军队替它筑城。
+English: The armies of Qi, Song, and Cao built cities for it.
+
+古文：秋七月戊辰，夫人姜氏薨于夷，齐人以归。
+现代文：秋季七月戊辰日，鲁庄公夫人在夷地去世，齐国人将她的尸体带回去了。
+English: In the autumn of July, on the day of Pentecost, the wife of Lu Zhuang died in Yidi, and the people of Qi took her body back to Lu.
+
+古文：楚人伐郑。
+现代文：楚国攻打郑国。
+English: Chu attacked Zheng.
+
+古文：八月，公会齐侯、宋公、郑伯、曹伯、邾人于柽。
+现代文：八月，僖公在柽地与齐侯、宋公、郑伯、曹伯、邾国人会见。
+English: In August, Zang Gong met with Qi Hou, Song Gong, Zheng Bo, Cao Bo, and the people of Zang in Handan.
+
+古文：九月，公败邾师于偃。
+现代文：九月，僖公在偃地将邾过军队打败。
+English: In September, Zou Gong defeated Zou's army in Handan.
+
+古文：冬十月壬午，公子友帅师败莒师于郦，获莒挐。
+现代文：冬季十月壬午日，公子友率领军队在郦地打败莒国军队。俘获莒挐。
+English: In the winter of October, on the afternoon of the 13th, Gongziyu led the army to defeat the Chinese army in Handi. He captured Handi.
+
+古文：十有二月丁巳，夫人氏之丧至自齐。
+现代文：十二月丁巳日，鲁庄公夫人的遗体从齐国运回。
+English: On December 23rd, the body of Lu Zhuang's wife was repatriated from Qi.
+
+古文：元年春，不称即位，公出故也。
+现代文：元年春季，《春秋》没有记载即位，这是由于僖公出奔在外的缘故。
+English: In the spring of the first year of the year, there was no record of enthronement in "Spring and Autumn," which was due to the fact that Emperor Gong fled abroad.
+
+古文：公出复入，不书，讳之也。
+现代文：僖公出奔而又回到国内，《春秋》不加记载，这是由于避讳。
+English: Shao Gong ran away and returned to the country, and the beginning of "Spring and Autumn" is not recorded, this is due to shunning.
+
+古文：讳国恶，礼也。
+现代文：不记国家的坏事，这是合于礼的。
+English: It is proper not to remember the evils of the state.
+
+古文：诸侯救邢。邢人溃，出奔师。
+现代文：齐桓公、宋桓公、曹昭公率领军队驻扎在聂北，诸侯联军救援邢国。邢军已经溃散，逃到诸侯的军队里。
+English: Prince Qi Huan, Prince Song Huan, and Prince Cao Zhaogu led the army stationed in the north of An, and the joint forces of the princes rescued An. The An army had broken up and fled to the armies of the princes.
+
+古文：师遂逐狄人，具邢器用而迁之，师无私焉。
+现代文：军队便赶走了狄人，装载了邢国的器物财货而让邢军搬走，各国军队没有私自占有。
+English: The army then chased away the Di people, loaded the equipment and goods of the Yi country and let the Yi army move away. The armies of various countries did not occupy themselves.
+
+古文：夏，邢迁于夷仪，诸侯城之，救患也。
+现代文：夏季，邢国把都城迁到夷仪，诸侯替它筑城，为的是救援患难。
+English: In the summer, the state of Min moved its capital to Yiyi, and the princes built a city for it, in order to rescue it from difficulties.
+
+古文：凡侯伯救患分灾讨罪，礼也。
+现代文：凡是诸侯领袖，救援患难、分担灾害、讨伐罪人，都是合于礼的。
+English: It is proper for princes to rescue the distressed, share the calamities, and fight the criminals.
+
+古文：秋，楚人伐郑，郑即齐故也。
+现代文：秋季，楚国人进攻郑国，这是由于郑国亲近齐国的缘故。
+English: In autumn, the people of Chu attacked Zheng, because Zheng was close to Qi.
+
+古文：盟于荦，谋救郑也。
+现代文：鲁僖公和齐桓公、宋桓公、郑文公、邾子在荦地结盟，策划救援郑国。
+English: Lu Yu, Qi Huan, Song Huan, Zheng Wen and Zangzi formed an alliance in Handan to plan the rescue of Zheng.
+
+古文：九月，公败邾师于偃，虚丘之戍将归者也。
+现代文：九月，僖公在偃地打败了邾国的军队，这支队伍是戍守在虚丘将要回国的军队。
+English: In September, Zeng Gong defeated the army of Zeng Guo in Handan. This army was the army that had been garrisoned in the hill and was about to return home.
+
+古文：冬，莒人来求赂。公子友败诸郦，获莒子之弟挐。
+现代文：冬季，莒国人来求取财货，公子友在郦地打败了他们，俘虏了莒子的弟弟挐。
+English: In the winter, the people of Shanzi came to ask for money and goods. Gongziyu defeated them in Shanzi and captured Shanzi's younger brother, Rui.
+
+古文：非卿也，嘉获之也。
+现代文：挐并不是卿，《春秋》这样记载，是为了称赞公子友俘获的功劳。
+English: Xing is not a noble. "Spring and Autumn" records this in order to praise the achievements of the noble sons and friends.
+
+古文：公赐季友汶阳之田，及费。
+现代文：僖公把汶阳的田地和费地赐给季友。
+English: Zeng Gong gave the fields and farmland of Wenyang to Ji You.
+
+古文：夫人氏之丧至自齐。
+现代文：鲁庄公夫人姜氏的尸体从齐国运来。
+English: The body of Lady Jiang of Luzhuang was transported from Qi Province.
+
+古文：君子以齐人之杀哀姜也为已甚矣，女子，从人者也。
+现代文：君子认为齐国人杀死哀姜是太过分了，妇女，本来应该听从丈夫的。
+English: The gentleman thought that it was too much for the people of Qi to kill Ai Jiang, and that women should have listened to their husbands.
+
