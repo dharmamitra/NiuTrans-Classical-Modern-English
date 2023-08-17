@@ -1,8 +1,0 @@
-古文：孟子曰： 求则得之，舍则失之，是求有益于得也，求在我者也。
-现代文：孟子说： 追求就能得到，放弃便会失去，这种追求有益于得到，因为所求的东西就在我自身。
-English: Mencius said: To pursue is to gain, to give up is to lose, and this pursuit is beneficial to gain, because what I am seeking is within myself.
-
-古文：求之有道，得之有命，是求无益于得也，求在外者也。 
-现代文：求索有一定的方法，能否得到却由命运安排，这种求索无益于得到，因为所求的东西是身外之物。 
-English: There is a certain way to seek, but whether it can be obtained is arranged by fate. This kind of seeking is not beneficial to obtain, because what is sought is something outside the body.
-
